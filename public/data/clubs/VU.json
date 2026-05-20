@@ -1,0 +1,322 @@
+[
+  {
+    "id": "vu-amicale-fc",
+    "name": "Amicale FC",
+    "countryCode": "VU",
+    "country": "Vanuatu",
+    "city": "Port Vila",
+    "lat": -17.8053,
+    "lng": 168.3153,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-VU-t1",
+    "leagueName": "Port Vila Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "vu-erakor-golden-star",
+    "name": "Erakor Golden Star",
+    "countryCode": "VU",
+    "country": "Vanuatu",
+    "city": "Port Vila",
+    "lat": -17.7293,
+    "lng": 168.3913,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-VU-t1",
+    "leagueName": "Port Vila Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "vu-galaxy-fc",
+    "name": "Galaxy FC",
+    "countryCode": "VU",
+    "country": "Vanuatu",
+    "city": "Port Vila",
+    "lat": -17.7533,
+    "lng": 168.3673,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-VU-t1",
+    "leagueName": "Port Vila Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "vu-ifira-black-bird",
+    "name": "Ifira Black Bird",
+    "countryCode": "VU",
+    "country": "Vanuatu",
+    "city": "Port Vila",
+    "lat": -17.6853,
+    "lng": 168.2713,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-VU-t1",
+    "leagueName": "Port Vila Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "vu-malampa-revivors",
+    "name": "Malampa Revivors",
+    "countryCode": "VU",
+    "country": "Vanuatu",
+    "city": "Lakatoro",
+    "lat": -16.059900000000003,
+    "lng": 167.35240000000002,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-VU-t1",
+    "leagueName": "Port Vila Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "vu-mauwia-fc",
+    "name": "Mauwia FC",
+    "countryCode": "VU",
+    "country": "Vanuatu",
+    "city": "Port Vila",
+    "lat": -17.8093,
+    "lng": 168.31130000000002,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-VU-t1",
+    "leagueName": "Port Vila Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "vu-shepherds-united",
+    "name": "Shepherds United",
+    "countryCode": "VU",
+    "country": "Vanuatu",
+    "city": "Port Vila",
+    "lat": -17.7573,
+    "lng": 168.3633,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-VU-t1",
+    "leagueName": "Port Vila Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "vu-sia-raga-fc",
+    "name": "Sia-Raga FC",
+    "countryCode": "VU",
+    "country": "Vanuatu",
+    "city": "Luganville",
+    "lat": -15.4679,
+    "lng": 167.1104,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-VU-t1",
+    "leagueName": "Port Vila Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "vu-tafea-fc",
+    "name": "Tafea FC",
+    "countryCode": "VU",
+    "country": "Vanuatu",
+    "city": "Port Vila",
+    "lat": -17.7853,
+    "lng": 168.33530000000002,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-VU-t1",
+    "leagueName": "Port Vila Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "vu-tafea-provincial-fc",
+    "name": "Tafea Provincial FC",
+    "countryCode": "VU",
+    "country": "Vanuatu",
+    "city": "Isangel",
+    "lat": -19.5217,
+    "lng": 169.3617,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-VU-t1",
+    "leagueName": "Port Vila Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

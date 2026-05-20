@@ -1,0 +1,32 @@
+{
+  "Noumea": {
+    "lat": -22.2758,
+    "lng": 166.458,
+    "countryCode": "NC"
+  },
+  "Kone": {
+    "lat": -21.0595,
+    "lng": 164.8658,
+    "countryCode": "NC"
+  },
+  "Lifou": {
+    "lat": -20.9,
+    "lng": 167.25,
+    "countryCode": "NC"
+  },
+  "Mare": {
+    "lat": -21.5167,
+    "lng": 168.05,
+    "countryCode": "NC"
+  },
+  "Dumbea": {
+    "lat": -22.15,
+    "lng": 166.45,
+    "countryCode": "NC"
+  },
+  "Mont-Dore": {
+    "lat": -22.2667,
+    "lng": 166.5833,
+    "countryCode": "NC"
+  }
+}

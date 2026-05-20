@@ -29,6 +29,7 @@ function clubScore(c: Club): number {
   else if (c.source === 'eastern-europe-curated') score += 45
   else if (c.source === 'iceland-curated') score += 45
   else if (c.source === 'north-atlantic-curated') score += 45
+  else if (c.source === 'oceania-curated') score += 45
   if (isValidCoord(c)) score += 30
   if (c.logoUrl) score += 5
   score += c.divisionTier
@@ -96,6 +97,7 @@ const LEAGUE_COUNTRY_PATTERNS: Record<string, RegExp> = {
   GR: /greece|greek|super league/i,
   CN: /china|chinese|super league/i,
   AU: /australia|a-league/i,
+  NZ: /new zealand|national league|championship|regional|federation|community/i,
   EG: /egyptian|egypt\s|second division|third division|fourth division|fifth division|regional league/i,
   ZA: /south africa|premier soccer|national first|safa|dstv|motsepe/i,
   NG: /nigeria|npfl|professional football|national league/i,
@@ -160,7 +162,8 @@ function leagueMatchesCountry(club: Club, countryCode: string): boolean {
     club.source === 'americas-curated' ||
     club.source === 'eastern-europe-curated' ||
     club.source === 'iceland-curated' ||
-    club.source === 'north-atlantic-curated'
+    club.source === 'north-atlantic-curated' ||
+    club.source === 'oceania-curated'
   ) {
     return true
   }

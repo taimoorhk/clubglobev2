@@ -89,6 +89,6 @@ export interface FilterState {
 }
 
 /** Max pins when browsing all countries at once; no cap when a country is selected */
-export const MAX_VISIBLE_PINS_ALL_COUNTRIES = 2500
+export const MAX_VISIBLE_PINS_ALL_COUNTRIES = 5000
 
 export const ALL_TIERS = [1, 2, 3, 4, 5, 6, 7] as const

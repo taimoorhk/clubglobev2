@@ -28,6 +28,7 @@ import {
 } from './lib/rapidapi-football-client.js'
 import { AFRICA_CCODE_MAP } from './lib/africa-ccodes.js'
 import { ASIA_CCODE_MAP } from './lib/asia-ccodes.js'
+import { OCEANIA_CCODE_MAP } from './lib/oceania-ccodes.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.resolve(__dirname, '..')
@@ -217,7 +218,8 @@ async function loadExistingByCountry(): Promise<Map<string, Club[]>> {
           c.source === 'americas-curated' ||
           c.source === 'eastern-europe-curated' ||
           c.source === 'iceland-curated' ||
-          c.source === 'north-atlantic-curated',
+          c.source === 'north-atlantic-curated' ||
+          c.source === 'oceania-curated',
       ),
     )
   }
@@ -293,6 +295,7 @@ async function discoverLeagues(
     ARG: { country: 'Argentina', countryCode: 'AR' },
     ...AFRICA_CCODE_MAP,
     ...ASIA_CCODE_MAP,
+    ...OCEANIA_CCODE_MAP,
   }
 
   for (let id = from; id <= to; id++) {

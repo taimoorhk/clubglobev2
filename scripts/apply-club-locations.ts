@@ -23,11 +23,23 @@ interface Club {
 }
 
 async function main() {
+  const args = process.argv.slice(2)
+  const onlyCountries = args.includes('--country')
+    ? new Set(
+        args[args.indexOf('--country') + 1]
+          .split(',')
+          .map((code) => code.trim().toUpperCase())
+          .filter(Boolean),
+      )
+    : null
   const cities = await loadAllCities()
   const files = (await fs.readdir(CLUBS_DIR)).filter((f) => f.endsWith('.json'))
   let totalUpdated = 0
 
   for (const file of files) {
+    const countryCode = file.replace('.json', '')
+    if (onlyCountries && !onlyCountries.has(countryCode.toUpperCase())) continue
+
     const filePath = path.join(CLUBS_DIR, file)
     const clubs = JSON.parse(await fs.readFile(filePath, 'utf-8')) as Club[]
     if (!clubs.length) continue

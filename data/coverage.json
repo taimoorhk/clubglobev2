@@ -152,16 +152,15 @@
       "countryCode": "AU",
       "country": "Australia",
       "tiersAvailable": [
-        1
-      ],
-      "tiersPlanned": [
+        1,
         2,
         3,
         4,
         5,
         6,
         7
-      ]
+      ],
+      "tiersPlanned": []
     },
     {
       "countryCode": "BE",
@@ -2254,6 +2253,170 @@
         7
       ],
       "tiersPlanned": []
+    },
+    {
+      "countryCode": "NZ",
+      "country": "New Zealand",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "AS",
+      "country": "American Samoa",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "CK",
+      "country": "Cook Islands",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "FJ",
+      "country": "Fiji",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "NC",
+      "country": "New Caledonia",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "PF",
+      "country": "Tahiti",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "PG",
+      "country": "Papua New Guinea",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "SB",
+      "country": "Solomon Islands",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "TO",
+      "country": "Tonga",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "VU",
+      "country": "Vanuatu",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "WS",
+      "country": "Samoa",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
     }
   ]
 }

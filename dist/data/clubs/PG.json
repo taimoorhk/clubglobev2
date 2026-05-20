@@ -1,0 +1,322 @@
+[
+  {
+    "id": "pg-bougainville-fc",
+    "name": "Bougainville FC",
+    "countryCode": "PG",
+    "country": "Papua New Guinea",
+    "city": "Arawa",
+    "lat": -6.249,
+    "lng": 155.605,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PG-t1",
+    "leagueName": "National Soccer League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pg-hekari-united",
+    "name": "Hekari United",
+    "countryCode": "PG",
+    "country": "Papua New Guinea",
+    "city": "Port Moresby",
+    "lat": -9.499799999999999,
+    "lng": 147.18429999999998,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PG-t1",
+    "leagueName": "National Soccer League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pg-kimbe-eagles",
+    "name": "Kimbe Eagles",
+    "countryCode": "PG",
+    "country": "Papua New Guinea",
+    "city": "Kimbe",
+    "lat": -5.569999999999999,
+    "lng": 150.183,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PG-t1",
+    "leagueName": "National Soccer League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pg-lae-city-fc",
+    "name": "Lae City FC",
+    "countryCode": "PG",
+    "country": "Papua New Guinea",
+    "city": "Lae",
+    "lat": -6.808,
+    "lng": 146.984,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PG-t1",
+    "leagueName": "National Soccer League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pg-madang-fc",
+    "name": "Madang FC",
+    "countryCode": "PG",
+    "country": "Papua New Guinea",
+    "city": "Madang",
+    "lat": -5.2967,
+    "lng": 145.7733,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PG-t1",
+    "leagueName": "National Soccer League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pg-morobe-wawens",
+    "name": "Morobe Wawens",
+    "countryCode": "PG",
+    "country": "Papua New Guinea",
+    "city": "Lae",
+    "lat": -6.76,
+    "lng": 147.032,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PG-t1",
+    "leagueName": "National Soccer League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pg-prk-gulf-komara",
+    "name": "PRK Gulf Komara",
+    "countryCode": "PG",
+    "country": "Papua New Guinea",
+    "city": "Port Moresby",
+    "lat": -9.3758,
+    "lng": 147.1443,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PG-t1",
+    "leagueName": "National Soccer League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pg-sepik-fc",
+    "name": "Sepik FC",
+    "countryCode": "PG",
+    "country": "Papua New Guinea",
+    "city": "Wewak",
+    "lat": -3.6094,
+    "lng": 143.6308,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PG-t1",
+    "leagueName": "National Soccer League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pg-tusbab-stallions",
+    "name": "Tusbab Stallions",
+    "countryCode": "PG",
+    "country": "Papua New Guinea",
+    "city": "Madang",
+    "lat": -5.2647,
+    "lng": 145.80530000000002,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PG-t1",
+    "leagueName": "National Soccer League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pg-united-highlands-fc",
+    "name": "United Highlands FC",
+    "countryCode": "PG",
+    "country": "Papua New Guinea",
+    "city": "Mount Hagen",
+    "lat": -5.9301,
+    "lng": 144.2154,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PG-t1",
+    "leagueName": "National Soccer League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

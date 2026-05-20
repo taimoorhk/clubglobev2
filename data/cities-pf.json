@@ -1,0 +1,37 @@
+{
+  "Papeete": {
+    "lat": -17.5516,
+    "lng": -149.5585,
+    "countryCode": "PF"
+  },
+  "Pirae": {
+    "lat": -17.5333,
+    "lng": -149.5333,
+    "countryCode": "PF"
+  },
+  "Faaa": {
+    "lat": -17.55,
+    "lng": -149.6,
+    "countryCode": "PF"
+  },
+  "Mahina": {
+    "lat": -17.5065,
+    "lng": -149.4886,
+    "countryCode": "PF"
+  },
+  "Punaauia": {
+    "lat": -17.6333,
+    "lng": -149.6,
+    "countryCode": "PF"
+  },
+  "Moorea": {
+    "lat": -17.5333,
+    "lng": -149.8333,
+    "countryCode": "PF"
+  },
+  "Taravao": {
+    "lat": -17.7333,
+    "lng": -149.3167,
+    "countryCode": "PF"
+  }
+}

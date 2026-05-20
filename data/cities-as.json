@@ -1,0 +1,22 @@
+{
+  "Pago Pago": {
+    "lat": -14.2756,
+    "lng": -170.702,
+    "countryCode": "AS"
+  },
+  "Tafuna": {
+    "lat": -14.3358,
+    "lng": -170.72,
+    "countryCode": "AS"
+  },
+  "Utulei": {
+    "lat": -14.286,
+    "lng": -170.682,
+    "countryCode": "AS"
+  },
+  "Leone": {
+    "lat": -14.3439,
+    "lng": -170.785,
+    "countryCode": "AS"
+  }
+}

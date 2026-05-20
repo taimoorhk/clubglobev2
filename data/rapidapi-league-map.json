@@ -51,6 +51,7 @@
     { "id": 112, "name": "Liga Profesional", "country": "Argentina", "countryCode": "AR", "ccode": "ARG", "tier": 1, "source": "matches" },
 
     { "id": 113, "name": "A-League", "country": "Australia", "countryCode": "AU", "ccode": "AUS", "tier": 1 },
+    { "id": 8870, "name": "Championship", "country": "New Zealand", "countryCode": "NZ", "ccode": "NZL", "tier": 1 },
 
     { "id": 63, "name": "Premier League", "country": "Russia", "countryCode": "RU", "ccode": "RUS", "tier": 1 },
 

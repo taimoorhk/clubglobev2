@@ -19,7 +19,6 @@ function App() {
     refreshingRecentFormLeagueIds,
     recentFormRefreshErrors,
     isLoading,
-    error,
   } = useClubData()
 
   const {
@@ -164,12 +163,6 @@ function App() {
         autoRotate={autoRotate}
         onAutoRotateChange={handleAutoRotateChange}
       />
-
-      {error && (
-        <div className="bg-amber-900/50 px-4 py-2 text-sm text-amber-200">
-          {error}
-        </div>
-      )}
 
       <div className="relative z-0 flex min-h-0 flex-1 overflow-hidden">
         <ClubSidebar

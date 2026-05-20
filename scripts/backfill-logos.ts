@@ -20,6 +20,7 @@ import {
 import { fetchWikipediaLogo } from './lib/wikipedia-logo.js'
 import { buildManifest } from './build-manifest.js'
 import { AMERICAS_CODES } from './data/americas-clubs.js'
+import { OCEANIA_CODES } from './data/oceania-clubs.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.resolve(__dirname, '..')
@@ -48,11 +49,13 @@ async function main() {
   const africaOnly = process.argv.includes('--africa')
   const asiaOnly = process.argv.includes('--asia')
   const americasOnly = process.argv.includes('--americas')
+  const oceaniaOnly = process.argv.includes('--oceania')
   const wikiOnly = process.argv.includes('--wikipedia-only')
   const useWikipedia =
     wikiOnly ||
     process.argv.includes('--wikipedia') ||
-    ((africaOnly || asiaOnly || americasOnly) && !process.argv.includes('--no-wikipedia'))
+    ((africaOnly || asiaOnly || americasOnly || oceaniaOnly) &&
+      !process.argv.includes('--no-wikipedia'))
 
   if (!wikiOnly && !apiKey) {
     console.error('Missing RAPIDAPI_KEY in .env')
@@ -81,6 +84,7 @@ async function main() {
     if (asiaOnly && !ASIA_CODES.has(league.countryCode)) continue
     if (onlyCountry && league.countryCode !== onlyCountry) continue
     if (americasOnly && !AMERICAS_CODES.has(league.countryCode)) continue
+    if (oceaniaOnly && !OCEANIA_CODES.has(league.countryCode)) continue
     const n = await ingestLeagueTeams(apiKey, index, league)
     if (n > 0) console.log(`  League ${league.id} (${league.countryCode}): ${n} teams`)
   }
@@ -130,6 +134,7 @@ async function main() {
     if (africaOnly && !AFRICA_CODES.has(code)) continue
     if (asiaOnly && !ASIA_CODES.has(code)) continue
     if (americasOnly && !AMERICAS_CODES.has(code)) continue
+    if (oceaniaOnly && !OCEANIA_CODES.has(code)) continue
 
     const clubs = JSON.parse(
       await fs.readFile(path.join(CLUBS_DIR, file), 'utf-8'),

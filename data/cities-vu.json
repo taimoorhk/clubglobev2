@@ -1,0 +1,22 @@
+{
+  "Port Vila": {
+    "lat": -17.7333,
+    "lng": 168.3273,
+    "countryCode": "VU"
+  },
+  "Luganville": {
+    "lat": -15.5199,
+    "lng": 167.1624,
+    "countryCode": "VU"
+  },
+  "Isangel": {
+    "lat": -19.5417,
+    "lng": 169.2817,
+    "countryCode": "VU"
+  },
+  "Lakatoro": {
+    "lat": -16.0999,
+    "lng": 167.4164,
+    "countryCode": "VU"
+  }
+}

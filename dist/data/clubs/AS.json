@@ -1,0 +1,194 @@
+[
+  {
+    "id": "as-ilaoa-and-toomata",
+    "name": "Ilaoa and Toomata",
+    "countryCode": "AS",
+    "country": "American Samoa",
+    "city": "Pago Pago",
+    "lat": -14.1996,
+    "lng": -170.73,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-AS-t1",
+    "leagueName": "FFAS Senior League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "as-lion-heart-fc",
+    "name": "Lion Heart FC",
+    "countryCode": "AS",
+    "country": "American Samoa",
+    "city": "Leone",
+    "lat": -14.3039,
+    "lng": -170.849,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-AS-t1",
+    "leagueName": "FFAS Senior League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "as-pago-youth",
+    "name": "Pago Youth",
+    "countryCode": "AS",
+    "country": "American Samoa",
+    "city": "Pago Pago",
+    "lat": -14.2116,
+    "lng": -170.742,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-AS-t1",
+    "leagueName": "FFAS Senior League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "as-pansa-fc",
+    "name": "PanSa FC",
+    "countryCode": "AS",
+    "country": "American Samoa",
+    "city": "Pago Pago",
+    "lat": -14.219600000000002,
+    "lng": -170.75,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-AS-t1",
+    "leagueName": "FFAS Senior League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "as-tafuna-jets",
+    "name": "Tafuna Jets",
+    "countryCode": "AS",
+    "country": "American Samoa",
+    "city": "Tafuna",
+    "lat": -14.3598,
+    "lng": -170.684,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-AS-t1",
+    "leagueName": "FFAS Senior League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "as-utulei-youth",
+    "name": "Utulei Youth",
+    "countryCode": "AS",
+    "country": "American Samoa",
+    "city": "Utulei",
+    "lat": -14.334,
+    "lng": -170.67,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-AS-t1",
+    "leagueName": "FFAS Senior League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

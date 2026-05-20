@@ -1,0 +1,194 @@
+[
+  {
+    "id": "to-haamoko-united",
+    "name": "Haamoko United",
+    "countryCode": "TO",
+    "country": "Tonga",
+    "city": "Haveluloto",
+    "lat": -21.2,
+    "lng": -175.212,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-TO-t1",
+    "leagueName": "Tonga Major League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "to-lotohaapai-united",
+    "name": "Lotohaapai United",
+    "countryCode": "TO",
+    "country": "Tonga",
+    "city": "Pangai",
+    "lat": -19.7547,
+    "lng": -174.3982,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-TO-t1",
+    "leagueName": "Tonga Major League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "to-marist-prems",
+    "name": "Marist Prems",
+    "countryCode": "TO",
+    "country": "Tonga",
+    "city": "Nuku'alofa",
+    "lat": -21.1394,
+    "lng": -175.1449,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-TO-t1",
+    "leagueName": "Tonga Major League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "to-navutoka-fc",
+    "name": "Navutoka FC",
+    "countryCode": "TO",
+    "country": "Tonga",
+    "city": "Nuku'alofa",
+    "lat": -21.0874,
+    "lng": -175.2569,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-TO-t1",
+    "leagueName": "Tonga Major League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "to-tupapa-fc-tonga",
+    "name": "Tupapa FC Tonga",
+    "countryCode": "TO",
+    "country": "Tonga",
+    "city": "Nuku'alofa",
+    "lat": -21.1634,
+    "lng": -175.1689,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-TO-t1",
+    "leagueName": "Tonga Major League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "to-veitongo-fc",
+    "name": "Veitongo FC",
+    "countryCode": "TO",
+    "country": "Tonga",
+    "city": "Veitongo",
+    "lat": -21.154999999999998,
+    "lng": -175.27,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-TO-t1",
+    "leagueName": "Tonga Major League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

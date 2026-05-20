@@ -1,0 +1,194 @@
+[
+  {
+    "id": "ck-avatiu-fc",
+    "name": "Avatiu FC",
+    "countryCode": "CK",
+    "country": "Cook Islands",
+    "city": "Avarua",
+    "lat": -21.191000000000003,
+    "lng": -159.695,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-CK-t1",
+    "leagueName": "Cook Islands Round Cup",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ck-matavera-fc",
+    "name": "Matavera FC",
+    "countryCode": "CK",
+    "country": "Cook Islands",
+    "city": "Matavera",
+    "lat": -21.181,
+    "lng": -159.807,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-CK-t1",
+    "leagueName": "Cook Islands Round Cup",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ck-nikao-sokattak",
+    "name": "Nikao Sokattak",
+    "countryCode": "CK",
+    "country": "Cook Islands",
+    "city": "Avarua",
+    "lat": -21.171,
+    "lng": -159.839,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-CK-t1",
+    "leagueName": "Cook Islands Round Cup",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ck-puaikura-fc",
+    "name": "Puaikura FC",
+    "countryCode": "CK",
+    "country": "Cook Islands",
+    "city": "Avarua",
+    "lat": -21.243000000000002,
+    "lng": -159.74699999999999,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-CK-t1",
+    "leagueName": "Cook Islands Round Cup",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ck-titikaveka-fc",
+    "name": "Titikaveka FC",
+    "countryCode": "CK",
+    "country": "Cook Islands",
+    "city": "Titikaveka",
+    "lat": -21.34,
+    "lng": -159.76999999999998,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-CK-t1",
+    "leagueName": "Cook Islands Round Cup",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ck-tupapa-maraerenga",
+    "name": "Tupapa Maraerenga",
+    "countryCode": "CK",
+    "country": "Cook Islands",
+    "city": "Tupapa",
+    "lat": -21.171,
+    "lng": -159.827,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-CK-t1",
+    "leagueName": "Cook Islands Round Cup",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

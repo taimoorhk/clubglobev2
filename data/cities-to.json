@@ -1,0 +1,22 @@
+{
+  "Nuku'alofa": {
+    "lat": -21.1394,
+    "lng": -175.2049,
+    "countryCode": "TO"
+  },
+  "Veitongo": {
+    "lat": -21.191,
+    "lng": -175.202,
+    "countryCode": "TO"
+  },
+  "Haveluloto": {
+    "lat": -21.152,
+    "lng": -175.224,
+    "countryCode": "TO"
+  },
+  "Pangai": {
+    "lat": -19.8147,
+    "lng": -174.3542,
+    "countryCode": "TO"
+  }
+}

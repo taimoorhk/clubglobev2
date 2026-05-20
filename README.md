@@ -34,6 +34,7 @@ Open [http://localhost:5173](http://localhost:5173).
 | `npm run data:legacy` | Old TheSportsDB pipeline |
 | `npm run data:logos` | Backfill African club logos (Fotmob + Wikipedia) |
 | `npm run data:logos:wiki` | Wikipedia-only pass for clubs still missing badges |
+| `npm run data:oceania` | Refresh/enrich Oceania club coverage |
 
 ## Environment
 

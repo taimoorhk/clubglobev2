@@ -1,0 +1,22 @@
+{
+  "Apia": {
+    "lat": -13.8333,
+    "lng": -171.7667,
+    "countryCode": "WS"
+  },
+  "Tuanaimato": {
+    "lat": -13.8508,
+    "lng": -171.795,
+    "countryCode": "WS"
+  },
+  "Vaitele": {
+    "lat": -13.8196,
+    "lng": -171.8254,
+    "countryCode": "WS"
+  },
+  "Faleasiu": {
+    "lat": -13.8037,
+    "lng": -171.9127,
+    "countryCode": "WS"
+  }
+}

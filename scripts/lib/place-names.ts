@@ -5,6 +5,7 @@ import { AMERICAS_PLACE_OVERRIDES } from '../data/americas-clubs.js'
 import { EASTERN_EUROPE_PLACE_OVERRIDES } from '../data/eastern-europe-clubs.js'
 import { ICELAND_PLACE_OVERRIDES } from '../data/iceland-clubs.js'
 import { NORTH_ATLANTIC_PLACE_OVERRIDES } from '../data/north-atlantic-clubs.js'
+import { OCEANIA_PLACE_OVERRIDES } from '../data/oceania-clubs.js'
 
 const GENERIC_SUFFIX =
   /\s+(FC|CF|AFC|SC|AC|AS|SV|SK|FK|BK|IF|FF|United|City|Town|Rovers|Athletic|Albion|Wanderers|Hotspur|County|Stanley|Wimbledon|Villa|Palace|Forest|Wednesday|Calcio|1913|1909|1907|1903|1899|1893)$/i
@@ -509,6 +510,8 @@ export function resolvePlaceName(teamName: string, countryCode: string): string 
   if (overrides?.[teamName]) return overrides[teamName]
   const americasOverrides = AMERICAS_PLACE_OVERRIDES[countryCode]
   if (americasOverrides?.[teamName]) return americasOverrides[teamName]
+  const oceaniaOverrides = OCEANIA_PLACE_OVERRIDES[countryCode]
+  if (oceaniaOverrides?.[teamName]) return oceaniaOverrides[teamName]
   const easternEuropeOverrides = EASTERN_EUROPE_PLACE_OVERRIDES[countryCode]
   if (easternEuropeOverrides?.[teamName]) return easternEuropeOverrides[teamName]
   const icelandOverrides = ICELAND_PLACE_OVERRIDES[countryCode]

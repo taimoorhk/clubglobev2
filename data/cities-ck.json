@@ -1,0 +1,22 @@
+{
+  "Avarua": {
+    "lat": -21.207,
+    "lng": -159.771,
+    "countryCode": "CK"
+  },
+  "Tupapa": {
+    "lat": -21.203,
+    "lng": -159.755,
+    "countryCode": "CK"
+  },
+  "Matavera": {
+    "lat": -21.221,
+    "lng": -159.743,
+    "countryCode": "CK"
+  },
+  "Titikaveka": {
+    "lat": -21.264,
+    "lng": -159.754,
+    "countryCode": "CK"
+  }
+}

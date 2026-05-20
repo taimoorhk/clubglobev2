@@ -1,0 +1,322 @@
+[
+  {
+    "id": "pf-as-central-sport",
+    "name": "AS Central Sport",
+    "countryCode": "PF",
+    "country": "Tahiti",
+    "city": "Papeete",
+    "lat": -17.4796,
+    "lng": -149.59050000000002,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PF-t1",
+    "leagueName": "Tahiti Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pf-as-dragon",
+    "name": "AS Dragon",
+    "countryCode": "PF",
+    "country": "Tahiti",
+    "city": "Papeete",
+    "lat": -17.5316,
+    "lng": -149.4785,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PF-t1",
+    "leagueName": "Tahiti Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pf-as-jeunes-tahitiens",
+    "name": "AS Jeunes Tahitiens",
+    "countryCode": "PF",
+    "country": "Tahiti",
+    "city": "Papeete",
+    "lat": -17.471600000000002,
+    "lng": -149.5825,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PF-t1",
+    "leagueName": "Tahiti Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pf-as-manu-ura",
+    "name": "AS Manu-Ura",
+    "countryCode": "PF",
+    "country": "Tahiti",
+    "city": "Punaauia",
+    "lat": -17.6253,
+    "lng": -149.53199999999998,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PF-t1",
+    "leagueName": "Tahiti Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pf-as-moorea",
+    "name": "AS Moorea",
+    "countryCode": "PF",
+    "country": "Tahiti",
+    "city": "Moorea",
+    "lat": -17.5973,
+    "lng": -149.8373,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PF-t1",
+    "leagueName": "Tahiti Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pf-as-pirae",
+    "name": "AS Pirae",
+    "countryCode": "PF",
+    "country": "Tahiti",
+    "city": "Pirae",
+    "lat": -17.5413,
+    "lng": -149.4813,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PF-t1",
+    "leagueName": "Tahiti Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pf-as-tamarii-punaruu",
+    "name": "AS Tamarii Punaruu",
+    "countryCode": "PF",
+    "country": "Tahiti",
+    "city": "Punaauia",
+    "lat": -17.653299999999998,
+    "lng": -149.56,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PF-t1",
+    "leagueName": "Tahiti Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pf-as-tefana",
+    "name": "AS Tefana",
+    "countryCode": "PF",
+    "country": "Tahiti",
+    "city": "Faaa",
+    "lat": -17.63,
+    "lng": -149.62,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PF-t1",
+    "leagueName": "Tahiti Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pf-as-venus",
+    "name": "AS Venus",
+    "countryCode": "PF",
+    "country": "Tahiti",
+    "city": "Mahina",
+    "lat": -17.586499999999997,
+    "lng": -149.5086,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PF-t1",
+    "leagueName": "Tahiti Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pf-taiarapu-fc",
+    "name": "Taiarapu FC",
+    "countryCode": "PF",
+    "country": "Tahiti",
+    "city": "Taravao",
+    "lat": -17.7773,
+    "lng": -149.3007,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-PF-t1",
+    "leagueName": "Tahiti Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

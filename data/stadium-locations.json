@@ -119,5 +119,9 @@
     "Aberdeen": { "city": "Aberdeen", "lat": 57.1597, "lng": -2.0943 },
     "Hearts": { "city": "Edinburgh", "lat": 55.9392, "lng": -3.2322 },
     "Hibernian": { "city": "Edinburgh", "lat": 55.9617, "lng": -3.1653 }
+  },
+  "AU": {
+    "Auckland FC": { "city": "Auckland", "lat": -36.8983, "lng": 174.7431 },
+    "Wellington Phoenix": { "city": "Wellington", "lat": -41.273, "lng": 174.785 }
   }
 }

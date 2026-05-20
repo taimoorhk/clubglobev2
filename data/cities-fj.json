@@ -1,0 +1,47 @@
+{
+  "Ba": {
+    "lat": -17.5333,
+    "lng": 177.6833,
+    "countryCode": "FJ"
+  },
+  "Lautoka": {
+    "lat": -17.6167,
+    "lng": 177.45,
+    "countryCode": "FJ"
+  },
+  "Suva": {
+    "lat": -18.1416,
+    "lng": 178.4419,
+    "countryCode": "FJ"
+  },
+  "Labasa": {
+    "lat": -16.4333,
+    "lng": 179.3667,
+    "countryCode": "FJ"
+  },
+  "Nadi": {
+    "lat": -17.8,
+    "lng": 177.4167,
+    "countryCode": "FJ"
+  },
+  "Nausori": {
+    "lat": -18.0244,
+    "lng": 178.5454,
+    "countryCode": "FJ"
+  },
+  "Navua": {
+    "lat": -18.241,
+    "lng": 178.178,
+    "countryCode": "FJ"
+  },
+  "Sigatoka": {
+    "lat": -18.1438,
+    "lng": 177.5069,
+    "countryCode": "FJ"
+  },
+  "Tavua": {
+    "lat": -17.45,
+    "lng": 177.8667,
+    "countryCode": "FJ"
+  }
+}

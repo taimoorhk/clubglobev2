@@ -1,0 +1,258 @@
+[
+  {
+    "id": "ws-faleasiu-fc",
+    "name": "Faleasiu FC",
+    "countryCode": "WS",
+    "country": "Samoa",
+    "city": "Faleasiu",
+    "lat": -13.8677,
+    "lng": -171.9167,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-WS-t1",
+    "leagueName": "Samoa National League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ws-kiwi-fc",
+    "name": "Kiwi FC",
+    "countryCode": "WS",
+    "country": "Samoa",
+    "city": "Apia",
+    "lat": -13.8093,
+    "lng": -171.8467,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-WS-t1",
+    "leagueName": "Samoa National League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ws-lepea-fc",
+    "name": "Lepea FC",
+    "countryCode": "WS",
+    "country": "Samoa",
+    "city": "Apia",
+    "lat": -13.8173,
+    "lng": -171.6907,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-WS-t1",
+    "leagueName": "Samoa National League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ws-lupe-ole-soaga",
+    "name": "Lupe ole Soaga",
+    "countryCode": "WS",
+    "country": "Samoa",
+    "city": "Tuanaimato",
+    "lat": -13.9028,
+    "lng": -171.78699999999998,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-WS-t1",
+    "leagueName": "Samoa National League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ws-moataa-fc",
+    "name": "Moataa FC",
+    "countryCode": "WS",
+    "country": "Samoa",
+    "city": "Apia",
+    "lat": -13.7933,
+    "lng": -171.83069999999998,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-WS-t1",
+    "leagueName": "Samoa National League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ws-sogi-fc",
+    "name": "Sogi FC",
+    "countryCode": "WS",
+    "country": "Samoa",
+    "city": "Apia",
+    "lat": -13.8653,
+    "lng": -171.7387,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-WS-t1",
+    "leagueName": "Samoa National League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ws-vaitele-uta",
+    "name": "Vaitele Uta",
+    "countryCode": "WS",
+    "country": "Samoa",
+    "city": "Vaitele",
+    "lat": -13.843599999999999,
+    "lng": -171.7894,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-WS-t1",
+    "leagueName": "Samoa National League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ws-vaivase-tai-fc",
+    "name": "Vaivase-tai FC",
+    "countryCode": "WS",
+    "country": "Samoa",
+    "city": "Apia",
+    "lat": -13.8773,
+    "lng": -171.7507,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-WS-t1",
+    "leagueName": "Samoa National League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "nc-as-kunie",
+    "name": "AS Kunie",
+    "countryCode": "NC",
+    "country": "New Caledonia",
+    "city": "Noumea",
+    "lat": -22.2398,
+    "lng": 166.39,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-NC-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "nc-as-lossi",
+    "name": "AS Lossi",
+    "countryCode": "NC",
+    "country": "New Caledonia",
+    "city": "Noumea",
+    "lat": -22.3358,
+    "lng": 166.458,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-NC-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "nc-as-magenta",
+    "name": "AS Magenta",
+    "countryCode": "NC",
+    "country": "New Caledonia",
+    "city": "Noumea",
+    "lat": -22.3358,
+    "lng": 166.458,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-NC-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "nc-as-mont-dore",
+    "name": "AS Mont-Dore",
+    "countryCode": "NC",
+    "country": "New Caledonia",
+    "city": "Mont-Dore",
+    "lat": -22.186700000000002,
+    "lng": 166.5593,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-NC-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "nc-as-wetr",
+    "name": "AS Wetr",
+    "countryCode": "NC",
+    "country": "New Caledonia",
+    "city": "Lifou",
+    "lat": -20.956,
+    "lng": 167.254,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-NC-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "nc-dumbea-fc",
+    "name": "Dumbea FC",
+    "countryCode": "NC",
+    "country": "New Caledonia",
+    "city": "Dumbea",
+    "lat": -22.194,
+    "lng": 166.46599999999998,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-NC-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "nc-hienghene-sport",
+    "name": "Hienghene Sport",
+    "countryCode": "NC",
+    "country": "New Caledonia",
+    "city": "Kone",
+    "lat": -21.0875,
+    "lng": 164.89780000000002,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-NC-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "nc-horizon-patho",
+    "name": "Horizon Patho",
+    "countryCode": "NC",
+    "country": "New Caledonia",
+    "city": "Mare",
+    "lat": -21.4607,
+    "lng": 168.002,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-NC-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "nc-sc-ne-drehu",
+    "name": "SC Ne Drehu",
+    "countryCode": "NC",
+    "country": "New Caledonia",
+    "city": "Lifou",
+    "lat": -20.84,
+    "lng": 167.206,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-NC-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "nc-tiga-sport",
+    "name": "Tiga Sport",
+    "countryCode": "NC",
+    "country": "New Caledonia",
+    "city": "Noumea",
+    "lat": -22.3278,
+    "lng": 166.466,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-NC-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

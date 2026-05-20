@@ -1,0 +1,42 @@
+{
+  "Port Moresby": {
+    "lat": -9.4438,
+    "lng": 147.1803,
+    "countryCode": "PG"
+  },
+  "Lae": {
+    "lat": -6.732,
+    "lng": 147,
+    "countryCode": "PG"
+  },
+  "Madang": {
+    "lat": -5.2247,
+    "lng": 145.7853,
+    "countryCode": "PG"
+  },
+  "Goroka": {
+    "lat": -6.0833,
+    "lng": 145.3867,
+    "countryCode": "PG"
+  },
+  "Wewak": {
+    "lat": -3.5534,
+    "lng": 143.6268,
+    "countryCode": "PG"
+  },
+  "Kimbe": {
+    "lat": -5.55,
+    "lng": 150.143,
+    "countryCode": "PG"
+  },
+  "Mount Hagen": {
+    "lat": -5.8581,
+    "lng": 144.2274,
+    "countryCode": "PG"
+  },
+  "Arawa": {
+    "lat": -6.229,
+    "lng": 155.565,
+    "countryCode": "PG"
+  }
+}

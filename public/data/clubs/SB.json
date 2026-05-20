@@ -1,0 +1,322 @@
+[
+  {
+    "id": "sb-central-coast-fc",
+    "name": "Central Coast FC",
+    "countryCode": "SB",
+    "country": "Solomon Islands",
+    "city": "Honiara",
+    "lat": -9.425600000000001,
+    "lng": 160.05290000000002,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-SB-t1",
+    "leagueName": "Telekom S-League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sb-henderson-eels",
+    "name": "Henderson Eels",
+    "countryCode": "SB",
+    "country": "Solomon Islands",
+    "city": "Henderson",
+    "lat": -9.448,
+    "lng": 160.094,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-SB-t1",
+    "leagueName": "Telekom S-League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sb-kossa-fc",
+    "name": "Kossa FC",
+    "countryCode": "SB",
+    "country": "Solomon Islands",
+    "city": "Honiara",
+    "lat": -9.425600000000001,
+    "lng": 160.05290000000002,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-SB-t1",
+    "leagueName": "Telekom S-League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sb-laugu-united",
+    "name": "Laugu United",
+    "countryCode": "SB",
+    "country": "Solomon Islands",
+    "city": "Honiara",
+    "lat": -9.4456,
+    "lng": 160.0329,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-SB-t1",
+    "leagueName": "Telekom S-League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sb-marist-fc",
+    "name": "Marist FC",
+    "countryCode": "SB",
+    "country": "Solomon Islands",
+    "city": "Honiara",
+    "lat": -9.373600000000001,
+    "lng": 159.9409,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-SB-t1",
+    "leagueName": "Telekom S-League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sb-real-kakamora",
+    "name": "Real Kakamora",
+    "countryCode": "SB",
+    "country": "Solomon Islands",
+    "city": "Honiara",
+    "lat": -9.4336,
+    "lng": 160.0449,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-SB-t1",
+    "leagueName": "Telekom S-League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sb-solomon-warriors",
+    "name": "Solomon Warriors",
+    "countryCode": "SB",
+    "country": "Solomon Islands",
+    "city": "Honiara",
+    "lat": -9.4656,
+    "lng": 160.0129,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-SB-t1",
+    "leagueName": "Telekom S-League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sb-southern-united",
+    "name": "Southern United",
+    "countryCode": "SB",
+    "country": "Solomon Islands",
+    "city": "Honiara",
+    "lat": -9.441600000000001,
+    "lng": 160.0369,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-SB-t1",
+    "leagueName": "Telekom S-League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sb-waneagu-united",
+    "name": "Waneagu United",
+    "countryCode": "SB",
+    "country": "Solomon Islands",
+    "city": "Honiara",
+    "lat": -9.425600000000001,
+    "lng": 160.05290000000002,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-SB-t1",
+    "leagueName": "Telekom S-League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sb-western-united",
+    "name": "Western United",
+    "countryCode": "SB",
+    "country": "Solomon Islands",
+    "city": "Gizo",
+    "lat": -8.131,
+    "lng": 156.87390000000002,
+    "divisionTier": 1,
+    "leagueId": "oceania-curated-SB-t1",
+    "leagueName": "Telekom S-League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "oceania-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

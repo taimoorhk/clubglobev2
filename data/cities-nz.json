@@ -1,0 +1,92 @@
+{
+  "Auckland": {
+    "lat": -36.8509,
+    "lng": 174.7645,
+    "countryCode": "NZ"
+  },
+  "Wellington": {
+    "lat": -41.2865,
+    "lng": 174.7762,
+    "countryCode": "NZ"
+  },
+  "Christchurch": {
+    "lat": -43.5321,
+    "lng": 172.6362,
+    "countryCode": "NZ"
+  },
+  "Hamilton": {
+    "lat": -37.787,
+    "lng": 175.2793,
+    "countryCode": "NZ"
+  },
+  "Napier": {
+    "lat": -39.4928,
+    "lng": 176.912,
+    "countryCode": "NZ"
+  },
+  "Lower Hutt": {
+    "lat": -41.212,
+    "lng": 174.903,
+    "countryCode": "NZ"
+  },
+  "Dunedin": {
+    "lat": -45.8788,
+    "lng": 170.5028,
+    "countryCode": "NZ"
+  },
+  "Nelson": {
+    "lat": -41.2706,
+    "lng": 173.284,
+    "countryCode": "NZ"
+  },
+  "Tauranga": {
+    "lat": -37.6878,
+    "lng": 176.1651,
+    "countryCode": "NZ"
+  },
+  "Porirua": {
+    "lat": -41.1333,
+    "lng": 174.85,
+    "countryCode": "NZ"
+  },
+  "Petone": {
+    "lat": -41.226,
+    "lng": 174.878,
+    "countryCode": "NZ"
+  },
+  "Miramar": {
+    "lat": -41.315,
+    "lng": 174.817,
+    "countryCode": "NZ"
+  },
+  "East Auckland": {
+    "lat": -36.901,
+    "lng": 174.899,
+    "countryCode": "NZ"
+  },
+  "Manukau": {
+    "lat": -36.9928,
+    "lng": 174.8794,
+    "countryCode": "NZ"
+  },
+  "Cashmere": {
+    "lat": -43.566,
+    "lng": 172.623,
+    "countryCode": "NZ"
+  },
+  "Birkenhead": {
+    "lat": -36.812,
+    "lng": 174.725,
+    "countryCode": "NZ"
+  },
+  "West Auckland": {
+    "lat": -36.879,
+    "lng": 174.627,
+    "countryCode": "NZ"
+  },
+  "North Shore": {
+    "lat": -36.786,
+    "lng": 174.756,
+    "countryCode": "NZ"
+  }
+}

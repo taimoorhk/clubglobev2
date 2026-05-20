@@ -1,0 +1,22 @@
+{
+  "Honiara": {
+    "lat": -9.4456,
+    "lng": 159.9729,
+    "countryCode": "SB"
+  },
+  "Henderson": {
+    "lat": -9.428,
+    "lng": 160.054,
+    "countryCode": "SB"
+  },
+  "Auki": {
+    "lat": -8.7676,
+    "lng": 160.6974,
+    "countryCode": "SB"
+  },
+  "Gizo": {
+    "lat": -8.103,
+    "lng": 156.8419,
+    "countryCode": "SB"
+  }
+}

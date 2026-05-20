@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-20T08:12:31.895Z",
-  "totalClubs": 3758,
+  "generatedAt": "2026-05-20T19:37:27.940Z",
+  "totalClubs": 3992,
   "countries": [
     {
       "countryCode": "AF",
@@ -35,6 +35,15 @@
         2
       ],
       "file": "clubs/DZ.json"
+    },
+    {
+      "countryCode": "AS",
+      "country": "American Samoa",
+      "clubCount": 6,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/AS.json"
     },
     {
       "countryCode": "AO",
@@ -72,9 +81,15 @@
     {
       "countryCode": "AU",
       "country": "Australia",
-      "clubCount": 12,
+      "clubCount": 95,
       "tiersAvailable": [
-        1
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
       ],
       "file": "clubs/AU.json"
     },
@@ -368,6 +383,15 @@
       "file": "clubs/CG.json"
     },
     {
+      "countryCode": "CK",
+      "country": "Cook Islands",
+      "clubCount": 6,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/CK.json"
+    },
+    {
       "countryCode": "HR",
       "country": "Croatia",
       "clubCount": 28,
@@ -517,6 +541,16 @@
         1
       ],
       "file": "clubs/ET.json"
+    },
+    {
+      "countryCode": "FJ",
+      "country": "Fiji",
+      "clubCount": 14,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/FJ.json"
     },
     {
       "countryCode": "FI",
@@ -1071,6 +1105,30 @@
       "file": "clubs/NL.json"
     },
     {
+      "countryCode": "NC",
+      "country": "New Caledonia",
+      "clubCount": 10,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/NC.json"
+    },
+    {
+      "countryCode": "NZ",
+      "country": "New Zealand",
+      "clubCount": 61,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/NZ.json"
+    },
+    {
       "countryCode": "NE",
       "country": "Niger",
       "clubCount": 10,
@@ -1130,6 +1188,15 @@
         1
       ],
       "file": "clubs/PK.json"
+    },
+    {
+      "countryCode": "PG",
+      "country": "Papua New Guinea",
+      "clubCount": 10,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/PG.json"
     },
     {
       "countryCode": "PY",
@@ -1246,6 +1313,15 @@
       "file": "clubs/RW.json"
     },
     {
+      "countryCode": "WS",
+      "country": "Samoa",
+      "clubCount": 8,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/WS.json"
+    },
+    {
       "countryCode": "ST",
       "country": "São Tomé and Príncipe",
       "clubCount": 8,
@@ -1359,6 +1435,15 @@
       "file": "clubs/SI.json"
     },
     {
+      "countryCode": "SB",
+      "country": "Solomon Islands",
+      "clubCount": 10,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/SB.json"
+    },
+    {
       "countryCode": "SO",
       "country": "Somalia",
       "clubCount": 5,
@@ -1465,6 +1550,15 @@
       "file": "clubs/SY.json"
     },
     {
+      "countryCode": "PF",
+      "country": "Tahiti",
+      "clubCount": 10,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/PF.json"
+    },
+    {
       "countryCode": "TW",
       "country": "Taiwan",
       "clubCount": 16,
@@ -1518,6 +1612,15 @@
         1
       ],
       "file": "clubs/TG.json"
+    },
+    {
+      "countryCode": "TO",
+      "country": "Tonga",
+      "clubCount": 6,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/TO.json"
     },
     {
       "countryCode": "TN",
@@ -1621,6 +1724,15 @@
         2
       ],
       "file": "clubs/UZ.json"
+    },
+    {
+      "countryCode": "VU",
+      "country": "Vanuatu",
+      "clubCount": 10,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/VU.json"
     },
     {
       "countryCode": "VE",

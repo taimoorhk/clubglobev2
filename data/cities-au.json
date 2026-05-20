@@ -1,12 +1,12 @@
 {
   "Adelaide": {
-    "lat": -34.9281805,
-    "lng": 138.5999312,
+    "lat": -34.9285,
+    "lng": 138.6007,
     "countryCode": "AU"
   },
   "Auckland": {
-    "lat": -36.8622961,
-    "lng": 174.7190716,
+    "lat": -36.8509,
+    "lng": 174.7645,
     "countryCode": "AU"
   },
   "Brisbane Roar": {
@@ -25,18 +25,268 @@
     "countryCode": "AU"
   },
   "Melbourne": {
-    "lat": -37.8142454,
-    "lng": 144.9631732,
+    "lat": -37.8136,
+    "lng": 144.9631,
     "countryCode": "AU"
   },
   "Sydney": {
-    "lat": -33.8698439,
-    "lng": 151.2082848,
+    "lat": -33.8688,
+    "lng": 151.2093,
     "countryCode": "AU"
   },
   "Western Sydney": {
     "lat": -33.7224563,
     "lng": 150.6032265,
+    "countryCode": "AU"
+  },
+  "Brisbane": {
+    "lat": -27.4698,
+    "lng": 153.0251,
+    "countryCode": "AU"
+  },
+  "Gosford": {
+    "lat": -33.425,
+    "lng": 151.3422,
+    "countryCode": "AU"
+  },
+  "Newcastle": {
+    "lat": -32.9283,
+    "lng": 151.7817,
+    "countryCode": "AU"
+  },
+  "Perth": {
+    "lat": -31.9523,
+    "lng": 115.8613,
+    "countryCode": "AU"
+  },
+  "Campbelltown": {
+    "lat": -34.0674,
+    "lng": 150.8144,
+    "countryCode": "AU"
+  },
+  "Tarneit": {
+    "lat": -37.836,
+    "lng": 144.6696,
+    "countryCode": "AU"
+  },
+  "Wellington": {
+    "lat": -41.2865,
+    "lng": 174.7762,
+    "countryCode": "AU"
+  },
+  "Wollongong": {
+    "lat": -34.4278,
+    "lng": 150.8931,
+    "countryCode": "AU"
+  },
+  "Rockdale": {
+    "lat": -33.9526,
+    "lng": 151.1366,
+    "countryCode": "AU"
+  },
+  "Blacktown": {
+    "lat": -33.771,
+    "lng": 150.9063,
+    "countryCode": "AU"
+  },
+  "Marconi": {
+    "lat": -33.858,
+    "lng": 150.889,
+    "countryCode": "AU"
+  },
+  "Hume": {
+    "lat": -37.598,
+    "lng": 144.948,
+    "countryCode": "AU"
+  },
+  "Heidelberg": {
+    "lat": -37.753,
+    "lng": 145.07,
+    "countryCode": "AU"
+  },
+  "Oakleigh": {
+    "lat": -37.9004,
+    "lng": 145.0898,
+    "countryCode": "AU"
+  },
+  "Bentleigh": {
+    "lat": -37.9183,
+    "lng": 145.0356,
+    "countryCode": "AU"
+  },
+  "GoldCoast": {
+    "lat": -28.0167,
+    "lng": 153.4,
+    "countryCode": "AU"
+  },
+  "Redcliffe": {
+    "lat": -27.2307,
+    "lng": 153.1157,
+    "countryCode": "AU"
+  },
+  "Fremantle": {
+    "lat": -32.0569,
+    "lng": 115.7439,
+    "countryCode": "AU"
+  },
+  "Stirling": {
+    "lat": -31.8839,
+    "lng": 115.8094,
+    "countryCode": "AU"
+  },
+  "Hobart": {
+    "lat": -42.8821,
+    "lng": 147.3272,
+    "countryCode": "AU"
+  },
+  "Devonport": {
+    "lat": -41.1771,
+    "lng": 146.3513,
+    "countryCode": "AU"
+  },
+  "Canberra": {
+    "lat": -35.2809,
+    "lng": 149.13,
+    "countryCode": "AU"
+  },
+  "Belconnen": {
+    "lat": -35.2387,
+    "lng": 149.0659,
+    "countryCode": "AU"
+  },
+  "Maitland": {
+    "lat": -32.7331,
+    "lng": 151.5574,
+    "countryCode": "AU"
+  },
+  "Broadmeadow": {
+    "lat": -32.923,
+    "lng": 151.735,
+    "countryCode": "AU"
+  },
+  "Bankstown": {
+    "lat": -33.9173,
+    "lng": 151.0359,
+    "countryCode": "AU"
+  },
+  "Bonnyrigg": {
+    "lat": -33.893,
+    "lng": 150.889,
+    "countryCode": "AU"
+  },
+  "St Albans": {
+    "lat": -37.745,
+    "lng": 144.8,
+    "countryCode": "AU"
+  },
+  "Dandenong": {
+    "lat": -37.9875,
+    "lng": 145.214,
+    "countryCode": "AU"
+  },
+  "Preston": {
+    "lat": -37.741,
+    "lng": 145.006,
+    "countryCode": "AU"
+  },
+  "Kingston": {
+    "lat": -42.9764,
+    "lng": 147.3095,
+    "countryCode": "AU"
+  },
+  "Sunshine": {
+    "lat": -37.7896,
+    "lng": 144.8314,
+    "countryCode": "AU"
+  },
+  "Box Hill": {
+    "lat": -37.818,
+    "lng": 145.125,
+    "countryCode": "AU"
+  },
+  "Hawthorn": {
+    "lat": -37.8247,
+    "lng": 145.0358,
+    "countryCode": "AU"
+  },
+  "WaggaWagga": {
+    "lat": -35.1082,
+    "lng": 147.3598,
+    "countryCode": "AU"
+  },
+  "Griffith": {
+    "lat": -34.2885,
+    "lng": 146.0509,
+    "countryCode": "AU"
+  },
+  "Ballarat": {
+    "lat": -37.5622,
+    "lng": 143.8503,
+    "countryCode": "AU"
+  },
+  "Geelong": {
+    "lat": -38.1499,
+    "lng": 144.3617,
+    "countryCode": "AU"
+  },
+  "Bendigo": {
+    "lat": -36.757,
+    "lng": 144.2794,
+    "countryCode": "AU"
+  },
+  "Altona": {
+    "lat": -37.8698,
+    "lng": 144.8304,
+    "countryCode": "AU"
+  },
+  "Ringwood": {
+    "lat": -37.814,
+    "lng": 145.23,
+    "countryCode": "AU"
+  },
+  "Knox": {
+    "lat": -37.898,
+    "lng": 145.238,
+    "countryCode": "AU"
+  },
+  "Bundoora": {
+    "lat": -37.698,
+    "lng": 145.06,
+    "countryCode": "AU"
+  },
+  "Frankston": {
+    "lat": -38.144,
+    "lng": 145.122,
+    "countryCode": "AU"
+  },
+  "Bayswater": {
+    "lat": -37.844,
+    "lng": 145.267,
+    "countryCode": "AU"
+  },
+  "Morwell": {
+    "lat": -38.236,
+    "lng": 146.399,
+    "countryCode": "AU"
+  },
+  "Launceston": {
+    "lat": -41.4332,
+    "lng": 147.1441,
+    "countryCode": "AU"
+  },
+  "Burnie": {
+    "lat": -41.052,
+    "lng": 145.906,
+    "countryCode": "AU"
+  },
+  "Queanbeyan": {
+    "lat": -35.3549,
+    "lng": 149.232,
+    "countryCode": "AU"
+  },
+  "Gungahlin": {
+    "lat": -35.185,
+    "lng": 149.136,
     "countryCode": "AU"
   }
 }
