@@ -130,6 +130,7 @@ function roundRobinByCountry(clubs: Club[], limit: number): Club[] {
 export function limitPinsForGlobe(
   clubs: Club[],
   countryCode: string | null = null,
+  maxPins = MAX_VISIBLE_PINS_ALL_COUNTRIES,
 ): {
   visible: Club[]
   truncated: boolean
@@ -142,7 +143,7 @@ export function limitPinsForGlobe(
     return { visible: plottable, truncated: false, total }
   }
 
-  const cap = MAX_VISIBLE_PINS_ALL_COUNTRIES
+  const cap = maxPins
   if (total <= cap) {
     return { visible: plottable, truncated: false, total }
   }

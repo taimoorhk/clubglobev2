@@ -5,8 +5,31 @@ import { GlobeMap } from './components/GlobeMap'
 import { useClubData } from './hooks/useClubData'
 import { useGlobeControls } from './hooks/useGlobeControls'
 import type { Club } from './lib/types'
+import {
+  MAX_SIDEBAR_CLUBS_MOBILE_ALL_COUNTRIES,
+  MAX_VISIBLE_PINS_MOBILE_ALL_COUNTRIES,
+} from './lib/types'
+
+function useCompactViewport() {
+  const [isCompact, setIsCompact] = useState(() =>
+    typeof window !== 'undefined'
+      ? window.matchMedia('(max-width: 767px)').matches
+      : false,
+  )
+
+  useEffect(() => {
+    const query = window.matchMedia('(max-width: 767px)')
+    const update = () => setIsCompact(query.matches)
+    update()
+    query.addEventListener('change', update)
+    return () => query.removeEventListener('change', update)
+  }, [])
+
+  return isCompact
+}
 
 function App() {
+  const isCompactViewport = useCompactViewport()
   const {
     manifest,
     coverage,
@@ -19,7 +42,11 @@ function App() {
     refreshingRecentFormLeagueIds,
     recentFormRefreshErrors,
     isLoading,
-  } = useClubData()
+  } = useClubData({
+    allCountriesPinLimit: isCompactViewport
+      ? MAX_VISIBLE_PINS_MOBILE_ALL_COUNTRIES
+      : undefined,
+  })
 
   const {
     globeRef,
@@ -32,15 +59,26 @@ function App() {
     zoomOut,
   } = useGlobeControls()
   const [selectedClub, setSelectedClub] = useState<Club | null>(null)
-  const [autoRotate, setAutoRotateState] = useState(true)
+  const [autoRotate, setAutoRotateState] = useState(() => !isCompactViewport)
   const previousSearchRef = useRef(filters.searchQuery)
   const pendingSearchSelectionRef = useRef<string | null>(null)
+  const shouldLimitMobileSidebar =
+    isCompactViewport && !filters.countryCode && filteredClubs.length > pinData.visible.length
+  const sidebarClubs = shouldLimitMobileSidebar
+    ? pinData.visible.slice(0, MAX_SIDEBAR_CLUBS_MOBILE_ALL_COUNTRIES)
+    : filteredClubs
+
+  useEffect(() => {
+    if (!isCompactViewport) return
+    setAutoRotateState(false)
+    setAutoRotate(false)
+  }, [isCompactViewport, setAutoRotate])
 
   const handleClearSelection = useCallback(
     (resetCamera = true) => {
       setSelectedClub(null)
-      setAutoRotateState(true)
-      setAutoRotate(true)
+      setAutoRotateState(!isCompactViewport)
+      setAutoRotate(!isCompactViewport)
       if (!resetCamera) return
       if (filters.countryCode && filteredClubs.length > 0) {
         flyToCountry(filteredClubs)
@@ -52,6 +90,7 @@ function App() {
       filteredClubs,
       filters.countryCode,
       flyToCountry,
+      isCompactViewport,
       resetView,
       setAutoRotate,
     ],
@@ -166,7 +205,7 @@ function App() {
 
       <div className="relative z-0 flex min-h-0 flex-1 flex-col overflow-hidden md:flex-row">
         <ClubSidebar
-          clubs={filteredClubs}
+          clubs={sidebarClubs}
           allClubs={allLoadedClubs}
           selectedClub={selectedClub}
           onSelectClub={handleSelectClub}
@@ -185,7 +224,7 @@ function App() {
           coverage={coverage}
           countryCode={filters.countryCode}
           isLoading={isLoading}
-          truncated={pinData.truncated}
+          truncated={pinData.truncated || shouldLimitMobileSidebar}
           totalFiltered={pinData.total}
         />
 
@@ -200,6 +239,7 @@ function App() {
             onGlobeReady={handleGlobeReady}
             onZoomIn={zoomIn}
             onZoomOut={zoomOut}
+            isCompactViewport={isCompactViewport}
           />
 
           {pinData.truncated && (

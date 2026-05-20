@@ -63,7 +63,10 @@ export function useGlobeControls() {
 
     const tileGlobe = globe as GlobeWithTiles
     if (typeof tileGlobe.globeTileEngineMaxLevel === 'function') {
-      tileGlobe.globeTileEngineMaxLevel(19)
+      const isCompactViewport =
+        typeof window !== 'undefined' &&
+        window.matchMedia('(max-width: 767px)').matches
+      tileGlobe.globeTileEngineMaxLevel(isCompactViewport ? 7 : 19)
     }
 
     const lights = globe.lights()

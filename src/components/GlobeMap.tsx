@@ -25,6 +25,7 @@ interface GlobeMapProps {
   onGlobeReady: () => void
   onZoomIn: () => void
   onZoomOut: () => void
+  isCompactViewport?: boolean
 }
 
 export function GlobeMap({
@@ -37,6 +38,7 @@ export function GlobeMap({
   onGlobeReady,
   onZoomIn,
   onZoomOut,
+  isCompactViewport = false,
 }: GlobeMapProps) {
   const containerRef = useRef<HTMLDivElement>(null)
   const [dimensions, setDimensions] = useState({ width: 800, height: 600 })
@@ -146,11 +148,11 @@ export function GlobeMap({
         backgroundImageUrl={SKY_TEXTURE}
         globeImageUrl={EARTH_FALLBACK}
         globeTileEngineUrl={voyagerTileUrl}
-        globeTileEngineMaxLevel={19}
-        globeCurvatureResolution={4}
+        globeTileEngineMaxLevel={isCompactViewport ? 7 : 19}
+        globeCurvatureResolution={isCompactViewport ? 3 : 4}
         showAtmosphere
         atmosphereColor="#6baed6"
-        atmosphereAltitude={0.12}
+        atmosphereAltitude={isCompactViewport ? 0.08 : 0.12}
         onGlobeReady={handleGlobeReady}
         onGlobeClick={handleGlobeClick}
         htmlElementsData={clubs}

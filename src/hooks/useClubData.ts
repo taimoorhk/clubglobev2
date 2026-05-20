@@ -8,6 +8,10 @@ import type {
 import { applyFilters, dedupeClubs, limitPinsForGlobe } from '@/lib/filters'
 import { fetchLiveRecentFormsForLeague } from '@/lib/recentFormRefresh'
 
+interface UseClubDataOptions {
+  allCountriesPinLimit?: number
+}
+
 const DEFAULT_FILTERS: FilterState = {
   countryCode: null,
   city: null,
@@ -16,7 +20,9 @@ const DEFAULT_FILTERS: FilterState = {
   searchQuery: '',
 }
 
-export function useClubData() {
+const LOAD_ALL_COUNTRIES_CONCURRENCY = 8
+
+export function useClubData(options: UseClubDataOptions = {}) {
   const [manifest, setManifest] = useState<DataManifest | null>(null)
   const [coverage, setCoverage] = useState<CoverageFile | null>(null)
   const [loadedClubs, setLoadedClubs] = useState<Map<string, Club[]>>(
@@ -35,6 +41,16 @@ export function useClubData() {
   const [recentFormRefreshErrors, setRecentFormRefreshErrors] = useState<
     Record<string, string>
   >({})
+  const loadedClubsRef = useRef(loadedClubs)
+  const loadingCountriesRef = useRef(loadingCountries)
+
+  useEffect(() => {
+    loadedClubsRef.current = loadedClubs
+  }, [loadedClubs])
+
+  useEffect(() => {
+    loadingCountriesRef.current = loadingCountries
+  }, [loadingCountries])
 
   useEffect(() => {
     const t = setTimeout(() => setDebouncedFilters(filters), 150)
@@ -53,35 +69,44 @@ export function useClubData() {
       .catch(() => setError('Failed to load data manifest'))
   }, [])
 
-  const loadCountry = useCallback(
-    async (countryCode: string) => {
-      if (loadedClubs.has(countryCode) || loadingCountries.has(countryCode)) {
-        return
-      }
-      setLoadingCountries((prev) => new Set(prev).add(countryCode))
-      try {
-        const res = await fetch(`/data/clubs/${countryCode}.json`)
-        if (!res.ok) throw new Error(`No data for ${countryCode}`)
-        const clubs = (await res.json()) as Club[]
-        setLoadedClubs((prev) => new Map(prev).set(countryCode, clubs))
-      } catch {
-        setError(`Could not load clubs for ${countryCode}`)
-      } finally {
-        setLoadingCountries((prev) => {
-          const next = new Set(prev)
-          next.delete(countryCode)
-          return next
-        })
-      }
-    },
-    [loadedClubs, loadingCountries],
-  )
+  const loadCountry = useCallback(async (countryCode: string) => {
+    if (
+      loadedClubsRef.current.has(countryCode) ||
+      loadingCountriesRef.current.has(countryCode)
+    ) {
+      return
+    }
+
+    const loadingNext = new Set(loadingCountriesRef.current).add(countryCode)
+    loadingCountriesRef.current = loadingNext
+    setLoadingCountries(loadingNext)
+
+    try {
+      const res = await fetch(`/data/clubs/${countryCode}.json`)
+      if (!res.ok) throw new Error(`No data for ${countryCode}`)
+      const clubs = (await res.json()) as Club[]
+      setLoadedClubs((prev) => {
+        if (prev.has(countryCode)) return prev
+        const next = new Map(prev).set(countryCode, clubs)
+        loadedClubsRef.current = next
+        return next
+      })
+    } catch {
+      setError(`Could not load clubs for ${countryCode}`)
+    } finally {
+      const nextLoading = new Set(loadingCountriesRef.current)
+      nextLoading.delete(countryCode)
+      loadingCountriesRef.current = nextLoading
+      setLoadingCountries(nextLoading)
+    }
+  }, [])
 
   const loadAllCountries = useCallback(async () => {
     if (!manifest) return
-    await Promise.all(
-      manifest.countries.map((c) => loadCountry(c.countryCode)),
-    )
+    for (let i = 0; i < manifest.countries.length; i += LOAD_ALL_COUNTRIES_CONCURRENCY) {
+      const batch = manifest.countries.slice(i, i + LOAD_ALL_COUNTRIES_CONCURRENCY)
+      await Promise.all(batch.map((c) => loadCountry(c.countryCode)))
+    }
   }, [manifest, loadCountry])
 
   useEffect(() => {
@@ -112,8 +137,13 @@ export function useClubData() {
   )
 
   const pinData = useMemo(
-    () => limitPinsForGlobe(filteredClubs, debouncedFilters.countryCode),
-    [filteredClubs, debouncedFilters.countryCode],
+    () =>
+      limitPinsForGlobe(
+        filteredClubs,
+        debouncedFilters.countryCode,
+        options.allCountriesPinLimit,
+      ),
+    [filteredClubs, debouncedFilters.countryCode, options.allCountriesPinLimit],
   )
 
   const updateFilter = useCallback(
