@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
+import { Analytics } from '@vercel/analytics/react'
 import { FilterBar } from './components/FilterBar'
 import { ClubSidebar } from './components/ClubSidebar'
 import { GlobeMap } from './components/GlobeMap'
@@ -191,66 +192,69 @@ function App() {
   }
 
   return (
-    <div className="flex h-dvh flex-col overflow-hidden md:h-screen">
-      <FilterBar
-        manifest={manifest}
-        coverage={coverage}
-        filters={filters}
-        allClubs={allLoadedClubs}
-        onFilterChange={updateFilter}
-        onSelectClub={handleSearchSelectClub}
-        autoRotate={autoRotate}
-        onAutoRotateChange={handleAutoRotateChange}
-      />
-
-      <div className="relative z-0 flex min-h-0 flex-1 flex-col overflow-hidden md:flex-row">
-        <ClubSidebar
-          clubs={sidebarClubs}
-          allClubs={allLoadedClubs}
-          selectedClub={selectedClub}
-          onSelectClub={handleSelectClub}
-          onClearSelection={handleClearSelection}
-          recentFormRefreshing={
-            selectedClub
-              ? refreshingRecentFormLeagueIds.has(selectedClub.leagueId)
-              : false
-          }
-          recentFormRefreshError={
-            selectedClub
-              ? recentFormRefreshErrors[selectedClub.leagueId]
-              : undefined
-          }
+    <>
+      <div className="flex h-dvh flex-col overflow-hidden md:h-screen">
+        <FilterBar
           manifest={manifest}
           coverage={coverage}
-          countryCode={filters.countryCode}
-          isLoading={isLoading}
-          truncated={pinData.truncated || shouldLimitMobileSidebar}
-          totalFiltered={pinData.total}
+          filters={filters}
+          allClubs={allLoadedClubs}
+          onFilterChange={updateFilter}
+          onSelectClub={handleSearchSelectClub}
+          autoRotate={autoRotate}
+          onAutoRotateChange={handleAutoRotateChange}
         />
 
-        <main className="relative z-0 order-1 min-h-0 min-w-0 flex-1 overflow-hidden md:order-2">
-          <GlobeMap
-            clubs={pinData.visible}
+        <div className="relative z-0 flex min-h-0 flex-1 flex-col overflow-hidden md:flex-row">
+          <ClubSidebar
+            clubs={sidebarClubs}
+            allClubs={allLoadedClubs}
             selectedClub={selectedClub}
             onSelectClub={handleSelectClub}
             onClearSelection={handleClearSelection}
-            globeRef={globeRef}
-            autoRotate={autoRotate}
-            onGlobeReady={handleGlobeReady}
-            onZoomIn={zoomIn}
-            onZoomOut={zoomOut}
-            isCompactViewport={isCompactViewport}
+            recentFormRefreshing={
+              selectedClub
+                ? refreshingRecentFormLeagueIds.has(selectedClub.leagueId)
+                : false
+            }
+            recentFormRefreshError={
+              selectedClub
+                ? recentFormRefreshErrors[selectedClub.leagueId]
+                : undefined
+            }
+            manifest={manifest}
+            coverage={coverage}
+            countryCode={filters.countryCode}
+            isLoading={isLoading}
+            truncated={pinData.truncated || shouldLimitMobileSidebar}
+            totalFiltered={pinData.total}
           />
 
-          {pinData.truncated && (
-            <div className="pointer-events-none absolute bottom-4 left-1/2 hidden max-w-[calc(100%-2rem)] -translate-x-1/2 rounded-full border border-amber-500/30 bg-slate-900/90 px-4 py-2 text-center text-xs text-amber-300 md:block">
-              {pinData.total} clubs match — showing {pinData.visible.length}. Zoom
-              in or filter further.
-            </div>
-          )}
-        </main>
+          <main className="relative z-0 order-1 min-h-0 min-w-0 flex-1 overflow-hidden md:order-2">
+            <GlobeMap
+              clubs={pinData.visible}
+              selectedClub={selectedClub}
+              onSelectClub={handleSelectClub}
+              onClearSelection={handleClearSelection}
+              globeRef={globeRef}
+              autoRotate={autoRotate}
+              onGlobeReady={handleGlobeReady}
+              onZoomIn={zoomIn}
+              onZoomOut={zoomOut}
+              isCompactViewport={isCompactViewport}
+            />
+
+            {pinData.truncated && (
+              <div className="pointer-events-none absolute bottom-4 left-1/2 hidden max-w-[calc(100%-2rem)] -translate-x-1/2 rounded-full border border-amber-500/30 bg-slate-900/90 px-4 py-2 text-center text-xs text-amber-300 md:block">
+                {pinData.total} clubs match — showing {pinData.visible.length}. Zoom
+                in or filter further.
+              </div>
+            )}
+          </main>
+        </div>
       </div>
-    </div>
+      <Analytics />
+    </>
   )
 }
 
