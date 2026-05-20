@@ -9,6 +9,7 @@ body,
 
 body {
   @apply bg-slate-950 text-slate-100 antialiased;
+  overscroll-behavior: none;
 }
 
 /* Let scroll-wheel zoom reach the globe; pins stay clickable */
@@ -40,4 +41,10 @@ body {
 
 .club-pin img {
   display: block;
+}
+
+@media (max-width: 767px) {
+  .club-pin {
+    touch-action: manipulation;
+  }
 }

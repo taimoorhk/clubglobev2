@@ -85,7 +85,7 @@ export function ClubDetail({
         ) : null}
       </div>
 
-      <dl className="grid grid-cols-2 gap-2 text-sm">
+      <dl className="grid grid-cols-1 gap-2 text-sm sm:grid-cols-2 md:grid-cols-2">
         <div>
           <dt className="text-slate-500">Division tier</dt>
           <dd className="font-medium text-emerald-400">Tier {club.divisionTier}</dd>
@@ -107,7 +107,7 @@ export function ClubDetail({
       </dl>
 
       <section className="space-y-2 rounded-lg border border-slate-700 bg-slate-900/40 p-3">
-        <div className="flex items-center justify-between gap-2">
+        <div className="flex flex-wrap items-center justify-between gap-2">
           <div>
             <h3 className="text-sm font-semibold text-white">Last 10 games</h3>
             <p className="text-[10px] text-slate-500">
@@ -119,7 +119,7 @@ export function ClubDetail({
             </p>
           </div>
           {club.recentForm?.matches.length ? (
-            <div className="flex gap-1 text-[10px] font-bold">
+            <div className="flex flex-wrap gap-1 text-[10px] font-bold">
               <span className="rounded bg-emerald-500/20 px-1.5 py-0.5 text-emerald-300">
                 W {club.recentForm.wins}
               </span>

@@ -46,7 +46,10 @@ export function SearchAutocomplete({
   }
 
   return (
-    <div ref={rootRef} className="relative z-[120] min-w-0 flex-1">
+    <div
+      ref={rootRef}
+      className="order-2 relative z-[120] w-full min-w-0 flex-none md:order-none md:flex-1"
+    >
       <input
         type="search"
         placeholder="Search clubs, cities, leagues..."
@@ -76,7 +79,7 @@ export function SearchAutocomplete({
             setIsOpen(false)
           }
         }}
-        className="h-8 w-full rounded-md border border-slate-700 bg-slate-800 px-3 text-xs placeholder:text-slate-500 focus:border-emerald-500 focus:outline-none focus:ring-1 focus:ring-emerald-500"
+        className="h-9 w-full rounded-md border border-slate-700 bg-slate-800 px-3 text-sm placeholder:text-slate-500 focus:border-emerald-500 focus:outline-none focus:ring-1 focus:ring-emerald-500 md:h-8 md:text-xs"
       />
 
       {isOpen && suggestions.length > 0 ? (

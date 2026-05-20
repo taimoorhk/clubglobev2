@@ -137,7 +137,7 @@ export function GlobeMap({
   return (
     <div
       ref={containerRef}
-      className="globe-container relative h-full w-full min-h-[400px]"
+      className="globe-container relative h-full min-h-[220px] w-full md:min-h-[400px]"
     >
       <Globe
         ref={globeRef}
@@ -161,12 +161,12 @@ export function GlobeMap({
         htmlTransitionDuration={300}
       />
 
-      <div className="pointer-events-none absolute right-4 top-4 z-10 flex flex-col gap-2">
+      <div className="pointer-events-none absolute right-3 top-3 z-10 flex flex-col gap-2 md:right-4 md:top-4">
         <button
           type="button"
           onClick={onZoomIn}
           title="Zoom in (scroll wheel also works)"
-          className="pointer-events-auto flex h-9 w-9 items-center justify-center rounded-lg border border-slate-600 bg-slate-900/90 text-lg font-bold text-white shadow-lg hover:bg-slate-800"
+          className="pointer-events-auto flex h-10 w-10 items-center justify-center rounded-lg border border-slate-600 bg-slate-900/90 text-lg font-bold text-white shadow-lg hover:bg-slate-800 md:h-9 md:w-9"
         >
           +
         </button>
@@ -174,13 +174,13 @@ export function GlobeMap({
           type="button"
           onClick={onZoomOut}
           title="Zoom out"
-          className="pointer-events-auto flex h-9 w-9 items-center justify-center rounded-lg border border-slate-600 bg-slate-900/90 text-lg font-bold text-white shadow-lg hover:bg-slate-800"
+          className="pointer-events-auto flex h-10 w-10 items-center justify-center rounded-lg border border-slate-600 bg-slate-900/90 text-lg font-bold text-white shadow-lg hover:bg-slate-800 md:h-9 md:w-9"
         >
           −
         </button>
       </div>
 
-      <p className="pointer-events-none absolute bottom-3 right-4 z-10 rounded bg-slate-900/80 px-2 py-1 text-[10px] text-slate-400">
+      <p className="pointer-events-none absolute bottom-3 right-3 z-10 hidden rounded bg-slate-900/80 px-2 py-1 text-[10px] text-slate-400 sm:block md:right-4">
         Scroll to zoom in deeply · Drag to rotate
       </p>
 

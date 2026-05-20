@@ -47,7 +47,7 @@ export function ClubSidebar({
       : null
 
   return (
-    <aside className="flex h-full w-80 shrink-0 flex-col overflow-hidden border-r border-slate-800 bg-slate-900/60">
+    <aside className="order-2 flex h-[38dvh] max-h-[360px] min-h-[220px] w-full shrink-0 flex-col overflow-hidden border-t border-slate-800 bg-slate-900/80 md:order-1 md:h-full md:max-h-none md:min-h-0 md:w-80 md:border-r md:border-t-0 md:bg-slate-900/60">
       <div className="shrink-0 border-b border-slate-800 p-3">
         <h2 className="text-sm font-semibold text-slate-200">Clubs</h2>
         <p className="mt-0.5 text-xs text-slate-500">
@@ -84,7 +84,7 @@ export function ClubSidebar({
         </div>
       </div>
 
-      <div className="min-h-0 flex-1 overflow-y-auto">
+      <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain">
         {countryMeta && countryOverview ? (
           <CountryOverview
             country={countryMeta}
@@ -102,13 +102,13 @@ export function ClubSidebar({
           />
         </div>
 
-        <ul className="p-2 pt-0">
+        <ul className="grid grid-cols-1 gap-1 p-2 pt-0 sm:grid-cols-2 md:block">
           {clubs.map((club) => (
             <li key={club.id}>
               <button
                 type="button"
                 onClick={() => onSelectClub(club)}
-                className={`mb-1 flex w-full items-center gap-2 rounded-lg px-2 py-2 text-left text-sm transition ${
+                className={`flex w-full items-center gap-2 rounded-lg px-2 py-2.5 text-left text-sm transition md:mb-1 md:py-2 ${
                   selectedClub?.id === club.id
                     ? 'bg-emerald-900/40 text-emerald-100'
                     : 'hover:bg-slate-800 text-slate-300'

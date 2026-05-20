@@ -73,7 +73,7 @@ export function CountryOverview({
         </div>
       </div>
 
-      <div className="grid gap-3 text-xs md:grid-cols-1">
+      <div className="grid gap-3 text-xs sm:grid-cols-2 md:grid-cols-1">
         <div>
           <div className="mb-1 font-medium text-slate-400">Top cities</div>
           <ul className="space-y-1 text-slate-300">

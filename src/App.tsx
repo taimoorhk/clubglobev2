@@ -152,7 +152,7 @@ function App() {
   }
 
   return (
-    <div className="flex h-screen flex-col overflow-hidden">
+    <div className="flex h-dvh flex-col overflow-hidden md:h-screen">
       <FilterBar
         manifest={manifest}
         coverage={coverage}
@@ -164,7 +164,7 @@ function App() {
         onAutoRotateChange={handleAutoRotateChange}
       />
 
-      <div className="relative z-0 flex min-h-0 flex-1 overflow-hidden">
+      <div className="relative z-0 flex min-h-0 flex-1 flex-col overflow-hidden md:flex-row">
         <ClubSidebar
           clubs={filteredClubs}
           allClubs={allLoadedClubs}
@@ -189,7 +189,7 @@ function App() {
           totalFiltered={pinData.total}
         />
 
-        <main className="relative z-0 min-w-0 flex-1 overflow-hidden">
+        <main className="relative z-0 order-1 min-h-0 min-w-0 flex-1 overflow-hidden md:order-2">
           <GlobeMap
             clubs={pinData.visible}
             selectedClub={selectedClub}
@@ -203,7 +203,7 @@ function App() {
           />
 
           {pinData.truncated && (
-            <div className="pointer-events-none absolute bottom-4 left-1/2 -translate-x-1/2 rounded-full bg-slate-900/90 px-4 py-2 text-xs text-amber-300 border border-amber-500/30">
+            <div className="pointer-events-none absolute bottom-4 left-1/2 max-w-[calc(100%-2rem)] -translate-x-1/2 rounded-full border border-amber-500/30 bg-slate-900/90 px-4 py-2 text-center text-xs text-amber-300">
               {pinData.total} clubs match — showing {pinData.visible.length}. Zoom
               in or filter further.
             </div>
