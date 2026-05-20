@@ -76,7 +76,7 @@ export function SearchAutocomplete({
             setIsOpen(false)
           }
         }}
-        className="h-6 w-full rounded-md border border-slate-700 bg-slate-800 px-3 text-[11px] placeholder:text-slate-500 focus:border-emerald-500 focus:outline-none focus:ring-1 focus:ring-emerald-500"
+        className="h-8 w-full rounded-md border border-slate-700 bg-slate-800 px-3 text-xs placeholder:text-slate-500 focus:border-emerald-500 focus:outline-none focus:ring-1 focus:ring-emerald-500"
       />
 
       {isOpen && suggestions.length > 0 ? (

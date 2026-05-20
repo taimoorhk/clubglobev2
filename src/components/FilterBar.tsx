@@ -45,9 +45,9 @@ export function FilterBar({
   )
 
   return (
-    <header className="relative z-[100] flex shrink-0 items-center gap-2 overflow-visible border-b border-slate-800 bg-slate-900/90 px-2 py-0.5 backdrop-blur">
+    <header className="relative z-[100] flex shrink-0 items-center gap-2 overflow-visible border-b border-slate-800 bg-slate-900/90 px-3 py-1.5 backdrop-blur">
       <div className="flex shrink-0 items-center gap-2 whitespace-nowrap">
-        <span className="text-sm font-bold tracking-tight text-emerald-400">
+        <span className="text-base font-bold tracking-tight text-emerald-400">
           ⚽ ClubGlobe
         </span>
       </div>
@@ -66,7 +66,7 @@ export function FilterBar({
             onFilterChange('city', null)
             onFilterChange('leagueId', null)
           }}
-        className="h-6 w-28 shrink-0 rounded-md border border-slate-700 bg-slate-800 px-2 text-[11px] focus:border-emerald-500 focus:outline-none md:w-32"
+        className="h-8 w-28 shrink-0 rounded-md border border-slate-700 bg-slate-800 px-2 text-xs focus:border-emerald-500 focus:outline-none md:w-32"
         >
           <option value="">All countries</option>
           {countries.map((c) => (
@@ -80,7 +80,7 @@ export function FilterBar({
           value={filters.leagueId ?? ''}
           onChange={(e) => onFilterChange('leagueId', e.target.value || null)}
           disabled={!filters.countryCode}
-        className="h-6 w-24 shrink-0 rounded-md border border-slate-700 bg-slate-800 px-2 text-[11px] disabled:opacity-40 focus:border-emerald-500 focus:outline-none md:w-28"
+        className="h-8 w-24 shrink-0 rounded-md border border-slate-700 bg-slate-800 px-2 text-xs disabled:opacity-40 focus:border-emerald-500 focus:outline-none md:w-28"
         >
           <option value="">All leagues</option>
           {leagues.map((league) => (
@@ -94,7 +94,7 @@ export function FilterBar({
           value={filters.city ?? ''}
           onChange={(e) => onFilterChange('city', e.target.value || null)}
           disabled={!filters.countryCode}
-        className="h-6 w-24 shrink-0 rounded-md border border-slate-700 bg-slate-800 px-2 text-[11px] disabled:opacity-40 focus:border-emerald-500 focus:outline-none"
+        className="h-8 w-24 shrink-0 rounded-md border border-slate-700 bg-slate-800 px-2 text-xs disabled:opacity-40 focus:border-emerald-500 focus:outline-none"
         >
           <option value="">All cities</option>
           {cities.map((city) => (
@@ -105,7 +105,7 @@ export function FilterBar({
         </select>
 
       <div className="flex shrink-0 items-center gap-1">
-        <span className="hidden text-[10px] text-slate-500 sm:inline">Tier:</span>
+        <span className="hidden text-xs text-slate-500 sm:inline">Tier:</span>
           {ALL_TIERS.map((tier) => {
             const available =
               !coverageForCountry ||
@@ -128,7 +128,7 @@ export function FilterBar({
                     : [...filters.divisionTiers, tier].sort()
                   onFilterChange('divisionTiers', next)
                 }}
-              className={`rounded px-1 py-0.5 text-[10px] font-medium transition ${
+              className={`rounded px-1.5 py-1 text-xs font-medium transition ${
                   active
                     ? 'bg-emerald-600 text-white'
                     : available
@@ -146,13 +146,13 @@ export function FilterBar({
           type="button"
           onClick={() => onAutoRotateChange(!autoRotate)}
           title={autoRotate ? 'Stop globe rotation' : 'Resume globe rotation'}
-        className={`h-6 shrink-0 rounded-md border px-2 text-[10px] font-medium transition ${
+        className={`h-8 shrink-0 rounded-md border px-3 text-xs font-medium transition ${
             autoRotate
               ? 'border-emerald-600/50 bg-emerald-900/40 text-emerald-300 hover:bg-emerald-900/60'
               : 'border-slate-600 bg-slate-800 text-slate-300 hover:bg-slate-700'
           }`}
         >
-          {autoRotate ? 'Stop' : 'Start'}
+          {autoRotate ? 'Stop Rotation' : 'Start'}
         </button>
     </header>
   )
