@@ -1,0 +1,322 @@
+[
+  {
+    "id": "gm-brikama-united",
+    "name": "Brikama United",
+    "countryCode": "GM",
+    "country": "Gambia",
+    "city": "Brikama",
+    "lat": 13.262513,
+    "lng": -16.4359051,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GM-t1",
+    "leagueName": "GFF League First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gm-fortune",
+    "name": "Fortune",
+    "countryCode": "GM",
+    "country": "Gambia",
+    "city": "Fortune",
+    "lat": 13.428,
+    "lng": -15.376000000000001,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GM-t1",
+    "leagueName": "GFF League First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gm-gamtel",
+    "name": "Gamtel",
+    "countryCode": "GM",
+    "country": "Gambia",
+    "city": "Gamtel",
+    "lat": 13.3217578,
+    "lng": -16.6744199,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GM-t1",
+    "leagueName": "GFF League First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gm-gpa",
+    "name": "GPA",
+    "countryCode": "GM",
+    "country": "Gambia",
+    "city": "GPA",
+    "lat": 13.392000000000001,
+    "lng": -15.248000000000001,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GM-t1",
+    "leagueName": "GFF League First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gm-hawks",
+    "name": "Hawks",
+    "countryCode": "GM",
+    "country": "Gambia",
+    "city": "Hawks",
+    "lat": 13.464,
+    "lng": -15.34,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GM-t1",
+    "leagueName": "GFF League First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gm-interior",
+    "name": "Interior",
+    "countryCode": "GM",
+    "country": "Gambia",
+    "city": "Interior",
+    "lat": 13.424,
+    "lng": -15.38,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GM-t1",
+    "leagueName": "GFF League First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gm-marimoo",
+    "name": "Marimoo",
+    "countryCode": "GM",
+    "country": "Gambia",
+    "city": "Marimoo",
+    "lat": 13.48,
+    "lng": -15.324,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GM-t1",
+    "leagueName": "GFF League First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gm-real-de-banjul",
+    "name": "Real de Banjul",
+    "countryCode": "GM",
+    "country": "Gambia",
+    "city": "Real de Banjul",
+    "lat": 13.360000000000001,
+    "lng": -15.280000000000001,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GM-t1",
+    "leagueName": "GFF League First Division",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b5/Real_de_Banjul_logo.png",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gm-samger",
+    "name": "Samger",
+    "countryCode": "GM",
+    "country": "Gambia",
+    "city": "Samger",
+    "lat": 13.444,
+    "lng": -15.360000000000001,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GM-t1",
+    "leagueName": "GFF League First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gm-wallidan",
+    "name": "Wallidan",
+    "countryCode": "GM",
+    "country": "Gambia",
+    "city": "Wallidan",
+    "lat": 13.392000000000001,
+    "lng": -15.248000000000001,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GM-t1",
+    "leagueName": "GFF League First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

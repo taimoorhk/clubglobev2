@@ -1,0 +1,157 @@
+{
+  "Ayutthaya": {
+    "lat": 14.3189468,
+    "lng": 100.5111681,
+    "countryCode": "TH"
+  },
+  "BG Pathum": {
+    "lat": 14.0006186,
+    "lng": 100.6793097,
+    "countryCode": "TH"
+  },
+  "Bangkok": {
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "countryCode": "TH"
+  },
+  "Buriram": {
+    "lat": 14.6107101,
+    "lng": 102.6453162,
+    "countryCode": "TH"
+  },
+  "Chiangmai": {
+    "lat": 18.8009264,
+    "lng": 98.9521552,
+    "countryCode": "TH"
+  },
+  "Chiangrai": {
+    "lat": 19.9480922,
+    "lng": 99.8794568,
+    "countryCode": "TH"
+  },
+  "Chonburi": {
+    "lat": 13.1857117,
+    "lng": 101.1210777,
+    "countryCode": "TH"
+  },
+  "Customs": {
+    "lat": 16.0425488,
+    "lng": 105.225841,
+    "countryCode": "TH"
+  },
+  "Kasetsart": {
+    "lat": 13.8482589,
+    "lng": 100.5675435,
+    "countryCode": "TH"
+  },
+  "Khon Kaen": {
+    "lat": 16.6022387,
+    "lng": 102.6352933,
+    "countryCode": "TH"
+  },
+  "Krabi": {
+    "lat": 8.1111653,
+    "lng": 99.1097298,
+    "countryCode": "TH"
+  },
+  "Lampang": {
+    "lat": 18.6799728,
+    "lng": 99.7332501,
+    "countryCode": "TH"
+  },
+  "Muang Thong": {
+    "lat": 18.7848537,
+    "lng": 98.9928148,
+    "countryCode": "TH"
+  },
+  "Nakhon Pathom": {
+    "lat": 13.8918425,
+    "lng": 100.0165659,
+    "countryCode": "TH"
+  },
+  "Nakhon Ratchasima": {
+    "lat": 14.9749389,
+    "lng": 102.0981358,
+    "countryCode": "TH"
+  },
+  "Nonthaburi": {
+    "lat": 13.8610918,
+    "lng": 100.3456772,
+    "countryCode": "TH"
+  },
+  "Pathum Thani": {
+    "lat": 14.048667,
+    "lng": 100.5640405,
+    "countryCode": "TH"
+  },
+  "Pattani": {
+    "lat": 6.6997443,
+    "lng": 101.3989917,
+    "countryCode": "TH"
+  },
+  "Phrae": {
+    "lat": 18.2930601,
+    "lng": 100.0886757,
+    "countryCode": "TH"
+  },
+  "Police Tero": {
+    "lat": 13.8672899,
+    "lng": 100.5780588,
+    "countryCode": "TH"
+  },
+  "Port": {
+    "lat": 7.8750215,
+    "lng": 98.4176493,
+    "countryCode": "TH"
+  },
+  "Prachuap": {
+    "lat": 12.0432669,
+    "lng": 99.7487235,
+    "countryCode": "TH"
+  },
+  "Ranong": {
+    "lat": 10.0469546,
+    "lng": 98.6870133,
+    "countryCode": "TH"
+  },
+  "Ratchaburi": {
+    "lat": 13.6317897,
+    "lng": 99.3558216,
+    "countryCode": "TH"
+  },
+  "Rayong": {
+    "lat": 12.7943716,
+    "lng": 101.3705344,
+    "countryCode": "TH"
+  },
+  "Sisaket": {
+    "lat": 14.9222,
+    "lng": 104.4439596,
+    "countryCode": "TH"
+  },
+  "Songkhla": {
+    "lat": 6.8790221,
+    "lng": 100.5498542,
+    "countryCode": "TH"
+  },
+  "Sukhothai": {
+    "lat": 17.1446985,
+    "lng": 99.4375845,
+    "countryCode": "TH"
+  },
+  "Trat": {
+    "lat": 12.2593544,
+    "lng": 102.4268871,
+    "countryCode": "TH"
+  },
+  "Udon Thani": {
+    "lat": 17.5211917,
+    "lng": 102.6680012,
+    "countryCode": "TH"
+  },
+  "Uthai Thani": {
+    "lat": 15.3912084,
+    "lng": 99.4560531,
+    "countryCode": "TH"
+  }
+}

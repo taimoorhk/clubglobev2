@@ -1,0 +1,77 @@
+{
+  "Al Arabi": {
+    "lat": 29.2536155,
+    "lng": 47.9227128,
+    "countryCode": "KW"
+  },
+  "Al Fahaheel": {
+    "lat": 29.0825517,
+    "lng": 48.1397391,
+    "countryCode": "KW"
+  },
+  "Al Jahra": {
+    "lat": 29.5205177,
+    "lng": 47.306211,
+    "countryCode": "KW"
+  },
+  "Al Kuwait": {
+    "lat": 29.3796532,
+    "lng": 47.9734174,
+    "countryCode": "KW"
+  },
+  "Al Nasar": {
+    "lat": 29.3620151,
+    "lng": 47.9639739,
+    "countryCode": "KW"
+  },
+  "Al Qadsia": {
+    "lat": 25.3689531,
+    "lng": 55.414368,
+    "countryCode": "KW"
+  },
+  "Al Sahel": {
+    "lat": 29.3447346,
+    "lng": 48.0925884,
+    "countryCode": "KW"
+  },
+  "Al Salmiya": {
+    "lat": 29.344252,
+    "lng": 48.0833926,
+    "countryCode": "KW"
+  },
+  "Al Shabab": {
+    "lat": 29.3447178,
+    "lng": 47.6961612,
+    "countryCode": "KW"
+  },
+  "Al Shamiya": {
+    "lat": 29.3614752,
+    "lng": 47.9743933,
+    "countryCode": "KW"
+  },
+  "Al Sulaibikhat": {
+    "lat": 29.3118617,
+    "lng": 47.8470086,
+    "countryCode": "KW"
+  },
+  "Burgan": {
+    "lat": 28.9875797,
+    "lng": 47.9535906,
+    "countryCode": "KW"
+  },
+  "Kazma": {
+    "lat": 29.3098824,
+    "lng": 47.6769143,
+    "countryCode": "KW"
+  },
+  "Khaitan": {
+    "lat": 29.2853097,
+    "lng": 47.9759379,
+    "countryCode": "KW"
+  },
+  "Yarmouk": {
+    "lat": 29.3112015,
+    "lng": 47.9694907,
+    "countryCode": "KW"
+  }
+}

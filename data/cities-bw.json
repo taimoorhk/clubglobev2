@@ -1,0 +1,27 @@
+{
+  "Gaborone": {
+    "lat": -24.6282,
+    "lng": 25.9231,
+    "countryCode": "BW"
+  },
+  "BDF XI": {
+    "lat": -19.9675326,
+    "lng": 23.452251,
+    "countryCode": "BW"
+  },
+  "Morupule": {
+    "lat": -22.5197546,
+    "lng": 27.0360579,
+    "countryCode": "BW"
+  },
+  "Orapa": {
+    "lat": -21.3361957,
+    "lng": 25.364964,
+    "countryCode": "BW"
+  },
+  "Police XI": {
+    "lat": -19.9398902,
+    "lng": 23.4928059,
+    "countryCode": "BW"
+  }
+}

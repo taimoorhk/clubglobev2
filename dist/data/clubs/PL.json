@@ -1,0 +1,4790 @@
+[
+  {
+    "id": "pl-arka-gdynia",
+    "name": "Arka Gdynia",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Arka Gdynia",
+    "lat": 54.568591,
+    "lng": 18.438483,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8322.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 4,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-18T17:00:00Z",
+          "opponent": "Termalica Nieciecza",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T16:00:00Z",
+          "opponent": "Górnik Zabrze",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T18:30:00Z",
+          "opponent": "Lech Poznań",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-27T17:00:00Z",
+          "opponent": "Piast Gliwice",
+          "homeAway": "away",
+          "score": "4 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T15:30:00Z",
+          "opponent": "Jagiellonia Białystok",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T10:15:00Z",
+          "opponent": "Cracovia",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T17:00:00Z",
+          "opponent": "Zagłębie Lubin",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T11:15:00Z",
+          "opponent": "Korona Kielce",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T11:15:00Z",
+          "opponent": "Widzew Łódź",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-09T18:00:00Z",
+          "opponent": "Wisła Płock",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-chrobry-g-og-w",
+    "name": "Chrobry Głogów",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Chrobry Głogów",
+    "lat": 51.6887651,
+    "lng": 16.026432,
+    "divisionTier": 2,
+    "leagueId": "197",
+    "leagueName": "I Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/273525.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 1,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T17:30:00Z",
+          "opponent": "Znicz Pruszków",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T19:00:00Z",
+          "opponent": "Wisła Kraków",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:00:00Z",
+          "opponent": "GKS Tychy",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T17:30:00Z",
+          "opponent": "Polonia Warszawa",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T16:00:00Z",
+          "opponent": "Stal Mielec",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T17:30:00Z",
+          "opponent": "Górnik Łęczna",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T15:00:00Z",
+          "opponent": "Ruch Chorzów",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T16:00:00Z",
+          "opponent": "Pogoń Siedlce",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T17:00:00Z",
+          "opponent": "Puszcza Niepołomice",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T18:30:00Z",
+          "opponent": "Pogoń Grodzisk Mazowiecki",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-cracovia",
+    "name": "Cracovia",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Cracovia",
+    "lat": 50.069947400000004,
+    "lng": 20.0048564,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2186.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 5,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T12:45:00Z",
+          "opponent": "Motor Lublin",
+          "homeAway": "away",
+          "score": "3 - 3",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T17:00:00Z",
+          "opponent": "Radomiak Radom",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T12:45:00Z",
+          "opponent": "Zagłębie Lubin",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T18:15:00Z",
+          "opponent": "Pogoń Szczecin",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T12:45:00Z",
+          "opponent": "Raków Częstochowa",
+          "homeAway": "away",
+          "score": "4 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T10:15:00Z",
+          "opponent": "Arka Gdynia",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T15:30:00Z",
+          "opponent": "Górnik Zabrze",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:45:00Z",
+          "opponent": "GKS Katowice",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T19:15:00Z",
+          "opponent": "Wisła Płock",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T19:15:00Z",
+          "opponent": "Legia Warszawa",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-gdansk-district-xi",
+    "name": "Gdansk District XI",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Gdansk",
+    "lat": 54.327999999999996,
+    "lng": 18.6826,
+    "divisionTier": 7,
+    "leagueId": "eastern-europe-curated-PL-t7",
+    "leagueName": "District League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-gks-katowice",
+    "name": "GKS Katowice",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "GKS Katowice",
+    "lat": 50.191642099999996,
+    "lng": 18.9737842,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4023.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 4,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T12:45:00Z",
+          "opponent": "Jagiellonia Białystok",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T10:15:00Z",
+          "opponent": "Piast Gliwice",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T10:15:00Z",
+          "opponent": "Termalica Nieciecza",
+          "homeAway": "home",
+          "score": "5 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T12:45:00Z",
+          "opponent": "Korona Kielce",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T16:00:00Z",
+          "opponent": "Motor Lublin",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T15:30:00Z",
+          "opponent": "Lech Poznań",
+          "homeAway": "away",
+          "score": "3 - 3",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T10:15:00Z",
+          "opponent": "Wisła Płock",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:45:00Z",
+          "opponent": "Cracovia",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-17T18:00:00Z",
+          "opponent": "Jagiellonia Białystok",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T16:30:00Z",
+          "opponent": "Lechia Gdańsk",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-gks-tychy",
+    "name": "GKS Tychy",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "GKS Tychy",
+    "lat": 50.1919968,
+    "lng": 18.9535882,
+    "divisionTier": 2,
+    "leagueId": "197",
+    "leagueName": "I Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102859.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 2,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "Pogoń Grodzisk Mazowiecki",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T12:30:00Z",
+          "opponent": "Ruch Chorzów",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:00:00Z",
+          "opponent": "Chrobry Głogów",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T12:30:00Z",
+          "opponent": "Wieczysta Kraków",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T17:30:00Z",
+          "opponent": "ŁKS Łódź",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T10:00:00Z",
+          "opponent": "Pogoń Siedlce",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T17:30:00Z",
+          "opponent": "Znicz Pruszków",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T18:30:00Z",
+          "opponent": "Polonia Bytom",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T13:30:00Z",
+          "opponent": "Śląsk Wrocław",
+          "homeAway": "home",
+          "score": "2 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T19:30:00Z",
+          "opponent": "Stal Mielec",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-g-rnik-ii-zabrze",
+    "name": "Górnik II Zabrze",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Katowice",
+    "lat": 50.1889,
+    "lng": 19.007800000000003,
+    "divisionTier": 5,
+    "leagueId": "eastern-europe-curated-PL-t5",
+    "leagueName": "IV Liga",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-g-rnik-czna",
+    "name": "Górnik Łęczna",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Górnik Łęczna",
+    "lat": 51.3009076,
+    "lng": 22.9356416,
+    "divisionTier": 2,
+    "leagueId": "197",
+    "leagueName": "I Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8019.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 2,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T17:30:00Z",
+          "opponent": "Odra Opole",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T10:00:00Z",
+          "opponent": "Polonia Warszawa",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T18:30:00Z",
+          "opponent": "Śląsk Wrocław",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T16:00:00Z",
+          "opponent": "Znicz Pruszków",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-20T16:00:00Z",
+          "opponent": "Miedź Legnica",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T17:30:00Z",
+          "opponent": "Chrobry Głogów",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T09:30:00Z",
+          "opponent": "Wisła Kraków",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:30:00Z",
+          "opponent": "Pogoń Grodzisk Mazowiecki",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T18:30:00Z",
+          "opponent": "Stal Rzeszów",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T18:30:00Z",
+          "opponent": "Wieczysta Kraków",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-g-rnik-zabrze",
+    "name": "Górnik Zabrze",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Górnik Zabrze",
+    "lat": 50.312993399999996,
+    "lng": 18.8440051,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8020.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 4,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T15:30:00Z",
+          "opponent": "Wisła Płock",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T16:00:00Z",
+          "opponent": "Arka Gdynia",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T18:15:00Z",
+          "opponent": "Zagłębie Lubin",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:30:00Z",
+          "opponent": "Jagiellonia Białystok",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T15:30:00Z",
+          "opponent": "Korona Kielce",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T18:15:00Z",
+          "opponent": "Legia Warszawa",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T15:30:00Z",
+          "opponent": "Cracovia",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T16:30:00Z",
+          "opponent": "Widzew Łódź",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T16:30:00Z",
+          "opponent": "Raków Częstochowa",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T11:15:00Z",
+          "opponent": "Motor Lublin",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-hutnik-krak-w",
+    "name": "Hutnik Kraków",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Krakow",
+    "lat": 50.0367,
+    "lng": 19.977,
+    "divisionTier": 3,
+    "leagueId": "eastern-europe-curated-PL-t3",
+    "leagueName": "II Liga",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-jagiellonia-bia-ystok",
+    "name": "Jagiellonia Białystok",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Jagiellonia Białystok",
+    "lat": 53.1998608,
+    "lng": 23.115328899999998,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1957.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 3,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T12:45:00Z",
+          "opponent": "GKS Katowice",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T18:30:00Z",
+          "opponent": "Raków Częstochowa",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T15:30:00Z",
+          "opponent": "Pogoń Szczecin",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:30:00Z",
+          "opponent": "Górnik Zabrze",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T15:30:00Z",
+          "opponent": "Arka Gdynia",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:30:00Z",
+          "opponent": "Korona Kielce",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T18:15:00Z",
+          "opponent": "Lech Poznań",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T19:15:00Z",
+          "opponent": "Wisła Płock",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-17T18:00:00Z",
+          "opponent": "GKS Katowice",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:45:00Z",
+          "opponent": "Piast Gliwice",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-jagiellonia-ii-bia-ystok",
+    "name": "Jagiellonia II Białystok",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Bialystok",
+    "lat": 53.0925,
+    "lng": 23.1888,
+    "divisionTier": 4,
+    "leagueId": "eastern-europe-curated-PL-t4",
+    "leagueName": "III Liga",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-korona-ii-kielce",
+    "name": "Korona II Kielce",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Kielce",
+    "lat": 50.938100000000006,
+    "lng": 20.5966,
+    "divisionTier": 6,
+    "leagueId": "eastern-europe-curated-PL-t6",
+    "leagueName": "Regional League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-korona-kielce",
+    "name": "Korona Kielce",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Korona Kielce",
+    "lat": 50.9059812,
+    "lng": 20.5644706,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8245.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 3,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T18:30:00Z",
+          "opponent": "Widzew Łódź",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "Raków Częstochowa",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T15:30:00Z",
+          "opponent": "Piast Gliwice",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T12:45:00Z",
+          "opponent": "GKS Katowice",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T15:30:00Z",
+          "opponent": "Górnik Zabrze",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:30:00Z",
+          "opponent": "Jagiellonia Białystok",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T18:15:00Z",
+          "opponent": "Lechia Gdańsk",
+          "homeAway": "away",
+          "score": "4 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T11:15:00Z",
+          "opponent": "Arka Gdynia",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-16T18:00:00Z",
+          "opponent": "Pogoń Szczecin",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T13:45:00Z",
+          "opponent": "Termalica Nieciecza",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-krakow-district-xi",
+    "name": "Krakow District XI",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Krakow",
+    "lat": 50.008700000000005,
+    "lng": 19.949,
+    "divisionTier": 7,
+    "leagueId": "eastern-europe-curated-PL-t7",
+    "leagueName": "District League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-lech-ii-pozna",
+    "name": "Lech II Poznań",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Poznan",
+    "lat": 52.4464,
+    "lng": 16.8612,
+    "divisionTier": 4,
+    "leagueId": "eastern-europe-curated-PL-t4",
+    "leagueName": "III Liga",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-lech-pozna",
+    "name": "Lech Poznań",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Lech Poznań",
+    "lat": 52.3810048,
+    "lng": 16.9028798,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2182.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 3,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T18:15:00Z",
+          "opponent": "Radomiak Radom",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T18:30:00Z",
+          "opponent": "Arka Gdynia",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:15:00Z",
+          "opponent": "Motor Lublin",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T15:30:00Z",
+          "opponent": "Legia Warszawa",
+          "homeAway": "home",
+          "score": "4 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T18:15:00Z",
+          "opponent": "Pogoń Szczecin",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T15:30:00Z",
+          "opponent": "GKS Katowice",
+          "homeAway": "home",
+          "score": "3 - 3",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T18:15:00Z",
+          "opponent": "Jagiellonia Białystok",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T13:45:00Z",
+          "opponent": "Termalica Nieciecza",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T13:45:00Z",
+          "opponent": "Zagłębie Lubin",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T19:15:00Z",
+          "opponent": "Widzew Łódź",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-lechia-gda-sk",
+    "name": "Lechia Gdańsk",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Lechia Gdańsk",
+    "lat": 54.3666621,
+    "lng": 18.6756096,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8030.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 1,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T15:30:00Z",
+          "opponent": "Legia Warszawa",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T12:45:00Z",
+          "opponent": "Widzew Łódź",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T17:00:00Z",
+          "opponent": "Radomiak Radom",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T15:30:00Z",
+          "opponent": "Raków Częstochowa",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-20T17:00:00Z",
+          "opponent": "Piast Gliwice",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T16:00:00Z",
+          "opponent": "Wisła Płock",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T18:15:00Z",
+          "opponent": "Korona Kielce",
+          "homeAway": "home",
+          "score": "4 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T16:30:00Z",
+          "opponent": "Pogoń Szczecin",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T16:30:00Z",
+          "opponent": "GKS Katowice",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T19:30:00Z",
+          "opponent": "Jagiellonia Białystok",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-legia-ii-warsaw",
+    "name": "Legia II Warsaw",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Warsaw",
+    "lat": 52.2057,
+    "lng": 21.0482,
+    "divisionTier": 4,
+    "leagueId": "eastern-europe-curated-PL-t4",
+    "leagueName": "III Liga",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-legia-warszawa",
+    "name": "Legia Warszawa",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Legia Warszawa",
+    "lat": 52.2613093,
+    "lng": 20.9777691,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8673.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 3,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T15:30:00Z",
+          "opponent": "Lechia Gdańsk",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T15:30:00Z",
+          "opponent": "Termalica Nieciecza",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T18:30:00Z",
+          "opponent": "Widzew Łódź",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T15:30:00Z",
+          "opponent": "Lech Poznań",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:30:00Z",
+          "opponent": "Zagłębie Lubin",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T18:15:00Z",
+          "opponent": "Górnik Zabrze",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T15:30:00Z",
+          "opponent": "Pogoń Szczecin",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T19:15:00Z",
+          "opponent": "Raków Częstochowa",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:30:00Z",
+          "opponent": "Radomiak Radom",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T19:15:00Z",
+          "opponent": "Cracovia",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-ks-ii-d",
+    "name": "ŁKS II Łódź",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Lodz",
+    "lat": 51.7192,
+    "lng": 19.476,
+    "divisionTier": 6,
+    "leagueId": "eastern-europe-curated-PL-t6",
+    "leagueName": "Regional League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-ks-d",
+    "name": "ŁKS Łódź",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "ŁKS Łódź",
+    "lat": 51.7672202,
+    "lng": 19.4613465,
+    "divisionTier": 2,
+    "leagueId": "197",
+    "leagueName": "I Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8244.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 3,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-18T16:00:00Z",
+          "opponent": "Puszcza Niepołomice",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T16:30:00Z",
+          "opponent": "Śląsk Wrocław",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-07T16:00:00Z",
+          "opponent": "Pogoń Grodzisk Mazowiecki",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T17:30:00Z",
+          "opponent": "Pogoń Siedlce",
+          "homeAway": "home",
+          "score": "4 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T12:30:00Z",
+          "opponent": "Stal Rzeszów",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T17:30:00Z",
+          "opponent": "GKS Tychy",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T17:30:00Z",
+          "opponent": "Wieczysta Kraków",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:30:00Z",
+          "opponent": "Ruch Chorzów",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T16:00:00Z",
+          "opponent": "Odra Opole",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-09T17:00:00Z",
+          "opponent": "Polonia Warszawa",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-lublinianka",
+    "name": "Lublinianka",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Lublin",
+    "lat": 51.274499999999996,
+    "lng": 22.4924,
+    "divisionTier": 5,
+    "leagueId": "eastern-europe-curated-PL-t5",
+    "leagueName": "IV Liga",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-mied-legnica",
+    "name": "Miedź Legnica",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Miedź Legnica",
+    "lat": 51.1238661,
+    "lng": 16.1506163,
+    "divisionTier": 2,
+    "leagueId": "197",
+    "leagueName": "I Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8048.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 2,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T12:30:00Z",
+          "opponent": "Ruch Chorzów",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T17:30:00Z",
+          "opponent": "Wieczysta Kraków",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T17:30:00Z",
+          "opponent": "Stal Mielec",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T17:30:00Z",
+          "opponent": "Pogoń Siedlce",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-20T16:00:00Z",
+          "opponent": "Górnik Łęczna",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T15:00:00Z",
+          "opponent": "Znicz Pruszków",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T16:00:00Z",
+          "opponent": "Polonia Bytom",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T18:30:00Z",
+          "opponent": "Polonia Warszawa",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:30:00Z",
+          "opponent": "Wisła Kraków",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T18:30:00Z",
+          "opponent": "Stal Rzeszów",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-motor-lublin",
+    "name": "Motor Lublin",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Motor Lublin",
+    "lat": 51.1600671,
+    "lng": 22.5444217,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/89466.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 4,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T12:45:00Z",
+          "opponent": "Cracovia",
+          "homeAway": "home",
+          "score": "3 - 3",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T12:45:00Z",
+          "opponent": "Wisła Płock",
+          "homeAway": "away",
+          "score": "0 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:15:00Z",
+          "opponent": "Lech Poznań",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T12:45:00Z",
+          "opponent": "Widzew Łódź",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T16:00:00Z",
+          "opponent": "GKS Katowice",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T12:45:00Z",
+          "opponent": "Raków Częstochowa",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T12:45:00Z",
+          "opponent": "Radomiak Radom",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:30:00Z",
+          "opponent": "Zagłębie Lubin",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T17:00:00Z",
+          "opponent": "Termalica Nieciecza",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T11:15:00Z",
+          "opponent": "Górnik Zabrze",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-odra-opole",
+    "name": "Odra Opole",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Odra Opole",
+    "lat": 50.6855161,
+    "lng": 18.0042581,
+    "divisionTier": 2,
+    "leagueId": "197",
+    "leagueName": "I Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8047.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 3,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T17:30:00Z",
+          "opponent": "Górnik Łęczna",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T16:30:00Z",
+          "opponent": "Pogoń Grodzisk Mazowiecki",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T12:30:00Z",
+          "opponent": "Ruch Chorzów",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T15:00:00Z",
+          "opponent": "Polonia Bytom",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T17:30:00Z",
+          "opponent": "Wieczysta Kraków",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:30:00Z",
+          "opponent": "Puszcza Niepołomice",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T10:00:00Z",
+          "opponent": "Stal Rzeszów",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:00:00Z",
+          "opponent": "Wisła Kraków",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T16:00:00Z",
+          "opponent": "ŁKS Łódź",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T11:00:00Z",
+          "opponent": "Znicz Pruszków",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-piast-gliwice",
+    "name": "Piast Gliwice",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Piast Gliwice",
+    "lat": 50.280845899999996,
+    "lng": 18.741488099999998,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8028.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 3,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T10:15:00Z",
+          "opponent": "Raków Częstochowa",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T10:15:00Z",
+          "opponent": "GKS Katowice",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T15:30:00Z",
+          "opponent": "Korona Kielce",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-27T17:00:00Z",
+          "opponent": "Arka Gdynia",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-20T17:00:00Z",
+          "opponent": "Lechia Gdańsk",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-13T17:00:00Z",
+          "opponent": "Pogoń Szczecin",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T10:15:00Z",
+          "opponent": "Termalica Nieciecza",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T17:00:00Z",
+          "opponent": "Radomiak Radom",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:45:00Z",
+          "opponent": "Jagiellonia Białystok",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T16:30:00Z",
+          "opponent": "Zagłębie Lubin",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-pogo-grodzisk-mazowiecki",
+    "name": "Pogoń Grodzisk Mazowiecki",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Pogoń Grodzisk Mazowiecki",
+    "lat": 52.1138725,
+    "lng": 20.6975022,
+    "divisionTier": 2,
+    "leagueId": "197",
+    "leagueName": "I Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/585593.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 2,
+      "losses": 7,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "GKS Tychy",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T16:30:00Z",
+          "opponent": "Odra Opole",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-07T16:00:00Z",
+          "opponent": "ŁKS Łódź",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T17:30:00Z",
+          "opponent": "Wieczysta Kraków",
+          "homeAway": "home",
+          "score": "1 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-27T16:00:00Z",
+          "opponent": "Ruch Chorzów",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T15:00:00Z",
+          "opponent": "Pogoń Siedlce",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T17:30:00Z",
+          "opponent": "Stal Mielec",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:30:00Z",
+          "opponent": "Górnik Łęczna",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T18:30:00Z",
+          "opponent": "Polonia Warszawa",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T18:30:00Z",
+          "opponent": "Chrobry Głogów",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-pogo-siedlce",
+    "name": "Pogoń Siedlce",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Pogoń Siedlce",
+    "lat": 52.154561799999996,
+    "lng": 22.334593100000003,
+    "divisionTier": 2,
+    "leagueId": "197",
+    "leagueName": "I Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/273750.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 7,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T16:00:00Z",
+          "opponent": "Stal Mielec",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T15:00:00Z",
+          "opponent": "Stal Rzeszów",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T17:30:00Z",
+          "opponent": "ŁKS Łódź",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T17:30:00Z",
+          "opponent": "Miedź Legnica",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T15:00:00Z",
+          "opponent": "Pogoń Grodzisk Mazowiecki",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T10:00:00Z",
+          "opponent": "GKS Tychy",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T17:30:00Z",
+          "opponent": "Śląsk Wrocław",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T16:00:00Z",
+          "opponent": "Chrobry Głogów",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T11:00:00Z",
+          "opponent": "Znicz Pruszków",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T17:00:00Z",
+          "opponent": "Puszcza Niepołomice",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-pogo-szczecin",
+    "name": "Pogoń Szczecin",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Pogoń Szczecin",
+    "lat": 53.456806300000004,
+    "lng": 14.4314468,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8023.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 1,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T16:00:00Z",
+          "opponent": "Zagłębie Lubin",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T15:30:00Z",
+          "opponent": "Jagiellonia Białystok",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:30:00Z",
+          "opponent": "Wisła Płock",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T18:15:00Z",
+          "opponent": "Cracovia",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T18:15:00Z",
+          "opponent": "Lech Poznań",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-13T17:00:00Z",
+          "opponent": "Piast Gliwice",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T15:30:00Z",
+          "opponent": "Legia Warszawa",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T16:30:00Z",
+          "opponent": "Lechia Gdańsk",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-16T18:00:00Z",
+          "opponent": "Korona Kielce",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T16:30:00Z",
+          "opponent": "Raków Częstochowa",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-polonia-bytom",
+    "name": "Polonia Bytom",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Katowice",
+    "lat": 50.216899999999995,
+    "lng": 19.035800000000002,
+    "divisionTier": 3,
+    "leagueId": "eastern-europe-curated-PL-t3",
+    "leagueName": "II Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8031.png",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-polonia-warsaw-ii",
+    "name": "Polonia Warsaw II",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Warsaw",
+    "lat": 52.2897,
+    "lng": 20.9682,
+    "divisionTier": 6,
+    "leagueId": "eastern-europe-curated-PL-t6",
+    "leagueName": "Regional League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-polonia-warszawa",
+    "name": "Polonia Warszawa",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Polonia Warszawa",
+    "lat": 52.2298636,
+    "lng": 21.079734600000002,
+    "divisionTier": 2,
+    "leagueId": "197",
+    "leagueName": "I Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2183.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 1,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T18:30:00Z",
+          "opponent": "Wisła Kraków",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T10:00:00Z",
+          "opponent": "Górnik Łęczna",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T16:00:00Z",
+          "opponent": "Polonia Bytom",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T17:30:00Z",
+          "opponent": "Chrobry Głogów",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:30:00Z",
+          "opponent": "Stal Rzeszów",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T16:00:00Z",
+          "opponent": "Śląsk Wrocław",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T12:30:00Z",
+          "opponent": "Puszcza Niepołomice",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T18:30:00Z",
+          "opponent": "Miedź Legnica",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T18:30:00Z",
+          "opponent": "Pogoń Grodzisk Mazowiecki",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-09T17:00:00Z",
+          "opponent": "ŁKS Łódź",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-puszcza-niepo-omice",
+    "name": "Puszcza Niepołomice",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Puszcza Niepołomice",
+    "lat": 50.0879173,
+    "lng": 20.173180400000003,
+    "divisionTier": 2,
+    "leagueId": "197",
+    "leagueName": "I Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/205870.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 3,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-18T16:00:00Z",
+          "opponent": "ŁKS Łódź",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T17:30:00Z",
+          "opponent": "Stal Mielec",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T16:00:00Z",
+          "opponent": "Znicz Pruszków",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:30:00Z",
+          "opponent": "Wisła Kraków",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T17:30:00Z",
+          "opponent": "Polonia Bytom",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:30:00Z",
+          "opponent": "Odra Opole",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T12:30:00Z",
+          "opponent": "Polonia Warszawa",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T18:30:00Z",
+          "opponent": "Śląsk Wrocław",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T17:00:00Z",
+          "opponent": "Chrobry Głogów",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T17:00:00Z",
+          "opponent": "Pogoń Siedlce",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-radomiak-radom",
+    "name": "Radomiak Radom",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Radomiak Radom",
+    "lat": 51.333461,
+    "lng": 21.1563842,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/5769.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 3,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T18:15:00Z",
+          "opponent": "Lech Poznań",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T17:00:00Z",
+          "opponent": "Cracovia",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T17:00:00Z",
+          "opponent": "Lechia Gdańsk",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T10:15:00Z",
+          "opponent": "Wisła Płock",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T12:45:00Z",
+          "opponent": "Widzew Łódź",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T15:30:00Z",
+          "opponent": "Zagłębie Lubin",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T12:45:00Z",
+          "opponent": "Motor Lublin",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T17:00:00Z",
+          "opponent": "Piast Gliwice",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:30:00Z",
+          "opponent": "Legia Warszawa",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T13:45:00Z",
+          "opponent": "GKS Katowice",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-rak-w-cz-stochowa",
+    "name": "Raków Częstochowa",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Raków Częstochowa",
+    "lat": 50.8124884,
+    "lng": 19.0898726,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4024.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 3,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T10:15:00Z",
+          "opponent": "Piast Gliwice",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T18:30:00Z",
+          "opponent": "Jagiellonia Białystok",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "Korona Kielce",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T15:30:00Z",
+          "opponent": "Lechia Gdańsk",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T12:45:00Z",
+          "opponent": "Cracovia",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T12:45:00Z",
+          "opponent": "Motor Lublin",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T12:45:00Z",
+          "opponent": "Widzew Łódź",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T19:15:00Z",
+          "opponent": "Legia Warszawa",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T16:30:00Z",
+          "opponent": "Górnik Zabrze",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T16:30:00Z",
+          "opponent": "Pogoń Szczecin",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-ruch-chorz-w",
+    "name": "Ruch Chorzów",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Ruch Chorzów",
+    "lat": 50.245095400000004,
+    "lng": 18.9796327,
+    "divisionTier": 2,
+    "leagueId": "197",
+    "leagueName": "I Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1601.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 4,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T12:30:00Z",
+          "opponent": "Miedź Legnica",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T12:30:00Z",
+          "opponent": "GKS Tychy",
+          "homeAway": "away",
+          "score": "0 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T12:30:00Z",
+          "opponent": "Odra Opole",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-27T16:00:00Z",
+          "opponent": "Pogoń Grodzisk Mazowiecki",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T12:30:00Z",
+          "opponent": "Wisła Kraków",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T17:30:00Z",
+          "opponent": "Wieczysta Kraków",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T15:00:00Z",
+          "opponent": "Chrobry Głogów",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:30:00Z",
+          "opponent": "ŁKS Łódź",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T18:30:00Z",
+          "opponent": "Stal Mielec",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T13:30:00Z",
+          "opponent": "Polonia Bytom",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-l-sk-ii-wroc-aw",
+    "name": "Śląsk II Wrocław",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Wroclaw",
+    "lat": 51.063900000000004,
+    "lng": 17.054499999999997,
+    "divisionTier": 4,
+    "leagueId": "eastern-europe-curated-PL-t4",
+    "leagueName": "III Liga",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-l-sk-wroc-aw",
+    "name": "Śląsk Wrocław",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Śląsk Wrocław",
+    "lat": 51.146226,
+    "lng": 16.9401887,
+    "divisionTier": 2,
+    "leagueId": "197",
+    "leagueName": "I Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8025.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 7,
+      "draws": 3,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T18:15:00Z",
+          "opponent": "Polonia Bytom",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T16:30:00Z",
+          "opponent": "ŁKS Łódź",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T18:30:00Z",
+          "opponent": "Górnik Łęczna",
+          "homeAway": "away",
+          "score": "0 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T17:30:00Z",
+          "opponent": "Stal Mielec",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T11:00:00Z",
+          "opponent": "Znicz Pruszków",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T16:00:00Z",
+          "opponent": "Polonia Warszawa",
+          "homeAway": "away",
+          "score": "0 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T17:30:00Z",
+          "opponent": "Pogoń Siedlce",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T18:30:00Z",
+          "opponent": "Puszcza Niepołomice",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T13:30:00Z",
+          "opponent": "GKS Tychy",
+          "homeAway": "away",
+          "score": "2 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T16:30:00Z",
+          "opponent": "Wisła Kraków",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "AW"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-stal-mielec",
+    "name": "Stal Mielec",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Stal Mielec",
+    "lat": 50.281437499999996,
+    "lng": 21.469459999999998,
+    "divisionTier": 2,
+    "leagueId": "197",
+    "leagueName": "I Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/458623.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 1,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T16:00:00Z",
+          "opponent": "Pogoń Siedlce",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T17:30:00Z",
+          "opponent": "Puszcza Niepołomice",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T17:30:00Z",
+          "opponent": "Miedź Legnica",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T17:30:00Z",
+          "opponent": "Śląsk Wrocław",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T16:00:00Z",
+          "opponent": "Chrobry Głogów",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T17:30:00Z",
+          "opponent": "Stal Rzeszów",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T17:30:00Z",
+          "opponent": "Pogoń Grodzisk Mazowiecki",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T13:30:00Z",
+          "opponent": "Wieczysta Kraków",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T18:30:00Z",
+          "opponent": "Ruch Chorzów",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T19:30:00Z",
+          "opponent": "GKS Tychy",
+          "homeAway": "home",
+          "score": "4 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-stal-rzesz-w",
+    "name": "Stal Rzeszów",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Stal Rzeszów",
+    "lat": 49.9662767,
+    "lng": 22.0011863,
+    "divisionTier": 2,
+    "leagueId": "197",
+    "leagueName": "I Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/177362.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 1,
+      "losses": 7,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T17:30:00Z",
+          "opponent": "Wieczysta Kraków",
+          "homeAway": "home",
+          "score": "1 - 5",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T15:00:00Z",
+          "opponent": "Pogoń Siedlce",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T18:15:00Z",
+          "opponent": "Wisła Kraków",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T12:30:00Z",
+          "opponent": "ŁKS Łódź",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:30:00Z",
+          "opponent": "Polonia Warszawa",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T17:30:00Z",
+          "opponent": "Stal Mielec",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T10:00:00Z",
+          "opponent": "Odra Opole",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T17:00:00Z",
+          "opponent": "Znicz Pruszków",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T18:30:00Z",
+          "opponent": "Górnik Łęczna",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T18:30:00Z",
+          "opponent": "Miedź Legnica",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-termalica-nieciecza",
+    "name": "Termalica Nieciecza",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Termalica Nieciecza",
+    "lat": 50.0816921,
+    "lng": 20.832804600000003,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/177361.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 0,
+      "losses": 7,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-18T17:00:00Z",
+          "opponent": "Arka Gdynia",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T15:30:00Z",
+          "opponent": "Legia Warszawa",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T10:15:00Z",
+          "opponent": "GKS Katowice",
+          "homeAway": "away",
+          "score": "5 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T16:00:00Z",
+          "opponent": "Zagłębie Lubin",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T10:15:00Z",
+          "opponent": "Wisła Płock",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T12:45:00Z",
+          "opponent": "Widzew Łódź",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T10:15:00Z",
+          "opponent": "Piast Gliwice",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T13:45:00Z",
+          "opponent": "Lech Poznań",
+          "homeAway": "away",
+          "score": "4 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T17:00:00Z",
+          "opponent": "Motor Lublin",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T13:45:00Z",
+          "opponent": "Korona Kielce",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-ursus-warsaw",
+    "name": "Ursus Warsaw",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Warsaw",
+    "lat": 52.2417,
+    "lng": 21.0842,
+    "divisionTier": 5,
+    "leagueId": "eastern-europe-curated-PL-t5",
+    "leagueName": "IV Liga",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-warsaw-district-xi",
+    "name": "Warsaw District XI",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Warsaw",
+    "lat": 52.2897,
+    "lng": 20.9682,
+    "divisionTier": 7,
+    "leagueId": "eastern-europe-curated-PL-t7",
+    "leagueName": "District League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-warta-gorz-w",
+    "name": "Warta Gorzów",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Poznan",
+    "lat": 52.422399999999996,
+    "lng": 17.0012,
+    "divisionTier": 5,
+    "leagueId": "eastern-europe-curated-PL-t5",
+    "leagueName": "IV Liga",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-widzew-d",
+    "name": "Widzew Łódź",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Widzew Łódź",
+    "lat": 51.7404438,
+    "lng": 19.5480582,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8024.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 3,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T18:30:00Z",
+          "opponent": "Korona Kielce",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T12:45:00Z",
+          "opponent": "Lechia Gdańsk",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T18:30:00Z",
+          "opponent": "Legia Warszawa",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T12:45:00Z",
+          "opponent": "Motor Lublin",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T12:45:00Z",
+          "opponent": "Radomiak Radom",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T12:45:00Z",
+          "opponent": "Termalica Nieciecza",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T12:45:00Z",
+          "opponent": "Raków Częstochowa",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T16:30:00Z",
+          "opponent": "Górnik Zabrze",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T11:15:00Z",
+          "opponent": "Arka Gdynia",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T19:15:00Z",
+          "opponent": "Lech Poznań",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-wieczysta-krak-w",
+    "name": "Wieczysta Kraków",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Krakow",
+    "lat": 50.1167,
+    "lng": 19.893,
+    "divisionTier": 3,
+    "leagueId": "eastern-europe-curated-PL-t3",
+    "leagueName": "II Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1286895.png",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-wis-a-ii-krak-w",
+    "name": "Wisła II Kraków",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Krakow",
+    "lat": 50.1047,
+    "lng": 19.881,
+    "divisionTier": 6,
+    "leagueId": "eastern-europe-curated-PL-t6",
+    "leagueName": "Regional League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-wis-a-krak-w",
+    "name": "Wisła Kraków",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Wisła Kraków",
+    "lat": 50.0522207,
+    "lng": 19.961202099999998,
+    "divisionTier": 2,
+    "leagueId": "197",
+    "leagueName": "I Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10265.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 4,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T18:30:00Z",
+          "opponent": "Polonia Warszawa",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T19:00:00Z",
+          "opponent": "Chrobry Głogów",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T18:15:00Z",
+          "opponent": "Stal Rzeszów",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:30:00Z",
+          "opponent": "Puszcza Niepołomice",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T12:30:00Z",
+          "opponent": "Ruch Chorzów",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T12:30:00Z",
+          "opponent": "Polonia Bytom",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T09:30:00Z",
+          "opponent": "Górnik Łęczna",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:00:00Z",
+          "opponent": "Odra Opole",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:30:00Z",
+          "opponent": "Miedź Legnica",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T16:30:00Z",
+          "opponent": "Śląsk Wrocław",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "AW"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-wis-a-p-ock",
+    "name": "Wisła Płock",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Wisła Płock",
+    "lat": 52.5581021,
+    "lng": 19.7393612,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8243.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T15:30:00Z",
+          "opponent": "Górnik Zabrze",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T12:45:00Z",
+          "opponent": "Motor Lublin",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:30:00Z",
+          "opponent": "Pogoń Szczecin",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T10:15:00Z",
+          "opponent": "Radomiak Radom",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T10:15:00Z",
+          "opponent": "Termalica Nieciecza",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T16:00:00Z",
+          "opponent": "Lechia Gdańsk",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T10:15:00Z",
+          "opponent": "GKS Katowice",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T19:15:00Z",
+          "opponent": "Jagiellonia Białystok",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T19:15:00Z",
+          "opponent": "Cracovia",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-09T18:00:00Z",
+          "opponent": "Arka Gdynia",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-wroclaw-district-xi",
+    "name": "Wroclaw District XI",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Wroclaw",
+    "lat": 51.1879,
+    "lng": 17.014499999999998,
+    "divisionTier": 7,
+    "leagueId": "eastern-europe-curated-PL-t7",
+    "leagueName": "District League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-zag-bie-lubin",
+    "name": "Zagłębie Lubin",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Zagłębie Lubin",
+    "lat": 51.4541619,
+    "lng": 16.1332008,
+    "divisionTier": 1,
+    "leagueId": "196",
+    "leagueName": "Ekstraklasa",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8021.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 1,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T16:00:00Z",
+          "opponent": "Pogoń Szczecin",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T18:15:00Z",
+          "opponent": "Górnik Zabrze",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T12:45:00Z",
+          "opponent": "Cracovia",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T16:00:00Z",
+          "opponent": "Termalica Nieciecza",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:30:00Z",
+          "opponent": "Legia Warszawa",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T15:30:00Z",
+          "opponent": "Radomiak Radom",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T17:00:00Z",
+          "opponent": "Arka Gdynia",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:30:00Z",
+          "opponent": "Motor Lublin",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T13:45:00Z",
+          "opponent": "Lech Poznań",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T16:30:00Z",
+          "opponent": "Piast Gliwice",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-zag-bie-sosnowiec",
+    "name": "Zagłębie Sosnowiec",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Katowice",
+    "lat": 50.2609,
+    "lng": 19.079800000000002,
+    "divisionTier": 3,
+    "leagueId": "eastern-europe-curated-PL-t3",
+    "leagueName": "II Liga",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "pl-znicz-pruszk-w",
+    "name": "Znicz Pruszków",
+    "countryCode": "PL",
+    "country": "Poland",
+    "city": "Znicz Pruszków",
+    "lat": 52.205208,
+    "lng": 20.7462134,
+    "divisionTier": 2,
+    "leagueId": "197",
+    "leagueName": "I Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/89469.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 2,
+      "losses": 7,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T17:30:00Z",
+          "opponent": "Chrobry Głogów",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T17:30:00Z",
+          "opponent": "Polonia Bytom",
+          "homeAway": "home",
+          "score": "1 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T16:00:00Z",
+          "opponent": "Puszcza Niepołomice",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T16:00:00Z",
+          "opponent": "Górnik Łęczna",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T11:00:00Z",
+          "opponent": "Śląsk Wrocław",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T15:00:00Z",
+          "opponent": "Miedź Legnica",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T17:30:00Z",
+          "opponent": "GKS Tychy",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T17:00:00Z",
+          "opponent": "Stal Rzeszów",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T11:00:00Z",
+          "opponent": "Pogoń Siedlce",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T11:00:00Z",
+          "opponent": "Odra Opole",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

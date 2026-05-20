@@ -1,0 +1,62 @@
+{
+  "AGF": {
+    "lat": 56.1265862,
+    "lng": 10.1769814,
+    "countryCode": "DK"
+  },
+  "Brøndby": {
+    "lat": 55.644111,
+    "lng": 12.4217135,
+    "countryCode": "DK"
+  },
+  "FC København": {
+    "lat": 55.6867243,
+    "lng": 12.5700724,
+    "countryCode": "DK"
+  },
+  "FC Midtjylland": {
+    "lat": 56.1170409,
+    "lng": 8.950923,
+    "countryCode": "DK"
+  },
+  "Fredericia": {
+    "lat": 55.565268,
+    "lng": 9.7562169,
+    "countryCode": "DK"
+  },
+  "Nordsjælland": {
+    "lat": 55.9775728,
+    "lng": 12.1294883,
+    "countryCode": "DK"
+  },
+  "OB": {
+    "lat": 55.699519,
+    "lng": 12.578004,
+    "countryCode": "DK"
+  },
+  "Randers": {
+    "lat": 56.4355428,
+    "lng": 10.0425957,
+    "countryCode": "DK"
+  },
+  "Silkeborg": {
+    "lat": 56.169453,
+    "lng": 9.5495141,
+    "countryCode": "DK"
+  },
+  "Sønderjyske": {
+    "lat": 55.6027234,
+    "lng": 9.5852723,
+    "countryCode": "DK"
+  },
+  "Vejle Boldklub": {
+    "lat": 55.7396565,
+    "lng": 9.5970405,
+    "countryCode": "DK"
+  },
+  "Viborg": {
+    "lat": 56.4469128,
+    "lng": 9.4059354,
+    "countryCode": "DK"
+  }
+}

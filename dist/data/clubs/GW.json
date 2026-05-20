@@ -1,0 +1,258 @@
+[
+  {
+    "id": "gw-acad-mica",
+    "name": "Académica",
+    "countryCode": "GW",
+    "country": "Guinea-Bissau",
+    "city": "Académica",
+    "lat": 12.056,
+    "lng": -15.048,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GW-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gw-benfica-bissau",
+    "name": "Benfica Bissau",
+    "countryCode": "GW",
+    "country": "Guinea-Bissau",
+    "city": "Benfica Bissau",
+    "lat": 11.8458592,
+    "lng": -15.5425805,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GW-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gw-canhabaque",
+    "name": "Canhabaque",
+    "countryCode": "GW",
+    "country": "Guinea-Bissau",
+    "city": "Canhabaque",
+    "lat": 11.179274399999999,
+    "lng": -15.7573116,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GW-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gw-estrela-negra",
+    "name": "Estrela Negra",
+    "countryCode": "GW",
+    "country": "Guinea-Bissau",
+    "city": "Estrela Negra",
+    "lat": 11.948,
+    "lng": -14.992,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GW-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gw-fc-cuntum",
+    "name": "FC Cuntum",
+    "countryCode": "GW",
+    "country": "Guinea-Bissau",
+    "city": "FC Cuntum",
+    "lat": 11.8226541,
+    "lng": -15.5831532,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GW-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/4d/Futebol_Clube_de_Cuntum.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gw-porto-de-bissau",
+    "name": "Porto de Bissau",
+    "countryCode": "GW",
+    "country": "Guinea-Bissau",
+    "city": "Porto de Bissau",
+    "lat": 11.8107635,
+    "lng": -15.563879499999999,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GW-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Fulham_v_Everton_10052025_%287%29_%28Beto%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gw-sc-bissau",
+    "name": "SC Bissau",
+    "countryCode": "GW",
+    "country": "Guinea-Bissau",
+    "city": "SC Bissau",
+    "lat": 11.857324,
+    "lng": -15.527055,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GW-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gw-sport-bissau-e-benfica",
+    "name": "Sport Bissau e Benfica",
+    "countryCode": "GW",
+    "country": "Guinea-Bissau",
+    "city": "Sport Bissau e Benfica",
+    "lat": 11.933859199999999,
+    "lng": -15.6185805,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GW-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

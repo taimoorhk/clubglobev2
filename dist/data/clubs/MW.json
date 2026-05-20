@@ -1,0 +1,290 @@
+[
+  {
+    "id": "mw-be-forward-wanderers",
+    "name": "Be Forward Wanderers",
+    "countryCode": "MW",
+    "country": "Malawi",
+    "city": "Be Forward",
+    "lat": -13.312000000000001,
+    "lng": 34.348,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MW-t1",
+    "leagueName": "Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mw-big-bullets",
+    "name": "Big Bullets",
+    "countryCode": "MW",
+    "country": "Malawi",
+    "city": "Big Bullets",
+    "lat": -15.808526599999999,
+    "lng": 35.0691904,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MW-t1",
+    "leagueName": "Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mw-blue-eagles",
+    "name": "Blue Eagles",
+    "countryCode": "MW",
+    "country": "Malawi",
+    "city": "Blue Eagles",
+    "lat": -14.0022824,
+    "lng": 33.774757099999995,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MW-t1",
+    "leagueName": "Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mw-civo-united",
+    "name": "Civo United",
+    "countryCode": "MW",
+    "country": "Malawi",
+    "city": "Civo",
+    "lat": -13.9582668,
+    "lng": 33.838772299999995,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MW-t1",
+    "leagueName": "Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mw-ekwendeni-hammers",
+    "name": "Ekwendeni Hammers",
+    "countryCode": "MW",
+    "country": "Malawi",
+    "city": "Ekwendeni Hammers",
+    "lat": -13.368,
+    "lng": 34.291999999999994,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MW-t1",
+    "leagueName": "Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mw-mafco",
+    "name": "MAFCO",
+    "countryCode": "MW",
+    "country": "Malawi",
+    "city": "MAFCO",
+    "lat": -13.272,
+    "lng": 34.224,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MW-t1",
+    "leagueName": "Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mw-mighty-tigers",
+    "name": "Mighty Tigers",
+    "countryCode": "MW",
+    "country": "Malawi",
+    "city": "Mighty Tigers",
+    "lat": -13.272,
+    "lng": 34.224,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MW-t1",
+    "leagueName": "Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mw-moyale-barracks",
+    "name": "Moyale Barracks",
+    "countryCode": "MW",
+    "country": "Malawi",
+    "city": "Moyale Barracks",
+    "lat": -13.352,
+    "lng": 34.308,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MW-t1",
+    "leagueName": "Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mw-silver-strikers",
+    "name": "Silver Strikers",
+    "countryCode": "MW",
+    "country": "Malawi",
+    "city": "Silver Strikers",
+    "lat": -13.232000000000001,
+    "lng": 34.263999999999996,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MW-t1",
+    "leagueName": "Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

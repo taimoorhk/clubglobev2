@@ -1,0 +1,162 @@
+{
+  "Academy": {
+    "lat": -26.0755233,
+    "lng": 27.9162845,
+    "countryCode": "ZA"
+  },
+  "African": {
+    "lat": -28.8166236,
+    "lng": 24.991639,
+    "countryCode": "ZA"
+  },
+  "Ajax Cape": {
+    "lat": -33.9306987,
+    "lng": 18.5097601,
+    "countryCode": "ZA"
+  },
+  "AmaZulu": {
+    "lat": -26.2200964,
+    "lng": 27.7063604,
+    "countryCode": "ZA"
+  },
+  "Batau": {
+    "lat": -25.1733333,
+    "lng": 26.7288889,
+    "countryCode": "ZA"
+  },
+  "Blackburn": {
+    "lat": -26.2141961,
+    "lng": 28.3329863,
+    "countryCode": "ZA"
+  },
+  "Cape Town": {
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "countryCode": "ZA"
+  },
+  "Dikwena": {
+    "lat": -25.9840373,
+    "lng": 28.205864,
+    "countryCode": "ZA"
+  },
+  "Durban": {
+    "lat": -29.8587,
+    "lng": 31.0218,
+    "countryCode": "ZA"
+  },
+  "Ezemvelo": {
+    "lat": -25.7393464,
+    "lng": 28.8675334,
+    "countryCode": "ZA"
+  },
+  "Giyani": {
+    "lat": -23.315278,
+    "lng": 30.725556,
+    "countryCode": "ZA"
+  },
+  "Gqeberha": {
+    "lat": -33.9608,
+    "lng": 25.6022,
+    "countryCode": "ZA"
+  },
+  "Hellenic": {
+    "lat": -25.7574109,
+    "lng": 28.2313334,
+    "countryCode": "ZA"
+  },
+  "Highlands Park": {
+    "lat": -28.5065058,
+    "lng": 28.6739808,
+    "countryCode": "ZA"
+  },
+  "Ikwezi": {
+    "lat": -31.6067295,
+    "lng": 28.8005545,
+    "countryCode": "ZA"
+  },
+  "Johannesburg": {
+    "lat": -26.2041,
+    "lng": 28.0473,
+    "countryCode": "ZA"
+  },
+  "Jomo Cosmos": {
+    "lat": -26.2239201,
+    "lng": 27.7060769,
+    "countryCode": "ZA"
+  },
+  "Leopards": {
+    "lat": -34.2048721,
+    "lng": 22.0404709,
+    "countryCode": "ZA"
+  },
+  "Maritzburg": {
+    "lat": -29.6164234,
+    "lng": 30.3805122,
+    "countryCode": "ZA"
+  },
+  "Milford": {
+    "lat": -27.9508333,
+    "lng": 30.2569444,
+    "countryCode": "ZA"
+  },
+  "Moroka Swallows": {
+    "lat": -26.2210525,
+    "lng": 27.7064694,
+    "countryCode": "ZA"
+  },
+  "Orbit College": {
+    "lat": -25.295854,
+    "lng": 27.1970576,
+    "countryCode": "ZA"
+  },
+  "Orlando Pirates B": {
+    "lat": -26.218693,
+    "lng": 27.7064945,
+    "countryCode": "ZA"
+  },
+  "Polokwane": {
+    "lat": -23.9045,
+    "lng": 29.4689,
+    "countryCode": "ZA"
+  },
+  "Pretoria Callies": {
+    "lat": -25.7754699,
+    "lng": 28.0460563,
+    "countryCode": "ZA"
+  },
+  "Richards Bay": {
+    "lat": -28.783,
+    "lng": 32.0378,
+    "countryCode": "ZA"
+  },
+  "Stellenbosch": {
+    "lat": -33.9321,
+    "lng": 18.8602,
+    "countryCode": "ZA"
+  },
+  "TS Galaxy": {
+    "lat": -26.2960672,
+    "lng": 27.9313713,
+    "countryCode": "ZA"
+  },
+  "Thohoyandou": {
+    "lat": -22.9716,
+    "lng": 30.4415,
+    "countryCode": "ZA"
+  },
+  "University of Pretoria": {
+    "lat": -25.7543354,
+    "lng": 28.2308578,
+    "countryCode": "ZA"
+  },
+  "Upington": {
+    "lat": -28.456325,
+    "lng": 21.241867,
+    "countryCode": "ZA"
+  },
+  "Venda FA": {
+    "lat": -26.1285154,
+    "lng": 28.1766327,
+    "countryCode": "ZA"
+  }
+}

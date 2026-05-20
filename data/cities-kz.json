@@ -1,0 +1,172 @@
+{
+  "Aktobe": {
+    "lat": 50.2836938,
+    "lng": 57.2298129,
+    "countryCode": "KZ"
+  },
+  "Akzhayik": {
+    "lat": 47.1007618,
+    "lng": 51.8738861,
+    "countryCode": "KZ"
+  },
+  "Altai Semey": {
+    "lat": 50.4235433,
+    "lng": 80.2731159,
+    "countryCode": "KZ"
+  },
+  "Altay": {
+    "lat": 49.724243,
+    "lng": 84.275146,
+    "countryCode": "KZ"
+  },
+  "Arys": {
+    "lat": 42.4324695,
+    "lng": 68.8134889,
+    "countryCode": "KZ"
+  },
+  "Astana": {
+    "lat": 51.1694,
+    "lng": 71.4491,
+    "countryCode": "KZ"
+  },
+  "Atyrau": {
+    "lat": 47.6605827,
+    "lng": 50.806203,
+    "countryCode": "KZ"
+  },
+  "Bayterek": {
+    "lat": 54.7371426,
+    "lng": 69.0677151,
+    "countryCode": "KZ"
+  },
+  "Ekibastuz": {
+    "lat": 51.7275817,
+    "lng": 75.3288511,
+    "countryCode": "KZ"
+  },
+  "FC Astana": {
+    "lat": 51.1282205,
+    "lng": 71.4306682,
+    "countryCode": "KZ"
+  },
+  "Irtysh": {
+    "lat": 50.3776628,
+    "lng": 80.2954261,
+    "countryCode": "KZ"
+  },
+  "Irtysh Pavlodar": {
+    "lat": 51.2515785,
+    "lng": 78.040161,
+    "countryCode": "KZ"
+  },
+  "Jetisay": {
+    "lat": 40.777134,
+    "lng": 68.324677,
+    "countryCode": "KZ"
+  },
+  "Kairat": {
+    "lat": 43.3145234,
+    "lng": 76.98973,
+    "countryCode": "KZ"
+  },
+  "Kairat Almaty": {
+    "lat": 43.3145234,
+    "lng": 76.98973,
+    "countryCode": "KZ"
+  },
+  "Kaisar": {
+    "lat": 43.252356,
+    "lng": 76.9377695,
+    "countryCode": "KZ"
+  },
+  "Khan Tengri": {
+    "lat": 43.2212157,
+    "lng": 76.9270362,
+    "countryCode": "KZ"
+  },
+  "Kyzylzhar": {
+    "lat": 43.0333957,
+    "lng": 76.7407335,
+    "countryCode": "KZ"
+  },
+  "Maktaaral": {
+    "lat": 40.8084971,
+    "lng": 68.4882145,
+    "countryCode": "KZ"
+  },
+  "Okzhetpes": {
+    "lat": 53.2853285,
+    "lng": 69.3922425,
+    "countryCode": "KZ"
+  },
+  "Okzhetpes Kokshetau": {
+    "lat": 53.2853285,
+    "lng": 69.3922425,
+    "countryCode": "KZ"
+  },
+  "Ordabasy": {
+    "lat": 42.4769723,
+    "lng": 69.1988776,
+    "countryCode": "KZ"
+  },
+  "Ordabasy Shymkent": {
+    "lat": 42.2888983,
+    "lng": 69.5408538,
+    "countryCode": "KZ"
+  },
+  "Saryagash": {
+    "lat": 41.4650667,
+    "lng": 69.1475689,
+    "countryCode": "KZ"
+  },
+  "Shakhter Karagandy": {
+    "lat": 49.8191187,
+    "lng": 73.0742834,
+    "countryCode": "KZ"
+  },
+  "Taraz": {
+    "lat": 42.8778381,
+    "lng": 71.3519903,
+    "countryCode": "KZ"
+  },
+  "Taraz II": {
+    "lat": 42.9015945,
+    "lng": 71.3769302,
+    "countryCode": "KZ"
+  },
+  "Tobol": {
+    "lat": 53.0150362,
+    "lng": 63.3610369,
+    "countryCode": "KZ"
+  },
+  "Tobol Kostanay": {
+    "lat": 53.0150362,
+    "lng": 63.3610369,
+    "countryCode": "KZ"
+  },
+  "Turkestan": {
+    "lat": 43.3019457,
+    "lng": 68.2703698,
+    "countryCode": "KZ"
+  },
+  "Ulytau": {
+    "lat": 48.6536253,
+    "lng": 67.0069227,
+    "countryCode": "KZ"
+  },
+  "Zhenis": {
+    "lat": 50.3190381,
+    "lng": 57.1422628,
+    "countryCode": "KZ"
+  },
+  "Zhetysu": {
+    "lat": 43.3018582,
+    "lng": 77.0039634,
+    "countryCode": "KZ"
+  },
+  "Zhetysu Taldykorgan": {
+    "lat": 45.00495,
+    "lng": 78.3649928,
+    "countryCode": "KZ"
+  }
+}

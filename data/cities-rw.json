@@ -1,0 +1,42 @@
+{
+  "Bugesera": {
+    "lat": -2.2329499,
+    "lng": 30.1589114,
+    "countryCode": "RW"
+  },
+  "Gasogi": {
+    "lat": -1.9455631,
+    "lng": 30.1900848,
+    "countryCode": "RW"
+  },
+  "Gorilla": {
+    "lat": -1.9549075,
+    "lng": 30.0810117,
+    "countryCode": "RW"
+  },
+  "Kiyovu": {
+    "lat": -1.9496584,
+    "lng": 30.06585,
+    "countryCode": "RW"
+  },
+  "Mukura": {
+    "lat": -2.6669065,
+    "lng": 29.7404549,
+    "countryCode": "RW"
+  },
+  "Police": {
+    "lat": -1.7986706,
+    "lng": 30.5048002,
+    "countryCode": "RW"
+  },
+  "Rutsiro": {
+    "lat": -1.8953856,
+    "lng": 29.2996681,
+    "countryCode": "RW"
+  },
+  "Sunrise": {
+    "lat": -2.6054239,
+    "lng": 29.7386925,
+    "countryCode": "RW"
+  }
+}

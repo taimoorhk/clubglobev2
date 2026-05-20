@@ -1,0 +1,47 @@
+{
+  "Bidco": {
+    "lat": -1.0513637,
+    "lng": 37.0847522,
+    "countryCode": "KE"
+  },
+  "Kakamega": {
+    "lat": 0.2827,
+    "lng": 34.7519,
+    "countryCode": "KE"
+  },
+  "Kericho": {
+    "lat": -0.3677,
+    "lng": 35.2839,
+    "countryCode": "KE"
+  },
+  "Mombasa": {
+    "lat": -4.0435,
+    "lng": 39.6682,
+    "countryCode": "KE"
+  },
+  "Mulembe": {
+    "lat": 0.4519448,
+    "lng": 34.133414,
+    "countryCode": "KE"
+  },
+  "Nairobi": {
+    "lat": -1.2921,
+    "lng": 36.8219,
+    "countryCode": "KE"
+  },
+  "Naivas": {
+    "lat": -1.3169476,
+    "lng": 36.9176867,
+    "countryCode": "KE"
+  },
+  "Nakuru": {
+    "lat": -0.3031,
+    "lng": 36.08,
+    "countryCode": "KE"
+  },
+  "Police": {
+    "lat": 1.989159,
+    "lng": 37.9153002,
+    "countryCode": "KE"
+  }
+}

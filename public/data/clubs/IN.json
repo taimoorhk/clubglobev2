@@ -1,0 +1,2712 @@
+[
+  {
+    "id": "in-aizawl-fc",
+    "name": "Aizawl FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Aizawl",
+    "lat": 23.6597631,
+    "lng": 92.70999470000001,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-IN-t2",
+    "leagueName": "I-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/624350.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-atk-mohun-bagan",
+    "name": "ATK Mohun Bagan",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "ATK Mohun Bagan",
+    "lat": 28.616,
+    "lng": 77.276,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-IN-t1",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-bengaluru-fc",
+    "name": "Bengaluru FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Bengaluru",
+    "lat": 12.9276,
+    "lng": 77.6106,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-IN-t1",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-calangute-association",
+    "name": "Calangute Association",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Calangute Association",
+    "lat": 28.644000000000002,
+    "lng": 77.14,
+    "divisionTier": 4,
+    "leagueId": "asia-curated-IN-t4",
+    "leagueName": "State Leagues (Goa)",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-calcutta-customs",
+    "name": "Calcutta Customs",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Calcutta Customs",
+    "lat": 28.536,
+    "lng": 77.196,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-IN-t2",
+    "leagueName": "I-League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-chanmari-fc",
+    "name": "Chanmari FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Chanmari",
+    "lat": 23.8051071,
+    "lng": 92.67648829999999,
+    "divisionTier": 1,
+    "leagueId": "8982",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/624342.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 1,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-19T13:00:00Z",
+          "opponent": "Rajasthan United FC",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Sreenidi Deccan FC",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T13:00:00Z",
+          "opponent": "Dempo SC",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T13:00:00Z",
+          "opponent": "Shillong Lajong",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T13:00:00Z",
+          "opponent": "Diamond Harbour",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T10:30:00Z",
+          "opponent": "Namdhari FC",
+          "homeAway": "away",
+          "score": "1 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T13:00:00Z",
+          "opponent": "Diamond Harbour",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T13:00:00Z",
+          "opponent": "Real Kashmir FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-01T10:30:00Z",
+          "opponent": "Rajasthan United FC",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-24T13:00:00Z",
+          "opponent": "Aizawl FC",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-chennaiyin-fc",
+    "name": "Chennaiyin FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Chennai",
+    "lat": 13.158700000000001,
+    "lng": 80.2427,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-IN-t1",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-churchill-brothers",
+    "name": "Churchill Brothers",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Churchill Brothers",
+    "lat": 28.520000000000003,
+    "lng": 77.18,
+    "divisionTier": 4,
+    "leagueId": "asia-curated-IN-t4",
+    "leagueName": "State Leagues (Goa)",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-curtorim-gymkhana",
+    "name": "Curtorim Gymkhana",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Curtorim Gymkhana",
+    "lat": 15.2893586,
+    "lng": 74.08358340000001,
+    "divisionTier": 4,
+    "leagueId": "asia-curated-IN-t4",
+    "leagueName": "State Leagues (Goa)",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-delhi-fc",
+    "name": "Delhi FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Delhi",
+    "lat": 28.7041,
+    "lng": 77.16250000000001,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-IN-t2",
+    "leagueName": "I-League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-dempo-sc",
+    "name": "Dempo SC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Dempo",
+    "lat": 15.4721142,
+    "lng": 73.87065390000001,
+    "divisionTier": 4,
+    "leagueId": "asia-curated-IN-t4",
+    "leagueName": "State Leagues (Goa)",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165182.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-diamond-harbour",
+    "name": "Diamond Harbour",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Diamond Harbour",
+    "lat": 22.1886886,
+    "lng": 88.2454879,
+    "divisionTier": 1,
+    "leagueId": "8982",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1782583.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 7,
+      "draws": 2,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T13:00:00Z",
+          "opponent": "Dempo SC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T13:00:00Z",
+          "opponent": "Rajasthan United FC",
+          "homeAway": "home",
+          "score": "5 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T13:00:00Z",
+          "opponent": "Sreenidi Deccan FC",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T13:00:00Z",
+          "opponent": "Chanmari FC",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T10:30:00Z",
+          "opponent": "Gokulam FC",
+          "homeAway": "home",
+          "score": "5 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T13:00:00Z",
+          "opponent": "Chanmari FC",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T10:30:00Z",
+          "opponent": "Namdhari FC",
+          "homeAway": "away",
+          "score": "4 - 5",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-02T10:30:00Z",
+          "opponent": "Real Kashmir FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-26T10:30:00Z",
+          "opponent": "Rajasthan United FC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T13:00:00Z",
+          "opponent": "Aizawl FC",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-duler-stadium",
+    "name": "Duler Stadium",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Duler Stadium",
+    "lat": 15.5346435,
+    "lng": 73.8121086,
+    "divisionTier": 4,
+    "leagueId": "asia-curated-IN-t4",
+    "leagueName": "State Leagues (Goa)",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-east-bengal",
+    "name": "East Bengal",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Kolkata",
+    "lat": 22.5486,
+    "lng": 88.3999,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-IN-t1",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/East_Bengal_FC_logo.svg/330px-East_Bengal_FC_logo.svg.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-fc-bengaluru-united",
+    "name": "FC Bengaluru United",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "FC Bengaluru",
+    "lat": 12.779461,
+    "lng": 77.7124443,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-IN-t3",
+    "leagueName": "I-League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-fc-goa",
+    "name": "FC Goa",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "FC Goa",
+    "lat": 28.1441033,
+    "lng": 93.3355385,
+    "divisionTier": 4,
+    "leagueId": "asia-curated-IN-t4",
+    "leagueName": "State Leagues (Goa)",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-fc-goa-b",
+    "name": "FC Goa B",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "FC Goa",
+    "lat": 28.0481033,
+    "lng": 93.4035385,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-IN-t3",
+    "leagueName": "I-League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-fc-kerala",
+    "name": "FC Kerala",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "FC Kerala",
+    "lat": 10.190033399999999,
+    "lng": 76.5424077,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-IN-t3",
+    "leagueName": "I-League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-fc-punjab",
+    "name": "FC Punjab",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "FC Punjab",
+    "lat": 30.9451799,
+    "lng": 74.7108447,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-IN-t3",
+    "leagueName": "I-League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-fc-rajasthan",
+    "name": "FC Rajasthan",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "FC Rajasthan",
+    "lat": 29.7123844,
+    "lng": 73.36686999999999,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-IN-t3",
+    "leagueName": "I-League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-fc-sikkim",
+    "name": "FC Sikkim",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "FC Sikkim",
+    "lat": 27.4734858,
+    "lng": 88.6186467,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-IN-t3",
+    "leagueName": "I-League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-fransa-pax-fc",
+    "name": "Fransa-Pax FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Fransa-Pax",
+    "lat": 28.524,
+    "lng": 77.184,
+    "divisionTier": 4,
+    "leagueId": "asia-curated-IN-t4",
+    "leagueName": "State Leagues (Goa)",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-garhwal-fc",
+    "name": "Garhwal FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Garhwal",
+    "lat": 30.27,
+    "lng": 79.413333,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-IN-t3",
+    "leagueName": "I-League 2",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Garhwal_Heroes_Football_Club.svg/330px-Garhwal_Heroes_Football_Club.svg.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-gokulam-fc",
+    "name": "Gokulam FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Gokulam",
+    "lat": 12.3700989,
+    "lng": 76.568297,
+    "divisionTier": 1,
+    "leagueId": "8982",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/898335.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 1,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-12T13:00:00Z",
+          "opponent": "Namdhari FC",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-05T13:00:00Z",
+          "opponent": "Aizawl FC",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-30T13:00:00Z",
+          "opponent": "Real Kashmir FC",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T10:30:00Z",
+          "opponent": "Diamond Harbour",
+          "homeAway": "away",
+          "score": "5 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T10:30:00Z",
+          "opponent": "Real Kashmir FC",
+          "homeAway": "away",
+          "score": "6 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T10:30:00Z",
+          "opponent": "Rajasthan United FC",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-31T10:30:00Z",
+          "opponent": "Aizawl FC",
+          "homeAway": "home",
+          "score": "4 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-26T10:30:00Z",
+          "opponent": "Shillong Lajong",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T10:30:00Z",
+          "opponent": "Dempo SC",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T10:30:00Z",
+          "opponent": "Sreenidi Deccan FC",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-gokulam-kerala",
+    "name": "Gokulam Kerala",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Gokulam Kerala",
+    "lat": 11.319052,
+    "lng": 75.7548135,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-IN-t2",
+    "leagueName": "I-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/898335.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-gokulam-kerala-b",
+    "name": "Gokulam Kerala B",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Gokulam Kerala B",
+    "lat": 9.9253526,
+    "lng": 76.3303164,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-IN-t3",
+    "leagueName": "I-League 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/898335.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-guardian-angel",
+    "name": "Guardian Angel",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Guardian Angel",
+    "lat": 15.1939334,
+    "lng": 74.1008929,
+    "divisionTier": 4,
+    "leagueId": "asia-curated-IN-t4",
+    "leagueName": "State Leagues (Goa)",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-hyderabad-fc",
+    "name": "Hyderabad FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Hyderabad",
+    "lat": 17.393,
+    "lng": 78.5547,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-IN-t1",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-inter-kashi",
+    "name": "Inter Kashi",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Inter Kashi",
+    "lat": 25.2951939,
+    "lng": 82.89453060000001,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-IN-t2",
+    "leagueName": "I-League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-jamshedpur-fc",
+    "name": "Jamshedpur FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Jamshedpur",
+    "lat": 22.7255194,
+    "lng": 86.1869579,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-IN-t1",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-kenkre-fc",
+    "name": "Kenkre FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Kenkre",
+    "lat": 15.618462999999998,
+    "lng": 73.7302877,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-IN-t3",
+    "leagueName": "I-League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-kerala-blasters",
+    "name": "Kerala Blasters",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Kochi",
+    "lat": 28.592000000000002,
+    "lng": 77.25200000000001,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-IN-t1",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-mohammedan-sc",
+    "name": "Mohammedan SC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Mohammedan",
+    "lat": 22.6423736,
+    "lng": 88.3218609,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-IN-t2",
+    "leagueName": "I-League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-mohun-bagan-super-giant",
+    "name": "Mohun Bagan Super Giant",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Mohun Bagan Super Giant",
+    "lat": 28.592000000000002,
+    "lng": 77.25200000000001,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-IN-t1",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-mumbai-city",
+    "name": "Mumbai City",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.048000000000002,
+    "lng": 72.9097,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-IN-t1",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-mumbai-city-fc",
+    "name": "Mumbai City FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.14,
+    "lng": 72.8377,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-IN-t1",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-mumbai-fc",
+    "name": "Mumbai FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.072,
+    "lng": 72.9337,
+    "divisionTier": 4,
+    "leagueId": "asia-curated-IN-t4",
+    "leagueName": "State Leagues (Goa)",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-mumbai-kenkre",
+    "name": "Mumbai Kenkre",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.060000000000002,
+    "lng": 72.9217,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-IN-t2",
+    "leagueName": "I-League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-namdhari-fc",
+    "name": "Namdhari FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Namdhari",
+    "lat": 13.0526704,
+    "lng": 77.52245450000001,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-IN-t2",
+    "leagueName": "I-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1562127.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-neroca-fc",
+    "name": "NEROCA FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "NEROCA",
+    "lat": 28.588,
+    "lng": 77.248,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-IN-t3",
+    "leagueName": "I-League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-northeast-united",
+    "name": "NorthEast United",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "NorthEast",
+    "lat": 45.0031916,
+    "lng": -93.1911702,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-IN-t1",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-odisha-fc",
+    "name": "Odisha FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Odisha",
+    "lat": 20.4751241,
+    "lng": 84.6817321,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-IN-t1",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-punjab-fc",
+    "name": "Punjab FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Punjab",
+    "lat": 31.0013211,
+    "lng": 75.4684841,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-IN-t1",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-punjab-fc-b",
+    "name": "Punjab FC B",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Punjab FC B",
+    "lat": 22.619402,
+    "lng": 88.35109310000001,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-IN-t3",
+    "leagueName": "I-League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-rajasthan-united",
+    "name": "Rajasthan United",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Rajasthan",
+    "lat": 26.8185777,
+    "lng": 73.83645489999999,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-IN-t2",
+    "leagueName": "I-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1320490.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-rajasthan-united-b",
+    "name": "Rajasthan United B",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Rajasthan",
+    "lat": 26.7985777,
+    "lng": 73.8164549,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-IN-t3",
+    "leagueName": "I-League 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1320490.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-rajasthan-united-fc",
+    "name": "Rajasthan United FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Rajasthan",
+    "lat": 26.858577699999998,
+    "lng": 73.7124549,
+    "divisionTier": 1,
+    "leagueId": "8982",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1320490.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 2,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-19T13:00:00Z",
+          "opponent": "Chanmari FC",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-15T13:00:00Z",
+          "opponent": "Shillong Lajong",
+          "homeAway": "away",
+          "score": "4 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T13:00:00Z",
+          "opponent": "Diamond Harbour",
+          "homeAway": "away",
+          "score": "5 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T13:00:00Z",
+          "opponent": "Dempo SC",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T13:00:00Z",
+          "opponent": "Sreenidi Deccan FC",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T10:30:00Z",
+          "opponent": "Dempo SC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T13:00:00Z",
+          "opponent": "Sreenidi Deccan FC",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T10:30:00Z",
+          "opponent": "Gokulam FC",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-01T10:30:00Z",
+          "opponent": "Chanmari FC",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-26T10:30:00Z",
+          "opponent": "Diamond Harbour",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-real-kashmir",
+    "name": "Real Kashmir",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Real Kashmir",
+    "lat": 34.0714233,
+    "lng": 74.8030088,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-IN-t2",
+    "leagueName": "I-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/970686.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-real-kashmir-fc",
+    "name": "Real Kashmir FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Real Kashmir",
+    "lat": 34.1274233,
+    "lng": 74.8590088,
+    "divisionTier": 1,
+    "leagueId": "8982",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/970686.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 1,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-11T13:00:00Z",
+          "opponent": "Aizawl FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T13:00:00Z",
+          "opponent": "Namdhari FC",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-30T13:00:00Z",
+          "opponent": "Gokulam FC",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T13:00:00Z",
+          "opponent": "Sreenidi Deccan FC",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T10:30:00Z",
+          "opponent": "Gokulam FC",
+          "homeAway": "home",
+          "score": "6 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T13:00:00Z",
+          "opponent": "Chanmari FC",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-02T10:30:00Z",
+          "opponent": "Diamond Harbour",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-25T10:30:00Z",
+          "opponent": "Namdhari FC",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-17T10:30:00Z",
+          "opponent": "Rajasthan United FC",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T13:00:00Z",
+          "opponent": "Aizawl FC",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-salgaocar",
+    "name": "Salgaocar",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Salgaocar",
+    "lat": 15.382588199999999,
+    "lng": 73.8847713,
+    "divisionTier": 4,
+    "leagueId": "asia-curated-IN-t4",
+    "leagueName": "State Leagues (Goa)",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-salgaocar-fc",
+    "name": "Salgaocar FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Salgaocar",
+    "lat": 15.3585882,
+    "lng": 73.8607713,
+    "divisionTier": 4,
+    "leagueId": "asia-curated-IN-t4",
+    "leagueName": "State Leagues (Goa)",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-shillong-lajong",
+    "name": "Shillong Lajong",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Shillong Lajong",
+    "lat": 28.608,
+    "lng": 77.268,
+    "divisionTier": 1,
+    "leagueId": "8982",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/184549.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 3,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T13:00:00Z",
+          "opponent": "Rajasthan United FC",
+          "homeAway": "home",
+          "score": "4 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T13:00:00Z",
+          "opponent": "Sreenidi Deccan FC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T13:00:00Z",
+          "opponent": "Chanmari FC",
+          "homeAway": "home",
+          "score": "4 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T13:00:00Z",
+          "opponent": "Dempo SC",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T13:00:00Z",
+          "opponent": "Aizawl FC",
+          "homeAway": "home",
+          "score": "6 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T10:30:00Z",
+          "opponent": "Namdhari FC",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T13:00:00Z",
+          "opponent": "Dempo SC",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-01T13:00:00Z",
+          "opponent": "Sreenidi Deccan FC",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-26T10:30:00Z",
+          "opponent": "Gokulam FC",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-19T10:30:00Z",
+          "opponent": "Chanmari FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-sporting-club-delhi",
+    "name": "Sporting Club Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Sporting Club Delhi",
+    "lat": 28.524,
+    "lng": 77.184,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-IN-t2",
+    "leagueName": "I-League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-sporting-clube-de-goa",
+    "name": "Sporting Clube de Goa",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Sporting Clube de Goa",
+    "lat": 28.656000000000002,
+    "lng": 77.152,
+    "divisionTier": 4,
+    "leagueId": "asia-curated-IN-t4",
+    "leagueName": "State Leagues (Goa)",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Sporting_Clube_de_Goa.svg/330px-Sporting_Clube_de_Goa.svg.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-sporting-goa",
+    "name": "Sporting Goa",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Sporting Goa",
+    "lat": 28.68,
+    "lng": 77.176,
+    "divisionTier": 4,
+    "leagueId": "asia-curated-IN-t4",
+    "leagueName": "State Leagues (Goa)",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/FC_Goa_logo.svg/330px-FC_Goa_logo.svg.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-sreenidi-deccan",
+    "name": "Sreenidi Deccan",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Sreenidi Deccan",
+    "lat": 28.664,
+    "lng": 77.16,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-IN-t2",
+    "leagueName": "I-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1320491.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-sreenidi-deccan-fc",
+    "name": "Sreenidi Deccan FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Sreenidi Deccan",
+    "lat": 28.652,
+    "lng": 77.148,
+    "divisionTier": 1,
+    "leagueId": "8982",
+    "leagueName": "Indian Super League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1320491.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 4,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Chanmari FC",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T13:00:00Z",
+          "opponent": "Shillong Lajong",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T13:00:00Z",
+          "opponent": "Diamond Harbour",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T13:00:00Z",
+          "opponent": "Rajasthan United FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T13:00:00Z",
+          "opponent": "Real Kashmir FC",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T13:00:00Z",
+          "opponent": "Rajasthan United FC",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T13:00:00Z",
+          "opponent": "Aizawl FC",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-01T13:00:00Z",
+          "opponent": "Shillong Lajong",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-25T13:00:00Z",
+          "opponent": "Dempo SC",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-19T13:00:00Z",
+          "opponent": "Namdhari FC",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-sudeva-delhi",
+    "name": "Sudeva Delhi",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Sudeva Delhi",
+    "lat": 28.632,
+    "lng": 77.128,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-IN-t3",
+    "leagueName": "I-League 2",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Sudeva_Delhi_FC.svg/330px-Sudeva_Delhi_FC.svg.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-tata-football-academy",
+    "name": "Tata Football Academy",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Tata Football Academy",
+    "lat": 22.7999906,
+    "lng": 86.2369304,
+    "divisionTier": 4,
+    "leagueId": "asia-curated-IN-t4",
+    "leagueName": "State Leagues (Goa)",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-trau-fc",
+    "name": "TRAU FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "TRAU",
+    "lat": 28.564,
+    "lng": 77.224,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-IN-t2",
+    "leagueName": "I-League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-united-sc",
+    "name": "United SC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "United Sports Club",
+    "lat": 11.8270894,
+    "lng": 75.5472225,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-IN-t2",
+    "leagueName": "I-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1320490.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-united-sports-club",
+    "name": "United Sports Club",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "United Sports Club",
+    "lat": 11.8910894,
+    "lng": 75.4472225,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-IN-t3",
+    "leagueName": "I-League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-vasco-da-gama",
+    "name": "Vasco da Gama",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Vasco da Gama",
+    "lat": 15.4264159,
+    "lng": 73.73688290000001,
+    "divisionTier": 4,
+    "leagueId": "asia-curated-IN-t4",
+    "leagueName": "State Leagues (Goa)",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-vasco-sc",
+    "name": "Vasco SC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "Vasco",
+    "lat": 15.3824159,
+    "lng": 73.8568829,
+    "divisionTier": 4,
+    "leagueId": "asia-curated-IN-t4",
+    "leagueName": "State Leagues (Goa)",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "in-wifa-fc",
+    "name": "WIFA FC",
+    "countryCode": "IN",
+    "country": "India",
+    "city": "WIFA",
+    "lat": 28.636000000000003,
+    "lng": 77.132,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-IN-t3",
+    "leagueName": "I-League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

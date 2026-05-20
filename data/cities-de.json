@@ -1,0 +1,267 @@
+{
+  "Alemannia Aachen": {
+    "lat": 50.7744237,
+    "lng": 6.0628075,
+    "countryCode": "DE"
+  },
+  "Arminia Bielefeld": {
+    "lat": 52.0177595,
+    "lng": 8.5847781,
+    "countryCode": "DE"
+  },
+  "Augsburg": {
+    "lat": 48.3690341,
+    "lng": 10.8979522,
+    "countryCode": "DE"
+  },
+  "Berlin": {
+    "lat": 52.52,
+    "lng": 13.405,
+    "countryCode": "DE"
+  },
+  "Bochum": {
+    "lat": 51.4818111,
+    "lng": 7.2196635,
+    "countryCode": "DE"
+  },
+  "Braunschweig": {
+    "lat": 52.2646577,
+    "lng": 10.5236066,
+    "countryCode": "DE"
+  },
+  "Bremen": {
+    "lat": 53.0758196,
+    "lng": 8.8071646,
+    "countryCode": "DE"
+  },
+  "Cologne": {
+    "lat": 50.938361,
+    "lng": 6.959974,
+    "countryCode": "DE"
+  },
+  "Darmstadt": {
+    "lat": 49.872775,
+    "lng": 8.651177,
+    "countryCode": "DE"
+  },
+  "Dortmund": {
+    "lat": 51.5136,
+    "lng": 7.4653,
+    "countryCode": "DE"
+  },
+  "Dresden": {
+    "lat": 51.0493286,
+    "lng": 13.7381437,
+    "countryCode": "DE"
+  },
+  "Düsseldorf": {
+    "lat": 51.2254018,
+    "lng": 6.7763137,
+    "countryCode": "DE"
+  },
+  "Elversberg": {
+    "lat": 49.31539,
+    "lng": 7.1268184,
+    "countryCode": "DE"
+  },
+  "Energie Cottbus": {
+    "lat": 51.7521243,
+    "lng": 14.3383827,
+    "countryCode": "DE"
+  },
+  "Erzgebirge Aue": {
+    "lat": 50.5980475,
+    "lng": 12.7087328,
+    "countryCode": "DE"
+  },
+  "Frankfurt": {
+    "lat": 50.1109,
+    "lng": 8.6821,
+    "countryCode": "DE"
+  },
+  "Freiburg": {
+    "lat": 47.9960901,
+    "lng": 7.8494005,
+    "countryCode": "DE"
+  },
+  "Greuther Fürth": {
+    "lat": 49.5003763,
+    "lng": 10.996705,
+    "countryCode": "DE"
+  },
+  "Hamburg": {
+    "lat": 53.5501721,
+    "lng": 10.0013165,
+    "countryCode": "DE"
+  },
+  "Hannover": {
+    "lat": 52.3744779,
+    "lng": 9.7385532,
+    "countryCode": "DE"
+  },
+  "Hansa Rostock": {
+    "lat": 54.0836398,
+    "lng": 12.0897847,
+    "countryCode": "DE"
+  },
+  "Havelse": {
+    "lat": 52.4084357,
+    "lng": 9.613425,
+    "countryCode": "DE"
+  },
+  "Heidenheim": {
+    "lat": 48.6767637,
+    "lng": 10.152923,
+    "countryCode": "DE"
+  },
+  "Hoffenheim": {
+    "lat": 49.2723872,
+    "lng": 8.8409448,
+    "countryCode": "DE"
+  },
+  "Hoffenheim II": {
+    "lat": 49.2723872,
+    "lng": 8.8409448,
+    "countryCode": "DE"
+  },
+  "Holstein Kiel": {
+    "lat": 54.3278372,
+    "lng": 10.1766626,
+    "countryCode": "DE"
+  },
+  "Ingolstadt": {
+    "lat": 48.7630165,
+    "lng": 11.4250395,
+    "countryCode": "DE"
+  },
+  "Jahn Regensburg": {
+    "lat": 49.0030635,
+    "lng": 12.0759442,
+    "countryCode": "DE"
+  },
+  "Kaiserslautern": {
+    "lat": 49.4432174,
+    "lng": 7.7689951,
+    "countryCode": "DE"
+  },
+  "Karlsruher": {
+    "lat": 49.1018534,
+    "lng": 8.4331202,
+    "countryCode": "DE"
+  },
+  "Leipzig": {
+    "lat": 51.3397,
+    "lng": 12.3731,
+    "countryCode": "DE"
+  },
+  "Leverkusen": {
+    "lat": 51.0324743,
+    "lng": 6.9881194,
+    "countryCode": "DE"
+  },
+  "MSV Duisburg": {
+    "lat": 51.4091325,
+    "lng": 6.779513,
+    "countryCode": "DE"
+  },
+  "Magdeburg": {
+    "lat": 52.1314783,
+    "lng": 11.6400789,
+    "countryCode": "DE"
+  },
+  "Mainz 05": {
+    "lat": 49.9995205,
+    "lng": 8.2736253,
+    "countryCode": "DE"
+  },
+  "Munich": {
+    "lat": 48.1351,
+    "lng": 11.582,
+    "countryCode": "DE"
+  },
+  "Mönchengladbach": {
+    "lat": 51.1947131,
+    "lng": 6.4353792,
+    "countryCode": "DE"
+  },
+  "Nuremberg": {
+    "lat": 49.453872,
+    "lng": 11.077298,
+    "countryCode": "DE"
+  },
+  "Osnabrück": {
+    "lat": 52.2719595,
+    "lng": 8.047635,
+    "countryCode": "DE"
+  },
+  "Paderborn": {
+    "lat": 51.7177044,
+    "lng": 8.752653,
+    "countryCode": "DE"
+  },
+  "Preussen Münster": {
+    "lat": 51.9310481,
+    "lng": 7.6254377,
+    "countryCode": "DE"
+  },
+  "Saarbrücken": {
+    "lat": 49.234362,
+    "lng": 6.996379,
+    "countryCode": "DE"
+  },
+  "Schalke 04": {
+    "lat": 51.5228667,
+    "lng": 7.0874533,
+    "countryCode": "DE"
+  },
+  "Schweinfurt": {
+    "lat": 50.0451485,
+    "lng": 10.2340647,
+    "countryCode": "DE"
+  },
+  "St. Pauli": {
+    "lat": 53.5539347,
+    "lng": 9.9594316,
+    "countryCode": "DE"
+  },
+  "Stuttgart": {
+    "lat": 48.7784485,
+    "lng": 9.1800132,
+    "countryCode": "DE"
+  },
+  "Stuttgart II": {
+    "lat": 48.8105962,
+    "lng": 9.1698547,
+    "countryCode": "DE"
+  },
+  "Ulm": {
+    "lat": 48.3984968,
+    "lng": 9.9912458,
+    "countryCode": "DE"
+  },
+  "Verl": {
+    "lat": 51.5533457,
+    "lng": 7.9155558,
+    "countryCode": "DE"
+  },
+  "Viktoria Köln 1904": {
+    "lat": 50.9471428,
+    "lng": 7.031246,
+    "countryCode": "DE"
+  },
+  "Waldhof Mannheim": {
+    "lat": 49.5343014,
+    "lng": 8.4595007,
+    "countryCode": "DE"
+  },
+  "Wehen Wiesbaden": {
+    "lat": 50.0714177,
+    "lng": 8.2573445,
+    "countryCode": "DE"
+  },
+  "Wolfsburg": {
+    "lat": 52.4205588,
+    "lng": 10.7861682,
+    "countryCode": "DE"
+  }
+}

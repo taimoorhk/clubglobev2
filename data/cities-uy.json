@@ -1,0 +1,32 @@
+{
+  "Montevideo": {
+    "lat": -34.9011,
+    "lng": -56.1645,
+    "countryCode": "UY"
+  },
+  "Las Piedras": {
+    "lat": -34.7264,
+    "lng": -56.2208,
+    "countryCode": "UY"
+  },
+  "Colonia": {
+    "lat": -34.4714,
+    "lng": -57.8442,
+    "countryCode": "UY"
+  },
+  "Paysandu": {
+    "lat": -32.3214,
+    "lng": -58.0756,
+    "countryCode": "UY"
+  },
+  "Maldonado": {
+    "lat": -34.9087,
+    "lng": -54.9583,
+    "countryCode": "UY"
+  },
+  "Melo": {
+    "lat": -32.3669,
+    "lng": -54.1839,
+    "countryCode": "UY"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "Ahal": {
+    "lat": 38.8395548,
+    "lng": 58.8610186,
+    "countryCode": "TM"
+  },
+  "Altyn Asyr": {
+    "lat": 37.2804701,
+    "lng": 60.7047669,
+    "countryCode": "TM"
+  },
+  "Aşgabat": {
+    "lat": 37.9404648,
+    "lng": 58.3823487,
+    "countryCode": "TM"
+  },
+  "Balkan": {
+    "lat": 39.9353714,
+    "lng": 54.9120055,
+    "countryCode": "TM"
+  },
+  "Daşoguz": {
+    "lat": 41.8331323,
+    "lng": 59.9708311,
+    "countryCode": "TM"
+  },
+  "Energetik": {
+    "lat": 37.5122438,
+    "lng": 61.8298954,
+    "countryCode": "TM"
+  },
+  "Hazar": {
+    "lat": 39.4036025,
+    "lng": 53.1259978,
+    "countryCode": "TM"
+  },
+  "Köpetdag": {
+    "lat": 38.2781127,
+    "lng": 57.2181701,
+    "countryCode": "TM"
+  },
+  "Köpetdag Aşgabat": {
+    "lat": 37.9323657,
+    "lng": 58.3751167,
+    "countryCode": "TM"
+  },
+  "Lebap": {
+    "lat": 38.8131139,
+    "lng": 63.0513218,
+    "countryCode": "TM"
+  },
+  "Mary": {
+    "lat": 37.5940358,
+    "lng": 61.8397935,
+    "countryCode": "TM"
+  },
+  "Merw": {
+    "lat": 37.5940358,
+    "lng": 61.8397935,
+    "countryCode": "TM"
+  },
+  "Nebitçi": {
+    "lat": 39.5146301,
+    "lng": 54.3595514,
+    "countryCode": "TM"
+  },
+  "Sagadam": {
+    "lat": 40.0055388,
+    "lng": 52.9932834,
+    "countryCode": "TM"
+  },
+  "Şagadam": {
+    "lat": 40.0055388,
+    "lng": 52.9932834,
+    "countryCode": "TM"
+  }
+}

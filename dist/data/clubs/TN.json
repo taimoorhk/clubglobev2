@@ -1,0 +1,2114 @@
+[
+  {
+    "id": "tn-as-gabes",
+    "name": "AS Gabes",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "AS Gabes",
+    "lat": 33.8638082,
+    "lng": 10.13644,
+    "divisionTier": 1,
+    "leagueId": "544",
+    "leagueName": "Ligue I",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/206148.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 2,
+      "losses": 8,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-13T15:00:00Z",
+          "opponent": "Stade Tunisien",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T15:00:00Z",
+          "opponent": "AS Soliman",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:00:00Z",
+          "opponent": "JS Kairouanaise",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T14:30:00Z",
+          "opponent": "US Monastir",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T14:30:00Z",
+          "opponent": "Etoile Metlaoui",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T14:00:00Z",
+          "opponent": "Ben Guerdane",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T13:30:00Z",
+          "opponent": "Club Africain",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T12:00:00Z",
+          "opponent": "JS Omrane",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T12:00:00Z",
+          "opponent": "CS Sfaxien",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-13T13:00:00Z",
+          "opponent": "CA Bizertin",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-as-gab-s",
+    "name": "AS Gabès",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "AS Gabès",
+    "lat": 33.807808200000004,
+    "lng": 10.080440000000001,
+    "divisionTier": 2,
+    "leagueId": "africa-curated-TN-t2",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/206148.png",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-as-soliman",
+    "name": "AS Soliman",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "AS Soliman",
+    "lat": 36.6704327,
+    "lng": 10.522592399999999,
+    "divisionTier": 1,
+    "leagueId": "544",
+    "leagueName": "Ligue I",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/852755.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 2,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "US Monastir",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T15:00:00Z",
+          "opponent": "AS Gabes",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:00:00Z",
+          "opponent": "Ben Guerdane",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T14:30:00Z",
+          "opponent": "Club Africain",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T14:30:00Z",
+          "opponent": "JS Omrane",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T14:00:00Z",
+          "opponent": "CS Sfaxien",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T13:30:00Z",
+          "opponent": "CA Bizertin",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T12:00:00Z",
+          "opponent": "Zarzis",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T12:00:00Z",
+          "opponent": "Etoile du Sahel",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-17T13:20:00Z",
+          "opponent": "Espérance",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-avenir-de-la-marsa",
+    "name": "Avenir de La Marsa",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "Avenir de La Marsa",
+    "lat": 36.9467195,
+    "lng": 10.265072199999999,
+    "divisionTier": 1,
+    "leagueId": "544",
+    "leagueName": "Ligue I",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102105.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 1,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-12T15:00:00Z",
+          "opponent": "JS Omrane",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T15:00:00Z",
+          "opponent": "CS Sfaxien",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T15:00:00Z",
+          "opponent": "CA Bizertin",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-30T14:30:00Z",
+          "opponent": "Zarzis",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T14:30:00Z",
+          "opponent": "Etoile du Sahel",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-13T14:00:00Z",
+          "opponent": "Etoile Metlaoui",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T13:30:00Z",
+          "opponent": "Olympique de Beja",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T12:00:00Z",
+          "opponent": "Espérance",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T12:00:00Z",
+          "opponent": "Stade Tunisien",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-14T13:00:00Z",
+          "opponent": "AS Soliman",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-avenir-sportif",
+    "name": "Avenir Sportif",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "Avenir Sportif",
+    "lat": 34.02,
+    "lng": 9.58,
+    "divisionTier": 2,
+    "leagueId": "africa-curated-TN-t2",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-ben-guerdane",
+    "name": "Ben Guerdane",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "Ben Guerdane",
+    "lat": 33.1683223,
+    "lng": 11.1410109,
+    "divisionTier": 1,
+    "leagueId": "544",
+    "leagueName": "Ligue I",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/316413.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 2,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "Espérance",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T15:00:00Z",
+          "opponent": "Stade Tunisien",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:00:00Z",
+          "opponent": "AS Soliman",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-30T14:30:00Z",
+          "opponent": "JS Kairouanaise",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T14:30:00Z",
+          "opponent": "US Monastir",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T14:00:00Z",
+          "opponent": "AS Gabes",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T13:30:00Z",
+          "opponent": "Etoile Metlaoui",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T12:00:00Z",
+          "opponent": "Club Africain",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T12:00:00Z",
+          "opponent": "JS Omrane",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-15T13:00:00Z",
+          "opponent": "CS Sfaxien",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-ca-bizertin",
+    "name": "CA Bizertin",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "CA Bizertin",
+    "lat": 33.968,
+    "lng": 9.528,
+    "divisionTier": 1,
+    "leagueId": "544",
+    "leagueName": "Ligue I",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102107.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 4,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-13T15:00:00Z",
+          "opponent": "Zarzis",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T15:00:00Z",
+          "opponent": "Etoile du Sahel",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T15:00:00Z",
+          "opponent": "Avenir de La Marsa",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-30T14:30:00Z",
+          "opponent": "Olympique de Beja",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T14:30:00Z",
+          "opponent": "Espérance",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T14:00:00Z",
+          "opponent": "Stade Tunisien",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T13:30:00Z",
+          "opponent": "AS Soliman",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T12:00:00Z",
+          "opponent": "JS Kairouanaise",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T12:00:00Z",
+          "opponent": "US Monastir",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-13T13:00:00Z",
+          "opponent": "AS Gabes",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-club-africain",
+    "name": "Club Africain",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "Tunis",
+    "lat": 36.8345,
+    "lng": 10.1055,
+    "divisionTier": 1,
+    "leagueId": "544",
+    "leagueName": "Ligue I",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102102.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 7,
+      "draws": 3,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "Olympique de Beja",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T15:00:00Z",
+          "opponent": "Espérance",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:00:00Z",
+          "opponent": "Stade Tunisien",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T14:30:00Z",
+          "opponent": "AS Soliman",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T14:30:00Z",
+          "opponent": "JS Kairouanaise",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T14:00:00Z",
+          "opponent": "US Monastir",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T13:30:00Z",
+          "opponent": "AS Gabes",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T12:00:00Z",
+          "opponent": "Ben Guerdane",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T12:00:00Z",
+          "opponent": "Etoile Metlaoui",
+          "homeAway": "home",
+          "score": "5 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-15T13:00:00Z",
+          "opponent": "JS Omrane",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-cs-sfaxien",
+    "name": "CS Sfaxien",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "Sfax",
+    "lat": 34.6926,
+    "lng": 10.772300000000001,
+    "divisionTier": 1,
+    "leagueId": "544",
+    "leagueName": "Ligue I",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102106.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 8,
+      "draws": 2,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "Etoile du Sahel",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T15:00:00Z",
+          "opponent": "Avenir de La Marsa",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:00:00Z",
+          "opponent": "Olympique de Beja",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-30T14:30:00Z",
+          "opponent": "Espérance",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T14:30:00Z",
+          "opponent": "Stade Tunisien",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T14:00:00Z",
+          "opponent": "AS Soliman",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T13:30:00Z",
+          "opponent": "JS Kairouanaise",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T12:00:00Z",
+          "opponent": "US Monastir",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T12:00:00Z",
+          "opponent": "AS Gabes",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-15T13:00:00Z",
+          "opponent": "Ben Guerdane",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-es-m-tlaoui",
+    "name": "ES Métlaoui",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "ES Métlaoui",
+    "lat": 34.02,
+    "lng": 9.58,
+    "divisionTier": 2,
+    "leagueId": "africa-curated-TN-t2",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-esp-rance",
+    "name": "Espérance",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "Espérance",
+    "lat": 36.8926874,
+    "lng": 10.384162499999999,
+    "divisionTier": 1,
+    "leagueId": "544",
+    "leagueName": "Ligue I",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8153.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 5,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "Ben Guerdane",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T15:00:00Z",
+          "opponent": "Club Africain",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T15:00:00Z",
+          "opponent": "JS Omrane",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-30T14:30:00Z",
+          "opponent": "CS Sfaxien",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T14:30:00Z",
+          "opponent": "CA Bizertin",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T14:00:00Z",
+          "opponent": "Zarzis",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T13:30:00Z",
+          "opponent": "Etoile du Sahel",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T12:00:00Z",
+          "opponent": "Avenir de La Marsa",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T12:00:00Z",
+          "opponent": "Olympique de Beja",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-25T12:00:00Z",
+          "opponent": "Etoile Metlaoui",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-etoile-du-sahel",
+    "name": "Etoile du Sahel",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "Etoile du Sahel",
+    "lat": 35.831870300000006,
+    "lng": 10.6749105,
+    "divisionTier": 1,
+    "leagueId": "544",
+    "leagueName": "Ligue I",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6366.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 2,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "CS Sfaxien",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T15:00:00Z",
+          "opponent": "CA Bizertin",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T15:00:00Z",
+          "opponent": "Zarzis",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T14:30:00Z",
+          "opponent": "Etoile Metlaoui",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T14:30:00Z",
+          "opponent": "Avenir de La Marsa",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T14:00:00Z",
+          "opponent": "Olympique de Beja",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T13:30:00Z",
+          "opponent": "Espérance",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T12:00:00Z",
+          "opponent": "Stade Tunisien",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T12:00:00Z",
+          "opponent": "AS Soliman",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-13T13:00:00Z",
+          "opponent": "JS Kairouanaise",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-etoile-metlaoui",
+    "name": "Etoile Metlaoui",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "Etoile Metlaoui",
+    "lat": 33.956,
+    "lng": 9.516,
+    "divisionTier": 1,
+    "leagueId": "544",
+    "leagueName": "Ligue I",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/405958.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 5,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "JS Kairouanaise",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T15:00:00Z",
+          "opponent": "Zarzis",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T15:00:00Z",
+          "opponent": "US Monastir",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T14:30:00Z",
+          "opponent": "Etoile du Sahel",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T14:30:00Z",
+          "opponent": "AS Gabes",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-13T14:00:00Z",
+          "opponent": "Avenir de La Marsa",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T13:30:00Z",
+          "opponent": "Ben Guerdane",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T12:00:00Z",
+          "opponent": "Olympique de Beja",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T12:00:00Z",
+          "opponent": "Club Africain",
+          "homeAway": "away",
+          "score": "5 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-25T12:00:00Z",
+          "opponent": "Espérance",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-js-kairouan",
+    "name": "JS Kairouan",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "JS Kairouan",
+    "lat": 34.052,
+    "lng": 9.448,
+    "divisionTier": 2,
+    "leagueId": "africa-curated-TN-t2",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/177179.png",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-js-kairouanaise",
+    "name": "JS Kairouanaise",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "JS Kairouanaise",
+    "lat": 34.036,
+    "lng": 9.432,
+    "divisionTier": 1,
+    "leagueId": "544",
+    "leagueName": "Ligue I",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/177179.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 2,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "Etoile Metlaoui",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T15:00:00Z",
+          "opponent": "US Monastir",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:00:00Z",
+          "opponent": "AS Gabes",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-30T14:30:00Z",
+          "opponent": "Ben Guerdane",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T14:30:00Z",
+          "opponent": "Club Africain",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T14:00:00Z",
+          "opponent": "JS Omrane",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T13:30:00Z",
+          "opponent": "CS Sfaxien",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T12:00:00Z",
+          "opponent": "CA Bizertin",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T12:00:00Z",
+          "opponent": "Zarzis",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-13T13:00:00Z",
+          "opponent": "Etoile du Sahel",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-js-omrane",
+    "name": "JS Omrane",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "JS Omrane",
+    "lat": 34.028,
+    "lng": 9.424,
+    "divisionTier": 1,
+    "leagueId": "544",
+    "leagueName": "Ligue I",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1669235.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 2,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-12T15:00:00Z",
+          "opponent": "Avenir de La Marsa",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T15:00:00Z",
+          "opponent": "Olympique de Beja",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T15:00:00Z",
+          "opponent": "Espérance",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T14:30:00Z",
+          "opponent": "Stade Tunisien",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T14:30:00Z",
+          "opponent": "AS Soliman",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T14:00:00Z",
+          "opponent": "JS Kairouanaise",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T13:30:00Z",
+          "opponent": "US Monastir",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T12:00:00Z",
+          "opponent": "AS Gabes",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T12:00:00Z",
+          "opponent": "Ben Guerdane",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-15T13:00:00Z",
+          "opponent": "Club Africain",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-olympique-b-ja",
+    "name": "Olympique Béja",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "Olympique Béja",
+    "lat": 33.952,
+    "lng": 9.512,
+    "divisionTier": 2,
+    "leagueId": "africa-curated-TN-t2",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-olympique-de-beja",
+    "name": "Olympique de Beja",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "Olympique de Beja",
+    "lat": 33.996,
+    "lng": 9.556,
+    "divisionTier": 1,
+    "leagueId": "544",
+    "leagueName": "Ligue I",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102104.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 2,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "Club Africain",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T15:00:00Z",
+          "opponent": "JS Omrane",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:00:00Z",
+          "opponent": "CS Sfaxien",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-30T14:30:00Z",
+          "opponent": "CA Bizertin",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T14:30:00Z",
+          "opponent": "Zarzis",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T14:00:00Z",
+          "opponent": "Etoile du Sahel",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T13:30:00Z",
+          "opponent": "Avenir de La Marsa",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T12:00:00Z",
+          "opponent": "Etoile Metlaoui",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T12:00:00Z",
+          "opponent": "Espérance",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-13T13:00:00Z",
+          "opponent": "Stade Tunisien",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-stade-tunisien",
+    "name": "Stade Tunisien",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "Tunis",
+    "lat": 36.8465,
+    "lng": 10.1175,
+    "divisionTier": 1,
+    "leagueId": "544",
+    "leagueName": "Ligue I",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102116.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 4,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-13T15:00:00Z",
+          "opponent": "AS Gabes",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T15:00:00Z",
+          "opponent": "Ben Guerdane",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:00:00Z",
+          "opponent": "Club Africain",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T14:30:00Z",
+          "opponent": "JS Omrane",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T14:30:00Z",
+          "opponent": "CS Sfaxien",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T14:00:00Z",
+          "opponent": "CA Bizertin",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T13:30:00Z",
+          "opponent": "Zarzis",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T12:00:00Z",
+          "opponent": "Etoile du Sahel",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T12:00:00Z",
+          "opponent": "Avenir de La Marsa",
+          "homeAway": "away",
+          "score": "0 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-21T12:00:00Z",
+          "opponent": "Espérance",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-us-monastir",
+    "name": "US Monastir",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "Monastir",
+    "lat": 35.6883,
+    "lng": 10.7953,
+    "divisionTier": 1,
+    "leagueId": "544",
+    "leagueName": "Ligue I",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102109.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 3,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "AS Soliman",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T15:00:00Z",
+          "opponent": "JS Kairouanaise",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T15:00:00Z",
+          "opponent": "Etoile Metlaoui",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T14:30:00Z",
+          "opponent": "AS Gabes",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T14:30:00Z",
+          "opponent": "Ben Guerdane",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T14:00:00Z",
+          "opponent": "Club Africain",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T13:30:00Z",
+          "opponent": "JS Omrane",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T12:00:00Z",
+          "opponent": "CS Sfaxien",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T12:00:00Z",
+          "opponent": "CA Bizertin",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-15T13:00:00Z",
+          "opponent": "Zarzis",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tn-zarzis",
+    "name": "Zarzis",
+    "countryCode": "TN",
+    "country": "Tunisia",
+    "city": "Zarzis",
+    "lat": 33.4876797,
+    "lng": 11.1537173,
+    "divisionTier": 1,
+    "leagueId": "544",
+    "leagueName": "Ligue I",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102112.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 3,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-13T15:00:00Z",
+          "opponent": "CA Bizertin",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T15:00:00Z",
+          "opponent": "Etoile Metlaoui",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T15:00:00Z",
+          "opponent": "Etoile du Sahel",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-30T14:30:00Z",
+          "opponent": "Avenir de La Marsa",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T14:30:00Z",
+          "opponent": "Olympique de Beja",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T14:00:00Z",
+          "opponent": "Espérance",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T13:30:00Z",
+          "opponent": "Stade Tunisien",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T12:00:00Z",
+          "opponent": "AS Soliman",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T12:00:00Z",
+          "opponent": "JS Kairouanaise",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-15T13:00:00Z",
+          "opponent": "US Monastir",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "Aluminium Arak": {
+    "lat": 34.1262603,
+    "lng": 49.6929491,
+    "countryCode": "IR"
+  },
+  "Chadormalu": {
+    "lat": 32.3987722,
+    "lng": 53.7279807,
+    "countryCode": "IR"
+  },
+  "Esteghlal": {
+    "lat": 35.7471696,
+    "lng": 51.2842859,
+    "countryCode": "IR"
+  },
+  "Foolad": {
+    "lat": 36.2347748,
+    "lng": 58.7968156,
+    "countryCode": "IR"
+  },
+  "Gol Gohar": {
+    "lat": 29.1355051,
+    "lng": 55.3392479,
+    "countryCode": "IR"
+  },
+  "Malavan": {
+    "lat": 28.9812372,
+    "lng": 53.0693482,
+    "countryCode": "IR"
+  },
+  "Mes Kerman": {
+    "lat": 29.9992422,
+    "lng": 55.7989391,
+    "countryCode": "IR"
+  },
+  "Mes Rafsanjan": {
+    "lat": 29.9992422,
+    "lng": 55.7989391,
+    "countryCode": "IR"
+  },
+  "Pars Bandar": {
+    "lat": 27.2079821,
+    "lng": 56.2993034,
+    "countryCode": "IR"
+  },
+  "Persepolis": {
+    "lat": 29.9351669,
+    "lng": 52.8904041,
+    "countryCode": "IR"
+  },
+  "Rah Ahan": {
+    "lat": 35.6607049,
+    "lng": 51.4002695,
+    "countryCode": "IR"
+  },
+  "Saipa": {
+    "lat": 35.7277085,
+    "lng": 51.172527,
+    "countryCode": "IR"
+  },
+  "Sepahan": {
+    "lat": 32.6899602,
+    "lng": 51.7119556,
+    "countryCode": "IR"
+  },
+  "Shahin Bushehr": {
+    "lat": 28.9585741,
+    "lng": 50.8501711,
+    "countryCode": "IR"
+  },
+  "Shahrdari Tabriz": {
+    "lat": 38.0771715,
+    "lng": 46.3112517,
+    "countryCode": "IR"
+  },
+  "Tractor": {
+    "lat": 35.9912716,
+    "lng": 50.1238775,
+    "countryCode": "IR"
+  },
+  "Zob Ahan": {
+    "lat": 32.4831043,
+    "lng": 51.4184177,
+    "countryCode": "IR"
+  }
+}

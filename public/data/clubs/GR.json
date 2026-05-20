@@ -1,0 +1,1710 @@
+[
+  {
+    "id": "gr-ae-larissa",
+    "name": "AE Larissa",
+    "countryCode": "GR",
+    "country": "Greece",
+    "city": "AE Larissa",
+    "lat": 39.6503092,
+    "lng": 22.4880706,
+    "divisionTier": 1,
+    "leagueId": "135",
+    "leagueName": "Super League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8120.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 5,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T16:00:00Z",
+          "opponent": "Atromitos",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-12T16:00:00Z",
+          "opponent": "Panetolikos",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T14:00:00Z",
+          "opponent": "Asteras Tripolis",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T14:30:00Z",
+          "opponent": "Panserraikos FC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T17:00:00Z",
+          "opponent": "Panserraikos FC",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T14:00:00Z",
+          "opponent": "Kifisia FC",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T14:00:00Z",
+          "opponent": "Atromitos",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-08T13:00:00Z",
+          "opponent": "Panetolikos",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T15:00:00Z",
+          "opponent": "Asteras Tripolis",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:00:00Z",
+          "opponent": "Olympiacos",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gr-aek-athens",
+    "name": "AEK Athens",
+    "countryCode": "GR",
+    "country": "Greece",
+    "city": "AEK Athens",
+    "lat": 38.0371873,
+    "lng": 23.8009322,
+    "divisionTier": 1,
+    "leagueId": "135",
+    "leagueName": "Super League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8563.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 5,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T16:30:00Z",
+          "opponent": "Olympiacos",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T16:30:00Z",
+          "opponent": "PAOK Thessaloniki",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T16:30:00Z",
+          "opponent": "Panathinaikos",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T18:00:00Z",
+          "opponent": "Panathinaikos",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T15:00:00Z",
+          "opponent": "PAOK Thessaloniki",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T18:00:00Z",
+          "opponent": "Olympiacos",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:00:00Z",
+          "opponent": "Kifisia FC",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T17:30:00Z",
+          "opponent": "Atromitos",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T16:00:00Z",
+          "opponent": "AE Larissa",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T15:30:00Z",
+          "opponent": "NFC Volos",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gr-aris-thessaloniki",
+    "name": "Aris Thessaloniki",
+    "countryCode": "GR",
+    "country": "Greece",
+    "city": "Aris Thessaloniki",
+    "lat": 40.5790542,
+    "lng": 22.9689436,
+    "divisionTier": 1,
+    "leagueId": "135",
+    "leagueName": "Super League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8239.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 3,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T14:00:00Z",
+          "opponent": "Levadiakos",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T14:00:00Z",
+          "opponent": "NFC Volos",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T14:00:00Z",
+          "opponent": "OFI Crete",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T14:00:00Z",
+          "opponent": "OFI Crete",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T16:00:00Z",
+          "opponent": "NFC Volos",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T14:00:00Z",
+          "opponent": "Levadiakos",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:00:00Z",
+          "opponent": "OFI Crete",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T17:30:00Z",
+          "opponent": "Panserraikos FC",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T15:00:00Z",
+          "opponent": "Atromitos",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T18:00:00Z",
+          "opponent": "Panathinaikos",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gr-asteras-tripolis",
+    "name": "Asteras Tripolis",
+    "countryCode": "GR",
+    "country": "Greece",
+    "city": "Asteras Tripolis",
+    "lat": 37.5225165,
+    "lng": 22.4684569,
+    "divisionTier": 1,
+    "leagueId": "135",
+    "leagueName": "Super League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/80654.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 4,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T16:00:00Z",
+          "opponent": "Kifisia FC",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-12T16:00:00Z",
+          "opponent": "Panserraikos FC",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T14:00:00Z",
+          "opponent": "AE Larissa",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T16:30:00Z",
+          "opponent": "Atromitos",
+          "homeAway": "home",
+          "score": "4 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T15:00:00Z",
+          "opponent": "Atromitos",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T17:00:00Z",
+          "opponent": "Panetolikos",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T13:00:00Z",
+          "opponent": "Kifisia FC",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-08T14:00:00Z",
+          "opponent": "Panserraikos FC",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T15:00:00Z",
+          "opponent": "AE Larissa",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:00:00Z",
+          "opponent": "Panathinaikos",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gr-atromitos",
+    "name": "Atromitos",
+    "countryCode": "GR",
+    "country": "Greece",
+    "city": "Atromitos",
+    "lat": 38.0877014,
+    "lng": 23.6916499,
+    "divisionTier": 1,
+    "leagueId": "135",
+    "leagueName": "Super League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10187.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 2,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T16:00:00Z",
+          "opponent": "AE Larissa",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-12T16:00:00Z",
+          "opponent": "Kifisia FC",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T16:30:00Z",
+          "opponent": "Panetolikos",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T16:30:00Z",
+          "opponent": "Asteras Tripolis",
+          "homeAway": "away",
+          "score": "4 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T15:00:00Z",
+          "opponent": "Asteras Tripolis",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T13:00:00Z",
+          "opponent": "Panserraikos FC",
+          "homeAway": "away",
+          "score": "0 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T14:00:00Z",
+          "opponent": "AE Larissa",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-08T16:00:00Z",
+          "opponent": "Kifisia FC",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T17:00:00Z",
+          "opponent": "Panetolikos",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:00:00Z",
+          "opponent": "Levadiakos",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gr-kifisia-fc",
+    "name": "Kifisia FC",
+    "countryCode": "GR",
+    "country": "Greece",
+    "city": "Kifisia",
+    "lat": 38.0136082,
+    "lng": 23.8082244,
+    "divisionTier": 1,
+    "leagueId": "135",
+    "leagueName": "Super League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/488099.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 5,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T16:00:00Z",
+          "opponent": "Asteras Tripolis",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-12T16:00:00Z",
+          "opponent": "Atromitos",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T13:00:00Z",
+          "opponent": "Panserraikos FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T14:00:00Z",
+          "opponent": "Panetolikos",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T13:00:00Z",
+          "opponent": "Panetolikos",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T14:00:00Z",
+          "opponent": "AE Larissa",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T13:00:00Z",
+          "opponent": "Asteras Tripolis",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-08T16:00:00Z",
+          "opponent": "Atromitos",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T13:00:00Z",
+          "opponent": "Panserraikos FC",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:00:00Z",
+          "opponent": "AEK Athens",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gr-levadiakos",
+    "name": "Levadiakos",
+    "countryCode": "GR",
+    "country": "Greece",
+    "city": "Levadiakos",
+    "lat": 37.964,
+    "lng": 23.774,
+    "divisionTier": 1,
+    "leagueId": "135",
+    "leagueName": "Super League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4493.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 1,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T14:00:00Z",
+          "opponent": "Aris Thessaloniki",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T14:00:00Z",
+          "opponent": "OFI Crete",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T14:00:00Z",
+          "opponent": "NFC Volos",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T14:00:00Z",
+          "opponent": "NFC Volos",
+          "homeAway": "home",
+          "score": "5 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T15:00:00Z",
+          "opponent": "OFI Crete",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T14:00:00Z",
+          "opponent": "Aris Thessaloniki",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:00:00Z",
+          "opponent": "Atromitos",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T16:00:00Z",
+          "opponent": "PAOK Thessaloniki",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T17:00:00Z",
+          "opponent": "Panathinaikos",
+          "homeAway": "home",
+          "score": "1 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T18:00:00Z",
+          "opponent": "Kifisia FC",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gr-nfc-volos",
+    "name": "NFC Volos",
+    "countryCode": "GR",
+    "country": "Greece",
+    "city": "NFC Volos",
+    "lat": 37.995999999999995,
+    "lng": 23.806,
+    "divisionTier": 1,
+    "leagueId": "135",
+    "leagueName": "Super League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/885256.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 3,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T14:00:00Z",
+          "opponent": "OFI Crete",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T14:00:00Z",
+          "opponent": "Aris Thessaloniki",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T14:00:00Z",
+          "opponent": "Levadiakos",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T14:00:00Z",
+          "opponent": "Levadiakos",
+          "homeAway": "away",
+          "score": "5 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T16:00:00Z",
+          "opponent": "Aris Thessaloniki",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T14:00:00Z",
+          "opponent": "OFI Crete",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:00:00Z",
+          "opponent": "PAOK Thessaloniki",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T14:00:00Z",
+          "opponent": "Kifisia FC",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T15:00:00Z",
+          "opponent": "OFI Crete",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T15:30:00Z",
+          "opponent": "AEK Athens",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gr-ofi-crete",
+    "name": "OFI Crete",
+    "countryCode": "GR",
+    "country": "Greece",
+    "city": "OFI Crete",
+    "lat": 38.007999999999996,
+    "lng": 23.654,
+    "divisionTier": 1,
+    "leagueId": "135",
+    "leagueName": "Super League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7753.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 2,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T14:00:00Z",
+          "opponent": "NFC Volos",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T14:00:00Z",
+          "opponent": "Levadiakos",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T14:00:00Z",
+          "opponent": "Aris Thessaloniki",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T14:00:00Z",
+          "opponent": "Aris Thessaloniki",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T15:00:00Z",
+          "opponent": "Levadiakos",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T14:00:00Z",
+          "opponent": "NFC Volos",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:00:00Z",
+          "opponent": "Aris Thessaloniki",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T15:00:00Z",
+          "opponent": "Olympiacos",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T15:00:00Z",
+          "opponent": "NFC Volos",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-04T16:00:00Z",
+          "opponent": "Panathinaikos",
+          "homeAway": "away",
+          "score": "4 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gr-olympiacos",
+    "name": "Olympiacos",
+    "countryCode": "GR",
+    "country": "Greece",
+    "city": "Olympiacos",
+    "lat": 37.8890679,
+    "lng": 23.697894899999998,
+    "divisionTier": 1,
+    "leagueId": "135",
+    "leagueName": "Super League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8638.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 4,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T16:30:00Z",
+          "opponent": "AEK Athens",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T16:30:00Z",
+          "opponent": "Panathinaikos",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T16:30:00Z",
+          "opponent": "PAOK Thessaloniki",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T16:00:00Z",
+          "opponent": "PAOK Thessaloniki",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T18:00:00Z",
+          "opponent": "Panathinaikos",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T18:00:00Z",
+          "opponent": "AEK Athens",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:00:00Z",
+          "opponent": "AE Larissa",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T15:00:00Z",
+          "opponent": "OFI Crete",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T19:00:00Z",
+          "opponent": "PAOK Thessaloniki",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T14:00:00Z",
+          "opponent": "Panserraikos FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gr-panathinaikos",
+    "name": "Panathinaikos",
+    "countryCode": "GR",
+    "country": "Greece",
+    "city": "Panathinaikos",
+    "lat": 37.966596800000005,
+    "lng": 23.738719500000002,
+    "divisionTier": 1,
+    "leagueId": "135",
+    "leagueName": "Super League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10200.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 4,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T16:30:00Z",
+          "opponent": "PAOK Thessaloniki",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T16:30:00Z",
+          "opponent": "Olympiacos",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T16:30:00Z",
+          "opponent": "AEK Athens",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T18:00:00Z",
+          "opponent": "AEK Athens",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T18:00:00Z",
+          "opponent": "Olympiacos",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T16:00:00Z",
+          "opponent": "PAOK Thessaloniki",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:00:00Z",
+          "opponent": "Asteras Tripolis",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T19:00:00Z",
+          "opponent": "Panetolikos",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T17:00:00Z",
+          "opponent": "Levadiakos",
+          "homeAway": "away",
+          "score": "1 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-04T16:00:00Z",
+          "opponent": "OFI Crete",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gr-panetolikos",
+    "name": "Panetolikos",
+    "countryCode": "GR",
+    "country": "Greece",
+    "city": "Panetolikos",
+    "lat": 37.948,
+    "lng": 23.758,
+    "divisionTier": 1,
+    "leagueId": "135",
+    "leagueName": "Super League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/162386.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 5,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T12:00:00Z",
+          "opponent": "Panserraikos FC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-12T16:00:00Z",
+          "opponent": "AE Larissa",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T16:30:00Z",
+          "opponent": "Atromitos",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T14:00:00Z",
+          "opponent": "Kifisia FC",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T13:00:00Z",
+          "opponent": "Kifisia FC",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T17:00:00Z",
+          "opponent": "Asteras Tripolis",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T17:00:00Z",
+          "opponent": "Panserraikos FC",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-08T13:00:00Z",
+          "opponent": "AE Larissa",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T17:00:00Z",
+          "opponent": "Atromitos",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:00:00Z",
+          "opponent": "Panserraikos FC",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gr-panserraikos-fc",
+    "name": "Panserraikos FC",
+    "countryCode": "GR",
+    "country": "Greece",
+    "city": "Panserraikos",
+    "lat": 38.016,
+    "lng": 23.662,
+    "divisionTier": 1,
+    "leagueId": "135",
+    "leagueName": "Super League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/104814.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 4,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T12:00:00Z",
+          "opponent": "Panetolikos",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-12T16:00:00Z",
+          "opponent": "Asteras Tripolis",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T13:00:00Z",
+          "opponent": "Kifisia FC",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T14:30:00Z",
+          "opponent": "AE Larissa",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T17:00:00Z",
+          "opponent": "AE Larissa",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T13:00:00Z",
+          "opponent": "Atromitos",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T17:00:00Z",
+          "opponent": "Panetolikos",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-08T14:00:00Z",
+          "opponent": "Asteras Tripolis",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T13:00:00Z",
+          "opponent": "Kifisia FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:00:00Z",
+          "opponent": "Panetolikos",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gr-paok-thessaloniki",
+    "name": "PAOK Thessaloniki",
+    "countryCode": "GR",
+    "country": "Greece",
+    "city": "PAOK Thessaloniki",
+    "lat": 40.6658703,
+    "lng": 22.9203655,
+    "divisionTier": 1,
+    "leagueId": "135",
+    "leagueName": "Super League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8619.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 5,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T16:30:00Z",
+          "opponent": "Panathinaikos",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T16:30:00Z",
+          "opponent": "AEK Athens",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T16:30:00Z",
+          "opponent": "Olympiacos",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T16:00:00Z",
+          "opponent": "Olympiacos",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T15:00:00Z",
+          "opponent": "AEK Athens",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T16:00:00Z",
+          "opponent": "Panathinaikos",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:00:00Z",
+          "opponent": "NFC Volos",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T16:00:00Z",
+          "opponent": "Levadiakos",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T19:00:00Z",
+          "opponent": "Olympiacos",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-04T18:00:00Z",
+          "opponent": "Kifisia FC",
+          "homeAway": "away",
+          "score": "1 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

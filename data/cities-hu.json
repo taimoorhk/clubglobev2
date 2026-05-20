@@ -1,0 +1,42 @@
+{
+  "Budapest": {
+    "lat": 47.4979,
+    "lng": 19.0402,
+    "countryCode": "HU"
+  },
+  "Debrecen": {
+    "lat": 47.5316,
+    "lng": 21.6273,
+    "countryCode": "HU"
+  },
+  "Szekesfehervar": {
+    "lat": 47.186,
+    "lng": 18.4221,
+    "countryCode": "HU"
+  },
+  "Paks": {
+    "lat": 46.6265,
+    "lng": 18.8596,
+    "countryCode": "HU"
+  },
+  "Kisvarda": {
+    "lat": 48.2167,
+    "lng": 22.0833,
+    "countryCode": "HU"
+  },
+  "Zalaegerszeg": {
+    "lat": 46.8417,
+    "lng": 16.8416,
+    "countryCode": "HU"
+  },
+  "Kecskemet": {
+    "lat": 46.8964,
+    "lng": 19.6897,
+    "countryCode": "HU"
+  },
+  "Gyor": {
+    "lat": 47.6875,
+    "lng": 17.6504,
+    "countryCode": "HU"
+  }
+}

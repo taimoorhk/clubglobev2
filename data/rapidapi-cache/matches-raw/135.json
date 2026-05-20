@@ -1,0 +1,8946 @@
+[
+  {
+    "id": "4859000",
+    "pageUrl": "/matches/aris-thessaloniki-vs-nfc-volos/53dibbws#4859000",
+    "opponent": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 2
+    },
+    "home": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 2
+    },
+    "away": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-23T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859002",
+    "pageUrl": "/matches/olympiacos-vs-asteras-tripolis/1txibu4#4859002",
+    "opponent": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 2
+    },
+    "home": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 2
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-23T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859004",
+    "pageUrl": "/matches/atromitos-vs-panetolikos/6u9p539#4859004",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-23T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4858999",
+    "pageUrl": "/matches/aek-athens-vs-panserraikos-fc/2yam01w#4858999",
+    "opponent": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 2
+    },
+    "home": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 2
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-24T17:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859005",
+    "pageUrl": "/matches/ae-larissa-vs-paok-thessaloniki/2bf4ox#4859005",
+    "opponent": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 1
+    },
+    "home": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 1
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-24T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859001",
+    "pageUrl": "/matches/levadiakos-vs-kifisia-fc/1jqha3i3#4859001",
+    "opponent": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 3
+    },
+    "home": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 3
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-25T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859012",
+    "pageUrl": "/matches/olympiacos-vs-nfc-volos/53jem64d#4859012",
+    "opponent": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 0
+    },
+    "home": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 0
+    },
+    "away": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-30T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859010",
+    "pageUrl": "/matches/ofi-crete-vs-panserraikos-fc/2ws4nm5#4859010",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "away": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-30T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859008",
+    "pageUrl": "/matches/aris-thessaloniki-vs-panetolikos/6oql59s#4859008",
+    "opponent": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 0
+    },
+    "home": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 0
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-30T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859007",
+    "pageUrl": "/matches/ae-larissa-vs-kifisia-fc/1kk4mj9u#4859007",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-30T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859006",
+    "pageUrl": "/matches/aek-athens-vs-asteras-tripolis/1ttiuk4#4859006",
+    "opponent": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "home": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-31T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859011",
+    "pageUrl": "/matches/paok-thessaloniki-vs-atromitos/2xaizc#4859011",
+    "opponent": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 1
+    },
+    "home": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 1
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-31T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859009",
+    "pageUrl": "/matches/levadiakos-vs-panathinaikos/1s9tt8#4859009",
+    "opponent": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 1
+    },
+    "home": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 1
+    },
+    "away": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-31T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859018",
+    "pageUrl": "/matches/olympiacos-vs-panserraikos-fc/2yfobh8#4859018",
+    "opponent": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 5
+    },
+    "home": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 5
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-13T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859014",
+    "pageUrl": "/matches/aris-thessaloniki-vs-atromitos/2t2w5a#4859014",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 1
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 1
+    },
+    "away": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-13T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859019",
+    "pageUrl": "/matches/panetolikos-vs-nfc-volos/703sf9xj#4859019",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 1
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 1
+    },
+    "away": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-13T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859013",
+    "pageUrl": "/matches/ae-larissa-vs-asteras-tripolis/1t61til#4859013",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 2
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 2
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-14T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859015",
+    "pageUrl": "/matches/panathinaikos-vs-kifisia-fc/1l18pgfh#4859015",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 3
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 3
+    },
+    "away": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-14T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859016",
+    "pageUrl": "/matches/levadiakos-vs-aek-athens/1er377#4859016",
+    "opponent": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 0
+    },
+    "home": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 0
+    },
+    "away": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-14T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859017",
+    "pageUrl": "/matches/ofi-crete-vs-paok-thessaloniki/27swdp#4859017",
+    "opponent": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 1
+    },
+    "home": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 1
+    },
+    "away": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-14T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859021",
+    "pageUrl": "/matches/aris-thessaloniki-vs-kifisia-fc/1kl3sc6y#4859021",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "away": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-20T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859024",
+    "pageUrl": "/matches/atromitos-vs-panserraikos-fc/31d2rmr#4859024",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 1
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 1
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-20T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859026",
+    "pageUrl": "/matches/asteras-tripolis-vs-nfc-volos/5yaxjsed#4859026",
+    "opponent": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 2
+    },
+    "home": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 2
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-20T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859025",
+    "pageUrl": "/matches/paok-thessaloniki-vs-panetolikos/6pt8ecu#4859025",
+    "opponent": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 0
+    },
+    "home": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 0
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-20T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859020",
+    "pageUrl": "/matches/ae-larissa-vs-aek-athens/2av2jp#4859020",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "away": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-21T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859022",
+    "pageUrl": "/matches/levadiakos-vs-ofi-crete/18nfdy#4859022",
+    "opponent": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 4
+    },
+    "home": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 4
+    },
+    "away": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-21T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859023",
+    "pageUrl": "/matches/olympiacos-vs-panathinaikos/2xnfqz#4859023",
+    "opponent": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 1
+    },
+    "home": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 1
+    },
+    "away": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-21T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859032",
+    "pageUrl": "/matches/levadiakos-vs-olympiacos/1fc50g#4859032",
+    "opponent": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 3
+    },
+    "home": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 3
+    },
+    "away": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-27T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859028",
+    "pageUrl": "/matches/aris-thessaloniki-vs-panserraikos-fc/2xorrxe#4859028",
+    "opponent": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 1
+    },
+    "home": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 1
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-27T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859027",
+    "pageUrl": "/matches/aek-athens-vs-nfc-volos/53iapaaa#4859027",
+    "opponent": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "home": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "away": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-28T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859031",
+    "pageUrl": "/matches/ofi-crete-vs-kifisia-fc/1kh48o07#4859031",
+    "opponent": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 1
+    },
+    "home": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 1
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-28T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859029",
+    "pageUrl": "/matches/paok-thessaloniki-vs-asteras-tripolis/1twhyw0#4859029",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 3
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 3
+    },
+    "away": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-28T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859033",
+    "pageUrl": "/matches/panathinaikos-vs-panetolikos/6ub187t#4859033",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 1
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 1
+    },
+    "away": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-28T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859030",
+    "pageUrl": "/matches/ae-larissa-vs-atromitos/2rs1ku#4859030",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 1
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 1
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-29T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859037",
+    "pageUrl": "/matches/ofi-crete-vs-aris-thessaloniki/24537v#4859037",
+    "opponent": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 3
+    },
+    "home": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 3
+    },
+    "away": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-04T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859039",
+    "pageUrl": "/matches/asteras-tripolis-vs-panserraikos-fc/7wg21ck#4859039",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 2
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 2
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-04T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859034",
+    "pageUrl": "/matches/ae-larissa-vs-nfc-volos/53br0jqg#4859034",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 2
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 2
+    },
+    "away": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-04T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859035",
+    "pageUrl": "/matches/aek-athens-vs-kifisia-fc/1knrk9kg#4859035",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 2
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 2
+    },
+    "away": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-05T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859036",
+    "pageUrl": "/matches/levadiakos-vs-panetolikos/6ea7yql#4859036",
+    "opponent": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 6
+    },
+    "home": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 6
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-05T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "6 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859040",
+    "pageUrl": "/matches/paok-thessaloniki-vs-olympiacos/2gnuuz#4859040",
+    "opponent": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 2
+    },
+    "home": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 2
+    },
+    "away": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-05T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859038",
+    "pageUrl": "/matches/atromitos-vs-panathinaikos/3fqmq6#4859038",
+    "opponent": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 1
+    },
+    "home": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 1
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-05T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859042",
+    "pageUrl": "/matches/ae-larissa-vs-olympiacos/2bly97#4859042",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 0
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 0
+    },
+    "away": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-18T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859045",
+    "pageUrl": "/matches/levadiakos-vs-atromitos/1s5qhl#4859045",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 2
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 2
+    },
+    "away": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-18T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859046",
+    "pageUrl": "/matches/ofi-crete-vs-panetolikos/6ndabgj#4859046",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 4
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 4
+    },
+    "away": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-18T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859044",
+    "pageUrl": "/matches/asteras-tripolis-vs-kifisia-fc/22aw12qf#4859044",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 2
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 2
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-19T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859047",
+    "pageUrl": "/matches/panserraikos-fc-vs-nfc-volos/695p775h#4859047",
+    "opponent": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 2
+    },
+    "home": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 2
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-19T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859043",
+    "pageUrl": "/matches/aris-thessaloniki-vs-panathinaikos/2t811n#4859043",
+    "opponent": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 1
+    },
+    "home": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 1
+    },
+    "away": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-19T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859041",
+    "pageUrl": "/matches/aek-athens-vs-paok-thessaloniki/2fw6bg#4859041",
+    "opponent": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 0
+    },
+    "home": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 0
+    },
+    "away": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-19T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859048",
+    "pageUrl": "/matches/panetolikos-vs-kifisia-fc/2p6x1hzu#4859048",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-25T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859053",
+    "pageUrl": "/matches/ae-larissa-vs-panserraikos-fc/2xgrkm5#4859053",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-25T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859050",
+    "pageUrl": "/matches/ofi-crete-vs-atromitos/2ntgyj#4859050",
+    "opponent": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 1
+    },
+    "home": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 1
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-25T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859049",
+    "pageUrl": "/matches/levadiakos-vs-aris-thessaloniki/1c9jbp#4859049",
+    "opponent": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 1
+    },
+    "home": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 1
+    },
+    "away": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-26T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859052",
+    "pageUrl": "/matches/panathinaikos-vs-asteras-tripolis/1w9bg7n#4859052",
+    "opponent": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 2
+    },
+    "home": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 2
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-26T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859054",
+    "pageUrl": "/matches/paok-thessaloniki-vs-nfc-volos/53j4i5bq#4859054",
+    "opponent": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 3
+    },
+    "home": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 3
+    },
+    "away": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-26T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859051",
+    "pageUrl": "/matches/aek-athens-vs-olympiacos/2g36dj#4859051",
+    "opponent": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 2
+    },
+    "home": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 2
+    },
+    "away": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-26T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859061",
+    "pageUrl": "/matches/panathinaikos-vs-nfc-volos/546in308#4859061",
+    "opponent": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "home": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "away": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-01T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859058",
+    "pageUrl": "/matches/atromitos-vs-kifisia-fc/1l14um4c#4859058",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 1
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 1
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-01T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859059",
+    "pageUrl": "/matches/aris-thessaloniki-vs-olympiacos/2csui1#4859059",
+    "opponent": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 2
+    },
+    "home": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 2
+    },
+    "away": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-01T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859056",
+    "pageUrl": "/matches/levadiakos-vs-ae-larissa/1bd7l3#4859056",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 0
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 0
+    },
+    "away": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-02T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859060",
+    "pageUrl": "/matches/paok-thessaloniki-vs-panserraikos-fc/2yee4c0#4859060",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "away": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-02T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859055",
+    "pageUrl": "/matches/aek-athens-vs-panetolikos/6pnj6ea#4859055",
+    "opponent": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "home": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-02T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859057",
+    "pageUrl": "/matches/ofi-crete-vs-asteras-tripolis/1smqide#4859057",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 3
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 3
+    },
+    "away": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-03T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859068",
+    "pageUrl": "/matches/ae-larissa-vs-panetolikos/6oei3n3#4859068",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 3
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 3
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-08T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859062",
+    "pageUrl": "/matches/aris-thessaloniki-vs-asteras-tripolis/1tccefm#4859062",
+    "opponent": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 0
+    },
+    "home": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 0
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859064",
+    "pageUrl": "/matches/olympiacos-vs-kifisia-fc/1kodqpu7#4859064",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "away": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859065",
+    "pageUrl": "/matches/levadiakos-vs-panserraikos-fc/2qst1cn#4859065",
+    "opponent": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 5
+    },
+    "home": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 5
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859066",
+    "pageUrl": "/matches/ofi-crete-vs-aek-athens/279a3d#4859066",
+    "opponent": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 0
+    },
+    "home": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 0
+    },
+    "away": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859063",
+    "pageUrl": "/matches/atromitos-vs-nfc-volos/546bpkva#4859063",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "away": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859067",
+    "pageUrl": "/matches/paok-thessaloniki-vs-panathinaikos/2xfrox#4859067",
+    "opponent": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 2
+    },
+    "home": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 2
+    },
+    "away": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859071",
+    "pageUrl": "/matches/asteras-tripolis-vs-panetolikos/dkg16m6#4859071",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-22T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859072",
+    "pageUrl": "/matches/olympiacos-vs-atromitos/2xi6uj#4859072",
+    "opponent": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 3
+    },
+    "home": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 3
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-22T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859073",
+    "pageUrl": "/matches/panathinaikos-vs-panserraikos-fc/31dyt9f#4859073",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "away": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-23T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859074",
+    "pageUrl": "/matches/paok-thessaloniki-vs-kifisia-fc/1ko84fjo#4859074",
+    "opponent": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 3
+    },
+    "home": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 3
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-23T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859069",
+    "pageUrl": "/matches/aris-thessaloniki-vs-aek-athens/2c1rwm#4859069",
+    "opponent": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "home": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "away": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-23T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859075",
+    "pageUrl": "/matches/levadiakos-vs-nfc-volos/51u9r5m7#4859075",
+    "opponent": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "home": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "away": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-24T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859070",
+    "pageUrl": "/matches/ofi-crete-vs-ae-larissa/230g55#4859070",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "away": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-24T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859080",
+    "pageUrl": "/matches/ofi-crete-vs-nfc-volos/536bum81#4859080",
+    "opponent": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 0
+    },
+    "home": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 0
+    },
+    "away": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-29T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859076",
+    "pageUrl": "/matches/ae-larissa-vs-aris-thessaloniki/27obx7#4859076",
+    "opponent": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 2
+    },
+    "home": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 2
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-29T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859078",
+    "pageUrl": "/matches/panserraikos-fc-vs-kifisia-fc/28qz4cvw#4859078",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 3
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 3
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-29T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859077",
+    "pageUrl": "/matches/atromitos-vs-asteras-tripolis/1w8m4xf#4859077",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-30T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859082",
+    "pageUrl": "/matches/olympiacos-vs-panetolikos/6pv61ja#4859082",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "away": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-30T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859079",
+    "pageUrl": "/matches/levadiakos-vs-paok-thessaloniki/1f6smf#4859079",
+    "opponent": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 2
+    },
+    "home": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 2
+    },
+    "away": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-30T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859081",
+    "pageUrl": "/matches/aek-athens-vs-panathinaikos/2wt7o5#4859081",
+    "opponent": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 2
+    },
+    "home": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 2
+    },
+    "away": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-30T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859086",
+    "pageUrl": "/matches/ofi-crete-vs-olympiacos/27zkka#4859086",
+    "opponent": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 3
+    },
+    "home": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 3
+    },
+    "away": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-06T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859089",
+    "pageUrl": "/matches/kifisia-fc-vs-nfc-volos/c18dqg6y#4859089",
+    "opponent": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "home": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-06T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859085",
+    "pageUrl": "/matches/levadiakos-vs-asteras-tripolis/1nyb3go#4859085",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "away": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-07T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859084",
+    "pageUrl": "/matches/ae-larissa-vs-panathinaikos/2rx5a8#4859084",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 2
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 2
+    },
+    "away": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-07T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859088",
+    "pageUrl": "/matches/aris-thessaloniki-vs-paok-thessaloniki/2clz6y#4859088",
+    "opponent": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 3
+    },
+    "home": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 3
+    },
+    "away": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-07T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859083",
+    "pageUrl": "/matches/aek-athens-vs-atromitos/2wnzis#4859083",
+    "opponent": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 4
+    },
+    "home": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 4
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-07T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859087",
+    "pageUrl": "/matches/panserraikos-fc-vs-panetolikos/gedsnqq#4859087",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-08T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859093",
+    "pageUrl": "/matches/levadiakos-vs-ae-larissa/1bd7l3#4859093",
+    "opponent": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 3
+    },
+    "home": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 3
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-13T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859094",
+    "pageUrl": "/matches/ofi-crete-vs-panserraikos-fc/2ws4nm5#4859094",
+    "opponent": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 3
+    },
+    "home": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 3
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-13T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859092",
+    "pageUrl": "/matches/asteras-tripolis-vs-kifisia-fc/22aw12qf#4859092",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-13T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859096",
+    "pageUrl": "/matches/aek-athens-vs-panetolikos/6pnj6ea#4859096",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "away": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-14T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859091",
+    "pageUrl": "/matches/paok-thessaloniki-vs-atromitos/2xaizc#4859091",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 2
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 2
+    },
+    "away": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-14T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859090",
+    "pageUrl": "/matches/aris-thessaloniki-vs-olympiacos/2csui1#4859090",
+    "opponent": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 0
+    },
+    "home": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 0
+    },
+    "away": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-14T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859095",
+    "pageUrl": "/matches/panathinaikos-vs-nfc-volos/546in308#4859095",
+    "opponent": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 2
+    },
+    "home": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 2
+    },
+    "away": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-14T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859099",
+    "pageUrl": "/matches/aris-thessaloniki-vs-asteras-tripolis/1tccefm#4859099",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "away": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-20T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859103",
+    "pageUrl": "/matches/panetolikos-vs-nfc-volos/703sf9xj#4859103",
+    "opponent": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "home": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-20T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859100",
+    "pageUrl": "/matches/olympiacos-vs-kifisia-fc/1kodqpu7#4859100",
+    "opponent": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 1
+    },
+    "home": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 1
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-20T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859098",
+    "pageUrl": "/matches/ae-larissa-vs-atromitos/2rs1ku#4859098",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 0
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 0
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-21T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859102",
+    "pageUrl": "/matches/paok-thessaloniki-vs-panathinaikos/2xfrox#4859102",
+    "opponent": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 2
+    },
+    "home": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 2
+    },
+    "away": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-21T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859097",
+    "pageUrl": "/matches/ofi-crete-vs-aek-athens/279a3d#4859097",
+    "opponent": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 2
+    },
+    "home": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 2
+    },
+    "away": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-21T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859101",
+    "pageUrl": "/matches/levadiakos-vs-panserraikos-fc/2qst1cn#4859101",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "away": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-22T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859106",
+    "pageUrl": "/matches/ae-larissa-vs-kifisia-fc/1kk4mj9u#4859106",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-10T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859105",
+    "pageUrl": "/matches/olympiacos-vs-atromitos/2xi6uj#4859105",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "away": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-10T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859110",
+    "pageUrl": "/matches/paok-thessaloniki-vs-panetolikos/6pt8ecu#4859110",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "away": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-10T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859107",
+    "pageUrl": "/matches/levadiakos-vs-nfc-volos/51u9r5m7#4859107",
+    "opponent": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 3
+    },
+    "home": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 3
+    },
+    "away": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-11T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859108",
+    "pageUrl": "/matches/ofi-crete-vs-asteras-tripolis/1smqide#4859108",
+    "opponent": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 4
+    },
+    "home": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 4
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-11T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859104",
+    "pageUrl": "/matches/aris-thessaloniki-vs-aek-athens/2c1rwm#4859104",
+    "opponent": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 1
+    },
+    "home": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 1
+    },
+    "away": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-11T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859109",
+    "pageUrl": "/matches/panathinaikos-vs-panserraikos-fc/31dyt9f#4859109",
+    "opponent": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 3
+    },
+    "home": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 3
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-11T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859115",
+    "pageUrl": "/matches/panserraikos-fc-vs-kifisia-fc/28qz4cvw#4859115",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 2
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 2
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-17T13:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859112",
+    "pageUrl": "/matches/ae-larissa-vs-aris-thessaloniki/27obx7#4859112",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "away": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-18T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859116",
+    "pageUrl": "/matches/ofi-crete-vs-paok-thessaloniki/27swdp#4859116",
+    "opponent": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 3
+    },
+    "home": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 3
+    },
+    "away": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-18T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859111",
+    "pageUrl": "/matches/aek-athens-vs-panathinaikos/2wt7o5#4859111",
+    "opponent": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 4
+    },
+    "home": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 4
+    },
+    "away": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-18T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859114",
+    "pageUrl": "/matches/levadiakos-vs-panetolikos/6ea7yql#4859114",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 1
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 1
+    },
+    "away": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-19T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859117",
+    "pageUrl": "/matches/atromitos-vs-nfc-volos/546bpkva#4859117",
+    "opponent": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 0
+    },
+    "home": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 0
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-19T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859124",
+    "pageUrl": "/matches/olympiacos-vs-nfc-volos/53jem64d#4859124",
+    "opponent": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 1
+    },
+    "home": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 1
+    },
+    "away": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-24T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859120",
+    "pageUrl": "/matches/aek-athens-vs-asteras-tripolis/1ttiuk4#4859120",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "away": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-24T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859118",
+    "pageUrl": "/matches/ae-larissa-vs-panserraikos-fc/2xgrkm5#4859118",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-24T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859119",
+    "pageUrl": "/matches/levadiakos-vs-aris-thessaloniki/1c9jbp#4859119",
+    "opponent": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 2
+    },
+    "home": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 2
+    },
+    "away": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-25T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859123",
+    "pageUrl": "/matches/ofi-crete-vs-panetolikos/6ndabgj#4859123",
+    "opponent": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 1
+    },
+    "home": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 1
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-25T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859121",
+    "pageUrl": "/matches/atromitos-vs-panathinaikos/3fqmq6#4859121",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "away": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-25T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859129",
+    "pageUrl": "/matches/aris-thessaloniki-vs-panetolikos/6oql59s#4859129",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "away": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-31T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859126",
+    "pageUrl": "/matches/ofi-crete-vs-atromitos/2ntgyj#4859126",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 1
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 1
+    },
+    "away": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-31T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859131",
+    "pageUrl": "/matches/ae-larissa-vs-nfc-volos/53br0jqg#4859131",
+    "opponent": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 0
+    },
+    "home": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 0
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-31T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859127",
+    "pageUrl": "/matches/levadiakos-vs-asteras-tripolis/1nyb3go#4859127",
+    "opponent": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 3
+    },
+    "home": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 3
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-01T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859128",
+    "pageUrl": "/matches/panathinaikos-vs-kifisia-fc/1l18pgfh#4859128",
+    "opponent": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 3
+    },
+    "home": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 3
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-01T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859130",
+    "pageUrl": "/matches/paok-thessaloniki-vs-panserraikos-fc/2yee4c0#4859130",
+    "opponent": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 4
+    },
+    "home": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 4
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-01T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859125",
+    "pageUrl": "/matches/aek-athens-vs-olympiacos/2g36dj#4859125",
+    "opponent": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "home": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "away": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-01T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859113",
+    "pageUrl": "/matches/olympiacos-vs-asteras-tripolis/1txibu4#4859113",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "away": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-04T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859132",
+    "pageUrl": "/matches/ae-larissa-vs-panetolikos/6oei3n3#4859132",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-07T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859134",
+    "pageUrl": "/matches/asteras-tripolis-vs-nfc-volos/5yaxjsed#4859134",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 2
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 2
+    },
+    "away": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-07T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859135",
+    "pageUrl": "/matches/atromitos-vs-kifisia-fc/1l14um4c#4859135",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-07T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859138",
+    "pageUrl": "/matches/aek-athens-vs-panserraikos-fc/2yam01w#4859138",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "away": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-08T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859136",
+    "pageUrl": "/matches/levadiakos-vs-ofi-crete/18nfdy#4859136",
+    "opponent": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 3
+    },
+    "home": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 3
+    },
+    "away": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-08T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859133",
+    "pageUrl": "/matches/aris-thessaloniki-vs-paok-thessaloniki/2clz6y#4859133",
+    "opponent": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 0
+    },
+    "home": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 0
+    },
+    "away": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-08T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859137",
+    "pageUrl": "/matches/olympiacos-vs-panathinaikos/2xnfqz#4859137",
+    "opponent": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 0
+    },
+    "home": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 0
+    },
+    "away": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-08T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859143",
+    "pageUrl": "/matches/asteras-tripolis-vs-panetolikos/dkg16m6#4859143",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 3
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 3
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-14T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859141",
+    "pageUrl": "/matches/levadiakos-vs-olympiacos/1fc50g#4859141",
+    "opponent": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 0
+    },
+    "home": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 0
+    },
+    "away": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-14T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859145",
+    "pageUrl": "/matches/aris-thessaloniki-vs-nfc-volos/53dibbws#4859145",
+    "opponent": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "home": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "away": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-14T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859140",
+    "pageUrl": "/matches/ofi-crete-vs-kifisia-fc/1kh48o07#4859140",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 2
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 2
+    },
+    "away": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-15T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859144",
+    "pageUrl": "/matches/aek-athens-vs-paok-thessaloniki/2fw6bg#4859144",
+    "opponent": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 0
+    },
+    "home": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 0
+    },
+    "away": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-15T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859142",
+    "pageUrl": "/matches/ae-larissa-vs-panathinaikos/2rx5a8#4859142",
+    "opponent": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 1
+    },
+    "home": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 1
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-15T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859139",
+    "pageUrl": "/matches/atromitos-vs-panserraikos-fc/31d2rmr#4859139",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 2
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 2
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-16T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859149",
+    "pageUrl": "/matches/atromitos-vs-asteras-tripolis/1w8m4xf#4859149",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-21T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859151",
+    "pageUrl": "/matches/olympiacos-vs-panetolikos/6pv61ja#4859151",
+    "opponent": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 2
+    },
+    "home": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 2
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-21T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859150",
+    "pageUrl": "/matches/ofi-crete-vs-panathinaikos/2nygze#4859150",
+    "opponent": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 0
+    },
+    "home": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 0
+    },
+    "away": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859152",
+    "pageUrl": "/matches/panserraikos-fc-vs-nfc-volos/695p775h#4859152",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 2
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 2
+    },
+    "away": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859147",
+    "pageUrl": "/matches/ae-larissa-vs-paok-thessaloniki/2bf4ox#4859147",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "away": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859148",
+    "pageUrl": "/matches/aris-thessaloniki-vs-kifisia-fc/1kl3sc6y#4859148",
+    "opponent": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 1
+    },
+    "home": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 1
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859146",
+    "pageUrl": "/matches/levadiakos-vs-aek-athens/1er377#4859146",
+    "opponent": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 4
+    },
+    "home": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 4
+    },
+    "away": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859155",
+    "pageUrl": "/matches/ofi-crete-vs-ae-larissa/230g55#4859155",
+    "opponent": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 3
+    },
+    "home": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 3
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-28T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859153",
+    "pageUrl": "/matches/atromitos-vs-panetolikos/6u9p539#4859153",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 1
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 1
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-28T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859154",
+    "pageUrl": "/matches/levadiakos-vs-kifisia-fc/1jqha3i3#4859154",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "away": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-28T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859157",
+    "pageUrl": "/matches/olympiacos-vs-panserraikos-fc/2yfobh8#4859157",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 1
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 1
+    },
+    "away": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859159",
+    "pageUrl": "/matches/aek-athens-vs-nfc-volos/53iapaaa#4859159",
+    "opponent": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 2
+    },
+    "home": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 2
+    },
+    "away": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859158",
+    "pageUrl": "/matches/paok-thessaloniki-vs-asteras-tripolis/1twhyw0#4859158",
+    "opponent": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 2
+    },
+    "home": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 2
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859156",
+    "pageUrl": "/matches/aris-thessaloniki-vs-panathinaikos/2t811n#4859156",
+    "opponent": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 3
+    },
+    "home": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 3
+    },
+    "away": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859003",
+    "pageUrl": "/matches/ofi-crete-vs-panathinaikos/2nygze#4859003",
+    "opponent": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 4
+    },
+    "home": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 4
+    },
+    "away": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-04T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859122",
+    "pageUrl": "/matches/paok-thessaloniki-vs-kifisia-fc/1ko84fjo#4859122",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "away": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-04T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859161",
+    "pageUrl": "/matches/aris-thessaloniki-vs-atromitos/2t2w5a#4859161",
+    "opponent": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 0
+    },
+    "home": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 0
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-07T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859160",
+    "pageUrl": "/matches/ae-larissa-vs-aek-athens/2av2jp#4859160",
+    "opponent": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "home": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-07T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859162",
+    "pageUrl": "/matches/asteras-tripolis-vs-panserraikos-fc/7wg21ck#4859162",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-08T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859166",
+    "pageUrl": "/matches/ofi-crete-vs-nfc-volos/536bum81#4859166",
+    "opponent": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "home": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "away": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-08T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859163",
+    "pageUrl": "/matches/levadiakos-vs-panathinaikos/1s9tt8#4859163",
+    "opponent": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 1
+    },
+    "home": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 1
+    },
+    "away": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-08T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859164",
+    "pageUrl": "/matches/paok-thessaloniki-vs-olympiacos/2gnuuz#4859164",
+    "opponent": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 0
+    },
+    "home": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 0
+    },
+    "away": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-08T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859165",
+    "pageUrl": "/matches/panetolikos-vs-kifisia-fc/2p6x1hzu#4859165",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 2
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 2
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-09T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859170",
+    "pageUrl": "/matches/ofi-crete-vs-olympiacos/27zkka#4859170",
+    "opponent": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 0
+    },
+    "home": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 0
+    },
+    "away": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-14T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859172",
+    "pageUrl": "/matches/aris-thessaloniki-vs-panserraikos-fc/2xorrxe#4859172",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "away": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-14T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859167",
+    "pageUrl": "/matches/ae-larissa-vs-asteras-tripolis/1t61til#4859167",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-14T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859169",
+    "pageUrl": "/matches/kifisia-fc-vs-nfc-volos/c18dqg6y#4859169",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 2
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 2
+    },
+    "away": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-15T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859173",
+    "pageUrl": "/matches/levadiakos-vs-paok-thessaloniki/1f6smf#4859173",
+    "opponent": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 3
+    },
+    "home": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 3
+    },
+    "away": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-15T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859168",
+    "pageUrl": "/matches/aek-athens-vs-atromitos/2wnzis#4859168",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 2
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 2
+    },
+    "away": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-15T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859171",
+    "pageUrl": "/matches/panathinaikos-vs-panetolikos/6ub187t#4859171",
+    "opponent": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 0
+    },
+    "home": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 0
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-15T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859174",
+    "pageUrl": "/matches/aek-athens-vs-kifisia-fc/1knrk9kg#4859174",
+    "opponent": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 3
+    },
+    "home": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 3
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-22T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859175",
+    "pageUrl": "/matches/ofi-crete-vs-aris-thessaloniki/24537v#4859175",
+    "opponent": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 0
+    },
+    "home": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 0
+    },
+    "away": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-22T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859176",
+    "pageUrl": "/matches/panathinaikos-vs-asteras-tripolis/1w9bg7n#4859176",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "away": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-22T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859177",
+    "pageUrl": "/matches/levadiakos-vs-atromitos/1s5qhl#4859177",
+    "opponent": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 1
+    },
+    "home": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 1
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-22T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859180",
+    "pageUrl": "/matches/paok-thessaloniki-vs-nfc-volos/53j4i5bq#4859180",
+    "opponent": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 2
+    },
+    "home": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 2
+    },
+    "away": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-22T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859178",
+    "pageUrl": "/matches/ae-larissa-vs-olympiacos/2bly97#4859178",
+    "opponent": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 0
+    },
+    "home": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 0
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-22T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4859179",
+    "pageUrl": "/matches/panserraikos-fc-vs-panetolikos/gedsnqq#4859179",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-22T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271300",
+    "pageUrl": "/matches/panserraikos-fc-vs-kifisia-fc/28qz4cvw#5271300",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-04T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271299",
+    "pageUrl": "/matches/ae-larissa-vs-asteras-tripolis/1t61til#5271299",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 3
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 3
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-04T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271301",
+    "pageUrl": "/matches/atromitos-vs-panetolikos/6u9p539#5271301",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 1
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 1
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-04T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271287",
+    "pageUrl": "/matches/levadiakos-vs-aris-thessaloniki/1c9jbp#5271287",
+    "opponent": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 1
+    },
+    "home": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 1
+    },
+    "away": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-05T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271288",
+    "pageUrl": "/matches/ofi-crete-vs-nfc-volos/536bum81#5271288",
+    "opponent": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "home": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "away": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-05T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271275",
+    "pageUrl": "/matches/paok-thessaloniki-vs-panathinaikos/2xfrox#5271275",
+    "opponent": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 0
+    },
+    "home": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 0
+    },
+    "away": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-05T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271274",
+    "pageUrl": "/matches/aek-athens-vs-olympiacos/2g36dj#5271274",
+    "opponent": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 0
+    },
+    "home": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 0
+    },
+    "away": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-05T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271302",
+    "pageUrl": "/matches/ae-larissa-vs-panetolikos/6oei3n3#5271302",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-08T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271304",
+    "pageUrl": "/matches/asteras-tripolis-vs-panserraikos-fc/7wg21ck#5271304",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-08T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271303",
+    "pageUrl": "/matches/atromitos-vs-kifisia-fc/1l14um4c#5271303",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-08T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271306",
+    "pageUrl": "/matches/asteras-tripolis-vs-kifisia-fc/22aw12qf#5271306",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-18T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271305",
+    "pageUrl": "/matches/ae-larissa-vs-atromitos/2rs1ku#5271305",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 3
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 3
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-18T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271290",
+    "pageUrl": "/matches/levadiakos-vs-ofi-crete/18nfdy#5271290",
+    "opponent": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 2
+    },
+    "home": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 2
+    },
+    "away": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-18T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271289",
+    "pageUrl": "/matches/aris-thessaloniki-vs-nfc-volos/53dibbws#5271289",
+    "opponent": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 3
+    },
+    "home": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 3
+    },
+    "away": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-18T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271307",
+    "pageUrl": "/matches/panserraikos-fc-vs-panetolikos/gedsnqq#5271307",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 2
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 2
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-18T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271276",
+    "pageUrl": "/matches/aek-athens-vs-paok-thessaloniki/2fw6bg#5271276",
+    "opponent": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 3
+    },
+    "home": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 3
+    },
+    "away": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-19T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271277",
+    "pageUrl": "/matches/olympiacos-vs-panathinaikos/2xnfqz#5271277",
+    "opponent": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 0
+    },
+    "home": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 0
+    },
+    "away": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-19T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271310",
+    "pageUrl": "/matches/atromitos-vs-panserraikos-fc/31d2rmr#5271310",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-22T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271308",
+    "pageUrl": "/matches/ae-larissa-vs-kifisia-fc/1kk4mj9u#5271308",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-22T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271309",
+    "pageUrl": "/matches/asteras-tripolis-vs-panetolikos/dkg16m6#5271309",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 2
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 2
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-22T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271313",
+    "pageUrl": "/matches/panetolikos-vs-kifisia-fc/2p6x1hzu#5271313",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-26T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271312",
+    "pageUrl": "/matches/atromitos-vs-asteras-tripolis/1w8m4xf#5271312",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 2
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 2
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-26T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271311",
+    "pageUrl": "/matches/ae-larissa-vs-panserraikos-fc/2xgrkm5#5271311",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 0
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 0
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-26T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271315",
+    "pageUrl": "/matches/panetolikos-vs-kifisia-fc/2p6x1hzu#5271315",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-02T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271316",
+    "pageUrl": "/matches/ae-larissa-vs-panserraikos-fc/2xgrkm5#5271316",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 1
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 1
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-02T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271314",
+    "pageUrl": "/matches/atromitos-vs-asteras-tripolis/1w8m4xf#5271314",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 4
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 4
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-02T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271291",
+    "pageUrl": "/matches/levadiakos-vs-nfc-volos/51u9r5m7#5271291",
+    "opponent": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 5
+    },
+    "home": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 5
+    },
+    "away": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-03T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271292",
+    "pageUrl": "/matches/ofi-crete-vs-aris-thessaloniki/24537v#5271292",
+    "opponent": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 0
+    },
+    "home": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 0
+    },
+    "away": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-03T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271279",
+    "pageUrl": "/matches/paok-thessaloniki-vs-olympiacos/2gnuuz#5271279",
+    "opponent": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 3
+    },
+    "home": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 3
+    },
+    "away": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-03T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271278",
+    "pageUrl": "/matches/aek-athens-vs-panathinaikos/2wt7o5#5271278",
+    "opponent": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 0
+    },
+    "home": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 0
+    },
+    "away": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-03T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271319",
+    "pageUrl": "/matches/panserraikos-fc-vs-kifisia-fc/28qz4cvw#5271319",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 1
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 1
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-09T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271317",
+    "pageUrl": "/matches/ae-larissa-vs-asteras-tripolis/1t61til#5271317",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-09T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271318",
+    "pageUrl": "/matches/atromitos-vs-panetolikos/6u9p539#5271318",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 1
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 1
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-09T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271293",
+    "pageUrl": "/matches/ofi-crete-vs-aris-thessaloniki/24537v#5271293",
+    "opponent": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 3
+    },
+    "home": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 3
+    },
+    "away": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271294",
+    "pageUrl": "/matches/levadiakos-vs-nfc-volos/51u9r5m7#5271294",
+    "opponent": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 0
+    },
+    "home": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 0
+    },
+    "away": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271280",
+    "pageUrl": "/matches/aek-athens-vs-panathinaikos/2wt7o5#5271280",
+    "opponent": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 2
+    },
+    "home": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 2
+    },
+    "away": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271281",
+    "pageUrl": "/matches/paok-thessaloniki-vs-olympiacos/2gnuuz#5271281",
+    "opponent": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 1
+    },
+    "home": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 1
+    },
+    "away": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271320",
+    "pageUrl": "/matches/asteras-tripolis-vs-panserraikos-fc/7wg21ck#5271320",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 1
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-12T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271321",
+    "pageUrl": "/matches/atromitos-vs-kifisia-fc/1l14um4c#5271321",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-12T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271322",
+    "pageUrl": "/matches/ae-larissa-vs-panetolikos/6oei3n3#5271322",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 1
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 1
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-12T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271295",
+    "pageUrl": "/matches/levadiakos-vs-ofi-crete/18nfdy#5271295",
+    "opponent": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 3
+    },
+    "home": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 3
+    },
+    "away": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-13T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271296",
+    "pageUrl": "/matches/aris-thessaloniki-vs-nfc-volos/53dibbws#5271296",
+    "opponent": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "home": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "away": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-13T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271282",
+    "pageUrl": "/matches/olympiacos-vs-panathinaikos/2xnfqz#5271282",
+    "opponent": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 1
+    },
+    "home": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 1
+    },
+    "away": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-13T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271283",
+    "pageUrl": "/matches/aek-athens-vs-paok-thessaloniki/2fw6bg#5271283",
+    "opponent": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 1
+    },
+    "home": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 1
+    },
+    "away": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-13T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271323",
+    "pageUrl": "/matches/ae-larissa-vs-atromitos/2rs1ku#5271323",
+    "opponent": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 2
+    },
+    "home": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 2
+    },
+    "away": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-16T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271324",
+    "pageUrl": "/matches/asteras-tripolis-vs-kifisia-fc/22aw12qf#5271324",
+    "opponent": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "home": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "away": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-16T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271325",
+    "pageUrl": "/matches/panserraikos-fc-vs-panetolikos/gedsnqq#5271325",
+    "opponent": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 1
+    },
+    "home": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 1
+    },
+    "away": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-17T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271297",
+    "pageUrl": "/matches/levadiakos-vs-aris-thessaloniki/1c9jbp#5271297",
+    "opponent": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 3
+    },
+    "home": {
+      "id": "8239",
+      "name": "Aris Thessaloniki",
+      "score": 3
+    },
+    "away": {
+      "id": "4493",
+      "name": "Levadiakos",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-17T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271298",
+    "pageUrl": "/matches/ofi-crete-vs-nfc-volos/536bum81#5271298",
+    "opponent": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 3
+    },
+    "home": {
+      "id": "7753",
+      "name": "OFI Crete",
+      "score": 3
+    },
+    "away": {
+      "id": "885256",
+      "name": "NFC Volos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-17T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271284",
+    "pageUrl": "/matches/aek-athens-vs-olympiacos/2g36dj#5271284",
+    "opponent": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "home": {
+      "id": "8563",
+      "name": "AEK Athens",
+      "score": 1
+    },
+    "away": {
+      "id": "8638",
+      "name": "Olympiacos",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-17T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271285",
+    "pageUrl": "/matches/paok-thessaloniki-vs-panathinaikos/2xfrox#5271285",
+    "opponent": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 2
+    },
+    "home": {
+      "id": "10200",
+      "name": "Panathinaikos",
+      "score": 2
+    },
+    "away": {
+      "id": "8619",
+      "name": "PAOK Thessaloniki",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-17T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5271326",
+    "pageUrl": "/matches/atromitos-vs-panserraikos-fc/31d2rmr#5271326",
+    "opponent": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "home": {
+      "id": "10187",
+      "name": "Atromitos",
+      "score": 0
+    },
+    "away": {
+      "id": "104814",
+      "name": "Panserraikos FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-21T16:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "5271327",
+    "pageUrl": "/matches/ae-larissa-vs-kifisia-fc/1kk4mj9u#5271327",
+    "opponent": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "home": {
+      "id": "488099",
+      "name": "Kifisia FC",
+      "score": 0
+    },
+    "away": {
+      "id": "8120",
+      "name": "AE Larissa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-21T16:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "5271328",
+    "pageUrl": "/matches/asteras-tripolis-vs-panetolikos/dkg16m6#5271328",
+    "opponent": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "home": {
+      "id": "162386",
+      "name": "Panetolikos",
+      "score": 0
+    },
+    "away": {
+      "id": "80654",
+      "name": "Asteras Tripolis",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-21T16:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "Riga": {
+    "lat": 56.9496,
+    "lng": 24.1052,
+    "countryCode": "LV"
+  },
+  "Liepaja": {
+    "lat": 56.5047,
+    "lng": 21.0108,
+    "countryCode": "LV"
+  },
+  "Valmiera": {
+    "lat": 57.5385,
+    "lng": 25.4264,
+    "countryCode": "LV"
+  },
+  "Daugavpils": {
+    "lat": 55.8747,
+    "lng": 26.5362,
+    "countryCode": "LV"
+  },
+  "Jelgava": {
+    "lat": 56.6511,
+    "lng": 23.7214,
+    "countryCode": "LV"
+  },
+  "Tukums": {
+    "lat": 56.9669,
+    "lng": 23.1532,
+    "countryCode": "LV"
+  },
+  "Jurmala": {
+    "lat": 56.968,
+    "lng": 23.7704,
+    "countryCode": "LV"
+  },
+  "Ventspils": {
+    "lat": 57.3937,
+    "lng": 21.5647,
+    "countryCode": "LV"
+  }
+}

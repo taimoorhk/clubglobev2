@@ -1,0 +1,123 @@
+{
+  "ES": {
+    "Espanyol": { "city": "Barcelona", "lat": 41.3809, "lng": 2.1228 },
+    "Getafe": { "city": "Getafe", "lat": 40.3258, "lng": -3.7146 },
+    "Girona": { "city": "Girona", "lat": 41.9794, "lng": 2.8214 },
+    "Las Palmas": { "city": "Las Palmas", "lat": 28.1004, "lng": -15.4562 },
+    "Osasuna": { "city": "Pamplona", "lat": 42.7965, "lng": -1.6371 },
+    "Rayo Vallecano": { "city": "Madrid", "lat": 40.3918, "lng": -3.6586 },
+    "Real Madrid": { "city": "Madrid", "lat": 40.4531, "lng": -3.6883 },
+    "Barcelona": { "city": "Barcelona", "lat": 41.3809, "lng": 2.1228 },
+    "Atlético Madrid": { "city": "Madrid", "lat": 40.4362, "lng": -3.5995 },
+    "Atletico Madrid": { "city": "Madrid", "lat": 40.4362, "lng": -3.5995 },
+    "Sevilla": { "city": "Seville", "lat": 37.384, "lng": -5.9707 },
+    "Valencia": { "city": "Valencia", "lat": 39.4745, "lng": -0.3582 },
+    "Athletic Bilbao": { "city": "Bilbao", "lat": 43.2642, "lng": -2.9491 },
+    "Real Sociedad": { "city": "San Sebastián", "lat": 43.3014, "lng": -1.9737 },
+    "Villarreal": { "city": "Villarreal", "lat": 39.9442, "lng": -0.1034 },
+    "Virtus Entella": { "city": "Chiavari", "lat": 44.3168, "lng": 9.3279 },
+    "Athletic Club": { "city": "Bilbao", "lat": 43.2642, "lng": -2.9491 }
+  },
+  "BE": {
+    "Anderlecht": { "city": "Brussels", "lat": 50.8379, "lng": 4.2897 },
+    "Club Brugge": { "city": "Bruges", "lat": 51.1933, "lng": 3.1806 },
+    "Genk": { "city": "Genk", "lat": 50.9655, "lng": 5.5001 },
+    "Gent": { "city": "Ghent", "lat": 51.0871, "lng": 3.7354 },
+    "Standard Liège": { "city": "Liège", "lat": 50.6099, "lng": 5.5434 },
+    "Union St.Gilloise": { "city": "Brussels", "lat": 50.8179, "lng": 4.3369 }
+  },
+  "DE": {
+    "Bayern Munich": { "city": "Munich", "lat": 48.2188, "lng": 11.6247 },
+    "Bayern München": { "city": "Munich", "lat": 48.2188, "lng": 11.6247 },
+    "Borussia Dortmund": { "city": "Dortmund", "lat": 51.4926, "lng": 7.4518 },
+    "RB Leipzig": { "city": "Leipzig", "lat": 51.3458, "lng": 12.348 },
+    "Bayer Leverkusen": { "city": "Leverkusen", "lat": 51.0392, "lng": 7.002 },
+    "Eintracht Frankfurt": { "city": "Frankfurt", "lat": 50.0686, "lng": 8.6454 }
+  },
+  "IT": {
+    "Inter Milan": { "city": "Milan", "lat": 45.4781, "lng": 9.124 },
+    "AC Milan": { "city": "Milan", "lat": 45.4781, "lng": 9.124 },
+    "Milan": { "city": "Milan", "lat": 45.4781, "lng": 9.124 },
+    "Juventus": { "city": "Turin", "lat": 45.1096, "lng": 7.6413 },
+    "Napoli": { "city": "Naples", "lat": 40.8278, "lng": 14.193 },
+    "Roma": { "city": "Rome", "lat": 41.934, "lng": 12.4547 },
+    "Lazio": { "city": "Rome", "lat": 41.9261, "lng": 12.4547 },
+    "Atalanta": { "city": "Bergamo", "lat": 45.7093, "lng": 9.6808 },
+    "Empoli": { "city": "Empoli", "lat": 43.7175, "lng": 10.9459 },
+    "Hellas Verona": { "city": "Verona", "lat": 45.4353, "lng": 10.9686 },
+    "Carrarese": { "city": "Carrara", "lat": 44.0793, "lng": 10.0974 },
+    "Mantova": { "city": "Mantua", "lat": 45.1564, "lng": 10.7914 },
+    "Cesena": { "city": "Cesena", "lat": 44.1397, "lng": 12.2431 },
+    "Pescara": { "city": "Pescara", "lat": 42.4618, "lng": 14.2161 },
+    "Padova": { "city": "Padua", "lat": 45.4064, "lng": 11.8768 },
+    "Cultural Leonesa": { "city": "León", "lat": 42.5987, "lng": -5.5671 },
+    "Leganes": { "city": "Leganés", "lat": 40.3258, "lng": -3.7146 }
+  },
+  "FR": {
+    "Paris Saint-Germain": { "city": "Paris", "lat": 48.8414, "lng": 2.253 },
+    "Olympique Marseille": { "city": "Marseille", "lat": 43.2699, "lng": 5.3959 },
+    "Olympique Lyon": { "city": "Lyon", "lat": 45.7652, "lng": 4.9821 },
+    "AS Monaco": { "city": "Monaco", "lat": 43.7277, "lng": 7.419 },
+    "Lille": { "city": "Lille", "lat": 50.6119, "lng": 3.1306 }
+  },
+  "PT": {
+    "Benfica": { "city": "Lisbon", "lat": 38.7528, "lng": -9.1848 },
+    "Sporting CP": { "city": "Lisbon", "lat": 38.7612, "lng": -9.1608 },
+    "FC Porto": { "city": "Porto", "lat": 41.1617, "lng": -8.5837 }
+  },
+  "NL": {
+    "Ajax": { "city": "Amsterdam", "lat": 52.3142, "lng": 4.9419 },
+    "Feyenoord": { "city": "Rotterdam", "lat": 51.8939, "lng": 4.5232 },
+    "PSV": { "city": "Eindhoven", "lat": 51.4416, "lng": 5.4674 },
+    "AZ Alkmaar": { "city": "Alkmaar", "lat": 52.6128, "lng": 4.7421 },
+    "FC Utrecht": { "city": "Utrecht", "lat": 52.0907, "lng": 5.1216 },
+    "SC Heerenveen": { "city": "Heerenveen", "lat": 52.9985, "lng": 5.9231 },
+    "NEC Nijmegen": { "city": "Nijmegen", "lat": 51.8426, "lng": 5.8545 },
+    "Helmond Sport": { "city": "Helmond", "lat": 51.4817, "lng": 5.6572 }
+  },
+  "BR": {
+    "Flamengo": { "city": "Rio de Janeiro", "lat": -22.9121, "lng": -43.2302 },
+    "Corinthians": { "city": "São Paulo", "lat": -23.5458, "lng": -46.4744 },
+    "Palmeiras": { "city": "São Paulo", "lat": -23.5275, "lng": -46.7189 }
+  },
+  "TR": {
+    "Galatasaray": { "city": "Istanbul", "lat": 41.1033, "lng": 28.9916 },
+    "Fenerbahçe": { "city": "Istanbul", "lat": 40.9876, "lng": 29.0361 },
+    "Beşiktaş": { "city": "Istanbul", "lat": 41.0395, "lng": 28.9941 }
+  },
+  "EG": {
+    "Al Ahly": { "city": "Cairo", "lat": 30.0661, "lng": 31.2819 },
+    "Zamalek": { "city": "Cairo", "lat": 30.0602, "lng": 31.2101 },
+    "Pyramids": { "city": "Cairo", "lat": 30.05, "lng": 31.2 }
+  },
+  "ZA": {
+    "Mamelodi Sundowns": { "city": "Pretoria", "lat": -25.681, "lng": 28.228 },
+    "Orlando Pirates": { "city": "Johannesburg", "lat": -26.235, "lng": 27.865 },
+    "Kaizer Chiefs": { "city": "Johannesburg", "lat": -26.205, "lng": 28.049 },
+    "SuperSport United": { "city": "Pretoria", "lat": -25.753, "lng": 28.319 }
+  },
+  "NG": {
+    "Enyimba": { "city": "Aba", "lat": 5.1167, "lng": 7.3667 },
+    "Rangers International": { "city": "Enugu", "lat": 6.4584, "lng": 7.5464 }
+  },
+  "MA": {
+    "Wydad AC": { "city": "Casablanca", "lat": 33.573, "lng": -7.589 },
+    "Raja CA": { "city": "Casablanca", "lat": 33.573, "lng": -7.589 },
+    "RS Berkane": { "city": "Berkane", "lat": 34.92, "lng": -2.32 }
+  },
+  "GH": {
+    "Asante Kotoko": { "city": "Kumasi", "lat": 6.6885, "lng": -1.6244 },
+    "Hearts of Oak": { "city": "Accra", "lat": 5.6037, "lng": -0.187 }
+  },
+  "KE": {
+    "Gor Mahia": { "city": "Nairobi", "lat": -1.2921, "lng": 36.8219 },
+    "AFC Leopards": { "city": "Nairobi", "lat": -1.2921, "lng": 36.8219 }
+  },
+  "GB-SCT": {
+    "Celtic": { "city": "Glasgow", "lat": 55.8497, "lng": -4.2055 },
+    "Rangers": { "city": "Glasgow", "lat": 55.8532, "lng": -4.3093 },
+    "Aberdeen": { "city": "Aberdeen", "lat": 57.1597, "lng": -2.0943 },
+    "Hearts": { "city": "Edinburgh", "lat": 55.9392, "lng": -3.2322 },
+    "Hibernian": { "city": "Edinburgh", "lat": 55.9617, "lng": -3.1653 }
+  }
+}

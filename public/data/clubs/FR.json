@@ -1,0 +1,4734 @@
+[
+  {
+    "id": "fr-amiens",
+    "name": "Amiens",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Amiens",
+    "lat": 49.962170799999996,
+    "lng": 2.2596951,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8587.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 1,
+      "losses": 9,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Saint-Etienne",
+          "homeAway": "away",
+          "score": "5 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Red Star",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:00:00Z",
+          "opponent": "Montpellier",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:00:00Z",
+          "opponent": "Rodez",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:00:00Z",
+          "opponent": "Pau",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T18:00:00Z",
+          "opponent": "SC Bastia",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:00:00Z",
+          "opponent": "Le Mans",
+          "homeAway": "home",
+          "score": "3 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:00:00Z",
+          "opponent": "Guingamp",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T19:00:00Z",
+          "opponent": "Boulogne",
+          "homeAway": "away",
+          "score": "4 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-02T19:45:00Z",
+          "opponent": "Troyes",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-angers",
+    "name": "Angers",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Angers",
+    "lat": 47.393988400000005,
+    "lng": -0.5715588,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8121.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 4,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "Brest",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "Strasbourg",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:15:00Z",
+          "opponent": "Auxerre",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T17:00:00Z",
+          "opponent": "PSG",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T17:00:00Z",
+          "opponent": "Le Havre",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T19:05:00Z",
+          "opponent": "Rennes",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T13:00:00Z",
+          "opponent": "Lyon",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:45:00Z",
+          "opponent": "Lens",
+          "homeAway": "away",
+          "score": "5 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T18:00:00Z",
+          "opponent": "Nice",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T16:00:00Z",
+          "opponent": "Nantes",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-annecy-fc",
+    "name": "Annecy FC",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Annecy",
+    "lat": 45.9792348,
+    "lng": 6.1048847,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/293352.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 1,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Rodez",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Boulogne",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:00:00Z",
+          "opponent": "Pau",
+          "homeAway": "home",
+          "score": "5 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:00:00Z",
+          "opponent": "Nancy",
+          "homeAway": "away",
+          "score": "1 - 5",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:00:00Z",
+          "opponent": "Montpellier",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T18:00:00Z",
+          "opponent": "Guingamp",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T19:00:00Z",
+          "opponent": "Saint-Etienne",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-16T19:45:00Z",
+          "opponent": "Troyes",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T13:00:00Z",
+          "opponent": "Le Mans",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T19:00:00Z",
+          "opponent": "SC Bastia",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-as-monaco",
+    "name": "AS Monaco",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Monaco",
+    "lat": 43.7277,
+    "lng": 7.419,
+    "divisionTier": 1,
+    "leagueId": "4334",
+    "leagueName": "French Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "seed",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-auxerre",
+    "name": "Auxerre",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Auxerre",
+    "lat": 47.7841287,
+    "lng": 3.618579,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8583.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 4,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "Lille",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "Nice",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:15:00Z",
+          "opponent": "Angers",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T13:00:00Z",
+          "opponent": "Lyon",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T13:00:00Z",
+          "opponent": "Monaco",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T17:00:00Z",
+          "opponent": "Nantes",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T15:15:00Z",
+          "opponent": "Le Havre",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T18:00:00Z",
+          "opponent": "Brest",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:45:00Z",
+          "opponent": "Marseille",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T18:00:00Z",
+          "opponent": "Strasbourg",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-boulogne",
+    "name": "Boulogne",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Boulogne",
+    "lat": 46.8147224,
+    "lng": -1.2410389,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4170.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 4,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Laval",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Annecy FC",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-27T18:45:00Z",
+          "opponent": "Dunkerque",
+          "homeAway": "home",
+          "score": "2 - 6",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T12:00:00Z",
+          "opponent": "Troyes",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T12:00:00Z",
+          "opponent": "Le Mans",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T12:00:00Z",
+          "opponent": "Reims",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:00:00Z",
+          "opponent": "Nancy",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:00:00Z",
+          "opponent": "SC Bastia",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T19:00:00Z",
+          "opponent": "Amiens",
+          "homeAway": "home",
+          "score": "4 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T19:00:00Z",
+          "opponent": "Grenoble",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-brest",
+    "name": "Brest",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Brest",
+    "lat": 48.3865283,
+    "lng": -4.4300087999999995,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8521.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 3,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "Angers",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T17:00:00Z",
+          "opponent": "Strasbourg",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "PSG",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:15:00Z",
+          "opponent": "Paris FC",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:45:00Z",
+          "opponent": "Lens",
+          "homeAway": "home",
+          "score": "3 - 3",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T15:15:00Z",
+          "opponent": "Nantes",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T17:00:00Z",
+          "opponent": "Rennes",
+          "homeAway": "home",
+          "score": "3 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T18:00:00Z",
+          "opponent": "Auxerre",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T20:05:00Z",
+          "opponent": "Monaco",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T16:15:00Z",
+          "opponent": "Le Havre",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-clermont-foot",
+    "name": "Clermont Foot",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Clermont Foot",
+    "lat": 45.747239900000004,
+    "lng": 3.134394,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8311.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 3,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Guingamp",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Montpellier",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:00:00Z",
+          "opponent": "SC Bastia",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:00:00Z",
+          "opponent": "Le Mans",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:00:00Z",
+          "opponent": "Nancy",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T18:00:00Z",
+          "opponent": "Grenoble",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:00:00Z",
+          "opponent": "Red Star",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:00:00Z",
+          "opponent": "Pau",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T13:00:00Z",
+          "opponent": "Troyes",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T19:00:00Z",
+          "opponent": "Dunkerque",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-dunkerque",
+    "name": "Dunkerque",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Dunkerque",
+    "lat": 51.1067708,
+    "lng": 2.3452525,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/47214.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 2,
+      "losses": 7,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Nancy",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Grenoble",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-27T18:45:00Z",
+          "opponent": "Boulogne",
+          "homeAway": "away",
+          "score": "2 - 6",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-20T18:45:00Z",
+          "opponent": "Laval",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T18:00:00Z",
+          "opponent": "Saint-Etienne",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T18:00:00Z",
+          "opponent": "Rodez",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:00:00Z",
+          "opponent": "Troyes",
+          "homeAway": "away",
+          "score": "5 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:00:00Z",
+          "opponent": "Red Star",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-09T19:45:00Z",
+          "opponent": "Reims",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T19:00:00Z",
+          "opponent": "Clermont Foot",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-fc-petrzalka-1898",
+    "name": "FC Petrzalka 1898",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Petrzalka 1898",
+    "lat": 48.0541286,
+    "lng": 17.137780799999998,
+    "divisionTier": 3,
+    "leagueId": "8973",
+    "leagueName": "National",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10184.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 7,
+      "draws": 0,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T15:00:00Z",
+          "opponent": "Liptovsky Mikulas",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T15:00:00Z",
+          "opponent": "Zlate Moravce",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T08:30:00Z",
+          "opponent": "Dukla Banska Bystrica",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T14:00:00Z",
+          "opponent": "Inter Bratislava",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T14:30:00Z",
+          "opponent": "Banik Lehota pod Vtacnikom",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T09:00:00Z",
+          "opponent": "Slavia TU Kosice",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T14:00:00Z",
+          "opponent": "Puchov",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T08:30:00Z",
+          "opponent": "FK Pohronie",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-28T14:00:00Z",
+          "opponent": "Stara Lubovna",
+          "homeAway": "away",
+          "score": "0 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T09:30:00Z",
+          "opponent": "FC STK 1914 Samorin",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-grenoble",
+    "name": "Grenoble",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Grenoble",
+    "lat": 45.1315602,
+    "lng": 5.7397819,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9855.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 5,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Troyes",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Dunkerque",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T12:00:00Z",
+          "opponent": "Le Mans",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:00:00Z",
+          "opponent": "Montpellier",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:00:00Z",
+          "opponent": "Guingamp",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T18:00:00Z",
+          "opponent": "Clermont Foot",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:00:00Z",
+          "opponent": "Laval",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T19:00:00Z",
+          "opponent": "Saint-Etienne",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T19:00:00Z",
+          "opponent": "Rodez",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T19:00:00Z",
+          "opponent": "Boulogne",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-guingamp",
+    "name": "Guingamp",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Guingamp",
+    "lat": 48.5018483,
+    "lng": -3.1502007,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9747.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 3,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Clermont Foot",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "SC Bastia",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:00:00Z",
+          "opponent": "Red Star",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:00:00Z",
+          "opponent": "Pau",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:00:00Z",
+          "opponent": "Grenoble",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T18:00:00Z",
+          "opponent": "Annecy FC",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:00:00Z",
+          "opponent": "Reims",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:00:00Z",
+          "opponent": "Amiens",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T19:00:00Z",
+          "opponent": "Laval",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T13:00:00Z",
+          "opponent": "Rodez",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-laval",
+    "name": "Laval",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Laval",
+    "lat": 47.998668699999996,
+    "lng": -0.7854022,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7853.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 5,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Boulogne",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Troyes",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:00:00Z",
+          "opponent": "Rodez",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-20T18:45:00Z",
+          "opponent": "Dunkerque",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:00:00Z",
+          "opponent": "Reims",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T18:00:00Z",
+          "opponent": "Red Star",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:00:00Z",
+          "opponent": "Grenoble",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:00:00Z",
+          "opponent": "Montpellier",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T19:00:00Z",
+          "opponent": "Guingamp",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T19:00:00Z",
+          "opponent": "Nancy",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-le-havre",
+    "name": "Le Havre",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Le Havre",
+    "lat": 49.5058975,
+    "lng": 0.1799732,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9746.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 6,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "Lorient",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "Marseille",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T13:00:00Z",
+          "opponent": "Lille",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T15:15:00Z",
+          "opponent": "Metz",
+          "homeAway": "home",
+          "score": "4 - 4",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T17:00:00Z",
+          "opponent": "Angers",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T15:15:00Z",
+          "opponent": "Nice",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T15:15:00Z",
+          "opponent": "Auxerre",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T16:15:00Z",
+          "opponent": "Paris FC",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T16:15:00Z",
+          "opponent": "Lyon",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T16:15:00Z",
+          "opponent": "Brest",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-le-mans",
+    "name": "Le Mans",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Le Mans",
+    "lat": 47.9753849,
+    "lng": 0.2247849,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8682.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 4,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "SC Bastia",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "AW"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Reims",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T12:00:00Z",
+          "opponent": "Grenoble",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:00:00Z",
+          "opponent": "Clermont Foot",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T12:00:00Z",
+          "opponent": "Boulogne",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T18:45:00Z",
+          "opponent": "Pau",
+          "homeAway": "home",
+          "score": "4 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:00:00Z",
+          "opponent": "Amiens",
+          "homeAway": "away",
+          "score": "3 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:00:00Z",
+          "opponent": "Nancy",
+          "homeAway": "away",
+          "score": "2 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T13:00:00Z",
+          "opponent": "Annecy FC",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T13:00:00Z",
+          "opponent": "Red Star",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-lens",
+    "name": "Lens",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Lens",
+    "lat": 50.3891723,
+    "lng": 2.8519805,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8588.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 2,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "Lyon",
+          "homeAway": "away",
+          "score": "0 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T19:00:00Z",
+          "opponent": "PSG",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T18:45:00Z",
+          "opponent": "Nantes",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T19:05:00Z",
+          "opponent": "Nice",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:45:00Z",
+          "opponent": "Brest",
+          "homeAway": "away",
+          "score": "3 - 3",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:45:00Z",
+          "opponent": "Toulouse",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T19:05:00Z",
+          "opponent": "Lille",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:45:00Z",
+          "opponent": "Angers",
+          "homeAway": "home",
+          "score": "5 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T16:00:00Z",
+          "opponent": "Lorient",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T14:00:00Z",
+          "opponent": "Metz",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-lille",
+    "name": "Lille",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Lille",
+    "lat": 50.6119,
+    "lng": 3.1306,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8639.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 3,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "Auxerre",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "Monaco",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T13:00:00Z",
+          "opponent": "Le Havre",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T15:15:00Z",
+          "opponent": "Paris FC",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T19:05:00Z",
+          "opponent": "Nice",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T15:15:00Z",
+          "opponent": "Toulouse",
+          "homeAway": "away",
+          "score": "0 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T19:05:00Z",
+          "opponent": "Lens",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T16:15:00Z",
+          "opponent": "Marseille",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T19:45:00Z",
+          "opponent": "Rennes",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T16:15:00Z",
+          "opponent": "Lorient",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-lorient",
+    "name": "Lorient",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Lorient",
+    "lat": 47.7197336,
+    "lng": -3.3340907,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8689.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 3,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "Le Havre",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "Metz",
+          "homeAway": "away",
+          "score": "0 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T15:00:00Z",
+          "opponent": "PSG",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T13:00:00Z",
+          "opponent": "Strasbourg",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T15:00:00Z",
+          "opponent": "Marseille",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T18:45:00Z",
+          "opponent": "Lyon",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T15:15:00Z",
+          "opponent": "Paris FC",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T16:00:00Z",
+          "opponent": "Toulouse",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T16:00:00Z",
+          "opponent": "Lens",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T16:15:00Z",
+          "opponent": "Lille",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-lyon",
+    "name": "Lyon",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Lyon",
+    "lat": 45.824000000000005,
+    "lng": 4.7917000000000005,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9748.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 3,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "Lens",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "Toulouse",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T18:45:00Z",
+          "opponent": "Rennes",
+          "homeAway": "home",
+          "score": "4 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T13:00:00Z",
+          "opponent": "Auxerre",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T18:45:00Z",
+          "opponent": "PSG",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T18:45:00Z",
+          "opponent": "Lorient",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T13:00:00Z",
+          "opponent": "Angers",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T14:00:00Z",
+          "opponent": "Monaco",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T16:15:00Z",
+          "opponent": "Le Havre",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T19:45:00Z",
+          "opponent": "Paris FC",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-marseille",
+    "name": "Marseille",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Marseille",
+    "lat": 43.2485,
+    "lng": 5.381799999999999,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 1,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "Rennes",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "Le Havre",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T13:00:00Z",
+          "opponent": "Nantes",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T18:45:00Z",
+          "opponent": "Nice",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T15:00:00Z",
+          "opponent": "Lorient",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T19:05:00Z",
+          "opponent": "Metz",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T18:45:00Z",
+          "opponent": "Monaco",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T16:15:00Z",
+          "opponent": "Lille",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:45:00Z",
+          "opponent": "Auxerre",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T20:05:00Z",
+          "opponent": "Toulouse",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-metz",
+    "name": "Metz",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Metz",
+    "lat": 49.179696400000005,
+    "lng": 6.1323552,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8550.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 4,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "Nice",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "Lorient",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T17:00:00Z",
+          "opponent": "Monaco",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T15:15:00Z",
+          "opponent": "Le Havre",
+          "homeAway": "away",
+          "score": "4 - 4",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T15:15:00Z",
+          "opponent": "Paris FC",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T19:05:00Z",
+          "opponent": "Marseille",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T15:15:00Z",
+          "opponent": "Nantes",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T16:15:00Z",
+          "opponent": "Rennes",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T16:15:00Z",
+          "opponent": "Toulouse",
+          "homeAway": "home",
+          "score": "3 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T14:00:00Z",
+          "opponent": "Lens",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-monaco",
+    "name": "Monaco",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Monaco",
+    "lat": 42.2683146,
+    "lng": 9.4784477,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9829.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 2,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "Strasbourg",
+          "homeAway": "away",
+          "score": "5 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "Lille",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T17:00:00Z",
+          "opponent": "Metz",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T19:05:00Z",
+          "opponent": "Toulouse",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T13:00:00Z",
+          "opponent": "Auxerre",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T17:00:00Z",
+          "opponent": "Paris FC",
+          "homeAway": "away",
+          "score": "4 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T18:45:00Z",
+          "opponent": "Marseille",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T14:00:00Z",
+          "opponent": "Lyon",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T20:05:00Z",
+          "opponent": "Brest",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T19:45:00Z",
+          "opponent": "PSG",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-montpellier",
+    "name": "Montpellier",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Montpellier",
+    "lat": 43.5832422,
+    "lng": 3.9087337,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10249.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 5,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Red Star",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Clermont Foot",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:00:00Z",
+          "opponent": "Amiens",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:00:00Z",
+          "opponent": "Grenoble",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:00:00Z",
+          "opponent": "Annecy FC",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T12:00:00Z",
+          "opponent": "Troyes",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:00:00Z",
+          "opponent": "Pau",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:00:00Z",
+          "opponent": "Laval",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T19:00:00Z",
+          "opponent": "Nancy",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T19:00:00Z",
+          "opponent": "Reims",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-nancy",
+    "name": "Nancy",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Nancy",
+    "lat": 48.633722299999995,
+    "lng": 6.1834097,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8481.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 5,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Dunkerque",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Pau",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T12:00:00Z",
+          "opponent": "Reims",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:00:00Z",
+          "opponent": "Annecy FC",
+          "homeAway": "home",
+          "score": "1 - 5",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:00:00Z",
+          "opponent": "Clermont Foot",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T18:00:00Z",
+          "opponent": "Saint-Etienne",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:00:00Z",
+          "opponent": "Boulogne",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:00:00Z",
+          "opponent": "Le Mans",
+          "homeAway": "home",
+          "score": "2 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T19:00:00Z",
+          "opponent": "Montpellier",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T19:00:00Z",
+          "opponent": "Laval",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-nantes",
+    "name": "Nantes",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Nantes",
+    "lat": 47.150637100000004,
+    "lng": -1.5621362,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9830.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 3,
+      "losses": 5,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "Toulouse",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Ab"
+        },
+        {
+          "date": "2026-05-08T18:45:00Z",
+          "opponent": "Lens",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T13:00:00Z",
+          "opponent": "Marseille",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T15:15:00Z",
+          "opponent": "Rennes",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T17:00:00Z",
+          "opponent": "PSG",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T15:15:00Z",
+          "opponent": "Brest",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T17:00:00Z",
+          "opponent": "Auxerre",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T15:15:00Z",
+          "opponent": "Metz",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T19:45:00Z",
+          "opponent": "Strasbourg",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T16:00:00Z",
+          "opponent": "Angers",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-nice",
+    "name": "Nice",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Nice",
+    "lat": 43.644935800000006,
+    "lng": 7.2723911999999995,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9831.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 5,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "Metz",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "Auxerre",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T19:05:00Z",
+          "opponent": "Lens",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T18:45:00Z",
+          "opponent": "Marseille",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T19:05:00Z",
+          "opponent": "Lille",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T15:15:00Z",
+          "opponent": "Le Havre",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T15:00:00Z",
+          "opponent": "Strasbourg",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T20:05:00Z",
+          "opponent": "PSG",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T18:00:00Z",
+          "opponent": "Angers",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T16:15:00Z",
+          "opponent": "Rennes",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-olympique-lyon",
+    "name": "Olympique Lyon",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Lyon",
+    "lat": 45.7652,
+    "lng": 4.9821,
+    "divisionTier": 1,
+    "leagueId": "4334",
+    "leagueName": "French Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "seed",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-olympique-marseille",
+    "name": "Olympique Marseille",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Marseille",
+    "lat": 43.2699,
+    "lng": 5.3959,
+    "divisionTier": 1,
+    "leagueId": "4334",
+    "leagueName": "French Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "seed",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-paris-fc",
+    "name": "Paris FC",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Paris",
+    "lat": 48.8406,
+    "lng": 2.3962,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6379.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 3,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "PSG",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "Rennes",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:15:00Z",
+          "opponent": "Brest",
+          "homeAway": "home",
+          "score": "4 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T15:15:00Z",
+          "opponent": "Lille",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T15:15:00Z",
+          "opponent": "Metz",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T17:00:00Z",
+          "opponent": "Monaco",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T15:15:00Z",
+          "opponent": "Lorient",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T16:15:00Z",
+          "opponent": "Le Havre",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T14:00:00Z",
+          "opponent": "Strasbourg",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T19:45:00Z",
+          "opponent": "Lyon",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-paris-saint-germain",
+    "name": "Paris Saint-Germain",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Paris",
+    "lat": 48.8414,
+    "lng": 2.253,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 1,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "Paris FC",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T19:00:00Z",
+          "opponent": "Lens",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "Brest",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T15:00:00Z",
+          "opponent": "Lorient",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T17:00:00Z",
+          "opponent": "Angers",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T17:00:00Z",
+          "opponent": "Nantes",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T18:45:00Z",
+          "opponent": "Lyon",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T18:45:00Z",
+          "opponent": "Toulouse",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T20:05:00Z",
+          "opponent": "Nice",
+          "homeAway": "away",
+          "score": "0 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T19:45:00Z",
+          "opponent": "Monaco",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-pau",
+    "name": "Pau",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Pau",
+    "lat": 43.367754700000006,
+    "lng": -0.4005668,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6355.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 2,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Reims",
+          "homeAway": "away",
+          "score": "5 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Nancy",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:00:00Z",
+          "opponent": "Annecy FC",
+          "homeAway": "away",
+          "score": "5 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:00:00Z",
+          "opponent": "Guingamp",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:00:00Z",
+          "opponent": "Amiens",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T18:45:00Z",
+          "opponent": "Le Mans",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:00:00Z",
+          "opponent": "Montpellier",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:00:00Z",
+          "opponent": "Clermont Foot",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T19:00:00Z",
+          "opponent": "SC Bastia",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T19:00:00Z",
+          "opponent": "Saint-Etienne",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-red-star",
+    "name": "Red Star",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Red Star",
+    "lat": 45.9171424,
+    "lng": 1.2209383,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6390.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 3,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Montpellier",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Amiens",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:00:00Z",
+          "opponent": "Guingamp",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T12:00:00Z",
+          "opponent": "Reims",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T12:00:00Z",
+          "opponent": "SC Bastia",
+          "homeAway": "home",
+          "score": "4 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T18:00:00Z",
+          "opponent": "Laval",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:00:00Z",
+          "opponent": "Clermont Foot",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:00:00Z",
+          "opponent": "Dunkerque",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T19:00:00Z",
+          "opponent": "Saint-Etienne",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T13:00:00Z",
+          "opponent": "Le Mans",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-reims",
+    "name": "Reims",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Reims",
+    "lat": 49.2697886,
+    "lng": 4.103926,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9837.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 6,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Pau",
+          "homeAway": "home",
+          "score": "5 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Le Mans",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T12:00:00Z",
+          "opponent": "Nancy",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T12:00:00Z",
+          "opponent": "Red Star",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:00:00Z",
+          "opponent": "Laval",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T12:00:00Z",
+          "opponent": "Boulogne",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:00:00Z",
+          "opponent": "Guingamp",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:00:00Z",
+          "opponent": "Rodez",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-09T19:45:00Z",
+          "opponent": "Dunkerque",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T19:00:00Z",
+          "opponent": "Montpellier",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-rennes",
+    "name": "Rennes",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Rennes",
+    "lat": 48.051338699999995,
+    "lng": -1.6800198,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9851.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 1,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "Marseille",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "Paris FC",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T18:45:00Z",
+          "opponent": "Lyon",
+          "homeAway": "away",
+          "score": "4 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T15:15:00Z",
+          "opponent": "Nantes",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T15:15:00Z",
+          "opponent": "Strasbourg",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T19:05:00Z",
+          "opponent": "Angers",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T17:00:00Z",
+          "opponent": "Brest",
+          "homeAway": "away",
+          "score": "3 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T16:15:00Z",
+          "opponent": "Metz",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T19:45:00Z",
+          "opponent": "Lille",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T16:15:00Z",
+          "opponent": "Nice",
+          "homeAway": "away",
+          "score": "0 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-rodez",
+    "name": "Rodez",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Rodez",
+    "lat": 44.3391408,
+    "lng": 2.6208493,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4120.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 4,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Annecy FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Saint-Etienne",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:00:00Z",
+          "opponent": "Laval",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:00:00Z",
+          "opponent": "Amiens",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-13T18:45:00Z",
+          "opponent": "Troyes",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T18:00:00Z",
+          "opponent": "Dunkerque",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:00:00Z",
+          "opponent": "SC Bastia",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:00:00Z",
+          "opponent": "Reims",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T19:00:00Z",
+          "opponent": "Grenoble",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T13:00:00Z",
+          "opponent": "Guingamp",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-saint-etienne",
+    "name": "Saint-Etienne",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Saint-Etienne",
+    "lat": 45.4201467,
+    "lng": 4.4273058,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9853.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 2,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Amiens",
+          "homeAway": "home",
+          "score": "5 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Rodez",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T18:00:00Z",
+          "opponent": "Troyes",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T18:00:00Z",
+          "opponent": "SC Bastia",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T18:00:00Z",
+          "opponent": "Dunkerque",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T18:00:00Z",
+          "opponent": "Nancy",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T19:00:00Z",
+          "opponent": "Annecy FC",
+          "homeAway": "home",
+          "score": "4 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T19:00:00Z",
+          "opponent": "Grenoble",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T19:00:00Z",
+          "opponent": "Red Star",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T19:00:00Z",
+          "opponent": "Pau",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-sc-bastia",
+    "name": "SC Bastia",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Bastia",
+    "lat": 42.7214612,
+    "lng": 9.3697707,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7794.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 4,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Le Mans",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "AW"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Guingamp",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:00:00Z",
+          "opponent": "Clermont Foot",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T18:00:00Z",
+          "opponent": "Saint-Etienne",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T12:00:00Z",
+          "opponent": "Red Star",
+          "homeAway": "away",
+          "score": "4 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T18:00:00Z",
+          "opponent": "Amiens",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:00:00Z",
+          "opponent": "Rodez",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:00:00Z",
+          "opponent": "Boulogne",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T19:00:00Z",
+          "opponent": "Pau",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T19:00:00Z",
+          "opponent": "Annecy FC",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-stara-lubovna",
+    "name": "Stara Lubovna",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Stara Lubovna",
+    "lat": 46.616,
+    "lng": 2.2760000000000002,
+    "divisionTier": 3,
+    "leagueId": "8973",
+    "leagueName": "National",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2436.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 2,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T15:00:00Z",
+          "opponent": "Malzenice",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T15:00:00Z",
+          "opponent": "Slovan Bratislava B",
+          "homeAway": "away",
+          "score": "5 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T15:00:00Z",
+          "opponent": "Povazska Bystrica",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T14:30:00Z",
+          "opponent": "Liptovsky Mikulas",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-21T14:30:00Z",
+          "opponent": "Zlate Moravce",
+          "homeAway": "home",
+          "score": "4 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T15:00:00Z",
+          "opponent": "Dukla Banska Bystrica",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T14:00:00Z",
+          "opponent": "Inter Bratislava",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T14:00:00Z",
+          "opponent": "Banik Lehota pod Vtacnikom",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-28T14:00:00Z",
+          "opponent": "FC Petrzalka 1898",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T14:00:00Z",
+          "opponent": "Puchov",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-strasbourg",
+    "name": "Strasbourg",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Strasbourg",
+    "lat": 48.660614,
+    "lng": 7.722712700000001,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9848.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 3,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "Monaco",
+          "homeAway": "home",
+          "score": "5 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T17:00:00Z",
+          "opponent": "Brest",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "Angers",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:15:00Z",
+          "opponent": "Toulouse",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T13:00:00Z",
+          "opponent": "Lorient",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T15:15:00Z",
+          "opponent": "Rennes",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T15:00:00Z",
+          "opponent": "Nice",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T19:45:00Z",
+          "opponent": "Nantes",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T14:00:00Z",
+          "opponent": "Paris FC",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T18:00:00Z",
+          "opponent": "Auxerre",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-toulouse",
+    "name": "Toulouse",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Toulouse",
+    "lat": 43.5644638,
+    "lng": 1.4642433,
+    "divisionTier": 1,
+    "leagueId": "53",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9941.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 1,
+      "losses": 4,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-17T19:00:00Z",
+          "opponent": "Nantes",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Ab"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "Lyon",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T15:15:00Z",
+          "opponent": "Strasbourg",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T19:05:00Z",
+          "opponent": "Monaco",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:45:00Z",
+          "opponent": "Lens",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T15:15:00Z",
+          "opponent": "Lille",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T18:45:00Z",
+          "opponent": "PSG",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T16:00:00Z",
+          "opponent": "Lorient",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T16:15:00Z",
+          "opponent": "Metz",
+          "homeAway": "away",
+          "score": "3 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T20:05:00Z",
+          "opponent": "Marseille",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "fr-troyes",
+    "name": "Troyes",
+    "countryCode": "FR",
+    "country": "France",
+    "city": "Troyes",
+    "lat": 48.2891626,
+    "lng": 4.1266257,
+    "divisionTier": 2,
+    "leagueId": "110",
+    "leagueName": "Ligue 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10242.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 7,
+      "draws": 1,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Grenoble",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Laval",
+          "homeAway": "home",
+          "score": "4 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T18:00:00Z",
+          "opponent": "Saint-Etienne",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T12:00:00Z",
+          "opponent": "Boulogne",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-13T18:45:00Z",
+          "opponent": "Rodez",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T12:00:00Z",
+          "opponent": "Montpellier",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:00:00Z",
+          "opponent": "Dunkerque",
+          "homeAway": "home",
+          "score": "5 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-16T19:45:00Z",
+          "opponent": "Annecy FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T13:00:00Z",
+          "opponent": "Clermont Foot",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-02T19:45:00Z",
+          "opponent": "Amiens",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

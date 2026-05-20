@@ -1,0 +1,42 @@
+{
+  "Al Ittihad": {
+    "lat": 33.5164913,
+    "lng": 36.3161881,
+    "countryCode": "SY"
+  },
+  "Al Karama": {
+    "lat": 34.8892399,
+    "lng": 40.6086476,
+    "countryCode": "SY"
+  },
+  "Al Majd": {
+    "lat": 34.5817341,
+    "lng": 36.719335,
+    "countryCode": "SY"
+  },
+  "Al Sahel": {
+    "lat": 34.996691,
+    "lng": 35.9210728,
+    "countryCode": "SY"
+  },
+  "Al Wahda": {
+    "lat": 32.7340467,
+    "lng": 35.8712705,
+    "countryCode": "SY"
+  },
+  "Al Wathba": {
+    "lat": 24.2211189,
+    "lng": 54.6859304,
+    "countryCode": "SY"
+  },
+  "Malkiya": {
+    "lat": 36.1890052,
+    "lng": 37.2375262,
+    "countryCode": "SY"
+  },
+  "Tishreen": {
+    "lat": 35.5209657,
+    "lng": 35.8065133,
+    "countryCode": "SY"
+  }
+}

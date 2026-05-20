@@ -1,0 +1,152 @@
+{
+  "Chengdu Rongcheng": {
+    "lat": 30.577568,
+    "lng": 104.1980465,
+    "countryCode": "CN"
+  },
+  "Chongqing Tongliang Long": {
+    "lat": 29.8389422,
+    "lng": 106.0772383,
+    "countryCode": "CN"
+  },
+  "Henan": {
+    "lat": 34.0000001,
+    "lng": 113.9999999,
+    "countryCode": "CN"
+  },
+  "Qingdao West Coast": {
+    "lat": 35.9453575,
+    "lng": 120.1670032,
+    "countryCode": "CN"
+  },
+  "Shandong Taishan": {
+    "lat": 36.1315649,
+    "lng": 117.0846482,
+    "countryCode": "CN"
+  },
+  "Shanghai Port": {
+    "lat": 31.1427359,
+    "lng": 121.8041131,
+    "countryCode": "CN"
+  },
+  "Shenzhen Peng": {
+    "lat": 22.6145761,
+    "lng": 114.049732,
+    "countryCode": "CN"
+  },
+  "Beijing": {
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "countryCode": "CN"
+  },
+  "Beijing Institute of Technology": {
+    "lat": 39.9578214,
+    "lng": 116.3098237,
+    "countryCode": "CN"
+  },
+  "Changchun": {
+    "lat": 43.8844201,
+    "lng": 125.3180998,
+    "countryCode": "CN"
+  },
+  "Changzhou Xinbei": {
+    "lat": 31.9184829,
+    "lng": 119.7784139,
+    "countryCode": "CN"
+  },
+  "Chengdu": {
+    "lat": 30.5728,
+    "lng": 104.0668,
+    "countryCode": "CN"
+  },
+  "Guangxi Pingguo": {
+    "lat": 23.3213337,
+    "lng": 107.583712,
+    "countryCode": "CN"
+  },
+  "Guangzhou": {
+    "lat": 23.1291,
+    "lng": 113.2644,
+    "countryCode": "CN"
+  },
+  "Guangzhou R&F": {
+    "lat": 22.9918881,
+    "lng": 113.3031129,
+    "countryCode": "CN"
+  },
+  "Hangzhou": {
+    "lat": 30.2489634,
+    "lng": 120.2052342,
+    "countryCode": "CN"
+  },
+  "Jinan": {
+    "lat": 36.6519754,
+    "lng": 117.1138479,
+    "countryCode": "CN"
+  },
+  "Kunming": {
+    "lat": 25.0399353,
+    "lng": 102.7169061,
+    "countryCode": "CN"
+  },
+  "Nanjing": {
+    "lat": 32.0438284,
+    "lng": 118.7788631,
+    "countryCode": "CN"
+  },
+  "Ningxia Hui Autonomous": {
+    "lat": 37.6368583,
+    "lng": 105.346573,
+    "countryCode": "CN"
+  },
+  "Qingdao West Coast B": {
+    "lat": 35.9172083,
+    "lng": 120.0953628,
+    "countryCode": "CN"
+  },
+  "Shaanxi Chang'an": {
+    "lat": 34.2943251,
+    "lng": 109.1196978,
+    "countryCode": "CN"
+  },
+  "Shanghai": {
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "countryCode": "CN"
+  },
+  "Shanghai Port B": {
+    "lat": 31.0956505,
+    "lng": 121.4584177,
+    "countryCode": "CN"
+  },
+  "Shenzhen": {
+    "lat": 22.5431,
+    "lng": 114.0579,
+    "countryCode": "CN"
+  },
+  "Suzhou Dongwu": {
+    "lat": 31.254578,
+    "lng": 120.7634903,
+    "countryCode": "CN"
+  },
+  "Tianjin": {
+    "lat": 39.3434,
+    "lng": 117.3616,
+    "countryCode": "CN"
+  },
+  "Wuhan": {
+    "lat": 30.5928,
+    "lng": 114.3055,
+    "countryCode": "CN"
+  },
+  "Yangzhou Huaian": {
+    "lat": 33.126975,
+    "lng": 118.3477234,
+    "countryCode": "CN"
+  },
+  "Zhengzhou": {
+    "lat": 34.7472531,
+    "lng": 113.619321,
+    "countryCode": "CN"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Baghlan": {
+    "lat": 35.75,
+    "lng": 69,
+    "countryCode": "AF"
+  },
+  "Bamyan": {
+    "lat": 34.75,
+    "lng": 67.25,
+    "countryCode": "AF"
+  },
+  "Ghazni": {
+    "lat": 33.5448968,
+    "lng": 68.4132108,
+    "countryCode": "AF"
+  },
+  "Herat": {
+    "lat": 34.3491443,
+    "lng": 62.2163252,
+    "countryCode": "AF"
+  },
+  "Jalalabad": {
+    "lat": 34.430195,
+    "lng": 70.460128,
+    "countryCode": "AF"
+  },
+  "Kabul": {
+    "lat": 34.5553,
+    "lng": 69.2075,
+    "countryCode": "AF"
+  },
+  "Kandahar": {
+    "lat": 31.6205738,
+    "lng": 65.7157573,
+    "countryCode": "AF"
+  },
+  "Mazar": {
+    "lat": 36.7081678,
+    "lng": 67.1040154,
+    "countryCode": "AF"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Deren": {
+    "lat": 46.229361,
+    "lng": 106.8075243,
+    "countryCode": "MN"
+  },
+  "Erchim": {
+    "lat": 47.8934727,
+    "lng": 106.874745,
+    "countryCode": "MN"
+  },
+  "FC Ulaanbaatar": {
+    "lat": 47.9184676,
+    "lng": 106.9177016,
+    "countryCode": "MN"
+  },
+  "Khangarid": {
+    "lat": 47.8320465,
+    "lng": 106.9007847,
+    "countryCode": "MN"
+  },
+  "Khovd": {
+    "lat": 46.8997977,
+    "lng": 92.2959651,
+    "countryCode": "MN"
+  },
+  "Mazaalai": {
+    "lat": 43.0447811,
+    "lng": 106.8226069,
+    "countryCode": "MN"
+  },
+  "Orkhon": {
+    "lat": 48.6440292,
+    "lng": 104.1036297,
+    "countryCode": "MN"
+  },
+  "Tuv Province": {
+    "lat": 47.713441,
+    "lng": 107.7849104,
+    "countryCode": "MN"
+  },
+  "Ulaanbaatar": {
+    "lat": 47.8864,
+    "lng": 106.9057,
+    "countryCode": "MN"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "AS Port": {
+    "lat": 11.5961712,
+    "lng": 43.0693118,
+    "countryCode": "DJ"
+  },
+  "Gendarmerie": {
+    "lat": 11.1543579,
+    "lng": 42.7103837,
+    "countryCode": "DJ"
+  },
+  "Port de Djibouti": {
+    "lat": 11.6070057,
+    "lng": 43.1354538,
+    "countryCode": "DJ"
+  }
+}

@@ -1,0 +1,437 @@
+[
+  {
+    "id": "177063",
+    "name": "Aveley",
+    "shortName": "Aveley"
+  },
+  {
+    "id": "282343",
+    "name": "Brentwood Town",
+    "shortName": "Brentwood Town"
+  },
+  {
+    "id": "282349",
+    "name": "AFC Sudbury",
+    "shortName": "AFC Sudbury"
+  },
+  {
+    "id": "161800",
+    "name": "Redditch United",
+    "shortName": "Redditch United"
+  },
+  {
+    "id": "282395",
+    "name": "Bamber Bridge",
+    "shortName": "Bamber Bridge"
+  },
+  {
+    "id": "4096",
+    "name": "Guiseley",
+    "shortName": "Guiseley"
+  },
+  {
+    "id": "238637",
+    "name": "Barwell FC",
+    "shortName": "Barwell FC"
+  },
+  {
+    "id": "459582",
+    "name": "St. Ives Town FC",
+    "shortName": "St. Ives Town FC"
+  },
+  {
+    "id": "45807",
+    "name": "Basingstoke",
+    "shortName": "Basingstoke"
+  },
+  {
+    "id": "282358",
+    "name": "Wimborne Town",
+    "shortName": "Wimborne Town"
+  },
+  {
+    "id": "879829",
+    "name": "Berkhamsted",
+    "shortName": "Berkhamsted"
+  },
+  {
+    "id": "626250",
+    "name": "Bracknell Town",
+    "shortName": "Bracknell Town"
+  },
+  {
+    "id": "2261",
+    "name": "Billericay",
+    "shortName": "Billericay"
+  },
+  {
+    "id": "274594",
+    "name": "Wingate & Finchley",
+    "shortName": "Wingate & Finchley"
+  },
+  {
+    "id": "953607",
+    "name": "Bromsgrove Sporting",
+    "shortName": "Bromsgrove Sporting"
+  },
+  {
+    "id": "4046",
+    "name": "Bishop's Stortford",
+    "shortName": "Bishop's Stortford"
+  },
+  {
+    "id": "282369",
+    "name": "Cheshunt",
+    "shortName": "Cheshunt"
+  },
+  {
+    "id": "8679",
+    "name": "Welling United",
+    "shortName": "Welling United"
+  },
+  {
+    "id": "1071515",
+    "name": "Chichester City FC",
+    "shortName": "Chichester City FC"
+  },
+  {
+    "id": "6206",
+    "name": "Folkestone Invicta",
+    "shortName": "Folkestone Invicta"
+  },
+  {
+    "id": "879819",
+    "name": "Cray Valley Paper Mills",
+    "shortName": "Cray Valley Paper Mills"
+  },
+  {
+    "id": "161809",
+    "name": "Carshalton Athletic",
+    "shortName": "Carshalton Athletic"
+  },
+  {
+    "id": "177064",
+    "name": "Cray Wanderers",
+    "shortName": "Cray Wanderers"
+  },
+  {
+    "id": "6190",
+    "name": "Canvey",
+    "shortName": "Canvey"
+  },
+  {
+    "id": "282508",
+    "name": "Dulwich Hamlet",
+    "shortName": "Dulwich Hamlet"
+  },
+  {
+    "id": "161813",
+    "name": "Dartford",
+    "shortName": "Dartford"
+  },
+  {
+    "id": "674293",
+    "name": "Farnham Town",
+    "shortName": "Farnham Town"
+  },
+  {
+    "id": "282363",
+    "name": "Hungerford Town",
+    "shortName": "Hungerford Town"
+  },
+  {
+    "id": "161822",
+    "name": "FC United of Manchester",
+    "shortName": "FC United of Manchester"
+  },
+  {
+    "id": "282510",
+    "name": "Leek Town",
+    "shortName": "Leek Town"
+  },
+  {
+    "id": "6450",
+    "name": "Gainsborough",
+    "shortName": "Gainsborough"
+  },
+  {
+    "id": "161818",
+    "name": "Ashton United",
+    "shortName": "Ashton United"
+  },
+  {
+    "id": "161833",
+    "name": "Gloucester City",
+    "shortName": "Gloucester City"
+  },
+  {
+    "id": "282356",
+    "name": "Gosport Borough",
+    "shortName": "Gosport Borough"
+  },
+  {
+    "id": "1382661",
+    "name": "Harborough Town FC",
+    "shortName": "Harborough Town FC"
+  },
+  {
+    "id": "282375",
+    "name": "Needham Market",
+    "shortName": "Needham Market"
+  },
+  {
+    "id": "1767",
+    "name": "Havant and Waterlooville",
+    "shortName": "Havant and Waterlooville"
+  },
+  {
+    "id": "282502",
+    "name": "Taunton Town",
+    "shortName": "Taunton Town"
+  },
+  {
+    "id": "292923",
+    "name": "Hebburn Town",
+    "shortName": "Hebburn Town"
+  },
+  {
+    "id": "9923",
+    "name": "Hednesford",
+    "shortName": "Hednesford"
+  },
+  {
+    "id": "161802",
+    "name": "Hyde United",
+    "shortName": "Hyde United"
+  },
+  {
+    "id": "4451",
+    "name": "Lancaster City",
+    "shortName": "Lancaster City"
+  },
+  {
+    "id": "158543",
+    "name": "Leiston",
+    "shortName": "Leiston"
+  },
+  {
+    "id": "2260",
+    "name": "Halesowen Town FC",
+    "shortName": "Halesowen Town FC"
+  },
+  {
+    "id": "8660",
+    "name": "Lewes",
+    "shortName": "Lewes"
+  },
+  {
+    "id": "1186081",
+    "name": "Hashtag United",
+    "shortName": "Hashtag United"
+  },
+  {
+    "id": "762783",
+    "name": "Morpeth Town FC",
+    "shortName": "Morpeth Town FC"
+  },
+  {
+    "id": "1291005",
+    "name": "Ilkeston Town",
+    "shortName": "Ilkeston Town"
+  },
+  {
+    "id": "238635",
+    "name": "Poole Town FC",
+    "shortName": "Poole Town FC"
+  },
+  {
+    "id": "582838",
+    "name": "Hanwell Town",
+    "shortName": "Hanwell Town"
+  },
+  {
+    "id": "282341",
+    "name": "Potters Bar Town",
+    "shortName": "Potters Bar Town"
+  },
+  {
+    "id": "282340",
+    "name": "Burgess Hill Town",
+    "shortName": "Burgess Hill Town"
+  },
+  {
+    "id": "161828",
+    "name": "Prescot Cables",
+    "shortName": "Prescot Cables"
+  },
+  {
+    "id": "1087122",
+    "name": "Stockton Town",
+    "shortName": "Stockton Town"
+  },
+  {
+    "id": "5767",
+    "name": "Ramsgate",
+    "shortName": "Ramsgate"
+  },
+  {
+    "id": "282373",
+    "name": "Whitehawk",
+    "shortName": "Whitehawk"
+  },
+  {
+    "id": "1659622",
+    "name": "Real Bedford",
+    "shortName": "Real Bedford"
+  },
+  {
+    "id": "580400",
+    "name": "Spalding United",
+    "shortName": "Spalding United"
+  },
+  {
+    "id": "338310",
+    "name": "Royston Town",
+    "shortName": "Royston Town"
+  },
+  {
+    "id": "6647",
+    "name": "Kettering Town FC",
+    "shortName": "Kettering Town FC"
+  },
+  {
+    "id": "274600",
+    "name": "Rushall Olympic",
+    "shortName": "Rushall Olympic"
+  },
+  {
+    "id": "1186092",
+    "name": "Warrington Rylands",
+    "shortName": "Warrington Rylands"
+  },
+  {
+    "id": "10174",
+    "name": "St Albans",
+    "shortName": "St Albans"
+  },
+  {
+    "id": "282368",
+    "name": "Chatham Town",
+    "shortName": "Chatham Town"
+  },
+  {
+    "id": "282333",
+    "name": "Stamford AFC",
+    "shortName": "Stamford AFC"
+  },
+  {
+    "id": "865168",
+    "name": "Alvechurch",
+    "shortName": "Alvechurch"
+  },
+  {
+    "id": "161834",
+    "name": "Stourbridge",
+    "shortName": "Stourbridge"
+  },
+  {
+    "id": "158320",
+    "name": "Bury Town",
+    "shortName": "Bury Town"
+  },
+  {
+    "id": "459581",
+    "name": "Stratford Town",
+    "shortName": "Stratford Town"
+  },
+  {
+    "id": "161841",
+    "name": "Banbury United",
+    "shortName": "Banbury United"
+  },
+  {
+    "id": "2273",
+    "name": "Tiverton",
+    "shortName": "Tiverton"
+  },
+  {
+    "id": "282503",
+    "name": "Chertsey Town",
+    "shortName": "Chertsey Town"
+  },
+  {
+    "id": "282505",
+    "name": "Uxbridge",
+    "shortName": "Uxbridge"
+  },
+  {
+    "id": "158318",
+    "name": "Dorchester Town",
+    "shortName": "Dorchester Town"
+  },
+  {
+    "id": "6093",
+    "name": "Walton and Hersham",
+    "shortName": "Walton and Hersham"
+  },
+  {
+    "id": "674304",
+    "name": "Plymouth Parkway",
+    "shortName": "Plymouth Parkway"
+  },
+  {
+    "id": "282389",
+    "name": "Warrington Town",
+    "shortName": "Warrington Town"
+  },
+  {
+    "id": "580402",
+    "name": "Cleethorpes Town",
+    "shortName": "Cleethorpes Town"
+  },
+  {
+    "id": "10221",
+    "name": "Weymouth",
+    "shortName": "Weymouth"
+  },
+  {
+    "id": "158317",
+    "name": "Evesham United",
+    "shortName": "Evesham United"
+  },
+  {
+    "id": "6292",
+    "name": "Worcester",
+    "shortName": "Worcester"
+  },
+  {
+    "id": "129937",
+    "name": "Quorn",
+    "shortName": "Quorn"
+  },
+  {
+    "id": "161839",
+    "name": "Yate Town",
+    "shortName": "Yate Town"
+  },
+  {
+    "id": "282360",
+    "name": "Sholing",
+    "shortName": "Sholing"
+  },
+  {
+    "id": "105553",
+    "name": "Workington",
+    "shortName": "Workington"
+  },
+  {
+    "id": "6195",
+    "name": "Whitby",
+    "shortName": "Whitby"
+  },
+  {
+    "id": "177222",
+    "name": "Stocksbridge Park Steels",
+    "shortName": "Stocksbridge Park Steels"
+  }
+]

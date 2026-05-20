@@ -1,0 +1,258 @@
+[
+  {
+    "id": "cg-cara-brazzaville",
+    "name": "CARA Brazzaville",
+    "countryCode": "CG",
+    "country": "Congo",
+    "city": "CARA Brazzaville",
+    "lat": -0.8480000000000001,
+    "lng": 15.212,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CG-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cg-diables-noirs",
+    "name": "Diables Noirs",
+    "countryCode": "CG",
+    "country": "Congo",
+    "city": "Diables Noirs",
+    "lat": -0.8480000000000001,
+    "lng": 15.212,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CG-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cg-toile-du-congo",
+    "name": "Étoile du Congo",
+    "countryCode": "CG",
+    "country": "Congo",
+    "city": "Étoile du Congo",
+    "lat": -0.8440000000000001,
+    "lng": 15.216,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CG-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cg-inter-club",
+    "name": "Inter Club",
+    "countryCode": "CG",
+    "country": "Congo",
+    "city": "Inter Club",
+    "lat": -0.8320000000000001,
+    "lng": 15.228,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CG-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/62/Congolese_Association_Football_Federation_logo.png",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cg-js-talanga",
+    "name": "JS Talangaï",
+    "countryCode": "CG",
+    "country": "Congo",
+    "city": "JS Talangaï",
+    "lat": -0.7240000000000001,
+    "lng": 15.171999999999999,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CG-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cg-oyo-sports",
+    "name": "Oyo Sports",
+    "countryCode": "CG",
+    "country": "Congo",
+    "city": "Oyo Sports",
+    "lat": -0.876,
+    "lng": 15.184,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CG-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cg-patronage-sainte-anne",
+    "name": "Patronage Sainte-Anne",
+    "countryCode": "CG",
+    "country": "Congo",
+    "city": "Patronage Sainte-Anne",
+    "lat": -0.8280000000000001,
+    "lng": 15.232,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CG-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cg-vita-club",
+    "name": "Vita Club",
+    "countryCode": "CG",
+    "country": "Congo",
+    "city": "Vita Club",
+    "lat": -0.732,
+    "lng": 15.164,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CG-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/22/AS_Vita_Club_%28logo%29.png",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

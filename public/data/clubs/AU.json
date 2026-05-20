@@ -1,0 +1,1466 @@
+[
+  {
+    "id": "au-adelaide-united",
+    "name": "Adelaide United",
+    "countryCode": "AU",
+    "country": "Australia",
+    "city": "Adelaide",
+    "lat": -34.8801805,
+    "lng": 138.54393119999997,
+    "divisionTier": 1,
+    "leagueId": "113",
+    "leagueName": "A-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8008.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 6,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T09:35:00Z",
+          "opponent": "Auckland FC",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T06:00:00Z",
+          "opponent": "Auckland FC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T07:30:00Z",
+          "opponent": "Melbourne City FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T05:30:00Z",
+          "opponent": "Macarthur FC",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T07:00:00Z",
+          "opponent": "Newcastle Jets",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T08:35:00Z",
+          "opponent": "Auckland FC",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T08:35:00Z",
+          "opponent": "Western Sydney",
+          "homeAway": "away",
+          "score": "2 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T04:00:00Z",
+          "opponent": "Central Coast",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T08:35:00Z",
+          "opponent": "Wellington Phoenix",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T08:35:00Z",
+          "opponent": "Melbourne Victory",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "au-auckland-fc",
+    "name": "Auckland FC",
+    "countryCode": "AU",
+    "country": "Australia",
+    "city": "Auckland",
+    "lat": -36.8982961,
+    "lng": 174.7430716,
+    "divisionTier": 1,
+    "leagueId": "113",
+    "leagueName": "A-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1642068.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 6,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T09:35:00Z",
+          "opponent": "Adelaide United",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T06:00:00Z",
+          "opponent": "Adelaide United",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T05:00:00Z",
+          "opponent": "Melbourne City FC",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "Pen"
+        },
+        {
+          "date": "2026-04-26T05:00:00Z",
+          "opponent": "Sydney FC",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T03:00:00Z",
+          "opponent": "Central Coast",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T05:00:00Z",
+          "opponent": "Melbourne Victory",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T08:35:00Z",
+          "opponent": "Adelaide United",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T02:00:00Z",
+          "opponent": "Macarthur FC",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T06:00:00Z",
+          "opponent": "Newcastle Jets",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T02:00:00Z",
+          "opponent": "Perth Glory",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "au-brisbane-roar-fc",
+    "name": "Brisbane Roar FC",
+    "countryCode": "AU",
+    "country": "Australia",
+    "city": "Brisbane Roar",
+    "lat": -27.6303623,
+    "lng": 153.0062993,
+    "divisionTier": 1,
+    "leagueId": "113",
+    "leagueName": "A-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8118.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 5,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-04-25T11:45:00Z",
+          "opponent": "Perth Glory",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T07:00:00Z",
+          "opponent": "Melbourne City FC",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T09:35:00Z",
+          "opponent": "Central Coast",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-02T10:00:00Z",
+          "opponent": "Sydney FC",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T04:00:00Z",
+          "opponent": "Wellington Phoenix",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T08:00:00Z",
+          "opponent": "Western Sydney",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T07:00:00Z",
+          "opponent": "Perth Glory",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-21T06:00:00Z",
+          "opponent": "Sydney FC",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-14T06:00:00Z",
+          "opponent": "Melbourne Victory",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-07T06:00:00Z",
+          "opponent": "Central Coast",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "au-central-coast-mariners",
+    "name": "Central Coast Mariners",
+    "countryCode": "AU",
+    "country": "Australia",
+    "city": "Central Coast Mariners",
+    "lat": -33.241339399999994,
+    "lng": 151.3923298,
+    "divisionTier": 1,
+    "leagueId": "113",
+    "leagueName": "A-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8164.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 4,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-04-25T07:00:00Z",
+          "opponent": "Newcastle Jets",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T03:00:00Z",
+          "opponent": "Auckland FC",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T09:35:00Z",
+          "opponent": "Brisbane Roar FC",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T09:00:00Z",
+          "opponent": "Melbourne City FC",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T06:00:00Z",
+          "opponent": "Perth Glory",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T06:10:00Z",
+          "opponent": "Melbourne Victory",
+          "homeAway": "away",
+          "score": "4 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T04:00:00Z",
+          "opponent": "Adelaide United",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-04T08:00:00Z",
+          "opponent": "Macarthur FC",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T06:00:00Z",
+          "opponent": "Newcastle Jets",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-22T06:00:00Z",
+          "opponent": "Western Sydney",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "au-macarthur-fc",
+    "name": "Macarthur FC",
+    "countryCode": "AU",
+    "country": "Australia",
+    "city": "Macarthur",
+    "lat": -34.123986099999996,
+    "lng": 150.80518990000002,
+    "divisionTier": 1,
+    "leagueId": "113",
+    "leagueName": "A-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1209973.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 1,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-04-24T09:35:00Z",
+          "opponent": "Wellington Phoenix",
+          "homeAway": "home",
+          "score": "4 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T05:30:00Z",
+          "opponent": "Adelaide United",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T09:00:00Z",
+          "opponent": "Perth Glory",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-02T08:35:00Z",
+          "opponent": "Newcastle Jets",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T02:00:00Z",
+          "opponent": "Auckland FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T08:00:00Z",
+          "opponent": "Melbourne Victory",
+          "homeAway": "away",
+          "score": "4 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-04T08:00:00Z",
+          "opponent": "Central Coast",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T08:35:00Z",
+          "opponent": "Western Sydney",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-22T07:00:00Z",
+          "opponent": "Newcastle Jets",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-06T08:35:00Z",
+          "opponent": "Perth Glory",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "au-melbourne-city-fc",
+    "name": "Melbourne City FC",
+    "countryCode": "AU",
+    "country": "Australia",
+    "city": "Melbourne",
+    "lat": -37.8382454,
+    "lng": 144.9991732,
+    "divisionTier": 1,
+    "leagueId": "113",
+    "leagueName": "A-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/203576.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 2,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-02T05:00:00Z",
+          "opponent": "Auckland FC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "Pen"
+        },
+        {
+          "date": "2026-04-26T07:30:00Z",
+          "opponent": "Adelaide United",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T07:00:00Z",
+          "opponent": "Brisbane Roar FC",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T05:00:00Z",
+          "opponent": "Wellington Phoenix",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T09:00:00Z",
+          "opponent": "Central Coast",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T08:35:00Z",
+          "opponent": "Western Sydney",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T08:00:00Z",
+          "opponent": "Perth Glory",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-17T08:00:00Z",
+          "opponent": "Sydney FC",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T04:00:00Z",
+          "opponent": "Auckland FC",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-21T08:35:00Z",
+          "opponent": "Melbourne Victory",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "au-melbourne-victory",
+    "name": "Melbourne Victory",
+    "countryCode": "AU",
+    "country": "Australia",
+    "city": "Melbourne",
+    "lat": -37.8782454,
+    "lng": 144.9591732,
+    "divisionTier": 1,
+    "leagueId": "113",
+    "leagueName": "A-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6230.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 4,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-02T09:40:00Z",
+          "opponent": "Sydney FC",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T09:35:00Z",
+          "opponent": "Western Sydney",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T09:35:00Z",
+          "opponent": "Newcastle Jets",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T05:00:00Z",
+          "opponent": "Auckland FC",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T05:00:00Z",
+          "opponent": "Wellington Phoenix",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T06:10:00Z",
+          "opponent": "Central Coast",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T08:00:00Z",
+          "opponent": "Macarthur FC",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T08:35:00Z",
+          "opponent": "Sydney FC",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T08:35:00Z",
+          "opponent": "Adelaide United",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-21T08:35:00Z",
+          "opponent": "Melbourne City FC",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "au-newcastle-jets",
+    "name": "Newcastle Jets",
+    "countryCode": "AU",
+    "country": "Australia",
+    "city": "Newcastle Jets",
+    "lat": -33.916,
+    "lng": 151.244,
+    "divisionTier": 1,
+    "leagueId": "113",
+    "leagueName": "A-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6454.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 5,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T09:40:00Z",
+          "opponent": "Sydney FC",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "Pen"
+        },
+        {
+          "date": "2026-05-09T09:40:00Z",
+          "opponent": "Sydney FC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T07:00:00Z",
+          "opponent": "Central Coast",
+          "homeAway": "home",
+          "score": "4 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T09:35:00Z",
+          "opponent": "Melbourne Victory",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T07:00:00Z",
+          "opponent": "Adelaide United",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-02T08:35:00Z",
+          "opponent": "Macarthur FC",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T04:00:00Z",
+          "opponent": "Sydney FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T06:00:00Z",
+          "opponent": "Auckland FC",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T06:00:00Z",
+          "opponent": "Western Sydney",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T06:00:00Z",
+          "opponent": "Central Coast",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "au-perth-glory",
+    "name": "Perth Glory",
+    "countryCode": "AU",
+    "country": "Australia",
+    "city": "Perth Glory",
+    "lat": -33.888,
+    "lng": 151.272,
+    "divisionTier": 1,
+    "leagueId": "113",
+    "leagueName": "A-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7961.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 5,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-04-25T11:45:00Z",
+          "opponent": "Brisbane Roar FC",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T09:35:00Z",
+          "opponent": "Sydney FC",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T09:00:00Z",
+          "opponent": "Macarthur FC",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T06:00:00Z",
+          "opponent": "Central Coast",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T08:00:00Z",
+          "opponent": "Melbourne City FC",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T02:00:00Z",
+          "opponent": "Wellington Phoenix",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T02:00:00Z",
+          "opponent": "Auckland FC",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T07:00:00Z",
+          "opponent": "Brisbane Roar FC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-20T08:35:00Z",
+          "opponent": "Adelaide United",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-13T10:45:00Z",
+          "opponent": "Newcastle Jets",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "au-sydney-fc",
+    "name": "Sydney FC",
+    "countryCode": "AU",
+    "country": "Australia",
+    "city": "Sydney",
+    "lat": -33.7978439,
+    "lng": 151.1762848,
+    "divisionTier": 1,
+    "leagueId": "113",
+    "leagueName": "A-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10164.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 6,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T09:40:00Z",
+          "opponent": "Newcastle Jets",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "Pen"
+        },
+        {
+          "date": "2026-05-09T09:40:00Z",
+          "opponent": "Newcastle Jets",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T09:40:00Z",
+          "opponent": "Melbourne Victory",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T05:00:00Z",
+          "opponent": "Auckland FC",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T09:35:00Z",
+          "opponent": "Perth Glory",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T09:35:00Z",
+          "opponent": "Western Sydney",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-02T10:00:00Z",
+          "opponent": "Brisbane Roar FC",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T04:00:00Z",
+          "opponent": "Newcastle Jets",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-17T08:00:00Z",
+          "opponent": "Melbourne City FC",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T08:35:00Z",
+          "opponent": "Melbourne Victory",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "au-wellington-phoenix",
+    "name": "Wellington Phoenix",
+    "countryCode": "AU",
+    "country": "Australia",
+    "city": "Wellington Phoenix",
+    "lat": -33.888,
+    "lng": 151.272,
+    "divisionTier": 1,
+    "leagueId": "113",
+    "leagueName": "A-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/78785.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 2,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-04-24T09:35:00Z",
+          "opponent": "Macarthur FC",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T05:00:00Z",
+          "opponent": "Western Sydney",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T05:00:00Z",
+          "opponent": "Melbourne City FC",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T05:00:00Z",
+          "opponent": "Melbourne Victory",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T04:00:00Z",
+          "opponent": "Brisbane Roar FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T02:00:00Z",
+          "opponent": "Perth Glory",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T08:35:00Z",
+          "opponent": "Adelaide United",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T02:00:00Z",
+          "opponent": "Sydney FC",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-21T04:00:00Z",
+          "opponent": "Auckland FC",
+          "homeAway": "home",
+          "score": "0 - 5",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-13T08:35:00Z",
+          "opponent": "Western Sydney",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "au-western-sydney-wanderers-fc",
+    "name": "Western Sydney Wanderers FC",
+    "countryCode": "AU",
+    "country": "Australia",
+    "city": "Western Sydney",
+    "lat": -33.7344563,
+    "lng": 150.6512265,
+    "divisionTier": 1,
+    "leagueId": "113",
+    "leagueName": "A-League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/323834.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 2,
+      "losses": 7,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-04-25T09:35:00Z",
+          "opponent": "Melbourne Victory",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T05:00:00Z",
+          "opponent": "Wellington Phoenix",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T09:35:00Z",
+          "opponent": "Sydney FC",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T08:35:00Z",
+          "opponent": "Melbourne City FC",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T08:35:00Z",
+          "opponent": "Adelaide United",
+          "homeAway": "home",
+          "score": "2 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T08:00:00Z",
+          "opponent": "Brisbane Roar FC",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T06:00:00Z",
+          "opponent": "Newcastle Jets",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T08:35:00Z",
+          "opponent": "Macarthur FC",
+          "homeAway": "away",
+          "score": "0 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-22T06:00:00Z",
+          "opponent": "Central Coast",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-13T08:35:00Z",
+          "opponent": "Wellington Phoenix",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

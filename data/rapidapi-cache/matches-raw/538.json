@@ -1,0 +1,6918 @@
+[
+  {
+    "id": "4877522",
+    "pageUrl": "/matches/sharjah-cultural-club-vs-dibba-al-fujairah/1k08eorq#4877522",
+    "opponent": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "home": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "away": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-16T14:05:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4877521",
+    "pageUrl": "/matches/al-dhafra-vs-shabab-al-ahli-dubai-fc/9kxgwde#4877521",
+    "opponent": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 2
+    },
+    "home": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 2
+    },
+    "away": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-16T14:05:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4877524",
+    "pageUrl": "/matches/al-nasr-sc-vs-al-ittihad-kalba/m9esm9r#4877524",
+    "opponent": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 0
+    },
+    "home": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 0
+    },
+    "away": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-16T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4877523",
+    "pageUrl": "/matches/al-ain-vs-al-bataeh/9f2puo1q#4877523",
+    "opponent": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 2
+    },
+    "home": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 2
+    },
+    "away": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-16T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4877525",
+    "pageUrl": "/matches/al-wahda-vs-ajman/ellw5r0#4877525",
+    "opponent": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 0
+    },
+    "home": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 0
+    },
+    "away": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-17T14:05:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4877526",
+    "pageUrl": "/matches/al-jazira-vs-khorfakkan/elila6i#4877526",
+    "opponent": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 3
+    },
+    "home": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 3
+    },
+    "away": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-17T14:05:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4877527",
+    "pageUrl": "/matches/al-wasl-vs-baniyas/invalcn#4877527",
+    "opponent": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 2
+    },
+    "home": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 2
+    },
+    "away": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-17T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4877528",
+    "pageUrl": "/matches/baniyas-vs-al-ittihad-kalba/zbgqouo#4877528",
+    "opponent": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 0
+    },
+    "home": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 0
+    },
+    "away": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-22T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4877529",
+    "pageUrl": "/matches/al-jazira-vs-sharjah-cultural-club/9kw0dcd#4877529",
+    "opponent": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 0
+    },
+    "home": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 0
+    },
+    "away": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-22T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4877530",
+    "pageUrl": "/matches/al-wasl-vs-al-dhafra/9kwhvo5#4877530",
+    "opponent": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 3
+    },
+    "home": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 3
+    },
+    "away": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-23T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4877531",
+    "pageUrl": "/matches/al-ain-vs-dibba-al-fujairah/1k06clpz#4877531",
+    "opponent": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 2
+    },
+    "home": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 2
+    },
+    "away": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-23T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4877532",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-al-wahda/9kxyeqr#4877532",
+    "opponent": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 0
+    },
+    "home": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 0
+    },
+    "away": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-23T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4877533",
+    "pageUrl": "/matches/khorfakkan-vs-al-bataeh/a6bnnvsb#4877533",
+    "opponent": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 2
+    },
+    "home": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 2
+    },
+    "away": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-24T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4877534",
+    "pageUrl": "/matches/al-nasr-sc-vs-ajman/elm1ka9#4877534",
+    "opponent": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 1
+    },
+    "home": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 1
+    },
+    "away": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-24T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941009",
+    "pageUrl": "/matches/al-wahda-vs-al-ittihad-kalba/m9ely26#4941009",
+    "opponent": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 0
+    },
+    "home": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 0
+    },
+    "away": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-11T13:40:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941010",
+    "pageUrl": "/matches/sharjah-cultural-club-vs-khorfakkan/elm1ka8#4941010",
+    "opponent": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 2
+    },
+    "home": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 2
+    },
+    "away": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-11T16:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941011",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-baniyas/inwngwr#4941011",
+    "opponent": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 1
+    },
+    "home": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 1
+    },
+    "away": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-11T16:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941012",
+    "pageUrl": "/matches/al-dhafra-vs-dibba-al-fujairah/1k06n6q5#4941012",
+    "opponent": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 2
+    },
+    "home": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 2
+    },
+    "away": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-12T13:40:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941013",
+    "pageUrl": "/matches/ajman-vs-al-bataeh/a6boey7s#4941013",
+    "opponent": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 1
+    },
+    "home": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 1
+    },
+    "away": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-12T16:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941014",
+    "pageUrl": "/matches/al-jazira-vs-al-nasr-sc/9kvvzrf#4941014",
+    "opponent": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 0
+    },
+    "home": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 0
+    },
+    "away": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-13T13:40:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941015",
+    "pageUrl": "/matches/al-wasl-vs-al-ain/9kwdi33#4941015",
+    "opponent": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 1
+    },
+    "home": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 1
+    },
+    "away": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-13T16:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941016",
+    "pageUrl": "/matches/al-dhafra-vs-al-wahda/9kxu15e#4941016",
+    "opponent": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 5
+    },
+    "home": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 5
+    },
+    "away": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-19T13:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941017",
+    "pageUrl": "/matches/al-jazira-vs-baniyas/intlhz0#4941017",
+    "opponent": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 0
+    },
+    "home": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 0
+    },
+    "away": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-19T16:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941018",
+    "pageUrl": "/matches/al-ain-vs-khorfakkan/elkzqk2#4941018",
+    "opponent": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 3
+    },
+    "home": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 3
+    },
+    "away": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-20T13:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941019",
+    "pageUrl": "/matches/al-ittihad-kalba-vs-dibba-al-fujairah/2axd1unh#4941019",
+    "opponent": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "home": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "away": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-20T13:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941020",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-al-nasr-sc/9ky2sc6#4941020",
+    "opponent": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 0
+    },
+    "home": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 0
+    },
+    "away": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-20T16:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941021",
+    "pageUrl": "/matches/al-wasl-vs-al-bataeh/9f2lif4z#4941021",
+    "opponent": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 0
+    },
+    "home": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 0
+    },
+    "away": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-21T13:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941022",
+    "pageUrl": "/matches/sharjah-cultural-club-vs-ajman/elm6ytj#4941022",
+    "opponent": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 0
+    },
+    "home": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 0
+    },
+    "away": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-21T16:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941023",
+    "pageUrl": "/matches/khorfakkan-vs-al-ittihad-kalba/tmtkd26#4941023",
+    "opponent": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 2
+    },
+    "home": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 2
+    },
+    "away": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-24T13:25:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941024",
+    "pageUrl": "/matches/al-jazira-vs-al-wahda/9kvrm6i#4941024",
+    "opponent": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 0
+    },
+    "home": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 0
+    },
+    "away": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-24T16:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941025",
+    "pageUrl": "/matches/al-ain-vs-shabab-al-ahli-dubai-fc/9kxcis5#4941025",
+    "opponent": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 0
+    },
+    "home": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 0
+    },
+    "away": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-25T13:25:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941026",
+    "pageUrl": "/matches/al-wasl-vs-sharjah-cultural-club/9kx8572#4941026",
+    "opponent": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 2
+    },
+    "home": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 2
+    },
+    "away": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-25T16:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941027",
+    "pageUrl": "/matches/al-dhafra-vs-al-bataeh/9f2qkpja#4941027",
+    "opponent": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 3
+    },
+    "home": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 3
+    },
+    "away": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-26T13:25:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941028",
+    "pageUrl": "/matches/ajman-vs-baniyas/pgjykph#4941028",
+    "opponent": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 0
+    },
+    "home": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 0
+    },
+    "away": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-26T13:25:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941029",
+    "pageUrl": "/matches/al-nasr-sc-vs-dibba-al-fujairah/1k0843re#4941029",
+    "opponent": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 1
+    },
+    "home": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 1
+    },
+    "away": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-26T16:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941030",
+    "pageUrl": "/matches/al-wahda-vs-al-bataeh/9f2tgvhs#4941030",
+    "opponent": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 1
+    },
+    "home": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 1
+    },
+    "away": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-17T13:05:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941031",
+    "pageUrl": "/matches/al-dhafra-vs-sharjah-cultural-club/9ky2sc7#4941031",
+    "opponent": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 2
+    },
+    "home": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 2
+    },
+    "away": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-17T13:05:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941032",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-al-ittihad-kalba/m9e1xfl#4941032",
+    "opponent": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 0
+    },
+    "home": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 0
+    },
+    "away": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-17T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941035",
+    "pageUrl": "/matches/al-ain-vs-baniyas/inwb90k#4941035",
+    "opponent": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 4
+    },
+    "home": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 4
+    },
+    "away": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-18T13:05:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941034",
+    "pageUrl": "/matches/al-jazira-vs-dibba-al-fujairah/1k01n9r3#4941034",
+    "opponent": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 0
+    },
+    "home": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 0
+    },
+    "away": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-18T13:05:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941033",
+    "pageUrl": "/matches/khorfakkan-vs-ajman/ko5p0i0#4941033",
+    "opponent": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 1
+    },
+    "home": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 1
+    },
+    "away": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-18T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941036",
+    "pageUrl": "/matches/al-wasl-vs-al-nasr-sc/9kx3rlu#4941036",
+    "opponent": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 2
+    },
+    "home": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 2
+    },
+    "away": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-18T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941037",
+    "pageUrl": "/matches/al-wahda-vs-al-nasr-sc/9kyfx4i#4941037",
+    "opponent": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 3
+    },
+    "home": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 3
+    },
+    "away": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-30T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941038",
+    "pageUrl": "/matches/al-ain-vs-ajman/ell5536#4941038",
+    "opponent": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 0
+    },
+    "home": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 0
+    },
+    "away": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-30T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941039",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-sharjah-cultural-club/9ky75xm#4941039",
+    "opponent": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 2
+    },
+    "home": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 2
+    },
+    "away": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-30T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941040",
+    "pageUrl": "/matches/baniyas-vs-dibba-al-fujairah/23u5a7r3#4941040",
+    "opponent": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 2
+    },
+    "home": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 2
+    },
+    "away": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-31T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941041",
+    "pageUrl": "/matches/al-wasl-vs-khorfakkan/elk3be5#4941041",
+    "opponent": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 1
+    },
+    "home": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 1
+    },
+    "away": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-31T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941042",
+    "pageUrl": "/matches/al-dhafra-vs-al-ittihad-kalba/m9dv984#4941042",
+    "opponent": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 3
+    },
+    "home": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 3
+    },
+    "away": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-01T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4941043",
+    "pageUrl": "/matches/al-jazira-vs-al-bataeh/9f2ea0cm#4941043",
+    "opponent": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 1
+    },
+    "home": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 1
+    },
+    "away": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-01T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5011563",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-khorfakkan/ellajm9#5011563",
+    "opponent": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 0
+    },
+    "home": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 0
+    },
+    "away": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-20T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5011564",
+    "pageUrl": "/matches/al-dhafra-vs-al-nasr-sc/9kxyeqs#5011564",
+    "opponent": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 2
+    },
+    "home": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 2
+    },
+    "away": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-21T12:40:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5011565",
+    "pageUrl": "/matches/al-wahda-vs-dibba-al-fujairah/1k07tir3#5011565",
+    "opponent": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "home": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "away": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-21T12:40:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5011566",
+    "pageUrl": "/matches/sharjah-cultural-club-vs-baniyas/inxi0nq#5011566",
+    "opponent": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 1
+    },
+    "home": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 1
+    },
+    "away": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-21T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5011567",
+    "pageUrl": "/matches/al-ittihad-kalba-vs-al-bataeh/b5gzk6lm#5011567",
+    "opponent": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "home": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "away": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-22T12:40:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5011568",
+    "pageUrl": "/matches/al-wasl-vs-ajman/elk8px3#5011568",
+    "opponent": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 0
+    },
+    "home": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 0
+    },
+    "away": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-22T12:40:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5011569",
+    "pageUrl": "/matches/al-jazira-vs-al-ain/9kv5qac#5011569",
+    "opponent": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 1
+    },
+    "home": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 1
+    },
+    "away": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-22T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041028",
+    "pageUrl": "/matches/ajman-vs-dibba-al-fujairah/1ve3th2n#5041028",
+    "opponent": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 2
+    },
+    "home": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 2
+    },
+    "away": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-20T12:50:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041029",
+    "pageUrl": "/matches/khorfakkan-vs-baniyas/pgjrfti#5041029",
+    "opponent": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 0
+    },
+    "home": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 0
+    },
+    "away": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-20T12:50:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041030",
+    "pageUrl": "/matches/al-ain-vs-al-ittihad-kalba/m9dol0o#5041030",
+    "opponent": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 2
+    },
+    "home": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 2
+    },
+    "away": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-20T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041031",
+    "pageUrl": "/matches/al-nasr-sc-vs-al-bataeh/9f2u6wzh#5041031",
+    "opponent": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 2
+    },
+    "home": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 2
+    },
+    "away": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-21T12:50:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041032",
+    "pageUrl": "/matches/al-jazira-vs-al-dhafra/9kva3v4#5041032",
+    "opponent": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 4
+    },
+    "home": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 4
+    },
+    "away": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-21T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041033",
+    "pageUrl": "/matches/al-wahda-vs-khorfakkan/ellqr7r#5041033",
+    "opponent": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 1
+    },
+    "home": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 1
+    },
+    "away": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-28T12:50:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041034",
+    "pageUrl": "/matches/al-wasl-vs-dibba-al-fujairah/1k04l3pk#5041034",
+    "opponent": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "home": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "away": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-28T12:50:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041035",
+    "pageUrl": "/matches/al-ain-vs-al-nasr-sc/9kxu15f#5041035",
+    "opponent": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 2
+    },
+    "home": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 2
+    },
+    "away": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-28T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041036",
+    "pageUrl": "/matches/al-jazira-vs-al-ittihad-kalba/m9apttc#5041036",
+    "opponent": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "home": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "away": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-29T12:50:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041037",
+    "pageUrl": "/matches/al-dhafra-vs-baniyas/inwhcyn#5041037",
+    "opponent": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 0
+    },
+    "home": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 0
+    },
+    "away": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-29T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041038",
+    "pageUrl": "/matches/al-wasl-vs-al-wahda/9kwze0n#5041038",
+    "opponent": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 1
+    },
+    "home": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 1
+    },
+    "away": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-02T12:55:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041039",
+    "pageUrl": "/matches/al-dhafra-vs-khorfakkan/ell5535#5041039",
+    "opponent": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 2
+    },
+    "home": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 2
+    },
+    "away": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-02T12:55:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041040",
+    "pageUrl": "/matches/al-ain-vs-sharjah-cultural-club/9kxyeqt#5041040",
+    "opponent": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 1
+    },
+    "home": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 1
+    },
+    "away": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-02T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041041",
+    "pageUrl": "/matches/al-nasr-sc-vs-baniyas/inxbwph#5041041",
+    "opponent": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 1
+    },
+    "home": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 1
+    },
+    "away": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-02T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041042",
+    "pageUrl": "/matches/ajman-vs-al-ittihad-kalba/tmts27i#5041042",
+    "opponent": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 0
+    },
+    "home": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 0
+    },
+    "away": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-03T12:55:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041043",
+    "pageUrl": "/matches/dibba-al-fujairah-vs-al-bataeh/efy0b6sb#5041043",
+    "opponent": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 0
+    },
+    "home": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 0
+    },
+    "away": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-03T12:55:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041044",
+    "pageUrl": "/matches/al-jazira-vs-shabab-al-ahli-dubai-fc/9kvehfx#5041044",
+    "opponent": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 0
+    },
+    "home": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 0
+    },
+    "away": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-03T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041045",
+    "pageUrl": "/matches/al-nasr-sc-vs-sharjah-cultural-club/9kyoobk#5041045",
+    "opponent": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 2
+    },
+    "home": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 2
+    },
+    "away": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-06T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041046",
+    "pageUrl": "/matches/al-wahda-vs-baniyas/inx5sr9#5041046",
+    "opponent": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 3
+    },
+    "home": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 3
+    },
+    "away": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-06T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041047",
+    "pageUrl": "/matches/al-wasl-vs-al-ittihad-kalba/m9ckjsl#5041047",
+    "opponent": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 2
+    },
+    "home": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 2
+    },
+    "away": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-07T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041048",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-al-bataeh/9f2rar0v#5041048",
+    "opponent": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 0
+    },
+    "home": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 0
+    },
+    "away": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-07T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041049",
+    "pageUrl": "/matches/al-jazira-vs-ajman/eliqop6#5041049",
+    "opponent": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 3
+    },
+    "home": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 3
+    },
+    "away": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-08T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041050",
+    "pageUrl": "/matches/khorfakkan-vs-dibba-al-fujairah/1ve3hv4l#5041050",
+    "opponent": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "home": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "away": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-08T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041051",
+    "pageUrl": "/matches/al-ain-vs-al-dhafra/9kx856w#5041051",
+    "opponent": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 1
+    },
+    "home": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 1
+    },
+    "away": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-08T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041052",
+    "pageUrl": "/matches/al-wahda-vs-sharjah-cultural-club/9kykaq1#5041052",
+    "opponent": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 1
+    },
+    "home": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 1
+    },
+    "away": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-10T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041053",
+    "pageUrl": "/matches/al-wasl-vs-shabab-al-ahli-dubai-fc/9kwm998#5041053",
+    "opponent": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 3
+    },
+    "home": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 3
+    },
+    "away": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-11T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041054",
+    "pageUrl": "/matches/sharjah-cultural-club-vs-al-bataeh/9f2uwyh7#5041054",
+    "opponent": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 0
+    },
+    "home": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 0
+    },
+    "away": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-14T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041055",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-ajman/ellfy5f#5041055",
+    "opponent": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 3
+    },
+    "home": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 3
+    },
+    "away": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-15T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041056",
+    "pageUrl": "/matches/al-jazira-vs-al-wasl/9kufgu9#5041056",
+    "opponent": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 1
+    },
+    "home": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 1
+    },
+    "away": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-17T13:05:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041057",
+    "pageUrl": "/matches/al-nasr-sc-vs-khorfakkan/ellw5qz#5041057",
+    "opponent": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 0
+    },
+    "home": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 0
+    },
+    "away": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-17T13:05:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041058",
+    "pageUrl": "/matches/al-ain-vs-al-wahda/9kxpnk2#5041058",
+    "opponent": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 2
+    },
+    "home": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 2
+    },
+    "away": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-17T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041059",
+    "pageUrl": "/matches/baniyas-vs-al-bataeh/apolewnt#5041059",
+    "opponent": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 1
+    },
+    "home": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 1
+    },
+    "away": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-18T13:05:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041060",
+    "pageUrl": "/matches/sharjah-cultural-club-vs-al-ittihad-kalba/m9ezahd#5041060",
+    "opponent": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 3
+    },
+    "home": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 3
+    },
+    "away": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-18T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041061",
+    "pageUrl": "/matches/al-dhafra-vs-ajman/ellajma#5041061",
+    "opponent": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 1
+    },
+    "home": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 1
+    },
+    "away": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-19T13:05:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5041062",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-dibba-al-fujairah/1k06xrqc#5041062",
+    "opponent": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 7
+    },
+    "home": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 7
+    },
+    "away": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-19T15:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "7 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5119574",
+    "pageUrl": "/matches/al-ain-vs-al-ittihad-kalba/m9dol0o#5119574",
+    "opponent": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "home": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "away": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-27T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5119575",
+    "pageUrl": "/matches/al-wahda-vs-dibba-al-fujairah/1k07tir3#5119575",
+    "opponent": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 1
+    },
+    "home": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 1
+    },
+    "away": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-27T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5119576",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-ajman/ellfy5f#5119576",
+    "opponent": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 0
+    },
+    "home": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 0
+    },
+    "away": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-28T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5119577",
+    "pageUrl": "/matches/al-dhafra-vs-sharjah-cultural-club/9ky2sc7#5119577",
+    "opponent": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 0
+    },
+    "home": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 0
+    },
+    "away": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-28T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5119578",
+    "pageUrl": "/matches/al-wasl-vs-khorfakkan/elk3be5#5119578",
+    "opponent": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 0
+    },
+    "home": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 0
+    },
+    "away": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-28T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5119579",
+    "pageUrl": "/matches/al-jazira-vs-al-bataeh/9f2ea0cm#5119579",
+    "opponent": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 1
+    },
+    "home": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 1
+    },
+    "away": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-29T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5119580",
+    "pageUrl": "/matches/al-nasr-sc-vs-baniyas/inxbwph#5119580",
+    "opponent": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 0
+    },
+    "home": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 0
+    },
+    "away": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-29T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134935",
+    "pageUrl": "/matches/al-wasl-vs-al-nasr-sc/9kx3rlu#5134935",
+    "opponent": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 1
+    },
+    "home": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 1
+    },
+    "away": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-05T13:25:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134936",
+    "pageUrl": "/matches/al-wahda-vs-al-bataeh/9f2tgvhs#5134936",
+    "opponent": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 2
+    },
+    "home": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 2
+    },
+    "away": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-05T13:25:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134937",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-sharjah-cultural-club/9ky75xm#5134937",
+    "opponent": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 1
+    },
+    "home": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 1
+    },
+    "away": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-05T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134938",
+    "pageUrl": "/matches/al-dhafra-vs-khorfakkan/ell5535#5134938",
+    "opponent": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 2
+    },
+    "home": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 2
+    },
+    "away": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-06T13:25:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134939",
+    "pageUrl": "/matches/al-jazira-vs-al-ain/9kv5qac#5134939",
+    "opponent": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 0
+    },
+    "home": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 0
+    },
+    "away": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-06T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134940",
+    "pageUrl": "/matches/baniyas-vs-dibba-al-fujairah/23u5a7r3#5134940",
+    "opponent": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 2
+    },
+    "home": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 2
+    },
+    "away": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-07T13:25:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134941",
+    "pageUrl": "/matches/ajman-vs-al-ittihad-kalba/tmts27i#5134941",
+    "opponent": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "home": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "away": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-07T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134942",
+    "pageUrl": "/matches/al-dhafra-vs-al-bataeh/9f2qkpja#5134942",
+    "opponent": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 1
+    },
+    "home": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 1
+    },
+    "away": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-13T13:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134943",
+    "pageUrl": "/matches/al-jazira-vs-al-ittihad-kalba/m9apttc#5134943",
+    "opponent": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 2
+    },
+    "home": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 2
+    },
+    "away": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-13T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134944",
+    "pageUrl": "/matches/khorfakkan-vs-ajman/ko5p0i0#5134944",
+    "opponent": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 2
+    },
+    "home": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 2
+    },
+    "away": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-14T13:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134945",
+    "pageUrl": "/matches/al-ain-vs-al-nasr-sc/9kxu15f#5134945",
+    "opponent": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 1
+    },
+    "home": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 1
+    },
+    "away": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-14T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134949",
+    "pageUrl": "/matches/sharjah-cultural-club-vs-ajman/elm6ytj#5134949",
+    "opponent": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 3
+    },
+    "home": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 3
+    },
+    "away": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-20T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134950",
+    "pageUrl": "/matches/al-dhafra-vs-shabab-al-ahli-dubai-fc/9kxgwde#5134950",
+    "opponent": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 0
+    },
+    "home": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 0
+    },
+    "away": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-20T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134951",
+    "pageUrl": "/matches/al-jazira-vs-al-wahda/9kvrm6i#5134951",
+    "opponent": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 1
+    },
+    "home": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 1
+    },
+    "away": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-20T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134953",
+    "pageUrl": "/matches/al-ittihad-kalba-vs-dibba-al-fujairah/2axd1unh#5134953",
+    "opponent": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 2
+    },
+    "home": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 2
+    },
+    "away": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-21T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134952",
+    "pageUrl": "/matches/al-wasl-vs-al-bataeh/9f2lif4z#5134952",
+    "opponent": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 1
+    },
+    "home": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 1
+    },
+    "away": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-21T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134954",
+    "pageUrl": "/matches/al-nasr-sc-vs-khorfakkan/ellw5qz#5134954",
+    "opponent": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 2
+    },
+    "home": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 2
+    },
+    "away": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134955",
+    "pageUrl": "/matches/al-ain-vs-baniyas/inwb90k#5134955",
+    "opponent": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 2
+    },
+    "home": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 2
+    },
+    "away": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134956",
+    "pageUrl": "/matches/al-wahda-vs-ajman/ellw5r0#5134956",
+    "opponent": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 2
+    },
+    "home": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 2
+    },
+    "away": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-25T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134957",
+    "pageUrl": "/matches/al-wasl-vs-shabab-al-ahli-dubai-fc/9kwm998#5134957",
+    "opponent": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 1
+    },
+    "home": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 1
+    },
+    "away": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-25T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134959",
+    "pageUrl": "/matches/al-dhafra-vs-al-ittihad-kalba/m9dv984#5134959",
+    "opponent": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "home": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "away": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-26T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134958",
+    "pageUrl": "/matches/al-jazira-vs-sharjah-cultural-club/9kw0dcd#5134958",
+    "opponent": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 5
+    },
+    "home": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 5
+    },
+    "away": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-26T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134960",
+    "pageUrl": "/matches/baniyas-vs-al-bataeh/apolewnt#5134960",
+    "opponent": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 0
+    },
+    "home": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 0
+    },
+    "away": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-27T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134961",
+    "pageUrl": "/matches/al-nasr-sc-vs-dibba-al-fujairah/1k0843re#5134961",
+    "opponent": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "home": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "away": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-27T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134962",
+    "pageUrl": "/matches/al-ain-vs-khorfakkan/elkzqk2#5134962",
+    "opponent": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 2
+    },
+    "home": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 2
+    },
+    "away": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-27T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134947",
+    "pageUrl": "/matches/al-wasl-vs-baniyas/invalcn#5134947",
+    "opponent": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 2
+    },
+    "home": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 2
+    },
+    "away": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-07T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134948",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-al-wahda/9kxyeqr#5134948",
+    "opponent": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 1
+    },
+    "home": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 1
+    },
+    "away": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-07T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5134946",
+    "pageUrl": "/matches/sharjah-cultural-club-vs-dibba-al-fujairah/1k08eorq#5134946",
+    "opponent": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 4
+    },
+    "home": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 4
+    },
+    "away": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-07T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5179222",
+    "pageUrl": "/matches/ajman-vs-al-bataeh/a6boey7s#5179222",
+    "opponent": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 1
+    },
+    "home": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 1
+    },
+    "away": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-10T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5179225",
+    "pageUrl": "/matches/al-jazira-vs-al-dhafra/9kva3v4#5179225",
+    "opponent": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 1
+    },
+    "home": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 1
+    },
+    "away": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-10T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5179226",
+    "pageUrl": "/matches/khorfakkan-vs-dibba-al-fujairah/1ve3hv4l#5179226",
+    "opponent": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 0
+    },
+    "home": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 0
+    },
+    "away": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-11T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5179227",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-al-ittihad-kalba/m9e1xfl#5179227",
+    "opponent": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 5
+    },
+    "home": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 5
+    },
+    "away": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-11T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5179223",
+    "pageUrl": "/matches/al-nasr-sc-vs-sharjah-cultural-club/9kyoobk#5179223",
+    "opponent": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 1
+    },
+    "home": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 1
+    },
+    "away": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-11T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5179221",
+    "pageUrl": "/matches/al-wasl-vs-al-ain/9kwdi33#5179221",
+    "opponent": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 2
+    },
+    "home": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 2
+    },
+    "away": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-12T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5179224",
+    "pageUrl": "/matches/al-wahda-vs-baniyas/inx5sr9#5179224",
+    "opponent": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 1
+    },
+    "home": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 1
+    },
+    "away": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-12T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5179230",
+    "pageUrl": "/matches/al-jazira-vs-khorfakkan/elila6i#5179230",
+    "opponent": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 3
+    },
+    "home": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 3
+    },
+    "away": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-16T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5179234",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-dibba-al-fujairah/1k06xrqc#5179234",
+    "opponent": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 0
+    },
+    "home": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 0
+    },
+    "away": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-16T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5179231",
+    "pageUrl": "/matches/sharjah-cultural-club-vs-al-ittihad-kalba/m9ezahd#5179231",
+    "opponent": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 2
+    },
+    "home": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 2
+    },
+    "away": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-17T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5179232",
+    "pageUrl": "/matches/al-ain-vs-al-wahda/9kxpnk2#5179232",
+    "opponent": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 0
+    },
+    "home": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 0
+    },
+    "away": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-17T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5179228",
+    "pageUrl": "/matches/ajman-vs-baniyas/pgjykph#5179228",
+    "opponent": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 1
+    },
+    "home": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 1
+    },
+    "away": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-18T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5179229",
+    "pageUrl": "/matches/al-nasr-sc-vs-al-bataeh/9f2u6wzh#5179229",
+    "opponent": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 1
+    },
+    "home": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 1
+    },
+    "away": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-18T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5179233",
+    "pageUrl": "/matches/al-wasl-vs-al-dhafra/9kwhvo5#5179233",
+    "opponent": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 3
+    },
+    "home": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 3
+    },
+    "away": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-18T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5261239",
+    "pageUrl": "/matches/al-ittihad-kalba-vs-al-bataeh/b5gzk6lm#5261239",
+    "opponent": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 2
+    },
+    "home": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 2
+    },
+    "away": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-04T13:50:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5261240",
+    "pageUrl": "/matches/al-wahda-vs-al-nasr-sc/9kyfx4i#5261240",
+    "opponent": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 2
+    },
+    "home": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 2
+    },
+    "away": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-04T13:50:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5261242",
+    "pageUrl": "/matches/al-jazira-vs-shabab-al-ahli-dubai-fc/9kvehfx#5261242",
+    "opponent": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 2
+    },
+    "home": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 2
+    },
+    "away": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-04T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5261243",
+    "pageUrl": "/matches/al-dhafra-vs-dibba-al-fujairah/1k06n6q5#5261243",
+    "opponent": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "home": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 1
+    },
+    "away": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-05T13:50:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5261244",
+    "pageUrl": "/matches/khorfakkan-vs-baniyas/pgjrfti#5261244",
+    "opponent": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 2
+    },
+    "home": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 2
+    },
+    "away": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-05T13:50:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5261241",
+    "pageUrl": "/matches/al-ain-vs-ajman/ell5536#5261241",
+    "opponent": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 2
+    },
+    "home": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 2
+    },
+    "away": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-05T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5261245",
+    "pageUrl": "/matches/al-wasl-vs-sharjah-cultural-club/9kx8572#5261245",
+    "opponent": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 2
+    },
+    "home": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 2
+    },
+    "away": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-05T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5282469",
+    "pageUrl": "/matches/al-wahda-vs-al-ittihad-kalba/m9ely26#5282469",
+    "opponent": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 2
+    },
+    "home": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 2
+    },
+    "away": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-09T13:55:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5282471",
+    "pageUrl": "/matches/sharjah-cultural-club-vs-baniyas/inxi0nq#5282471",
+    "opponent": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 1
+    },
+    "home": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 1
+    },
+    "away": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-10T13:55:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5282472",
+    "pageUrl": "/matches/al-ain-vs-shabab-al-ahli-dubai-fc/9kxcis5#5282472",
+    "opponent": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 3
+    },
+    "home": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 3
+    },
+    "away": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-10T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5282473",
+    "pageUrl": "/matches/al-dhafra-vs-al-nasr-sc/9kxyeqs#5282473",
+    "opponent": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 0
+    },
+    "home": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 0
+    },
+    "away": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-11T13:55:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5282474",
+    "pageUrl": "/matches/al-jazira-vs-dibba-al-fujairah/1k01n9r3#5282474",
+    "opponent": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 4
+    },
+    "home": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 4
+    },
+    "away": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-11T13:55:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5282475",
+    "pageUrl": "/matches/al-wasl-vs-ajman/elk8px3#5282475",
+    "opponent": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 1
+    },
+    "home": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 1
+    },
+    "away": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-11T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5282470",
+    "pageUrl": "/matches/khorfakkan-vs-al-bataeh/a6bnnvsb#5282470",
+    "opponent": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 1
+    },
+    "home": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 1
+    },
+    "away": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-11T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5282477",
+    "pageUrl": "/matches/baniyas-vs-al-ittihad-kalba/zbgqouo#5282477",
+    "opponent": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "home": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "away": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-23T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5282476",
+    "pageUrl": "/matches/al-wahda-vs-sharjah-cultural-club/9kykaq1#5282476",
+    "opponent": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 0
+    },
+    "home": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 0
+    },
+    "away": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-23T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5282478",
+    "pageUrl": "/matches/al-ain-vs-al-bataeh/9f2puo1q#5282478",
+    "opponent": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 0
+    },
+    "home": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 0
+    },
+    "away": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-23T16:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5282480",
+    "pageUrl": "/matches/al-dhafra-vs-ajman/ellajma#5282480",
+    "opponent": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 0
+    },
+    "home": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 0
+    },
+    "away": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-24T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5282481",
+    "pageUrl": "/matches/al-wasl-vs-dibba-al-fujairah/1k04l3pk#5282481",
+    "opponent": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 4
+    },
+    "home": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 4
+    },
+    "away": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-24T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5282482",
+    "pageUrl": "/matches/al-jazira-vs-al-nasr-sc/9kvvzrf#5282482",
+    "opponent": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 3
+    },
+    "home": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 3
+    },
+    "away": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-24T16:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5282479",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-khorfakkan/ellajm9#5282479",
+    "opponent": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 3
+    },
+    "home": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 3
+    },
+    "away": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-29T15:20:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5360733",
+    "pageUrl": "/matches/al-jazira-vs-ajman/eliqop6#5360733",
+    "opponent": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 1
+    },
+    "home": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 1
+    },
+    "away": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-05T14:05:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5360736",
+    "pageUrl": "/matches/khorfakkan-vs-al-ittihad-kalba/tmtkd26#5360736",
+    "opponent": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 0
+    },
+    "home": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 0
+    },
+    "away": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-05T16:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5360734",
+    "pageUrl": "/matches/al-dhafra-vs-baniyas/inwhcyn#5360734",
+    "opponent": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 2
+    },
+    "home": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 2
+    },
+    "away": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-05T16:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5360735",
+    "pageUrl": "/matches/dibba-al-fujairah-vs-al-bataeh/efy0b6sb#5360735",
+    "opponent": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 2
+    },
+    "home": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 2
+    },
+    "away": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-05T16:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5360737",
+    "pageUrl": "/matches/al-wasl-vs-al-wahda/9kwze0n#5360737",
+    "opponent": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 2
+    },
+    "home": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 2
+    },
+    "away": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-06T14:05:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5360739",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-al-nasr-sc/9ky2sc6#5360739",
+    "opponent": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 2
+    },
+    "home": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 2
+    },
+    "away": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-06T16:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5360738",
+    "pageUrl": "/matches/al-ain-vs-sharjah-cultural-club/9kxyeqt#5360738",
+    "opponent": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 0
+    },
+    "home": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 0
+    },
+    "away": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-06T16:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5408781",
+    "pageUrl": "/matches/sharjah-cultural-club-vs-al-bataeh/9f2uwyh7#5408781",
+    "opponent": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 0
+    },
+    "home": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 0
+    },
+    "away": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T15:25:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5408780",
+    "pageUrl": "/matches/al-ain-vs-al-dhafra/9kx856w#5408780",
+    "opponent": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 5
+    },
+    "home": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 5
+    },
+    "away": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T15:25:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5408782",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-baniyas/inwngwr#5408782",
+    "opponent": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 2
+    },
+    "home": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 2
+    },
+    "away": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T15:25:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5408783",
+    "pageUrl": "/matches/ajman-vs-dibba-al-fujairah/1ve3th2n#5408783",
+    "opponent": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 0
+    },
+    "home": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 0
+    },
+    "away": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T15:25:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5408784",
+    "pageUrl": "/matches/al-nasr-sc-vs-al-ittihad-kalba/m9esm9r#5408784",
+    "opponent": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 2
+    },
+    "home": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 2
+    },
+    "away": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-11T14:10:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5408785",
+    "pageUrl": "/matches/al-jazira-vs-al-wasl/9kufgu9#5408785",
+    "opponent": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 1
+    },
+    "home": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 1
+    },
+    "away": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-11T16:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5408786",
+    "pageUrl": "/matches/al-wahda-vs-khorfakkan/ellqr7r#5408786",
+    "opponent": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 1
+    },
+    "home": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 1
+    },
+    "away": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-11T16:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5529910",
+    "pageUrl": "/matches/al-nasr-sc-vs-ajman/elm1ka9#5529910",
+    "opponent": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 2
+    },
+    "home": {
+      "id": "149994",
+      "name": "Ajman",
+      "score": 2
+    },
+    "away": {
+      "id": "102123",
+      "name": "Al-Nasr SC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-15T14:10:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5529911",
+    "pageUrl": "/matches/sharjah-cultural-club-vs-khorfakkan/elm1ka8#5529911",
+    "opponent": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 3
+    },
+    "home": {
+      "id": "102124",
+      "name": "Sharjah Cultural Club",
+      "score": 3
+    },
+    "away": {
+      "id": "149993",
+      "name": "Khorfakkan",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-15T14:10:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5529912",
+    "pageUrl": "/matches/al-wasl-vs-al-ittihad-kalba/m9ckjsl#5529912",
+    "opponent": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 2
+    },
+    "home": {
+      "id": "102111",
+      "name": "Al-Wasl",
+      "score": 2
+    },
+    "away": {
+      "id": "209190",
+      "name": "Al Ittihad Kalba",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-15T16:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5529916",
+    "pageUrl": "/matches/al-ain-vs-dibba-al-fujairah/1k06clpz#5529916",
+    "opponent": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 4
+    },
+    "home": {
+      "id": "102117",
+      "name": "Al-Ain",
+      "score": 4
+    },
+    "away": {
+      "id": "391664",
+      "name": "Dibba Al Fujairah",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-16T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5529915",
+    "pageUrl": "/matches/al-dhafra-vs-al-wahda/9kxu15e#5529915",
+    "opponent": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 1
+    },
+    "home": {
+      "id": "102118",
+      "name": "Al-Dhafra",
+      "score": 1
+    },
+    "away": {
+      "id": "102122",
+      "name": "Al-Wahda",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-16T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5529913",
+    "pageUrl": "/matches/al-jazira-vs-baniyas/intlhz0#5529913",
+    "opponent": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 4
+    },
+    "home": {
+      "id": "102101",
+      "name": "Al-Jazira",
+      "score": 4
+    },
+    "away": {
+      "id": "182933",
+      "name": "Baniyas",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-16T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5529914",
+    "pageUrl": "/matches/shabab-al-ahli-dubai-fc-vs-al-bataeh/9f2rar0v#5529914",
+    "opponent": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 1
+    },
+    "home": {
+      "id": "102119",
+      "name": "Shabab Al-Ahli Dubai FC",
+      "score": 1
+    },
+    "away": {
+      "id": "1112866",
+      "name": "Al Bataeh",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-16T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  }
+]

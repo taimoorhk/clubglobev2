@@ -1,0 +1,52 @@
+{
+  "Chibuto": {
+    "lat": -24.2656131,
+    "lng": 33.5490566,
+    "countryCode": "MZ"
+  },
+  "Costa do Sol": {
+    "lat": -25.8938831,
+    "lng": 32.646034,
+    "countryCode": "MZ"
+  },
+  "Desportivo Maputo": {
+    "lat": -25.9747052,
+    "lng": 32.5766408,
+    "countryCode": "MZ"
+  },
+  "Desportivo Nacala": {
+    "lat": -14.5514377,
+    "lng": 40.6844189,
+    "countryCode": "MZ"
+  },
+  "Ferroviário Maputo": {
+    "lat": -25.9162638,
+    "lng": 32.6109348,
+    "countryCode": "MZ"
+  },
+  "Ferroviário Nampula": {
+    "lat": -14.9475767,
+    "lng": 37.4155555,
+    "countryCode": "MZ"
+  },
+  "Liga Muçulmana": {
+    "lat": -19.1121916,
+    "lng": 33.4784373,
+    "countryCode": "MZ"
+  },
+  "Nampula": {
+    "lat": -14.966969,
+    "lng": 39.2707752,
+    "countryCode": "MZ"
+  },
+  "Palmeiras": {
+    "lat": -21.9952692,
+    "lng": 35.3243767,
+    "countryCode": "MZ"
+  },
+  "Vilankulo": {
+    "lat": -22.2986932,
+    "lng": 35.0366556,
+    "countryCode": "MZ"
+  }
+}

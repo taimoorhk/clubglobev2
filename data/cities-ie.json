@@ -1,0 +1,97 @@
+{
+  "Dublin": {
+    "lat": 53.3498,
+    "lng": -6.2603,
+    "countryCode": "IE"
+  },
+  "Cork": {
+    "lat": 51.8985,
+    "lng": -8.4756,
+    "countryCode": "IE"
+  },
+  "Galway": {
+    "lat": 53.2707,
+    "lng": -9.0568,
+    "countryCode": "IE"
+  },
+  "Sligo": {
+    "lat": 54.2766,
+    "lng": -8.4761,
+    "countryCode": "IE"
+  },
+  "Limerick": {
+    "lat": 52.6638,
+    "lng": -8.6267,
+    "countryCode": "IE"
+  },
+  "Waterford": {
+    "lat": 52.2593,
+    "lng": -7.1101,
+    "countryCode": "IE"
+  },
+  "Dundalk": {
+    "lat": 54.0049,
+    "lng": -6.4049,
+    "countryCode": "IE"
+  },
+  "Drogheda": {
+    "lat": 53.7179,
+    "lng": -6.3561,
+    "countryCode": "IE"
+  },
+  "Wexford": {
+    "lat": 52.3369,
+    "lng": -6.4633,
+    "countryCode": "IE"
+  },
+  "Cobh": {
+    "lat": 51.8505,
+    "lng": -8.2948,
+    "countryCode": "IE"
+  },
+  "Bray": {
+    "lat": 53.2009,
+    "lng": -6.1111,
+    "countryCode": "IE"
+  },
+  "Athlone": {
+    "lat": 53.4239,
+    "lng": -7.9407,
+    "countryCode": "IE"
+  },
+  "Ballybofey": {
+    "lat": 54.8013,
+    "lng": -7.7811,
+    "countryCode": "IE"
+  },
+  "Tralee": {
+    "lat": 52.2713,
+    "lng": -9.7026,
+    "countryCode": "IE"
+  },
+  "Longford": {
+    "lat": 53.7275,
+    "lng": -7.7998,
+    "countryCode": "IE"
+  },
+  "Derry": {
+    "lat": 54.9966,
+    "lng": -7.3086,
+    "countryCode": "IE"
+  },
+  "Buncrana": {
+    "lat": 55.1333,
+    "lng": -7.45,
+    "countryCode": "IE"
+  },
+  "Maynooth": {
+    "lat": 53.3813,
+    "lng": -6.5919,
+    "countryCode": "IE"
+  },
+  "Letterkenny": {
+    "lat": 54.9533,
+    "lng": -7.7342,
+    "countryCode": "IE"
+  }
+}

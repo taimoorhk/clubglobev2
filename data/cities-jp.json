@@ -1,0 +1,292 @@
+{
+  "Abashiri": {
+    "lat": 44.0206027,
+    "lng": 144.2732035,
+    "countryCode": "JP"
+  },
+  "Akita": {
+    "lat": 39.6898802,
+    "lng": 140.342608,
+    "countryCode": "JP"
+  },
+  "Asahikawa": {
+    "lat": 43.770625,
+    "lng": 142.3649743,
+    "countryCode": "JP"
+  },
+  "Biwako Shiga": {
+    "lat": 35.2486461,
+    "lng": 136.0825575,
+    "countryCode": "JP"
+  },
+  "Blaublitz Akita": {
+    "lat": 39.71907,
+    "lng": 140.1055718,
+    "countryCode": "JP"
+  },
+  "Ehime": {
+    "lat": 33.6013646,
+    "lng": 132.8185275,
+    "countryCode": "JP"
+  },
+  "FC Gifu": {
+    "lat": 35.4230949,
+    "lng": 136.7627526,
+    "countryCode": "JP"
+  },
+  "FC Imabari": {
+    "lat": 34.0658182,
+    "lng": 132.9976758,
+    "countryCode": "JP"
+  },
+  "FC Osaka": {
+    "lat": 34.6937569,
+    "lng": 135.5014539,
+    "countryCode": "JP"
+  },
+  "FC Ryukyu": {
+    "lat": 26.3281924,
+    "lng": 127.8128586,
+    "countryCode": "JP"
+  },
+  "Fukuoka": {
+    "lat": 33.5904,
+    "lng": 130.4017,
+    "countryCode": "JP"
+  },
+  "Fukushima": {
+    "lat": 37.760777,
+    "lng": 140.4745807,
+    "countryCode": "JP"
+  },
+  "Hakodate": {
+    "lat": 41.768793,
+    "lng": 140.729008,
+    "countryCode": "JP"
+  },
+  "Hiratsuka": {
+    "lat": 35.3350609,
+    "lng": 139.3494345,
+    "countryCode": "JP"
+  },
+  "Hiroshima": {
+    "lat": 34.3853,
+    "lng": 132.4553,
+    "countryCode": "JP"
+  },
+  "Honda": {
+    "lat": 35.5470106,
+    "lng": 140.2138696,
+    "countryCode": "JP"
+  },
+  "Honda Suzuka": {
+    "lat": 34.8283757,
+    "lng": 136.5800886,
+    "countryCode": "JP"
+  },
+  "Iwaki": {
+    "lat": 37.0504227,
+    "lng": 140.8876338,
+    "countryCode": "JP"
+  },
+  "Iwamizawa": {
+    "lat": 43.1960638,
+    "lng": 141.7753595,
+    "countryCode": "JP"
+  },
+  "Iwate": {
+    "lat": 39.5713763,
+    "lng": 141.4253574,
+    "countryCode": "JP"
+  },
+  "Kashima": {
+    "lat": 35.9661164,
+    "lng": 140.6450292,
+    "countryCode": "JP"
+  },
+  "Kashiwa": {
+    "lat": 35.8676218,
+    "lng": 139.9756876,
+    "countryCode": "JP"
+  },
+  "Kawasaki": {
+    "lat": 35.5306639,
+    "lng": 139.7037668,
+    "countryCode": "JP"
+  },
+  "Kitami": {
+    "lat": 43.8029391,
+    "lng": 143.8946351,
+    "countryCode": "JP"
+  },
+  "Kobe": {
+    "lat": 34.6901,
+    "lng": 135.1955,
+    "countryCode": "JP"
+  },
+  "Kochi": {
+    "lat": 33.5588482,
+    "lng": 133.5310918,
+    "countryCode": "JP"
+  },
+  "Koriyama": {
+    "lat": 37.404937,
+    "lng": 140.333381,
+    "countryCode": "JP"
+  },
+  "Kushiro": {
+    "lat": 42.9849503,
+    "lng": 144.3820491,
+    "countryCode": "JP"
+  },
+  "Kyoto": {
+    "lat": 35.0115754,
+    "lng": 135.7681441,
+    "countryCode": "JP"
+  },
+  "Machida": {
+    "lat": 35.5466803,
+    "lng": 139.4386999,
+    "countryCode": "JP"
+  },
+  "Miyagi": {
+    "lat": 38.3880155,
+    "lng": 140.9761025,
+    "countryCode": "JP"
+  },
+  "Muroran": {
+    "lat": 42.3152461,
+    "lng": 140.9740731,
+    "countryCode": "JP"
+  },
+  "Nagoya": {
+    "lat": 35.1815,
+    "lng": 136.9066,
+    "countryCode": "JP"
+  },
+  "Nara Club": {
+    "lat": 34.6825317,
+    "lng": 135.756054,
+    "countryCode": "JP"
+  },
+  "Niigata": {
+    "lat": 37.6452283,
+    "lng": 138.7669125,
+    "countryCode": "JP"
+  },
+  "Nippon Sport Science University": {
+    "lat": 35.5613389,
+    "lng": 139.4989466,
+    "countryCode": "JP"
+  },
+  "Nippon Steel Yawata": {
+    "lat": 33.8808454,
+    "lng": 130.794038,
+    "countryCode": "JP"
+  },
+  "Obihiro": {
+    "lat": 42.923809,
+    "lng": 143.1966324,
+    "countryCode": "JP"
+  },
+  "Okinawa": {
+    "lat": 26.5707754,
+    "lng": 128.0255901,
+    "countryCode": "JP"
+  },
+  "Omiya Ardija": {
+    "lat": 35.9157662,
+    "lng": 139.6334927,
+    "countryCode": "JP"
+  },
+  "Osaka": {
+    "lat": 34.6937,
+    "lng": 135.5023,
+    "countryCode": "JP"
+  },
+  "Otaru": {
+    "lat": 43.1906806,
+    "lng": 140.9946021,
+    "countryCode": "JP"
+  },
+  "Renofa Yamaguchi": {
+    "lat": 34.1757682,
+    "lng": 131.4762433,
+    "countryCode": "JP"
+  },
+  "SC Sagamihara": {
+    "lat": 35.5714621,
+    "lng": 139.3731052,
+    "countryCode": "JP"
+  },
+  "Sagamihara": {
+    "lat": 35.5714621,
+    "lng": 139.3731052,
+    "countryCode": "JP"
+  },
+  "Saitama": {
+    "lat": 35.9754168,
+    "lng": 139.4160114,
+    "countryCode": "JP"
+  },
+  "Sapporo": {
+    "lat": 43.0618,
+    "lng": 141.3545,
+    "countryCode": "JP"
+  },
+  "Sendai University": {
+    "lat": 38.0512323,
+    "lng": 140.7712764,
+    "countryCode": "JP"
+  },
+  "Shizuoka": {
+    "lat": 34.9751974,
+    "lng": 138.3831697,
+    "countryCode": "JP"
+  },
+  "Tochigi": {
+    "lat": 36.6782167,
+    "lng": 139.8096549,
+    "countryCode": "JP"
+  },
+  "Tokyo": {
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "countryCode": "JP"
+  },
+  "Tokyo Musashino": {
+    "lat": 35.7170968,
+    "lng": 139.3798481,
+    "countryCode": "JP"
+  },
+  "Tomakomai": {
+    "lat": 42.6341039,
+    "lng": 141.6054899,
+    "countryCode": "JP"
+  },
+  "Vegalta Sendai": {
+    "lat": 38.3272705,
+    "lng": 140.9029201,
+    "countryCode": "JP"
+  },
+  "Wakkanai": {
+    "lat": 45.415737,
+    "lng": 141.6739836,
+    "countryCode": "JP"
+  },
+  "Yamagata Tendo": {
+    "lat": 38.335568,
+    "lng": 140.3774431,
+    "countryCode": "JP"
+  },
+  "Yokogawa Musashino": {
+    "lat": 35.7076366,
+    "lng": 139.561157,
+    "countryCode": "JP"
+  },
+  "Yokohama": {
+    "lat": 35.4437,
+    "lng": 139.638,
+    "countryCode": "JP"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Bratislava": {
+    "lat": 48.1486,
+    "lng": 17.1077,
+    "countryCode": "SK"
+  },
+  "Trnava": {
+    "lat": 48.3774,
+    "lng": 17.5872,
+    "countryCode": "SK"
+  },
+  "Zilina": {
+    "lat": 49.2235,
+    "lng": 18.7393,
+    "countryCode": "SK"
+  },
+  "Dunajska Streda": {
+    "lat": 47.9927,
+    "lng": 17.6121,
+    "countryCode": "SK"
+  },
+  "Ruzomberok": {
+    "lat": 49.0851,
+    "lng": 19.3048,
+    "countryCode": "SK"
+  },
+  "Kosice": {
+    "lat": 48.7164,
+    "lng": 21.2611,
+    "countryCode": "SK"
+  },
+  "Banska Bystrica": {
+    "lat": 48.7363,
+    "lng": 19.1462,
+    "countryCode": "SK"
+  },
+  "Trencin": {
+    "lat": 48.8945,
+    "lng": 18.0444,
+    "countryCode": "SK"
+  }
+}

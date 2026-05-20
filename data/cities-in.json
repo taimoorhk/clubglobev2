@@ -1,0 +1,207 @@
+{
+  "Aizawl": {
+    "lat": 23.7277631,
+    "lng": 92.7179947,
+    "countryCode": "IN"
+  },
+  "Bengaluru": {
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "countryCode": "IN"
+  },
+  "Chanmari": {
+    "lat": 23.7411071,
+    "lng": 92.7164883,
+    "countryCode": "IN"
+  },
+  "Chennai": {
+    "lat": 13.0827,
+    "lng": 80.2707,
+    "countryCode": "IN"
+  },
+  "Curtorim Gymkhana": {
+    "lat": 15.2893586,
+    "lng": 74.0235834,
+    "countryCode": "IN"
+  },
+  "Delhi": {
+    "lat": 28.7041,
+    "lng": 77.1025,
+    "countryCode": "IN"
+  },
+  "Dempo": {
+    "lat": 15.4961142,
+    "lng": 73.8346539,
+    "countryCode": "IN"
+  },
+  "Diamond Harbour": {
+    "lat": 22.1926886,
+    "lng": 88.1894879,
+    "countryCode": "IN"
+  },
+  "Duler Stadium": {
+    "lat": 15.5986435,
+    "lng": 73.8161086,
+    "countryCode": "IN"
+  },
+  "FC Bengaluru": {
+    "lat": 12.831461,
+    "lng": 77.7044443,
+    "countryCode": "IN"
+  },
+  "FC Goa": {
+    "lat": 28.0881033,
+    "lng": 93.3835385,
+    "countryCode": "IN"
+  },
+  "FC Kerala": {
+    "lat": 10.1340334,
+    "lng": 76.5904077,
+    "countryCode": "IN"
+  },
+  "FC Punjab": {
+    "lat": 30.8651799,
+    "lng": 74.7348447,
+    "countryCode": "IN"
+  },
+  "FC Rajasthan": {
+    "lat": 29.7643844,
+    "lng": 73.35887,
+    "countryCode": "IN"
+  },
+  "FC Sikkim": {
+    "lat": 27.3934858,
+    "lng": 88.6426467,
+    "countryCode": "IN"
+  },
+  "Garhwal": {
+    "lat": 30.25,
+    "lng": 79.333333,
+    "countryCode": "IN"
+  },
+  "Gokulam": {
+    "lat": 12.3260989,
+    "lng": 76.628297,
+    "countryCode": "IN"
+  },
+  "Gokulam Kerala": {
+    "lat": 11.271052,
+    "lng": 75.8108135,
+    "countryCode": "IN"
+  },
+  "Gokulam Kerala B": {
+    "lat": 10.0013526,
+    "lng": 76.3463164,
+    "countryCode": "IN"
+  },
+  "Guardian Angel": {
+    "lat": 15.2619334,
+    "lng": 74.1088929,
+    "countryCode": "IN"
+  },
+  "Hyderabad": {
+    "lat": 17.385,
+    "lng": 78.4867,
+    "countryCode": "IN"
+  },
+  "Inter Kashi": {
+    "lat": 25.3751939,
+    "lng": 82.9145306,
+    "countryCode": "IN"
+  },
+  "Jamshedpur": {
+    "lat": 22.8015194,
+    "lng": 86.2029579,
+    "countryCode": "IN"
+  },
+  "Kenkre": {
+    "lat": 15.594463,
+    "lng": 73.8102877,
+    "countryCode": "IN"
+  },
+  "Kochi": {
+    "lat": 9.9312,
+    "lng": 76.2673,
+    "countryCode": "IN"
+  },
+  "Kolkata": {
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "countryCode": "IN"
+  },
+  "Mohammedan": {
+    "lat": 22.5623736,
+    "lng": 88.3458609,
+    "countryCode": "IN"
+  },
+  "Mumbai": {
+    "lat": 19.076,
+    "lng": 72.8777,
+    "countryCode": "IN"
+  },
+  "Namdhari": {
+    "lat": 13.0046704,
+    "lng": 77.5784545,
+    "countryCode": "IN"
+  },
+  "NorthEast": {
+    "lat": 45.0071916,
+    "lng": -93.2471702,
+    "countryCode": "IN"
+  },
+  "Odisha": {
+    "lat": 20.5431241,
+    "lng": 84.6897321,
+    "countryCode": "IN"
+  },
+  "Punjab": {
+    "lat": 30.9293211,
+    "lng": 75.5004841,
+    "countryCode": "IN"
+  },
+  "Punjab FC B": {
+    "lat": 22.579402,
+    "lng": 88.4150931,
+    "countryCode": "IN"
+  },
+  "Rajasthan": {
+    "lat": 26.8105777,
+    "lng": 73.7684549,
+    "countryCode": "IN"
+  },
+  "Real Kashmir": {
+    "lat": 34.1234233,
+    "lng": 74.7950088,
+    "countryCode": "IN"
+  },
+  "Salgaocar": {
+    "lat": 15.3945882,
+    "lng": 73.8367713,
+    "countryCode": "IN"
+  },
+  "Tata Football Academy": {
+    "lat": 22.7999906,
+    "lng": 86.1769304,
+    "countryCode": "IN"
+  },
+  "United": {
+    "lat": 12.9912371,
+    "lng": 77.7841161,
+    "countryCode": "IN"
+  },
+  "United Sports Club": {
+    "lat": 11.8150894,
+    "lng": 75.4752225,
+    "countryCode": "IN"
+  },
+  "Vasco": {
+    "lat": 15.3984159,
+    "lng": 73.8128829,
+    "countryCode": "IN"
+  },
+  "Vasco da Gama": {
+    "lat": 15.3984159,
+    "lng": 73.8128829,
+    "countryCode": "IN"
+  }
+}

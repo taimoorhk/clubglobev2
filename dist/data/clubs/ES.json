@@ -1,0 +1,5504 @@
+[
+  {
+    "id": "es-ad-ceuta-fc",
+    "name": "AD Ceuta FC",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Ceuta",
+    "lat": 35.884361000000006,
+    "lng": -5.248138,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/357259.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 5,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T14:15:00Z",
+          "opponent": "Malaga",
+          "homeAway": "home",
+          "score": "1 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T12:00:00Z",
+          "opponent": "Castellon",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T14:15:00Z",
+          "opponent": "Sporting Gijon",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T19:00:00Z",
+          "opponent": "Racing Santander",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T14:15:00Z",
+          "opponent": "Real Zaragoza",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:30:00Z",
+          "opponent": "Real Sociedad B",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T12:00:00Z",
+          "opponent": "Eibar",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-01T18:00:00Z",
+          "opponent": "Burgos CF",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-28T13:00:00Z",
+          "opponent": "Cadiz",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:00:00Z",
+          "opponent": "Leganes",
+          "homeAway": "away",
+          "score": "5 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-albacete",
+    "name": "Albacete",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Albacete",
+    "lat": 38.9230921,
+    "lng": -1.8679154,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8393.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 2,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T19:00:00Z",
+          "opponent": "Cordoba",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T14:15:00Z",
+          "opponent": "Cultural Leonesa",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T14:15:00Z",
+          "opponent": "FC Andorra",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:30:00Z",
+          "opponent": "Eibar",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T16:30:00Z",
+          "opponent": "Granada",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T14:15:00Z",
+          "opponent": "Leganes",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T14:15:00Z",
+          "opponent": "Burgos CF",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-31T17:00:00Z",
+          "opponent": "CD Mirandes",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-28T20:00:00Z",
+          "opponent": "Castellon",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T15:15:00Z",
+          "opponent": "Racing Santander",
+          "homeAway": "away",
+          "score": "0 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-almeria",
+    "name": "Almeria",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Almeria",
+    "lat": 36.7965739,
+    "lng": -2.3240282,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9865.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 1,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T16:30:00Z",
+          "opponent": "Las Palmas",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T14:15:00Z",
+          "opponent": "Burgos CF",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T18:30:00Z",
+          "opponent": "CD Mirandes",
+          "homeAway": "home",
+          "score": "4 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T14:15:00Z",
+          "opponent": "Granada",
+          "homeAway": "away",
+          "score": "2 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T19:00:00Z",
+          "opponent": "Malaga",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T19:00:00Z",
+          "opponent": "Racing Santander",
+          "homeAway": "away",
+          "score": "5 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T16:30:00Z",
+          "opponent": "Leganes",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-02T18:00:00Z",
+          "opponent": "Castellon",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-29T19:00:00Z",
+          "opponent": "Real Sociedad B",
+          "homeAway": "home",
+          "score": "5 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:30:00Z",
+          "opponent": "SD Huesca",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-athletic-bilbao",
+    "name": "Athletic Bilbao",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Bilbao",
+    "lat": 43.2642,
+    "lng": -2.9491,
+    "divisionTier": 1,
+    "leagueId": "4335",
+    "leagueName": "Spanish La Liga",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "seed",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-athletic-club",
+    "name": "Athletic Club",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Bilbao",
+    "lat": 43.2642,
+    "lng": -2.9491,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 1,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Celta Vigo",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T17:00:00Z",
+          "opponent": "Espanyol",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T14:15:00Z",
+          "opponent": "Valencia",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T16:30:00Z",
+          "opponent": "Deportivo Alaves",
+          "homeAway": "away",
+          "score": "2 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T19:00:00Z",
+          "opponent": "Atletico Madrid",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-21T17:00:00Z",
+          "opponent": "Osasuna",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T19:00:00Z",
+          "opponent": "Villarreal",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T12:00:00Z",
+          "opponent": "Getafe",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:30:00Z",
+          "opponent": "Real Betis",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:00:00Z",
+          "opponent": "Girona",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-atletico-madrid",
+    "name": "Atletico Madrid",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Madrid",
+    "lat": 40.4362,
+    "lng": -3.5995,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 0,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Girona",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-12T19:30:00Z",
+          "opponent": "Osasuna",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T16:30:00Z",
+          "opponent": "Celta Vigo",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T14:15:00Z",
+          "opponent": "Valencia",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T19:00:00Z",
+          "opponent": "Athletic Club",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T17:00:00Z",
+          "opponent": "Elche",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T19:00:00Z",
+          "opponent": "Sevilla",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T19:00:00Z",
+          "opponent": "Barcelona",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T20:00:00Z",
+          "opponent": "Real Madrid",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T15:15:00Z",
+          "opponent": "Getafe",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-atl-tico-madrid",
+    "name": "Atlético Madrid",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Madrid",
+    "lat": 40.4362,
+    "lng": -3.5995,
+    "divisionTier": 1,
+    "leagueId": "4335",
+    "leagueName": "Spanish La Liga",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "seed",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-audace-cerignola",
+    "name": "Audace Cerignola",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Audace Cerignola",
+    "lat": 40.324,
+    "lng": -3.716,
+    "divisionTier": 3,
+    "leagueId": "141",
+    "leagueName": "Primera Federación",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/867620.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 1,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2025-08-18T16:00:00Z",
+          "opponent": "Hellas Verona",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "Pen"
+        },
+        {
+          "date": "2025-08-10T18:30:00Z",
+          "opponent": "Avellino",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-barcelona",
+    "name": "Barcelona",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Barcelona",
+    "lat": 41.3809,
+    "lng": 2.1228,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 9,
+      "draws": 0,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:15:00Z",
+          "opponent": "Real Betis",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T19:30:00Z",
+          "opponent": "Deportivo Alaves",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "Real Madrid",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T19:00:00Z",
+          "opponent": "Osasuna",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T14:15:00Z",
+          "opponent": "Getafe",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T19:30:00Z",
+          "opponent": "Celta Vigo",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T16:30:00Z",
+          "opponent": "Espanyol",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T19:00:00Z",
+          "opponent": "Atletico Madrid",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T13:00:00Z",
+          "opponent": "Rayo Vallecano",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T15:15:00Z",
+          "opponent": "Sevilla",
+          "homeAway": "home",
+          "score": "5 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-burgos-cf",
+    "name": "Burgos CF",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Burgos",
+    "lat": 42.3568498,
+    "lng": -3.6092477,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7876.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 4,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T16:30:00Z",
+          "opponent": "Granada",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T14:15:00Z",
+          "opponent": "Almeria",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T16:30:00Z",
+          "opponent": "Real Sociedad B",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T16:30:00Z",
+          "opponent": "Deportivo La Coruña",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T16:30:00Z",
+          "opponent": "Castellon",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T14:15:00Z",
+          "opponent": "Sporting Gijon",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T14:15:00Z",
+          "opponent": "Albacete",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-01T18:00:00Z",
+          "opponent": "AD Ceuta FC",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-28T15:15:00Z",
+          "opponent": "Real Valladolid",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T13:00:00Z",
+          "opponent": "Cordoba",
+          "homeAway": "home",
+          "score": "4 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-cadiz",
+    "name": "Cadiz",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Cadiz",
+    "lat": 36.5577438,
+    "lng": -6.3688975999999995,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8385.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 2,
+      "losses": 8,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T18:30:00Z",
+          "opponent": "Castellon",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T18:30:00Z",
+          "opponent": "Deportivo La Coruña",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T14:15:00Z",
+          "opponent": "Cultural Leonesa",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-27T18:30:00Z",
+          "opponent": "Las Palmas",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T14:15:00Z",
+          "opponent": "Sporting Gijon",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T16:30:00Z",
+          "opponent": "FC Andorra",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T12:00:00Z",
+          "opponent": "Cordoba",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-31T19:30:00Z",
+          "opponent": "Real Valladolid",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-28T13:00:00Z",
+          "opponent": "AD Ceuta FC",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T17:30:00Z",
+          "opponent": "Malaga",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-castellon",
+    "name": "Castellon",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Castellon",
+    "lat": 40.2718568,
+    "lng": 0.0184948,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10279.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 5,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T18:30:00Z",
+          "opponent": "Cadiz",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T12:00:00Z",
+          "opponent": "AD Ceuta FC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T16:30:00Z",
+          "opponent": "Cordoba",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T19:00:00Z",
+          "opponent": "Malaga",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T16:30:00Z",
+          "opponent": "Burgos CF",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T16:30:00Z",
+          "opponent": "CD Mirandes",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T17:00:00Z",
+          "opponent": "Granada",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-02T18:00:00Z",
+          "opponent": "Almeria",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-28T20:00:00Z",
+          "opponent": "Albacete",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-23T19:30:00Z",
+          "opponent": "Cultural Leonesa",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-catanzaro",
+    "name": "Catanzaro",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Catanzaro",
+    "lat": 40.339999999999996,
+    "lng": -3.7,
+    "divisionTier": 3,
+    "leagueId": "141",
+    "leagueName": "Primera Federación",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10168.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2025-08-15T16:30:00Z",
+          "opponent": "Sassuolo",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-cd-mirandes",
+    "name": "CD Mirandes",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Mirandes",
+    "lat": 40.787646099999996,
+    "lng": 0.22097250000000002,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4032.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 4,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T12:00:00Z",
+          "opponent": "Real Sociedad B",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T16:30:00Z",
+          "opponent": "Eibar",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T18:30:00Z",
+          "opponent": "Almeria",
+          "homeAway": "away",
+          "score": "4 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T14:15:00Z",
+          "opponent": "Cultural Leonesa",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-20T18:30:00Z",
+          "opponent": "Deportivo La Coruña",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T16:30:00Z",
+          "opponent": "Castellon",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T19:00:00Z",
+          "opponent": "Real Zaragoza",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-31T17:00:00Z",
+          "opponent": "Albacete",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-27T18:00:00Z",
+          "opponent": "Cordoba",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T15:15:00Z",
+          "opponent": "Real Valladolid",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-celta-vigo",
+    "name": "Celta Vigo",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Vigo",
+    "lat": 42.1746395,
+    "lng": -8.691956000000001,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9910.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 2,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Athletic Club",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-12T17:00:00Z",
+          "opponent": "Levante",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T16:30:00Z",
+          "opponent": "Atletico Madrid",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T12:00:00Z",
+          "opponent": "Elche",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T19:00:00Z",
+          "opponent": "Villarreal",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T19:30:00Z",
+          "opponent": "Barcelona",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T16:30:00Z",
+          "opponent": "Real Oviedo",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T14:15:00Z",
+          "opponent": "Valencia",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T15:15:00Z",
+          "opponent": "Deportivo Alaves",
+          "homeAway": "home",
+          "score": "3 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T17:30:00Z",
+          "opponent": "Real Betis",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-cordoba",
+    "name": "Cordoba",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Cordoba",
+    "lat": 37.8965813,
+    "lng": -4.7040138,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7869.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 1,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T19:00:00Z",
+          "opponent": "Albacete",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T16:30:00Z",
+          "opponent": "Granada",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T16:30:00Z",
+          "opponent": "Castellon",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T12:00:00Z",
+          "opponent": "Sporting Gijon",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T16:30:00Z",
+          "opponent": "Cultural Leonesa",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T19:00:00Z",
+          "opponent": "Real Zaragoza",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T12:00:00Z",
+          "opponent": "Cadiz",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-31T18:00:00Z",
+          "opponent": "Deportivo La Coruña",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-27T18:00:00Z",
+          "opponent": "CD Mirandes",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T13:00:00Z",
+          "opponent": "Burgos CF",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-cultural-leonesa",
+    "name": "Cultural Leonesa",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "León",
+    "lat": 42.6541451,
+    "lng": -5.8914151,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1753.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 3,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T14:15:00Z",
+          "opponent": "Eibar",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T14:15:00Z",
+          "opponent": "Albacete",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T14:15:00Z",
+          "opponent": "Cadiz",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T14:15:00Z",
+          "opponent": "CD Mirandes",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T16:30:00Z",
+          "opponent": "Cordoba",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T12:00:00Z",
+          "opponent": "Granada",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T16:30:00Z",
+          "opponent": "Real Valladolid",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-01T18:00:00Z",
+          "opponent": "SD Huesca",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-29T14:15:00Z",
+          "opponent": "FC Andorra",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-23T19:30:00Z",
+          "opponent": "Castellon",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-deportivo-alaves",
+    "name": "Deportivo Alaves",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Alaves",
+    "lat": 42.3207003,
+    "lng": -0.3852675,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9866.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 4,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Real Oviedo",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T19:30:00Z",
+          "opponent": "Barcelona",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T12:00:00Z",
+          "opponent": "Elche",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T16:30:00Z",
+          "opponent": "Athletic Club",
+          "homeAway": "home",
+          "score": "2 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T12:00:00Z",
+          "opponent": "Mallorca",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-21T19:30:00Z",
+          "opponent": "Real Madrid",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T12:00:00Z",
+          "opponent": "Real Sociedad",
+          "homeAway": "away",
+          "score": "3 - 3",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T19:00:00Z",
+          "opponent": "Osasuna",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T15:15:00Z",
+          "opponent": "Celta Vigo",
+          "homeAway": "away",
+          "score": "3 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T20:00:00Z",
+          "opponent": "Villarreal",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-deportivo-la-coru-a",
+    "name": "Deportivo La Coruña",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "La Coruña",
+    "lat": 43.2866447,
+    "lng": -8.4127029,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9783.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 4,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T12:00:00Z",
+          "opponent": "FC Andorra",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T18:30:00Z",
+          "opponent": "Cadiz",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T16:30:00Z",
+          "opponent": "Leganes",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T16:30:00Z",
+          "opponent": "Burgos CF",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-20T18:30:00Z",
+          "opponent": "CD Mirandes",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T14:15:00Z",
+          "opponent": "SD Huesca",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T16:30:00Z",
+          "opponent": "Malaga",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-31T18:00:00Z",
+          "opponent": "Cordoba",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-28T20:00:00Z",
+          "opponent": "Sporting Gijon",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T20:00:00Z",
+          "opponent": "Real Zaragoza",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-eibar",
+    "name": "Eibar",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Eibar",
+    "lat": 43.2042839,
+    "lng": -2.3932748,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8372.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 7,
+      "draws": 1,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T14:15:00Z",
+          "opponent": "Cultural Leonesa",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T16:30:00Z",
+          "opponent": "CD Mirandes",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T19:00:00Z",
+          "opponent": "Malaga",
+          "homeAway": "home",
+          "score": "2 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:30:00Z",
+          "opponent": "Albacete",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T16:30:00Z",
+          "opponent": "SD Huesca",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-13T18:30:00Z",
+          "opponent": "Real Valladolid",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T12:00:00Z",
+          "opponent": "AD Ceuta FC",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-02T18:00:00Z",
+          "opponent": "Real Sociedad B",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-29T12:00:00Z",
+          "opponent": "Las Palmas",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T15:15:00Z",
+          "opponent": "FC Andorra",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-elche",
+    "name": "Elche",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Elche",
+    "lat": 38.3053307,
+    "lng": -0.7628391000000001,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 1,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Getafe",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-12T18:00:00Z",
+          "opponent": "Real Betis",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T12:00:00Z",
+          "opponent": "Deportivo Alaves",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T12:00:00Z",
+          "opponent": "Celta Vigo",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T14:15:00Z",
+          "opponent": "Real Oviedo",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T17:00:00Z",
+          "opponent": "Atletico Madrid",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T14:15:00Z",
+          "opponent": "Valencia",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T19:00:00Z",
+          "opponent": "Rayo Vallecano",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:00:00Z",
+          "opponent": "Mallorca",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T20:00:00Z",
+          "opponent": "Real Madrid",
+          "homeAway": "away",
+          "score": "4 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-espanyol",
+    "name": "Espanyol",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Barcelona",
+    "lat": 41.3809,
+    "lng": 2.1228,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8558.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 2,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Osasuna",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T17:00:00Z",
+          "opponent": "Athletic Club",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T14:15:00Z",
+          "opponent": "Sevilla",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T19:00:00Z",
+          "opponent": "Real Madrid",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-27T19:00:00Z",
+          "opponent": "Levante",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T18:00:00Z",
+          "opponent": "Rayo Vallecano",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T16:30:00Z",
+          "opponent": "Barcelona",
+          "homeAway": "away",
+          "score": "4 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T16:30:00Z",
+          "opponent": "Real Betis",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T15:15:00Z",
+          "opponent": "Getafe",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T13:00:00Z",
+          "opponent": "Mallorca",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-fc-andorra",
+    "name": "FC Andorra",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "FC Andorra",
+    "lat": 41.055336499999996,
+    "lng": -0.46827820000000003,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/494050.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 1,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T12:00:00Z",
+          "opponent": "Deportivo La Coruña",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T12:00:00Z",
+          "opponent": "Las Palmas",
+          "homeAway": "home",
+          "score": "5 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T14:15:00Z",
+          "opponent": "Albacete",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T16:30:00Z",
+          "opponent": "Leganes",
+          "homeAway": "away",
+          "score": "0 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T12:00:00Z",
+          "opponent": "Real Valladolid",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T16:30:00Z",
+          "opponent": "Cadiz",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T14:15:00Z",
+          "opponent": "Racing Santander",
+          "homeAway": "home",
+          "score": "6 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-01T17:00:00Z",
+          "opponent": "Malaga",
+          "homeAway": "home",
+          "score": "3 - 3",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-29T14:15:00Z",
+          "opponent": "Cultural Leonesa",
+          "homeAway": "away",
+          "score": "0 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T15:15:00Z",
+          "opponent": "Eibar",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-getafe",
+    "name": "Getafe",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Getafe",
+    "lat": 40.3258,
+    "lng": -3.7146,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 1,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Elche",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T19:30:00Z",
+          "opponent": "Mallorca",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T16:30:00Z",
+          "opponent": "Real Oviedo",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T14:15:00Z",
+          "opponent": "Rayo Vallecano",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T14:15:00Z",
+          "opponent": "Barcelona",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T18:00:00Z",
+          "opponent": "Real Sociedad",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-13T19:00:00Z",
+          "opponent": "Levante",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T12:00:00Z",
+          "opponent": "Athletic Club",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T15:15:00Z",
+          "opponent": "Espanyol",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T15:15:00Z",
+          "opponent": "Atletico Madrid",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-girona",
+    "name": "Girona",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Girona",
+    "lat": 41.9794,
+    "lng": 2.8214,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7732.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 3,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Atletico Madrid",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-14T18:00:00Z",
+          "opponent": "Real Sociedad",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T19:00:00Z",
+          "opponent": "Rayo Vallecano",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T19:00:00Z",
+          "opponent": "Mallorca",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T16:30:00Z",
+          "opponent": "Valencia",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-21T19:30:00Z",
+          "opponent": "Real Betis",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T19:00:00Z",
+          "opponent": "Real Madrid",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T19:00:00Z",
+          "opponent": "Villarreal",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T17:30:00Z",
+          "opponent": "Osasuna",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:00:00Z",
+          "opponent": "Athletic Club",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-granada",
+    "name": "Granada",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Granada",
+    "lat": 37.165499499999996,
+    "lng": -3.5475337,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7878.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T16:30:00Z",
+          "opponent": "Burgos CF",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T16:30:00Z",
+          "opponent": "Cordoba",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T19:00:00Z",
+          "opponent": "Real Zaragoza",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T14:15:00Z",
+          "opponent": "Almeria",
+          "homeAway": "home",
+          "score": "2 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T16:30:00Z",
+          "opponent": "Albacete",
+          "homeAway": "away",
+          "score": "4 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T12:00:00Z",
+          "opponent": "Cultural Leonesa",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T17:00:00Z",
+          "opponent": "Castellon",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-02T17:00:00Z",
+          "opponent": "Las Palmas",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-28T15:15:00Z",
+          "opponent": "SD Huesca",
+          "homeAway": "home",
+          "score": "4 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T15:15:00Z",
+          "opponent": "Real Sociedad B",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-juve-stabia",
+    "name": "Juve Stabia",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Juve Stabia",
+    "lat": 40.476,
+    "lng": -3.728,
+    "divisionTier": 3,
+    "leagueId": "141",
+    "leagueName": "Primera Federación",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6106.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2025-08-15T18:45:00Z",
+          "opponent": "Lecce",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-las-palmas",
+    "name": "Las Palmas",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Las Palmas",
+    "lat": 28.1004,
+    "lng": -15.4562,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8306.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 7,
+      "draws": 0,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T16:30:00Z",
+          "opponent": "Almeria",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T12:00:00Z",
+          "opponent": "FC Andorra",
+          "homeAway": "away",
+          "score": "5 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T19:00:00Z",
+          "opponent": "Real Valladolid",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-27T18:30:00Z",
+          "opponent": "Cadiz",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T19:00:00Z",
+          "opponent": "Leganes",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T16:30:00Z",
+          "opponent": "Malaga",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T16:30:00Z",
+          "opponent": "SD Huesca",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-02T17:00:00Z",
+          "opponent": "Granada",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-29T12:00:00Z",
+          "opponent": "Eibar",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:30:00Z",
+          "opponent": "Sporting Gijon",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-leganes",
+    "name": "Leganes",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Leganés",
+    "lat": 40.3561942,
+    "lng": -3.84127,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7854.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 3,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-18T18:30:00Z",
+          "opponent": "SD Huesca",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T14:15:00Z",
+          "opponent": "Racing Santander",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T16:30:00Z",
+          "opponent": "Deportivo La Coruña",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T16:30:00Z",
+          "opponent": "FC Andorra",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T19:00:00Z",
+          "opponent": "Las Palmas",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T14:15:00Z",
+          "opponent": "Albacete",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T16:30:00Z",
+          "opponent": "Almeria",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-02T19:30:00Z",
+          "opponent": "Real Zaragoza",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-28T17:30:00Z",
+          "opponent": "Malaga",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:00:00Z",
+          "opponent": "AD Ceuta FC",
+          "homeAway": "home",
+          "score": "5 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-levante",
+    "name": "Levante",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Levante",
+    "lat": 38.6173115,
+    "lng": -0.8946377999999999,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8581.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 2,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Mallorca",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-12T17:00:00Z",
+          "opponent": "Celta Vigo",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T19:00:00Z",
+          "opponent": "Osasuna",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T12:00:00Z",
+          "opponent": "Villarreal",
+          "homeAway": "away",
+          "score": "5 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-27T19:00:00Z",
+          "opponent": "Espanyol",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T17:00:00Z",
+          "opponent": "Sevilla",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-13T19:00:00Z",
+          "opponent": "Getafe",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T12:00:00Z",
+          "opponent": "Real Sociedad",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T17:30:00Z",
+          "opponent": "Real Oviedo",
+          "homeAway": "home",
+          "score": "4 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-16T20:00:00Z",
+          "opponent": "Rayo Vallecano",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-lr-vicenza",
+    "name": "LR Vicenza",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "LR Vicenza",
+    "lat": 40.428,
+    "lng": -3.7760000000000002,
+    "divisionTier": 3,
+    "leagueId": "141",
+    "leagueName": "Primera Federación",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/145007.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2025-08-15T19:15:00Z",
+          "opponent": "Genoa",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2025-08-10T17:30:00Z",
+          "opponent": "Padova",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-malaga",
+    "name": "Malaga",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Malaga",
+    "lat": 36.7327913,
+    "lng": -4.414200500000001,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9864.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 3,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T14:15:00Z",
+          "opponent": "AD Ceuta FC",
+          "homeAway": "away",
+          "score": "1 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T19:00:00Z",
+          "opponent": "Sporting Gijon",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T19:00:00Z",
+          "opponent": "Eibar",
+          "homeAway": "away",
+          "score": "2 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T19:00:00Z",
+          "opponent": "Castellon",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T19:00:00Z",
+          "opponent": "Almeria",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T16:30:00Z",
+          "opponent": "Las Palmas",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T16:30:00Z",
+          "opponent": "Deportivo La Coruña",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-01T17:00:00Z",
+          "opponent": "FC Andorra",
+          "homeAway": "away",
+          "score": "3 - 3",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-28T17:30:00Z",
+          "opponent": "Leganes",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T17:30:00Z",
+          "opponent": "Cadiz",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-mallorca",
+    "name": "Mallorca",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Mallorca",
+    "lat": 39.589432,
+    "lng": 2.9189185,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8661.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 2,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Levante",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T19:30:00Z",
+          "opponent": "Getafe",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T12:00:00Z",
+          "opponent": "Villarreal",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T19:00:00Z",
+          "opponent": "Girona",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T12:00:00Z",
+          "opponent": "Deportivo Alaves",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-21T17:00:00Z",
+          "opponent": "Valencia",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T14:15:00Z",
+          "opponent": "Rayo Vallecano",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T14:15:00Z",
+          "opponent": "Real Madrid",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:00:00Z",
+          "opponent": "Elche",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T13:00:00Z",
+          "opponent": "Espanyol",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-osasuna",
+    "name": "Osasuna",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Pamplona",
+    "lat": 42.7965,
+    "lng": -1.6371,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 2,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Espanyol",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-12T19:30:00Z",
+          "opponent": "Atletico Madrid",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T19:00:00Z",
+          "opponent": "Levante",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T19:00:00Z",
+          "opponent": "Barcelona",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T16:30:00Z",
+          "opponent": "Sevilla",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-21T17:00:00Z",
+          "opponent": "Athletic Club",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T12:00:00Z",
+          "opponent": "Real Betis",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T19:00:00Z",
+          "opponent": "Deportivo Alaves",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T17:30:00Z",
+          "opponent": "Girona",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T20:00:00Z",
+          "opponent": "Real Sociedad",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-racing-santander",
+    "name": "Racing Santander",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Santander",
+    "lat": 43.4178932,
+    "lng": -3.7940255,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8696.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 1,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T16:30:00Z",
+          "opponent": "Real Valladolid",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T14:15:00Z",
+          "opponent": "Leganes",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T12:00:00Z",
+          "opponent": "SD Huesca",
+          "homeAway": "home",
+          "score": "4 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T19:00:00Z",
+          "opponent": "AD Ceuta FC",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:30:00Z",
+          "opponent": "Real Sociedad B",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T19:00:00Z",
+          "opponent": "Almeria",
+          "homeAway": "home",
+          "score": "5 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T14:15:00Z",
+          "opponent": "FC Andorra",
+          "homeAway": "away",
+          "score": "6 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-01T19:30:00Z",
+          "opponent": "Sporting Gijon",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-29T16:30:00Z",
+          "opponent": "Real Zaragoza",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T15:15:00Z",
+          "opponent": "Albacete",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-rayo-vallecano",
+    "name": "Rayo Vallecano",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Madrid",
+    "lat": 40.3918,
+    "lng": -3.6586,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 4,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Villarreal",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-14T17:00:00Z",
+          "opponent": "Valencia",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T19:00:00Z",
+          "opponent": "Girona",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T14:15:00Z",
+          "opponent": "Getafe",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T12:00:00Z",
+          "opponent": "Real Sociedad",
+          "homeAway": "home",
+          "score": "3 - 3",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T18:00:00Z",
+          "opponent": "Espanyol",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T14:15:00Z",
+          "opponent": "Mallorca",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T19:00:00Z",
+          "opponent": "Elche",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T13:00:00Z",
+          "opponent": "Barcelona",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-16T20:00:00Z",
+          "opponent": "Levante",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-real-betis",
+    "name": "Real Betis",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Seville",
+    "lat": 37.4411,
+    "lng": -6.036499999999999,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 5,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:15:00Z",
+          "opponent": "Barcelona",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-12T18:00:00Z",
+          "opponent": "Elche",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T19:00:00Z",
+          "opponent": "Real Sociedad",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T16:30:00Z",
+          "opponent": "Real Oviedo",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T19:00:00Z",
+          "opponent": "Real Madrid",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-21T19:30:00Z",
+          "opponent": "Girona",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T12:00:00Z",
+          "opponent": "Osasuna",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T16:30:00Z",
+          "opponent": "Espanyol",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:30:00Z",
+          "opponent": "Athletic Club",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T17:30:00Z",
+          "opponent": "Celta Vigo",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-real-madrid",
+    "name": "Real Madrid",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Madrid",
+    "lat": 40.4531,
+    "lng": -3.6883,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 2,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Sevilla",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-14T19:30:00Z",
+          "opponent": "Real Oviedo",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T19:00:00Z",
+          "opponent": "Barcelona",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T19:00:00Z",
+          "opponent": "Espanyol",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T19:00:00Z",
+          "opponent": "Real Betis",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-21T19:30:00Z",
+          "opponent": "Deportivo Alaves",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T19:00:00Z",
+          "opponent": "Girona",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T14:15:00Z",
+          "opponent": "Mallorca",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T20:00:00Z",
+          "opponent": "Atletico Madrid",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T20:00:00Z",
+          "opponent": "Elche",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-real-oviedo",
+    "name": "Real Oviedo",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Oviedo",
+    "lat": 43.3613452,
+    "lng": -5.8115096,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8670.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 2,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Deportivo Alaves",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-14T19:30:00Z",
+          "opponent": "Real Madrid",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T16:30:00Z",
+          "opponent": "Getafe",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T16:30:00Z",
+          "opponent": "Real Betis",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T14:15:00Z",
+          "opponent": "Elche",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T19:30:00Z",
+          "opponent": "Villarreal",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T16:30:00Z",
+          "opponent": "Celta Vigo",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T16:30:00Z",
+          "opponent": "Sevilla",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T17:30:00Z",
+          "opponent": "Levante",
+          "homeAway": "away",
+          "score": "4 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T17:30:00Z",
+          "opponent": "Valencia",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-real-sociedad",
+    "name": "Real Sociedad",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "San Sebastián",
+    "lat": 43.3014,
+    "lng": -1.9737,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 4,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Valencia",
+          "homeAway": "home",
+          "score": "3 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-14T18:00:00Z",
+          "opponent": "Girona",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T19:00:00Z",
+          "opponent": "Real Betis",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T19:00:00Z",
+          "opponent": "Sevilla",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T12:00:00Z",
+          "opponent": "Rayo Vallecano",
+          "homeAway": "away",
+          "score": "3 - 3",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T18:00:00Z",
+          "opponent": "Getafe",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T12:00:00Z",
+          "opponent": "Deportivo Alaves",
+          "homeAway": "home",
+          "score": "3 - 3",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T12:00:00Z",
+          "opponent": "Levante",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T20:00:00Z",
+          "opponent": "Villarreal",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T20:00:00Z",
+          "opponent": "Osasuna",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-real-sociedad-b",
+    "name": "Real Sociedad B",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Sociedad B",
+    "lat": 43.2678904,
+    "lng": -1.9542817,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/161744.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 3,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T12:00:00Z",
+          "opponent": "CD Mirandes",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T18:30:00Z",
+          "opponent": "SD Huesca",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T16:30:00Z",
+          "opponent": "Burgos CF",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T14:15:00Z",
+          "opponent": "Real Valladolid",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:30:00Z",
+          "opponent": "Racing Santander",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:30:00Z",
+          "opponent": "AD Ceuta FC",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T18:30:00Z",
+          "opponent": "Sporting Gijon",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-02T18:00:00Z",
+          "opponent": "Eibar",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-29T19:00:00Z",
+          "opponent": "Almeria",
+          "homeAway": "away",
+          "score": "5 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T15:15:00Z",
+          "opponent": "Granada",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-real-valladolid",
+    "name": "Real Valladolid",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Valladolid",
+    "lat": 41.5680024,
+    "lng": -4.7179906,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10281.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 1,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T16:30:00Z",
+          "opponent": "Racing Santander",
+          "homeAway": "away",
+          "score": "4 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T16:30:00Z",
+          "opponent": "Real Zaragoza",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T19:00:00Z",
+          "opponent": "Las Palmas",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T14:15:00Z",
+          "opponent": "Real Sociedad B",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T12:00:00Z",
+          "opponent": "FC Andorra",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-13T18:30:00Z",
+          "opponent": "Eibar",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T16:30:00Z",
+          "opponent": "Cultural Leonesa",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-31T19:30:00Z",
+          "opponent": "Cadiz",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-28T15:15:00Z",
+          "opponent": "Burgos CF",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T15:15:00Z",
+          "opponent": "CD Mirandes",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-real-zaragoza",
+    "name": "Real Zaragoza",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Zaragoza",
+    "lat": 41.723584699999996,
+    "lng": -0.9821268000000001,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8394.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 2,
+      "losses": 7,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:15:00Z",
+          "opponent": "Sporting Gijon",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T16:30:00Z",
+          "opponent": "Real Valladolid",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T19:00:00Z",
+          "opponent": "Granada",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T16:30:00Z",
+          "opponent": "SD Huesca",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T14:15:00Z",
+          "opponent": "AD Ceuta FC",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T19:00:00Z",
+          "opponent": "Cordoba",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T19:00:00Z",
+          "opponent": "CD Mirandes",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-02T19:30:00Z",
+          "opponent": "Leganes",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-29T16:30:00Z",
+          "opponent": "Racing Santander",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T20:00:00Z",
+          "opponent": "Deportivo La Coruña",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-rimini",
+    "name": "Rimini",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Rimini",
+    "lat": 40.5059302,
+    "lng": -3.7402901,
+    "divisionTier": 3,
+    "leagueId": "141",
+    "leagueName": "Primera Federación",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9886.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2025-08-10T18:30:00Z",
+          "opponent": "Pescara",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-sd-huesca",
+    "name": "SD Huesca",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Huesca",
+    "lat": 42.204061499999995,
+    "lng": -0.0658027,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/96925.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 3,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-18T18:30:00Z",
+          "opponent": "Leganes",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T18:30:00Z",
+          "opponent": "Real Sociedad B",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T12:00:00Z",
+          "opponent": "Racing Santander",
+          "homeAway": "away",
+          "score": "4 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T16:30:00Z",
+          "opponent": "Real Zaragoza",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T16:30:00Z",
+          "opponent": "Eibar",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T14:15:00Z",
+          "opponent": "Deportivo La Coruña",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T16:30:00Z",
+          "opponent": "Las Palmas",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-01T18:00:00Z",
+          "opponent": "Cultural Leonesa",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-28T15:15:00Z",
+          "opponent": "Granada",
+          "homeAway": "away",
+          "score": "4 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:30:00Z",
+          "opponent": "Almeria",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-sevilla",
+    "name": "Sevilla",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Seville",
+    "lat": 37.384,
+    "lng": -5.9707,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 0,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Real Madrid",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T17:00:00Z",
+          "opponent": "Villarreal",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T14:15:00Z",
+          "opponent": "Espanyol",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T19:00:00Z",
+          "opponent": "Real Sociedad",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T16:30:00Z",
+          "opponent": "Osasuna",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T17:00:00Z",
+          "opponent": "Levante",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T19:00:00Z",
+          "opponent": "Atletico Madrid",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T16:30:00Z",
+          "opponent": "Real Oviedo",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T20:00:00Z",
+          "opponent": "Valencia",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T15:15:00Z",
+          "opponent": "Barcelona",
+          "homeAway": "away",
+          "score": "5 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-sporting-gijon",
+    "name": "Sporting Gijon",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Gijon",
+    "lat": 43.564942200000004,
+    "lng": -5.58275,
+    "divisionTier": 2,
+    "leagueId": "140",
+    "leagueName": "LaLiga2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9869.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 1,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T19:15:00Z",
+          "opponent": "Real Zaragoza",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T19:00:00Z",
+          "opponent": "Malaga",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T14:15:00Z",
+          "opponent": "AD Ceuta FC",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T12:00:00Z",
+          "opponent": "Cordoba",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T14:15:00Z",
+          "opponent": "Cadiz",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T14:15:00Z",
+          "opponent": "Burgos CF",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T18:30:00Z",
+          "opponent": "Real Sociedad B",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-01T19:30:00Z",
+          "opponent": "Racing Santander",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-28T20:00:00Z",
+          "opponent": "Deportivo La Coruña",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T17:30:00Z",
+          "opponent": "Las Palmas",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-ternana",
+    "name": "Ternana",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Ternana",
+    "lat": 42.26459,
+    "lng": -2.0177391,
+    "divisionTier": 3,
+    "leagueId": "141",
+    "leagueName": "Primera Federación",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6457.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2025-08-09T18:30:00Z",
+          "opponent": "Virtus Entella",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-valencia",
+    "name": "Valencia",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Valencia",
+    "lat": 39.4745,
+    "lng": -0.3582,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 2,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Real Sociedad",
+          "homeAway": "away",
+          "score": "3 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-14T17:00:00Z",
+          "opponent": "Rayo Vallecano",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T14:15:00Z",
+          "opponent": "Athletic Club",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T14:15:00Z",
+          "opponent": "Atletico Madrid",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T16:30:00Z",
+          "opponent": "Girona",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-21T17:00:00Z",
+          "opponent": "Mallorca",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T14:15:00Z",
+          "opponent": "Elche",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T14:15:00Z",
+          "opponent": "Celta Vigo",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T20:00:00Z",
+          "opponent": "Sevilla",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T17:30:00Z",
+          "opponent": "Real Oviedo",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-villarreal",
+    "name": "Villarreal",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Villarreal",
+    "lat": 39.9442,
+    "lng": -0.1034,
+    "divisionTier": 1,
+    "leagueId": "87",
+    "leagueName": "LaLiga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 3,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T17:00:00Z",
+          "opponent": "Rayo Vallecano",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-13T17:00:00Z",
+          "opponent": "Sevilla",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T12:00:00Z",
+          "opponent": "Mallorca",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T12:00:00Z",
+          "opponent": "Levante",
+          "homeAway": "home",
+          "score": "5 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T19:00:00Z",
+          "opponent": "Celta Vigo",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T19:30:00Z",
+          "opponent": "Real Oviedo",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T19:00:00Z",
+          "opponent": "Athletic Club",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T19:00:00Z",
+          "opponent": "Girona",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T20:00:00Z",
+          "opponent": "Real Sociedad",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T20:00:00Z",
+          "opponent": "Deportivo Alaves",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "es-virtus-entella",
+    "name": "Virtus Entella",
+    "countryCode": "ES",
+    "country": "Spain",
+    "city": "Chiavari",
+    "lat": 44.3168,
+    "lng": 9.3279,
+    "divisionTier": 3,
+    "leagueId": "141",
+    "leagueName": "Primera Federación",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/208932.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 1,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2025-08-16T18:45:00Z",
+          "opponent": "Cagliari",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "Pen"
+        },
+        {
+          "date": "2025-08-09T18:30:00Z",
+          "opponent": "Ternana",
+          "homeAway": "home",
+          "score": "4 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

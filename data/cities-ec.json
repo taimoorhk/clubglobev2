@@ -1,0 +1,37 @@
+{
+  "Guayaquil": {
+    "lat": -2.1894,
+    "lng": -79.8891,
+    "countryCode": "EC"
+  },
+  "Quito": {
+    "lat": -0.1807,
+    "lng": -78.4678,
+    "countryCode": "EC"
+  },
+  "Sangolqui": {
+    "lat": -0.3341,
+    "lng": -78.4522,
+    "countryCode": "EC"
+  },
+  "Manta": {
+    "lat": -0.9677,
+    "lng": -80.7089,
+    "countryCode": "EC"
+  },
+  "Ambato": {
+    "lat": -1.2543,
+    "lng": -78.6229,
+    "countryCode": "EC"
+  },
+  "Cuenca": {
+    "lat": -2.9001,
+    "lng": -79.0059,
+    "countryCode": "EC"
+  },
+  "Machala": {
+    "lat": -3.2581,
+    "lng": -79.9554,
+    "countryCode": "EC"
+  }
+}

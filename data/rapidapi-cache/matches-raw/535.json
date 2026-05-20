@@ -1,0 +1,5018 @@
+[
+  {
+    "id": "4821329",
+    "pageUrl": "/matches/al-rayyan-vs-al-sailiya/9jgr2iz#4821329",
+    "opponent": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 3
+    },
+    "home": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 3
+    },
+    "away": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-14T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821330",
+    "pageUrl": "/matches/al-shamal-vs-al-ahli/i4y106u#4821330",
+    "opponent": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 2
+    },
+    "home": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 2
+    },
+    "away": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-14T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821331",
+    "pageUrl": "/matches/al-arabi-vs-al-wakrah/9jgdyrd#4821331",
+    "opponent": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 2
+    },
+    "home": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 2
+    },
+    "away": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-15T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821332",
+    "pageUrl": "/matches/al-gharafa-vs-umm-salal/9jgdyrf#4821332",
+    "opponent": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 4
+    },
+    "home": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 4
+    },
+    "away": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-15T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821333",
+    "pageUrl": "/matches/al-duhail-sc-vs-al-shahaniya/3t1kkgq6#4821333",
+    "opponent": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 1
+    },
+    "home": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 1
+    },
+    "away": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-16T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821334",
+    "pageUrl": "/matches/al-sadd-vs-qatar-sc/9jfs4i2#4821334",
+    "opponent": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 2
+    },
+    "home": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 2
+    },
+    "away": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-16T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821335",
+    "pageUrl": "/matches/qatar-sc-vs-al-sailiya/9jgzt1g#4821335",
+    "opponent": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 2
+    },
+    "home": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 2
+    },
+    "away": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-21T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821336",
+    "pageUrl": "/matches/al-sadd-vs-al-ahli/i4wistl#4821336",
+    "opponent": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 0
+    },
+    "home": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 0
+    },
+    "away": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-21T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821337",
+    "pageUrl": "/matches/al-gharafa-vs-al-arabi/9jfwhr1#4821337",
+    "opponent": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 2
+    },
+    "home": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 2
+    },
+    "away": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-22T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821338",
+    "pageUrl": "/matches/al-rayyan-vs-al-shamal/9jgmp9r#4821338",
+    "opponent": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 4
+    },
+    "home": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 4
+    },
+    "away": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-22T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821339",
+    "pageUrl": "/matches/umm-salal-vs-al-shahaniya/2v9h04e9#4821339",
+    "opponent": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 2
+    },
+    "home": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 2
+    },
+    "away": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-23T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821340",
+    "pageUrl": "/matches/al-wakrah-vs-al-duhail-sc/lgwq5n6#4821340",
+    "opponent": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 0
+    },
+    "home": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 0
+    },
+    "away": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-23T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821341",
+    "pageUrl": "/matches/al-rayyan-vs-al-duhail-sc/lgw6hy0#4821341",
+    "opponent": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 1
+    },
+    "home": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 1
+    },
+    "away": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-28T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821342",
+    "pageUrl": "/matches/al-sadd-vs-al-gharafa/9jff0r5#4821342",
+    "opponent": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 2
+    },
+    "home": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 2
+    },
+    "away": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-28T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821343",
+    "pageUrl": "/matches/al-arabi-vs-umm-salal/9jgmp9q#4821343",
+    "opponent": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 3
+    },
+    "home": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 3
+    },
+    "away": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-29T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821344",
+    "pageUrl": "/matches/al-wakrah-vs-al-shahaniya/2v9g7doo#4821344",
+    "opponent": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 0
+    },
+    "home": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 0
+    },
+    "away": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-29T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821345",
+    "pageUrl": "/matches/al-shamal-vs-al-sailiya/9jhha2q#4821345",
+    "opponent": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 1
+    },
+    "home": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 1
+    },
+    "away": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-30T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821346",
+    "pageUrl": "/matches/qatar-sc-vs-al-ahli/i4xcwwo#4821346",
+    "opponent": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 2
+    },
+    "home": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 2
+    },
+    "away": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-30T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821351",
+    "pageUrl": "/matches/al-sadd-vs-al-shahaniya/2v9dt5kl#4821351",
+    "opponent": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 1
+    },
+    "home": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 1
+    },
+    "away": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-12T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821349",
+    "pageUrl": "/matches/umm-salal-vs-al-duhail-sc/lgx39g3#4821349",
+    "opponent": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 4
+    },
+    "home": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 4
+    },
+    "away": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-12T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821350",
+    "pageUrl": "/matches/al-gharafa-vs-al-sailiya/9jgmp9s#4821350",
+    "opponent": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 2
+    },
+    "home": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 2
+    },
+    "away": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-12T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821347",
+    "pageUrl": "/matches/al-wakrah-vs-al-ahli/i4xixq6#4821347",
+    "opponent": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 5
+    },
+    "home": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 5
+    },
+    "away": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-13T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821352",
+    "pageUrl": "/matches/al-arabi-vs-al-shamal/9jgr2iy#4821352",
+    "opponent": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 3
+    },
+    "home": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 3
+    },
+    "away": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-13T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821348",
+    "pageUrl": "/matches/al-rayyan-vs-qatar-sc/9jg5895#4821348",
+    "opponent": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 1
+    },
+    "home": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 1
+    },
+    "away": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-13T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821354",
+    "pageUrl": "/matches/al-arabi-vs-al-duhail-sc/lgwd1ud#4821354",
+    "opponent": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 1
+    },
+    "home": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 1
+    },
+    "away": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 8
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-20T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 8",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821357",
+    "pageUrl": "/matches/al-gharafa-vs-al-shamal/9jgic0l#4821357",
+    "opponent": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 0
+    },
+    "home": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 0
+    },
+    "away": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-20T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821355",
+    "pageUrl": "/matches/al-sadd-vs-al-wakrah/9jfwhr3#4821355",
+    "opponent": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 2
+    },
+    "home": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 2
+    },
+    "away": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-20T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821358",
+    "pageUrl": "/matches/umm-salal-vs-al-sailiya/9jhcwtd#4821358",
+    "opponent": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 2
+    },
+    "home": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 2
+    },
+    "away": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-21T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821353",
+    "pageUrl": "/matches/al-rayyan-vs-al-ahli/i4x0v9r#4821353",
+    "opponent": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 0
+    },
+    "home": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 0
+    },
+    "away": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-21T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821356",
+    "pageUrl": "/matches/qatar-sc-vs-al-shahaniya/2v9ft0bx#4821356",
+    "opponent": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 1
+    },
+    "home": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 1
+    },
+    "away": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-21T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821359",
+    "pageUrl": "/matches/al-gharafa-vs-al-rayyan/9jfs4i0#4821359",
+    "opponent": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 2
+    },
+    "home": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 2
+    },
+    "away": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-25T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821362",
+    "pageUrl": "/matches/al-sadd-vs-al-duhail-sc/lgvmu93#4821362",
+    "opponent": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 0
+    },
+    "home": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 0
+    },
+    "away": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-25T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821361",
+    "pageUrl": "/matches/al-wakrah-vs-umm-salal/9jgvfs5#4821361",
+    "opponent": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 3
+    },
+    "home": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 3
+    },
+    "away": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-26T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821363",
+    "pageUrl": "/matches/al-ahli-vs-al-shahaniya/3keqbefu#4821363",
+    "opponent": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 1
+    },
+    "home": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 1
+    },
+    "away": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-26T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821360",
+    "pageUrl": "/matches/al-arabi-vs-al-sailiya/9jgvfs7#4821360",
+    "opponent": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 4
+    },
+    "home": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 4
+    },
+    "away": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-27T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821364",
+    "pageUrl": "/matches/qatar-sc-vs-al-shamal/9jgvfs6#4821364",
+    "opponent": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 1
+    },
+    "home": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 1
+    },
+    "away": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-27T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821371",
+    "pageUrl": "/matches/al-gharafa-vs-al-ahli/i4wuugc#4821371",
+    "opponent": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 1
+    },
+    "home": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 1
+    },
+    "away": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-25T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821373",
+    "pageUrl": "/matches/al-shamal-vs-al-duhail-sc/lgx9tcl#4821373",
+    "opponent": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 2
+    },
+    "home": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 2
+    },
+    "away": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-25T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821374",
+    "pageUrl": "/matches/al-sadd-vs-al-arabi/9jfnr92#4821374",
+    "opponent": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 1
+    },
+    "home": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 1
+    },
+    "away": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-25T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821375",
+    "pageUrl": "/matches/al-sailiya-vs-al-shahaniya/2v9hsv3y#4821375",
+    "opponent": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 0
+    },
+    "home": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 0
+    },
+    "away": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-26T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821376",
+    "pageUrl": "/matches/qatar-sc-vs-umm-salal/9jgr2ix#4821376",
+    "opponent": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 2
+    },
+    "home": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 2
+    },
+    "away": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-26T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821372",
+    "pageUrl": "/matches/al-rayyan-vs-al-wakrah/9jg9li9#4821372",
+    "opponent": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 0
+    },
+    "home": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 0
+    },
+    "away": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-26T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821380",
+    "pageUrl": "/matches/al-gharafa-vs-al-duhail-sc/lgvzy1o#4821380",
+    "opponent": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 3
+    },
+    "home": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 3
+    },
+    "away": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-30T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821381",
+    "pageUrl": "/matches/al-sadd-vs-al-rayyan/9jfje03#4821381",
+    "opponent": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 5
+    },
+    "home": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 5
+    },
+    "away": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-30T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821377",
+    "pageUrl": "/matches/al-arabi-vs-al-shahaniya/2v9femz7#4821377",
+    "opponent": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 2
+    },
+    "home": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 2
+    },
+    "away": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-31T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821379",
+    "pageUrl": "/matches/qatar-sc-vs-al-wakrah/9jgic0i#4821379",
+    "opponent": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 1
+    },
+    "home": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 1
+    },
+    "away": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-31T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821378",
+    "pageUrl": "/matches/al-sailiya-vs-al-ahli/i4y710g#4821378",
+    "opponent": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 1
+    },
+    "home": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 1
+    },
+    "away": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-01T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821382",
+    "pageUrl": "/matches/umm-salal-vs-al-shamal/9jh8jk0#4821382",
+    "opponent": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 0
+    },
+    "home": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 0
+    },
+    "away": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-01T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821369",
+    "pageUrl": "/matches/al-wakrah-vs-al-shamal/9jgzt1f#4821369",
+    "opponent": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 2
+    },
+    "home": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 2
+    },
+    "away": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-07T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821367",
+    "pageUrl": "/matches/al-gharafa-vs-qatar-sc/9jg0v03#4821367",
+    "opponent": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 2
+    },
+    "home": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 2
+    },
+    "away": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-07T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821370",
+    "pageUrl": "/matches/al-sadd-vs-umm-salal/9jg5898#4821370",
+    "opponent": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 3
+    },
+    "home": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 3
+    },
+    "away": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 8
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-08T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 8",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821366",
+    "pageUrl": "/matches/al-sailiya-vs-al-duhail-sc/lgxgd94#4821366",
+    "opponent": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 2
+    },
+    "home": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 2
+    },
+    "away": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-08T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821368",
+    "pageUrl": "/matches/al-rayyan-vs-al-shahaniya/2v9f09mi#4821368",
+    "opponent": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 1
+    },
+    "home": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 1
+    },
+    "away": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821365",
+    "pageUrl": "/matches/al-arabi-vs-al-ahli/i4x6w37#4821365",
+    "opponent": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 1
+    },
+    "home": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 1
+    },
+    "away": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821383",
+    "pageUrl": "/matches/al-ahli-vs-al-duhail-sc/xoi3mac#4821383",
+    "opponent": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 2
+    },
+    "home": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 2
+    },
+    "away": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-21T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821384",
+    "pageUrl": "/matches/al-gharafa-vs-al-wakrah/9jg5896#4821384",
+    "opponent": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 1
+    },
+    "home": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 1
+    },
+    "away": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-21T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821388",
+    "pageUrl": "/matches/al-rayyan-vs-umm-salal/9jgic0k#4821388",
+    "opponent": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 1
+    },
+    "home": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 1
+    },
+    "away": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-22T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821385",
+    "pageUrl": "/matches/al-sadd-vs-al-sailiya/9jgdyrh#4821385",
+    "opponent": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 3
+    },
+    "home": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 3
+    },
+    "away": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-22T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821387",
+    "pageUrl": "/matches/al-shamal-vs-al-shahaniya/2v9hehr3#4821387",
+    "opponent": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 4
+    },
+    "home": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 4
+    },
+    "away": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-23T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821386",
+    "pageUrl": "/matches/al-arabi-vs-qatar-sc/9jg9li8#4821386",
+    "opponent": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 1
+    },
+    "home": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 1
+    },
+    "away": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-23T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821393",
+    "pageUrl": "/matches/al-gharafa-vs-al-shahaniya/2v9elw9u#4821393",
+    "opponent": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 3
+    },
+    "home": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 3
+    },
+    "away": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-27T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821392",
+    "pageUrl": "/matches/qatar-sc-vs-al-duhail-sc/lgwjlqr#4821392",
+    "opponent": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 1
+    },
+    "home": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 1
+    },
+    "away": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-28T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821391",
+    "pageUrl": "/matches/al-wakrah-vs-al-sailiya/9jh46aq#4821391",
+    "opponent": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 0
+    },
+    "home": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 0
+    },
+    "away": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-28T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821390",
+    "pageUrl": "/matches/al-rayyan-vs-al-arabi/9jg0v02#4821390",
+    "opponent": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 2
+    },
+    "home": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 2
+    },
+    "away": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-28T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821394",
+    "pageUrl": "/matches/al-sadd-vs-al-shamal/9jg9lic#4821394",
+    "opponent": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 0
+    },
+    "home": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 0
+    },
+    "away": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-29T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4821389",
+    "pageUrl": "/matches/umm-salal-vs-al-ahli/i4xuzd9#4821389",
+    "opponent": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 0
+    },
+    "home": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 0
+    },
+    "away": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-29T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5098994",
+    "pageUrl": "/matches/al-gharafa-vs-umm-salal/9jgdyrf#5098994",
+    "opponent": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 2
+    },
+    "home": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 2
+    },
+    "away": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-06T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5098995",
+    "pageUrl": "/matches/al-rayyan-vs-al-sailiya/9jgr2iz#5098995",
+    "opponent": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 1
+    },
+    "home": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 1
+    },
+    "away": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-06T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5098996",
+    "pageUrl": "/matches/al-shamal-vs-al-ahli/i4y106u#5098996",
+    "opponent": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 4
+    },
+    "home": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 4
+    },
+    "away": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-07T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5098997",
+    "pageUrl": "/matches/al-arabi-vs-al-wakrah/9jgdyrd#5098997",
+    "opponent": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 0
+    },
+    "home": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 0
+    },
+    "away": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-07T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5098998",
+    "pageUrl": "/matches/al-duhail-sc-vs-al-shahaniya/3t1kkgq6#5098998",
+    "opponent": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 0
+    },
+    "home": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 0
+    },
+    "away": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-08T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5098999",
+    "pageUrl": "/matches/al-sadd-vs-qatar-sc/9jfs4i2#5098999",
+    "opponent": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 2
+    },
+    "home": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 2
+    },
+    "away": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-08T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099000",
+    "pageUrl": "/matches/al-wakrah-vs-al-duhail-sc/lgwq5n6#5099000",
+    "opponent": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 0
+    },
+    "home": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 0
+    },
+    "away": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-15T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099001",
+    "pageUrl": "/matches/al-gharafa-vs-al-arabi/9jfwhr1#5099001",
+    "opponent": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 1
+    },
+    "home": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 1
+    },
+    "away": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-15T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099002",
+    "pageUrl": "/matches/umm-salal-vs-al-shahaniya/2v9h04e9#5099002",
+    "opponent": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 3
+    },
+    "home": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 3
+    },
+    "away": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-16T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099003",
+    "pageUrl": "/matches/al-sadd-vs-al-ahli/i4wistl#5099003",
+    "opponent": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 2
+    },
+    "home": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 2
+    },
+    "away": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-16T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099004",
+    "pageUrl": "/matches/al-rayyan-vs-al-shamal/9jgmp9r#5099004",
+    "opponent": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 0
+    },
+    "home": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 0
+    },
+    "away": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-17T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099005",
+    "pageUrl": "/matches/qatar-sc-vs-al-sailiya/9jgzt1g#5099005",
+    "opponent": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 2
+    },
+    "home": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 2
+    },
+    "away": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-17T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099006",
+    "pageUrl": "/matches/al-arabi-vs-umm-salal/9jgmp9q#5099006",
+    "opponent": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 2
+    },
+    "home": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 2
+    },
+    "away": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-29T14:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099007",
+    "pageUrl": "/matches/al-wakrah-vs-al-shahaniya/2v9g7doo#5099007",
+    "opponent": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 4
+    },
+    "home": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 4
+    },
+    "away": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-29T16:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099008",
+    "pageUrl": "/matches/al-shamal-vs-al-sailiya/9jhha2q#5099008",
+    "opponent": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 0
+    },
+    "home": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 0
+    },
+    "away": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-30T14:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099009",
+    "pageUrl": "/matches/al-rayyan-vs-al-duhail-sc/lgw6hy0#5099009",
+    "opponent": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 1
+    },
+    "home": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 1
+    },
+    "away": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-30T16:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099010",
+    "pageUrl": "/matches/qatar-sc-vs-al-ahli/i4xcwwo#5099010",
+    "opponent": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 1
+    },
+    "home": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 1
+    },
+    "away": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-31T14:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099011",
+    "pageUrl": "/matches/al-sadd-vs-al-gharafa/9jff0r5#5099011",
+    "opponent": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 1
+    },
+    "home": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 1
+    },
+    "away": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-31T16:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099013",
+    "pageUrl": "/matches/umm-salal-vs-al-duhail-sc/lgx39g3#5099013",
+    "opponent": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 2
+    },
+    "home": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 2
+    },
+    "away": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-04T14:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099012",
+    "pageUrl": "/matches/al-sadd-vs-al-shahaniya/2v9dt5kl#5099012",
+    "opponent": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 4
+    },
+    "home": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 4
+    },
+    "away": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-05T14:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099014",
+    "pageUrl": "/matches/al-gharafa-vs-al-sailiya/9jgmp9s#5099014",
+    "opponent": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 1
+    },
+    "home": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 1
+    },
+    "away": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-05T14:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099017",
+    "pageUrl": "/matches/al-arabi-vs-al-shamal/9jgr2iy#5099017",
+    "opponent": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 1
+    },
+    "home": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 1
+    },
+    "away": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-05T16:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099015",
+    "pageUrl": "/matches/al-wakrah-vs-al-ahli/i4xixq6#5099015",
+    "opponent": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 3
+    },
+    "home": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 3
+    },
+    "away": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-06T14:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099016",
+    "pageUrl": "/matches/al-rayyan-vs-qatar-sc/9jg5895#5099016",
+    "opponent": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 3
+    },
+    "home": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 3
+    },
+    "away": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-06T16:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099018",
+    "pageUrl": "/matches/umm-salal-vs-al-sailiya/9jhcwtd#5099018",
+    "opponent": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 0
+    },
+    "home": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 0
+    },
+    "away": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-20T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099019",
+    "pageUrl": "/matches/qatar-sc-vs-al-shahaniya/2v9ft0bx#5099019",
+    "opponent": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 3
+    },
+    "home": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 3
+    },
+    "away": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-20T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099020",
+    "pageUrl": "/matches/al-arabi-vs-al-duhail-sc/lgwd1ud#5099020",
+    "opponent": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 1
+    },
+    "home": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 1
+    },
+    "away": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-21T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099021",
+    "pageUrl": "/matches/al-gharafa-vs-al-shamal/9jgic0l#5099021",
+    "opponent": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 0
+    },
+    "home": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 0
+    },
+    "away": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099022",
+    "pageUrl": "/matches/al-rayyan-vs-al-ahli/i4x0v9r#5099022",
+    "opponent": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 2
+    },
+    "home": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 2
+    },
+    "away": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099023",
+    "pageUrl": "/matches/al-sadd-vs-al-wakrah/9jfwhr3#5099023",
+    "opponent": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 1
+    },
+    "home": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 1
+    },
+    "away": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099024",
+    "pageUrl": "/matches/al-sadd-vs-al-duhail-sc/lgvmu93#5099024",
+    "opponent": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 1
+    },
+    "home": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 1
+    },
+    "away": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-26T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099025",
+    "pageUrl": "/matches/al-gharafa-vs-al-rayyan/9jfs4i0#5099025",
+    "opponent": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 3
+    },
+    "home": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 3
+    },
+    "away": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-26T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099026",
+    "pageUrl": "/matches/al-ahli-vs-al-shahaniya/3keqbefu#5099026",
+    "opponent": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 1
+    },
+    "home": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 1
+    },
+    "away": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-27T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099027",
+    "pageUrl": "/matches/al-wakrah-vs-umm-salal/9jgvfs5#5099027",
+    "opponent": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 2
+    },
+    "home": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 2
+    },
+    "away": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-27T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099033",
+    "pageUrl": "/matches/al-sailiya-vs-al-duhail-sc/lgxgd94#5099033",
+    "opponent": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 0
+    },
+    "home": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 0
+    },
+    "away": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-12T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099034",
+    "pageUrl": "/matches/al-wakrah-vs-al-shamal/9jgzt1f#5099034",
+    "opponent": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 0
+    },
+    "home": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 0
+    },
+    "away": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-12T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099035",
+    "pageUrl": "/matches/al-gharafa-vs-qatar-sc/9jg0v03#5099035",
+    "opponent": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 2
+    },
+    "home": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 2
+    },
+    "away": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-12T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099030",
+    "pageUrl": "/matches/al-arabi-vs-al-ahli/i4x6w37#5099030",
+    "opponent": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 1
+    },
+    "home": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 1
+    },
+    "away": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-13T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099031",
+    "pageUrl": "/matches/al-rayyan-vs-al-shahaniya/2v9f09mi#5099031",
+    "opponent": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 1
+    },
+    "home": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 1
+    },
+    "away": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-13T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099032",
+    "pageUrl": "/matches/al-sadd-vs-umm-salal/9jg5898#5099032",
+    "opponent": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 2
+    },
+    "home": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 2
+    },
+    "away": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-13T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099036",
+    "pageUrl": "/matches/al-sadd-vs-al-arabi/9jfnr92#5099036",
+    "opponent": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 2
+    },
+    "home": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 2
+    },
+    "away": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-17T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099038",
+    "pageUrl": "/matches/al-rayyan-vs-al-wakrah/9jg9li9#5099038",
+    "opponent": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 2
+    },
+    "home": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 2
+    },
+    "away": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-17T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099040",
+    "pageUrl": "/matches/al-shamal-vs-al-duhail-sc/lgx9tcl#5099040",
+    "opponent": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 1
+    },
+    "home": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 1
+    },
+    "away": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-17T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099037",
+    "pageUrl": "/matches/al-gharafa-vs-al-ahli/i4wuugc#5099037",
+    "opponent": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 1
+    },
+    "home": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 1
+    },
+    "away": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-18T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099039",
+    "pageUrl": "/matches/al-sailiya-vs-al-shahaniya/2v9hsv3y#5099039",
+    "opponent": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 3
+    },
+    "home": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 3
+    },
+    "away": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-18T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099041",
+    "pageUrl": "/matches/qatar-sc-vs-umm-salal/9jgr2ix#5099041",
+    "opponent": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 0
+    },
+    "home": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 0
+    },
+    "away": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-18T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099042",
+    "pageUrl": "/matches/al-arabi-vs-al-shahaniya/2v9femz7#5099042",
+    "opponent": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 0
+    },
+    "home": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 0
+    },
+    "away": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-03T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099043",
+    "pageUrl": "/matches/qatar-sc-vs-al-wakrah/9jgic0i#5099043",
+    "opponent": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 3
+    },
+    "home": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 3
+    },
+    "away": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-03T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": true,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "AW",
+        "shortKey": "",
+        "long": "Awarded win",
+        "longKey": "awarded_win"
+      }
+    }
+  },
+  {
+    "id": "5099044",
+    "pageUrl": "/matches/al-sailiya-vs-al-ahli/i4y710g#5099044",
+    "opponent": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 2
+    },
+    "home": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 2
+    },
+    "away": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-03T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099045",
+    "pageUrl": "/matches/al-sadd-vs-al-rayyan/9jfje03#5099045",
+    "opponent": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 1
+    },
+    "home": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 1
+    },
+    "away": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-04T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099046",
+    "pageUrl": "/matches/umm-salal-vs-al-shamal/9jh8jk0#5099046",
+    "opponent": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 3
+    },
+    "home": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 3
+    },
+    "away": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-04T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099047",
+    "pageUrl": "/matches/al-gharafa-vs-al-duhail-sc/lgvzy1o#5099047",
+    "opponent": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 3
+    },
+    "home": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 3
+    },
+    "away": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-04T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099048",
+    "pageUrl": "/matches/al-ahli-vs-al-duhail-sc/xoi3mac#5099048",
+    "opponent": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 2
+    },
+    "home": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 2
+    },
+    "away": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-08T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099049",
+    "pageUrl": "/matches/al-arabi-vs-qatar-sc/9jg9li8#5099049",
+    "opponent": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 1
+    },
+    "home": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 1
+    },
+    "away": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-08T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099050",
+    "pageUrl": "/matches/al-rayyan-vs-umm-salal/9jgic0k#5099050",
+    "opponent": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 3
+    },
+    "home": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 3
+    },
+    "away": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-08T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099051",
+    "pageUrl": "/matches/al-sadd-vs-al-sailiya/9jgdyrh#5099051",
+    "opponent": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 1
+    },
+    "home": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 1
+    },
+    "away": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-08T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099052",
+    "pageUrl": "/matches/al-shamal-vs-al-shahaniya/2v9hehr3#5099052",
+    "opponent": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 2
+    },
+    "home": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 2
+    },
+    "away": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-08T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099053",
+    "pageUrl": "/matches/al-gharafa-vs-al-wakrah/9jg5896#5099053",
+    "opponent": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 3
+    },
+    "home": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 3
+    },
+    "away": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-08T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5099029",
+    "pageUrl": "/matches/qatar-sc-vs-al-shamal/9jgvfs6#5099029",
+    "opponent": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 3
+    },
+    "home": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 3
+    },
+    "away": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-13T14:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": true,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "AW",
+        "shortKey": "",
+        "long": "Awarded win",
+        "longKey": "awarded_win"
+      }
+    }
+  },
+  {
+    "id": "5099028",
+    "pageUrl": "/matches/al-arabi-vs-al-sailiya/9jgvfs7#5099028",
+    "opponent": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 1
+    },
+    "home": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 1
+    },
+    "away": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-13T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5126734",
+    "pageUrl": "/matches/al-gharafa-vs-al-shahaniya/2v9elw9u#5126734",
+    "opponent": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 1
+    },
+    "home": {
+      "id": "101897",
+      "name": "Al-Gharafa",
+      "score": 1
+    },
+    "away": {
+      "id": "568590",
+      "name": "Al-Shahaniya",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-27T14:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5126735",
+    "pageUrl": "/matches/al-rayyan-vs-al-arabi/9jg0v02#5126735",
+    "opponent": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 4
+    },
+    "home": {
+      "id": "101898",
+      "name": "Al-Rayyan",
+      "score": 4
+    },
+    "away": {
+      "id": "101899",
+      "name": "Al-Arabi",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-27T14:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5126737",
+    "pageUrl": "/matches/al-wakrah-vs-al-sailiya/9jh46aq#5126737",
+    "opponent": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 3
+    },
+    "home": {
+      "id": "101901",
+      "name": "Al-Wakrah",
+      "score": 3
+    },
+    "away": {
+      "id": "101905",
+      "name": "Al-Sailiya",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-27T14:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5126738",
+    "pageUrl": "/matches/qatar-sc-vs-al-duhail-sc/lgwjlqr#5126738",
+    "opponent": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 1
+    },
+    "home": {
+      "id": "101900",
+      "name": "Qatar SC",
+      "score": 1
+    },
+    "away": {
+      "id": "203826",
+      "name": "Al-Duhail SC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-27T14:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5126739",
+    "pageUrl": "/matches/umm-salal-vs-al-ahli/i4xuzd9#5126739",
+    "opponent": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 1
+    },
+    "home": {
+      "id": "101903",
+      "name": "Umm Salal",
+      "score": 1
+    },
+    "away": {
+      "id": "179097",
+      "name": "Al-Ahli",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-27T14:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5126736",
+    "pageUrl": "/matches/al-sadd-vs-al-shamal/9jg9lic#5126736",
+    "opponent": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 3
+    },
+    "home": {
+      "id": "101895",
+      "name": "Al-Sadd",
+      "score": 3
+    },
+    "away": {
+      "id": "101904",
+      "name": "Al-Shamal",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-27T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  }
+]

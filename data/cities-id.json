@@ -1,0 +1,117 @@
+{
+  "Arema": {
+    "lat": 2.1526648,
+    "lng": 117.5017009,
+    "countryCode": "ID"
+  },
+  "Bali": {
+    "lat": -8.2271303,
+    "lng": 115.1919203,
+    "countryCode": "ID"
+  },
+  "Bandung": {
+    "lat": -6.9175,
+    "lng": 107.6191,
+    "countryCode": "ID"
+  },
+  "Bhayangkara": {
+    "lat": -1.9151568,
+    "lng": 116.1968659,
+    "countryCode": "ID"
+  },
+  "Borneo": {
+    "lat": -2.9285686,
+    "lng": 115.3700718,
+    "countryCode": "ID"
+  },
+  "Borneo Samarinda": {
+    "lat": -0.4789326,
+    "lng": 117.1458652,
+    "countryCode": "ID"
+  },
+  "Dewa": {
+    "lat": -8.195906,
+    "lng": 112.8846311,
+    "countryCode": "ID"
+  },
+  "Garudayaksa": {
+    "lat": -6.3861389,
+    "lng": 107.0520214,
+    "countryCode": "ID"
+  },
+  "Gianyar": {
+    "lat": -8.4821436,
+    "lng": 115.2855901,
+    "countryCode": "ID"
+  },
+  "Gresik": {
+    "lat": -5.7933465,
+    "lng": 112.6598223,
+    "countryCode": "ID"
+  },
+  "Jakarta": {
+    "lat": -6.2088,
+    "lng": 106.8456,
+    "countryCode": "ID"
+  },
+  "Madura": {
+    "lat": -7.0588909,
+    "lng": 113.2838935,
+    "countryCode": "ID"
+  },
+  "Malang": {
+    "lat": -7.9771308,
+    "lng": 112.6340265,
+    "countryCode": "ID"
+  },
+  "Malut": {
+    "lat": 0.6301215,
+    "lng": 127.9720219,
+    "countryCode": "ID"
+  },
+  "PSIS Semarang": {
+    "lat": -7.0311103,
+    "lng": 110.4667554,
+    "countryCode": "ID"
+  },
+  "PSMS Medan": {
+    "lat": 3.5885352,
+    "lng": 98.6701955,
+    "countryCode": "ID"
+  },
+  "Persik": {
+    "lat": -0.4603801,
+    "lng": 117.1515256,
+    "countryCode": "ID"
+  },
+  "Persikabo 1973": {
+    "lat": -6.4765319,
+    "lng": 106.8251879,
+    "countryCode": "ID"
+  },
+  "Persis Solo": {
+    "lat": -7.5544203,
+    "lng": 110.8075533,
+    "countryCode": "ID"
+  },
+  "RANS Nusantara": {
+    "lat": -6.2880479,
+    "lng": 106.6226105,
+    "countryCode": "ID"
+  },
+  "Semen Padang": {
+    "lat": -0.4009158,
+    "lng": 100.406795,
+    "countryCode": "ID"
+  },
+  "Sriwijaya": {
+    "lat": -3.945434,
+    "lng": 105.4509395,
+    "countryCode": "ID"
+  },
+  "Sumsel": {
+    "lat": -3.2193103,
+    "lng": 104.4075059,
+    "countryCode": "ID"
+  }
+}

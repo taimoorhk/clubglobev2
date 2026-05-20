@@ -1,0 +1,25 @@
+{
+  "leagues": [
+    { "id": "4328", "name": "English Premier League", "country": "England", "countryCode": "GB", "tier": 1 },
+    { "id": "4329", "name": "English League Championship", "country": "England", "countryCode": "GB", "tier": 2 },
+    { "id": "4396", "name": "English League 1", "country": "England", "countryCode": "GB", "tier": 3 },
+    { "id": "4397", "name": "English League 2", "country": "England", "countryCode": "GB", "tier": 4 },
+    { "id": "4335", "name": "Spanish La Liga", "country": "Spain", "countryCode": "ES", "tier": 1 },
+    { "id": "4336", "name": "Spanish La Liga 2", "country": "Spain", "countryCode": "ES", "tier": 2 },
+    { "id": "4331", "name": "German Bundesliga", "country": "Germany", "countryCode": "DE", "tier": 1 },
+    { "id": "4332", "name": "Italian Serie A", "country": "Italy", "countryCode": "IT", "tier": 1 },
+    { "id": "4334", "name": "French Ligue 1", "country": "France", "countryCode": "FR", "tier": 1 },
+    { "id": "4337", "name": "French Ligue 2", "country": "France", "countryCode": "FR", "tier": 2 },
+    { "id": "4346", "name": "American Major League Soccer", "country": "USA", "countryCode": "US", "tier": 1 },
+    { "id": "4344", "name": "Portuguese Primeira Liga", "country": "Portugal", "countryCode": "PT", "tier": 1 },
+    { "id": "4347", "name": "Dutch Eredivisie", "country": "Netherlands", "countryCode": "NL", "tier": 1 },
+    { "id": "4356", "name": "Australian A-League", "country": "Australia", "countryCode": "AU", "tier": 1 },
+    { "id": "4351", "name": "Brazilian Serie A", "country": "Brazil", "countryCode": "BR", "tier": 1 },
+    { "id": "4350", "name": "Mexican Primera League", "country": "Mexico", "countryCode": "MX", "tier": 1 },
+    { "id": "4348", "name": "Belgian Pro League", "country": "Belgium", "countryCode": "BE", "tier": 1 },
+    { "id": "4358", "name": "Turkish Super Lig", "country": "Turkey", "countryCode": "TR", "tier": 1 },
+    { "id": "4359", "name": "Russian Football Premier League", "country": "Russia", "countryCode": "RU", "tier": 1 },
+    { "id": "4367", "name": "Scottish Premier League", "country": "Scotland", "countryCode": "GB-SCT", "tier": 1 },
+    { "id": "4391", "name": "Argentinian Primera Division", "country": "Argentina", "countryCode": "AR", "tier": 1 }
+  ]
+}

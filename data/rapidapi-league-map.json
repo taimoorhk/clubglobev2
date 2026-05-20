@@ -1,0 +1,106 @@
+{
+  "updatedAt": "2026-05-19",
+  "source": "https://rapidapi.com/Creativesdev/api/free-api-live-football-data",
+  "notes": "Fotmob league IDs used by the API. Extend via npm run data:rapidapi -- --discover",
+  "leagues": [
+    { "id": 47, "name": "Premier League", "country": "England", "countryCode": "GB", "ccode": "ENG", "tier": 1 },
+    { "id": 48, "name": "Championship", "country": "England", "countryCode": "GB", "ccode": "ENG", "tier": 2 },
+    { "id": 108, "name": "League One", "country": "England", "countryCode": "GB", "ccode": "ENG", "tier": 3 },
+    { "id": 109, "name": "League Two", "country": "England", "countryCode": "GB", "ccode": "ENG", "tier": 4 },
+    { "id": 117, "name": "National League", "country": "England", "countryCode": "GB", "ccode": "ENG", "tier": 5 },
+    { "id": 8944, "name": "National League North & South", "country": "England", "countryCode": "GB", "ccode": "ENG", "tier": 6, "source": "matches" },
+    { "id": 8947, "name": "Non-League Premier Divisions", "country": "England", "countryCode": "GB", "ccode": "ENG", "tier": 7, "source": "matches" },
+
+    { "id": 64, "name": "Premiership", "country": "Scotland", "countryCode": "GB-SCT", "ccode": "SCO", "tier": 1, "source": "matches" },
+    { "id": 123, "name": "Championship", "country": "Scotland", "countryCode": "GB-SCT", "ccode": "SCO", "tier": 2 },
+    { "id": 124, "name": "League One", "country": "Scotland", "countryCode": "GB-SCT", "ccode": "SCO", "tier": 3 },
+    { "id": 125, "name": "League Two", "country": "Scotland", "countryCode": "GB-SCT", "ccode": "SCO", "tier": 4 },
+
+    { "id": 87, "name": "LaLiga", "country": "Spain", "countryCode": "ES", "ccode": "ESP", "tier": 1 },
+    { "id": 140, "name": "LaLiga2", "country": "Spain", "countryCode": "ES", "ccode": "ESP", "tier": 2 },
+    { "id": 141, "name": "Primera Federación", "country": "Spain", "countryCode": "ES", "ccode": "ESP", "tier": 3 },
+
+    { "id": 54, "name": "Bundesliga", "country": "Germany", "countryCode": "DE", "ccode": "GER", "tier": 1 },
+    { "id": 146, "name": "2. Bundesliga", "country": "Germany", "countryCode": "DE", "ccode": "GER", "tier": 2 },
+    { "id": 208, "name": "3. Liga", "country": "Germany", "countryCode": "DE", "ccode": "GER", "tier": 3 },
+
+    { "id": 55, "name": "Serie A", "country": "Italy", "countryCode": "IT", "ccode": "ITA", "tier": 1 },
+    { "id": 86, "name": "Serie B", "country": "Italy", "countryCode": "IT", "ccode": "ITA", "tier": 2 },
+    { "id": 262, "name": "Serie C", "country": "Italy", "countryCode": "IT", "ccode": "ITA", "tier": 3 },
+
+    { "id": 53, "name": "Ligue 1", "country": "France", "countryCode": "FR", "ccode": "FRA", "tier": 1 },
+    { "id": 110, "name": "Ligue 2", "country": "France", "countryCode": "FR", "ccode": "FRA", "tier": 2 },
+    { "id": 8973, "name": "National", "country": "France", "countryCode": "FR", "ccode": "FRA", "tier": 3 },
+
+    { "id": 57, "name": "Eredivisie", "country": "Netherlands", "countryCode": "NL", "ccode": "NED", "tier": 1 },
+    { "id": 111, "name": "Eerste Divisie", "country": "Netherlands", "countryCode": "NL", "ccode": "NED", "tier": 2 },
+
+    { "id": 61, "name": "Primeira Liga", "country": "Portugal", "countryCode": "PT", "ccode": "POR", "tier": 1 },
+    { "id": 185, "name": "Liga Portugal 2", "country": "Portugal", "countryCode": "PT", "ccode": "POR", "tier": 2 },
+
+    { "id": 40, "name": "Pro League", "country": "Belgium", "countryCode": "BE", "ccode": "BEL", "tier": 1 },
+
+    { "id": 71, "name": "Super Lig", "country": "Turkey", "countryCode": "TR", "ccode": "TUR", "tier": 1 },
+    { "id": 165, "name": "1. Lig", "country": "Turkey", "countryCode": "TR", "ccode": "TUR", "tier": 2 },
+
+    { "id": 130, "name": "MLS", "country": "USA", "countryCode": "US", "ccode": "USA", "tier": 1, "source": "matches" },
+
+    { "id": 268, "name": "Brasileirão", "country": "Brazil", "countryCode": "BR", "ccode": "BRA", "tier": 1 },
+    { "id": 8814, "name": "Brasileirão Série B", "country": "Brazil", "countryCode": "BR", "ccode": "BRA", "tier": 2 },
+
+    { "id": 112, "name": "Liga Profesional", "country": "Argentina", "countryCode": "AR", "ccode": "ARG", "tier": 1, "source": "matches" },
+
+    { "id": 113, "name": "A-League", "country": "Australia", "countryCode": "AU", "ccode": "AUS", "tier": 1 },
+
+    { "id": 63, "name": "Premier League", "country": "Russia", "countryCode": "RU", "ccode": "RUS", "tier": 1 },
+
+    { "id": 196, "name": "Ekstraklasa", "country": "Poland", "countryCode": "PL", "ccode": "POL", "tier": 1 },
+    { "id": 197, "name": "I Liga", "country": "Poland", "countryCode": "PL", "ccode": "POL", "tier": 2 },
+
+    { "id": 46, "name": "Superliga", "country": "Denmark", "countryCode": "DK", "ccode": "DEN", "tier": 1 },
+
+    { "id": 51, "name": "Veikkausliiga", "country": "Finland", "countryCode": "FI", "ccode": "FIN", "tier": 1 },
+
+    { "id": 59, "name": "Eliteserien", "country": "Norway", "countryCode": "NO", "ccode": "NOR", "tier": 1 },
+
+    { "id": 67, "name": "Allsvenskan", "country": "Sweden", "countryCode": "SE", "ccode": "SWE", "tier": 1 },
+    { "id": 168, "name": "Superettan", "country": "Sweden", "countryCode": "SE", "ccode": "SWE", "tier": 2 },
+
+    { "id": 69, "name": "Super League", "country": "Switzerland", "countryCode": "CH", "ccode": "SUI", "tier": 1, "source": "matches" },
+    { "id": 163, "name": "Challenge League", "country": "Switzerland", "countryCode": "CH", "ccode": "SUI", "tier": 2 },
+
+    { "id": 119, "name": "2. Liga", "country": "Austria", "countryCode": "AT", "ccode": "AUT", "tier": 1 },
+
+    { "id": 135, "name": "Super League 1", "country": "Greece", "countryCode": "GR", "ccode": "GRE", "tier": 1, "source": "matches" },
+
+    { "id": 120, "name": "Super League", "country": "China", "countryCode": "CN", "ccode": "CHN", "tier": 1 },
+
+    { "id": 230, "name": "Liga MX", "country": "Mexico", "countryCode": "MX", "ccode": "MEX", "tier": 1, "source": "matches" },
+
+    { "id": 223, "name": "J. League", "country": "Japan", "countryCode": "JP", "ccode": "JPN", "tier": 1, "source": "matches" },
+
+    { "id": 516, "name": "Ligue 1", "country": "Algeria", "countryCode": "DZ", "ccode": "ALG", "tier": 1 },
+    { "id": 519, "name": "Premier League", "country": "Egypt", "countryCode": "EG", "ccode": "EGY", "tier": 1 },
+    { "id": 522, "name": "Premier League", "country": "Ghana", "countryCode": "GH", "ccode": "GHA", "tier": 1 },
+    { "id": 530, "name": "Botola Pro", "country": "Morocco", "countryCode": "MA", "ccode": "MAR", "tier": 1 },
+    { "id": 533, "name": "Professional Football League", "country": "Nigeria", "countryCode": "NG", "ccode": "NGA", "tier": 1 },
+    { "id": 537, "name": "Premier Soccer League", "country": "South Africa", "countryCode": "ZA", "ccode": "RSA", "tier": 1 },
+    { "id": 544, "name": "Ligue I", "country": "Tunisia", "countryCode": "TN", "ccode": "TUN", "tier": 1 },
+
+    { "id": 9066, "name": "Premier League", "country": "Tanzania", "countryCode": "TZ", "ccode": "TAN", "tier": 1 },
+
+    { "id": 223, "name": "J. League", "country": "Japan", "countryCode": "JP", "ccode": "JPN", "tier": 1, "source": "matches" },
+    { "id": 8974, "name": "J. League 2", "country": "Japan", "countryCode": "JP", "ccode": "JPN", "tier": 2 },
+    { "id": 9080, "name": "K League 1", "country": "South Korea", "countryCode": "KR", "ccode": "KOR", "tier": 1 },
+    { "id": 9116, "name": "K League 2", "country": "South Korea", "countryCode": "KR", "ccode": "KOR", "tier": 2 },
+    { "id": 536, "name": "Saudi Pro League", "country": "Saudi Arabia", "countryCode": "SA", "ccode": "KSA", "tier": 1 },
+    { "id": 538, "name": "Pro League", "country": "United Arab Emirates", "countryCode": "AE", "ccode": "UAE", "tier": 1 },
+    { "id": 535, "name": "Qatar Stars League", "country": "Qatar", "countryCode": "QA", "ccode": "QAT", "tier": 1 },
+    { "id": 225, "name": "Premier League", "country": "Kazakhstan", "countryCode": "KZ", "ccode": "KAZ", "tier": 1 },
+    { "id": 540, "name": "Superliga", "country": "Uzbekistan", "countryCode": "UZ", "ccode": "UZB", "tier": 1 },
+    { "id": 8983, "name": "Liga 1", "country": "Indonesia", "countryCode": "ID", "ccode": "IDN", "tier": 1 },
+    { "id": 8984, "name": "Thai League", "country": "Thailand", "countryCode": "TH", "ccode": "THA", "tier": 1 },
+    { "id": 8985, "name": "Liga Super", "country": "Malaysia", "countryCode": "MY", "ccode": "MAS", "tier": 1 },
+    { "id": 8982, "name": "Indian Super League", "country": "India", "countryCode": "IN", "ccode": "IND", "tier": 1, "source": "matches" }
+  ]
+}

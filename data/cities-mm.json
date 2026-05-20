@@ -1,0 +1,62 @@
+{
+  "Chin": {
+    "lat": 22.018242,
+    "lng": 93.5038035,
+    "countryCode": "MM"
+  },
+  "Ispe": {
+    "lat": 20.2537641,
+    "lng": 92.822535,
+    "countryCode": "MM"
+  },
+  "Magwe": {
+    "lat": 20.2747958,
+    "lng": 94.7362245,
+    "countryCode": "MM"
+  },
+  "Mahar": {
+    "lat": 16.9338676,
+    "lng": 96.1327328,
+    "countryCode": "MM"
+  },
+  "Myawady": {
+    "lat": 16.8225698,
+    "lng": 96.1542718,
+    "countryCode": "MM"
+  },
+  "Rakhine": {
+    "lat": 19.5317229,
+    "lng": 93.9966846,
+    "countryCode": "MM"
+  },
+  "Sagaing": {
+    "lat": 24.4741444,
+    "lng": 95.4788047,
+    "countryCode": "MM"
+  },
+  "Shan": {
+    "lat": 21.5122404,
+    "lng": 98.0098362,
+    "countryCode": "MM"
+  },
+  "Southern Myanmar": {
+    "lat": 16.4951846,
+    "lng": 97.6239088,
+    "countryCode": "MM"
+  },
+  "Yadanarbon": {
+    "lat": 16.8788849,
+    "lng": 96.2486219,
+    "countryCode": "MM"
+  },
+  "Yangon": {
+    "lat": 16.8661,
+    "lng": 96.1951,
+    "countryCode": "MM"
+  },
+  "Zwekapin": {
+    "lat": 16.8851608,
+    "lng": 96.1821224,
+    "countryCode": "MM"
+  }
+}

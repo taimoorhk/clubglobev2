@@ -1,0 +1,47 @@
+{
+  "Algiers": {
+    "lat": 36.7538,
+    "lng": 3.0588,
+    "countryCode": "DZ"
+  },
+  "Béjaïa": {
+    "lat": 36.7525,
+    "lng": 5.0557,
+    "countryCode": "DZ"
+  },
+  "CA Batna": {
+    "lat": 35.5544613,
+    "lng": 6.176799,
+    "countryCode": "DZ"
+  },
+  "CS Constantine": {
+    "lat": 36.3641642,
+    "lng": 6.6084281,
+    "countryCode": "DZ"
+  },
+  "ES Mostaganem": {
+    "lat": 35.9195266,
+    "lng": 0.0816356,
+    "countryCode": "DZ"
+  },
+  "MB Rouissat": {
+    "lat": 31.9239554,
+    "lng": 5.3498372,
+    "countryCode": "DZ"
+  },
+  "Oran": {
+    "lat": 35.6969,
+    "lng": -0.6331,
+    "countryCode": "DZ"
+  },
+  "Sétif": {
+    "lat": 36.1911,
+    "lng": 5.4137,
+    "countryCode": "DZ"
+  },
+  "Tizi Ouzou": {
+    "lat": 36.7167,
+    "lng": 4.05,
+    "countryCode": "DZ"
+  }
+}

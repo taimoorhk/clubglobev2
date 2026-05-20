@@ -1,0 +1,2259 @@
+{
+  "updatedAt": "2026-05-20",
+  "countries": [
+    {
+      "countryCode": "GB",
+      "country": "England",
+      "tiersAvailable": [
+        1,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": [
+        2,
+        3
+      ]
+    },
+    {
+      "countryCode": "ES",
+      "country": "Spain",
+      "tiersAvailable": [
+        1,
+        2,
+        3
+      ],
+      "tiersPlanned": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "DE",
+      "country": "Germany",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "IT",
+      "country": "Italy",
+      "tiersAvailable": [
+        1,
+        2,
+        3
+      ],
+      "tiersPlanned": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "FR",
+      "country": "France",
+      "tiersAvailable": [
+        1,
+        2,
+        3
+      ],
+      "tiersPlanned": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "US",
+      "country": "USA",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "PT",
+      "country": "Portugal",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "NL",
+      "country": "Netherlands",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "BR",
+      "country": "Brazil",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "AR",
+      "country": "Argentina",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "AU",
+      "country": "Australia",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "BE",
+      "country": "Belgium",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "GB-SCT",
+      "country": "Scotland",
+      "tiersAvailable": [
+        1,
+        4
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "MX",
+      "country": "Mexico",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "RU",
+      "country": "Russia",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "TR",
+      "country": "Turkey",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "FI",
+      "country": "Finland",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "NO",
+      "country": "Norway",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "AT",
+      "country": "Austria",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "DK",
+      "country": "Denmark",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "PL",
+      "country": "Poland",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "SE",
+      "country": "Sweden",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "CH",
+      "country": "Switzerland",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "GR",
+      "country": "Greece",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "CN",
+      "country": "China",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "DZ",
+      "country": "Algeria",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "EG",
+      "country": "Egypt",
+      "tiersAvailable": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": [
+        1
+      ]
+    },
+    {
+      "countryCode": "GH",
+      "country": "Ghana",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "MA",
+      "country": "Morocco",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "NG",
+      "country": "Nigeria",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "ZA",
+      "country": "South Africa",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "TN",
+      "country": "Tunisia",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "AO",
+      "country": "Angola",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "BI",
+      "country": "Burundi",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "CF",
+      "country": "Central African Republic",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "CI",
+      "country": "Ivory Coast",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "CM",
+      "country": "Cameroon",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "CV",
+      "country": "Cape Verde",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "GA",
+      "country": "Gabon",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "GM",
+      "country": "Gambia",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "GQ",
+      "country": "Equatorial Guinea",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "GW",
+      "country": "Guinea-Bissau",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "KE",
+      "country": "Kenya",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "LR",
+      "country": "Liberia",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "MG",
+      "country": "Madagascar",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "ML",
+      "country": "Mali",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "MZ",
+      "country": "Mozambique",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "SN",
+      "country": "Senegal",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "SO",
+      "country": "Somalia",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "ST",
+      "country": "São Tomé and Príncipe",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "TG",
+      "country": "Togo",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "BF",
+      "country": "Burkina Faso",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "BJ",
+      "country": "Benin",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "BW",
+      "country": "Botswana",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "CD",
+      "country": "DR Congo",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "CG",
+      "country": "Congo",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "DJ",
+      "country": "Djibouti",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "ER",
+      "country": "Eritrea",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "ET",
+      "country": "Ethiopia",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "GN",
+      "country": "Guinea",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "KM",
+      "country": "Comoros",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "LS",
+      "country": "Lesotho",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "LY",
+      "country": "Libya",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "MR",
+      "country": "Mauritania",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "MU",
+      "country": "Mauritius",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "MW",
+      "country": "Malawi",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "NA",
+      "country": "Namibia",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "NE",
+      "country": "Niger",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "RW",
+      "country": "Rwanda",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "SC",
+      "country": "Seychelles",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "SD",
+      "country": "Sudan",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "SL",
+      "country": "Sierra Leone",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "SS",
+      "country": "South Sudan",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "SZ",
+      "country": "Eswatini",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "TD",
+      "country": "Chad",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "TZ",
+      "country": "Tanzania",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "UG",
+      "country": "Uganda",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "ZM",
+      "country": "Zambia",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "ZW",
+      "country": "Zimbabwe",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "JP",
+      "country": "Japan",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "KR",
+      "country": "South Korea",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "SA",
+      "country": "Saudi Arabia",
+      "tiersAvailable": [
+        1,
+        2,
+        3
+      ],
+      "tiersPlanned": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "AE",
+      "country": "United Arab Emirates",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "QA",
+      "country": "Qatar",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "KZ",
+      "country": "Kazakhstan",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "UZ",
+      "country": "Uzbekistan",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "ID",
+      "country": "Indonesia",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "TH",
+      "country": "Thailand",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "MY",
+      "country": "Malaysia",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "IN",
+      "country": "India",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tiersPlanned": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "AF",
+      "country": "Afghanistan",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "AM",
+      "country": "Armenia",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "AZ",
+      "country": "Azerbaijan",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "BD",
+      "country": "Bangladesh",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "BH",
+      "country": "Bahrain",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "BN",
+      "country": "Brunei",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "GE",
+      "country": "Georgia",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "HK",
+      "country": "Hong Kong",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "IL",
+      "country": "Israel",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "IQ",
+      "country": "Iraq",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "IR",
+      "country": "Iran",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "JO",
+      "country": "Jordan",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "KG",
+      "country": "Kyrgyzstan",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "KH",
+      "country": "Cambodia",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "KW",
+      "country": "Kuwait",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "LA",
+      "country": "Laos",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "LB",
+      "country": "Lebanon",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "LK",
+      "country": "Sri Lanka",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "MM",
+      "country": "Myanmar",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "MN",
+      "country": "Mongolia",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "NP",
+      "country": "Nepal",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "OM",
+      "country": "Oman",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "PH",
+      "country": "Philippines",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "PK",
+      "country": "Pakistan",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "SG",
+      "country": "Singapore",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "SY",
+      "country": "Syria",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "TJ",
+      "country": "Tajikistan",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "TL",
+      "country": "Timor-Leste",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "TM",
+      "country": "Turkmenistan",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "TW",
+      "country": "Taiwan",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "VN",
+      "country": "Vietnam",
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "tiersPlanned": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "YE",
+      "country": "Yemen",
+      "tiersAvailable": [
+        1
+      ],
+      "tiersPlanned": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "countryCode": "BO",
+      "country": "Bolivia",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "CA",
+      "country": "Canada",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "CL",
+      "country": "Chile",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "CO",
+      "country": "Colombia",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "EC",
+      "country": "Ecuador",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "PE",
+      "country": "Peru",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "PY",
+      "country": "Paraguay",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "UY",
+      "country": "Uruguay",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "VE",
+      "country": "Venezuela",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "AL",
+      "country": "Albania",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "BA",
+      "country": "Bosnia and Herzegovina",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "BG",
+      "country": "Bulgaria",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "BY",
+      "country": "Belarus",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "CZ",
+      "country": "Czech Republic",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "EE",
+      "country": "Estonia",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "HR",
+      "country": "Croatia",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "HU",
+      "country": "Hungary",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "LT",
+      "country": "Lithuania",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "LV",
+      "country": "Latvia",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "MD",
+      "country": "Moldova",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "ME",
+      "country": "Montenegro",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "MK",
+      "country": "North Macedonia",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "RO",
+      "country": "Romania",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "RS",
+      "country": "Serbia",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "SI",
+      "country": "Slovenia",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "SK",
+      "country": "Slovakia",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "UA",
+      "country": "Ukraine",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "XK",
+      "country": "Kosovo",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "IS",
+      "country": "Iceland",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "GL",
+      "country": "Greenland",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    },
+    {
+      "countryCode": "IE",
+      "country": "Ireland",
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tiersPlanned": []
+    }
+  ]
+}

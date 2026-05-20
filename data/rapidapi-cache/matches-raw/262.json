@@ -1,0 +1,7515 @@
+[
+  {
+    "id": "4883476",
+    "pageUrl": "/matches/karvan-fk-vs-fk-qabala/25dhcx#4883476",
+    "opponent": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "home": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "away": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-15T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4883475",
+    "pageUrl": "/matches/turan-tovuz-vs-imisli-fk/kgjnrcfd#4883475",
+    "opponent": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "home": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-16T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4883477",
+    "pageUrl": "/matches/shamakhi-fk-vs-fk-neftchi/dg4dl#4883477",
+    "opponent": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 1
+    },
+    "home": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 1
+    },
+    "away": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-16T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4883479",
+    "pageUrl": "/matches/fc-kapaz-vs-sumqayit/axh4vwb#4883479",
+    "opponent": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 3
+    },
+    "home": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 3
+    },
+    "away": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-17T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4883480",
+    "pageUrl": "/matches/araz-pfk-vs-zira/77rrc24t#4883480",
+    "opponent": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "home": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "away": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-19T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4934276",
+    "pageUrl": "/matches/fk-neftchi-vs-imisli-fk/kghyzo2a#4934276",
+    "opponent": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "home": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "away": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-22T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4934277",
+    "pageUrl": "/matches/qarabag-fk-vs-sumqayit/bbf1vlh#4934277",
+    "opponent": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 0
+    },
+    "home": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 0
+    },
+    "away": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-22T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4934278",
+    "pageUrl": "/matches/fc-kapaz-vs-karvan-fk/18a2oz#4934278",
+    "opponent": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 2
+    },
+    "home": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 2
+    },
+    "away": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-23T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4934279",
+    "pageUrl": "/matches/shamakhi-fk-vs-sabah-fk/5t1sd23n#4934279",
+    "opponent": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "home": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "away": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-24T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4934280",
+    "pageUrl": "/matches/turan-tovuz-vs-araz-pfk/1j9isrgf#4934280",
+    "opponent": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "home": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "away": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-24T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4934281",
+    "pageUrl": "/matches/fk-qabala-vs-zira/26smcnto#4934281",
+    "opponent": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 1
+    },
+    "home": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 1
+    },
+    "away": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-25T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4934282",
+    "pageUrl": "/matches/shamakhi-fk-vs-sumqayit/aq4nnlu#4934282",
+    "opponent": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "home": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "away": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-29T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4934283",
+    "pageUrl": "/matches/fk-neftchi-vs-turan-tovuz/ppap0#4934283",
+    "opponent": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 0
+    },
+    "home": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 0
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-29T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4934284",
+    "pageUrl": "/matches/fc-kapaz-vs-zira/25qq9268#4934284",
+    "opponent": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 5
+    },
+    "home": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 5
+    },
+    "away": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-30T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4934285",
+    "pageUrl": "/matches/fk-qabala-vs-araz-pfk/1k17gni6#4934285",
+    "opponent": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "home": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "away": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-30T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4934286",
+    "pageUrl": "/matches/qarabag-fk-vs-karvan-fk/24gr2k#4934286",
+    "opponent": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "home": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "away": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-31T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4934287",
+    "pageUrl": "/matches/sabah-fk-vs-imisli-fk/1btuo80k8#4934287",
+    "opponent": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 0
+    },
+    "home": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 0
+    },
+    "away": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-31T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946648",
+    "pageUrl": "/matches/fc-kapaz-vs-araz-pfk/1j59urbd#4946648",
+    "opponent": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "home": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "away": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-12T13:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946650",
+    "pageUrl": "/matches/qarabag-fk-vs-zira/26rp86b1#4946650",
+    "opponent": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 1
+    },
+    "home": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 1
+    },
+    "away": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-12T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946647",
+    "pageUrl": "/matches/sumqayit-vs-imisli-fk/pisq6kmd#4946647",
+    "opponent": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "home": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "away": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-13T12:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": true,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "AW",
+        "shortKey": "",
+        "long": "Awarded win",
+        "longKey": "awarded_win"
+      }
+    }
+  },
+  {
+    "id": "4946652",
+    "pageUrl": "/matches/turan-tovuz-vs-fk-qabala/1ceg5x#4946652",
+    "opponent": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "home": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "away": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-13T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946651",
+    "pageUrl": "/matches/shamakhi-fk-vs-karvan-fk/unwsn#4946651",
+    "opponent": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 3
+    },
+    "home": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 3
+    },
+    "away": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-14T12:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946649",
+    "pageUrl": "/matches/fk-neftchi-vs-sabah-fk/5u5i5ozq#4946649",
+    "opponent": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 0
+    },
+    "home": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 0
+    },
+    "away": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-14T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946655",
+    "pageUrl": "/matches/karvan-fk-vs-imisli-fk/kjbl35n8#4946655",
+    "opponent": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "home": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "away": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-19T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946658",
+    "pageUrl": "/matches/shamakhi-fk-vs-zira/2572h87e#4946658",
+    "opponent": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 2
+    },
+    "home": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 2
+    },
+    "away": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-19T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946654",
+    "pageUrl": "/matches/fc-kapaz-vs-fk-qabala/18i6sv#4946654",
+    "opponent": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 3
+    },
+    "home": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 3
+    },
+    "away": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-20T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946656",
+    "pageUrl": "/matches/turan-tovuz-vs-sabah-fk/5u6emazt#4946656",
+    "opponent": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 2
+    },
+    "home": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 2
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-20T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946653",
+    "pageUrl": "/matches/qarabag-fk-vs-araz-pfk/1k0fj278#4946653",
+    "opponent": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 0
+    },
+    "home": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 0
+    },
+    "away": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-21T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946657",
+    "pageUrl": "/matches/fk-neftchi-vs-sumqayit/az5unyf#4946657",
+    "opponent": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 0
+    },
+    "home": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 0
+    },
+    "away": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-21T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946659",
+    "pageUrl": "/matches/zira-vs-imisli-fk/zn9tqfvh#4946659",
+    "opponent": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 1
+    },
+    "home": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 1
+    },
+    "away": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-26T11:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946661",
+    "pageUrl": "/matches/qarabag-fk-vs-fk-qabala/24retd#4946661",
+    "opponent": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 2
+    },
+    "home": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 2
+    },
+    "away": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-26T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946663",
+    "pageUrl": "/matches/shamakhi-fk-vs-araz-pfk/1iopy0nc#4946663",
+    "opponent": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "home": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "away": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-27T11:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946660",
+    "pageUrl": "/matches/fk-neftchi-vs-karvan-fk/1bqhcq#4946660",
+    "opponent": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 0
+    },
+    "home": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 0
+    },
+    "away": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-27T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946664",
+    "pageUrl": "/matches/fc-kapaz-vs-turan-tovuz/n6mqm#4946664",
+    "opponent": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 3
+    },
+    "home": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 3
+    },
+    "away": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-28T12:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946662",
+    "pageUrl": "/matches/sumqayit-vs-sabah-fk/8o7zvslt#4946662",
+    "opponent": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 1
+    },
+    "home": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 1
+    },
+    "away": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-28T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946665",
+    "pageUrl": "/matches/araz-pfk-vs-imisli-fk/wxji6jr4#4946665",
+    "opponent": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "home": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "away": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-03T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946670",
+    "pageUrl": "/matches/fk-neftchi-vs-zira/25v82kuh#4946670",
+    "opponent": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 2
+    },
+    "home": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 2
+    },
+    "away": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-03T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946667",
+    "pageUrl": "/matches/fc-kapaz-vs-qarabag-fk/17tdz7#4946667",
+    "opponent": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 1
+    },
+    "home": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 1
+    },
+    "away": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-04T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946669",
+    "pageUrl": "/matches/turan-tovuz-vs-sumqayit/azd9rsx#4946669",
+    "opponent": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 0
+    },
+    "home": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 0
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-04T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946668",
+    "pageUrl": "/matches/karvan-fk-vs-sabah-fk/5vntu7y0#4946668",
+    "opponent": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "home": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "away": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-05T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946666",
+    "pageUrl": "/matches/shamakhi-fk-vs-fk-qabala/uunxu#4946666",
+    "opponent": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "home": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "away": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-05T13:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946674",
+    "pageUrl": "/matches/shamakhi-fk-vs-fc-kapaz/bn6ht#4946674",
+    "opponent": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "home": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "away": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-17T10:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946676",
+    "pageUrl": "/matches/turan-tovuz-vs-qarabag-fk/1bokxh#4946676",
+    "opponent": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "home": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "away": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-17T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946671",
+    "pageUrl": "/matches/fk-qabala-vs-imisli-fk/kjci77qm#4946671",
+    "opponent": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 2
+    },
+    "home": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 2
+    },
+    "away": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-18T10:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946675",
+    "pageUrl": "/matches/karvan-fk-vs-sumqayit/bbniemt#4946675",
+    "opponent": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 4
+    },
+    "home": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 4
+    },
+    "away": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-18T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946673",
+    "pageUrl": "/matches/zira-vs-sabah-fk/excs9tc9#4946673",
+    "opponent": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 3
+    },
+    "home": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 3
+    },
+    "away": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-19T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946672",
+    "pageUrl": "/matches/fk-neftchi-vs-araz-pfk/1j925ji9#4946672",
+    "opponent": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 2
+    },
+    "home": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 2
+    },
+    "away": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-19T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946680",
+    "pageUrl": "/matches/turan-tovuz-vs-karvan-fk/1c5zit#4946680",
+    "opponent": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "home": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-24T10:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946679",
+    "pageUrl": "/matches/fc-kapaz-vs-imisli-fk/kg456oyv#4946679",
+    "opponent": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "home": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "away": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-24T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946677",
+    "pageUrl": "/matches/araz-pfk-vs-sabah-fk/d6so1g5k#4946677",
+    "opponent": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "home": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "away": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-25T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946682",
+    "pageUrl": "/matches/sumqayit-vs-zira/3zxr8h7k#4946682",
+    "opponent": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "home": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "away": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-25T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946678",
+    "pageUrl": "/matches/fk-neftchi-vs-fk-qabala/1bywmr#4946678",
+    "opponent": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "home": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "away": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-26T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946681",
+    "pageUrl": "/matches/shamakhi-fk-vs-qarabag-fk/ua15z#4946681",
+    "opponent": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 0
+    },
+    "home": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 0
+    },
+    "away": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-26T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946683",
+    "pageUrl": "/matches/qarabag-fk-vs-imisli-fk/kj9oq75g#4946683",
+    "opponent": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 2
+    },
+    "home": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 2
+    },
+    "away": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-31T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946684",
+    "pageUrl": "/matches/karvan-fk-vs-zira/26sbjih9#4946684",
+    "opponent": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 2
+    },
+    "home": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 2
+    },
+    "away": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-01T10:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946685",
+    "pageUrl": "/matches/fc-kapaz-vs-fk-neftchi/mvvu1#4946685",
+    "opponent": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 5
+    },
+    "home": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 5
+    },
+    "away": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-01T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946688",
+    "pageUrl": "/matches/shamakhi-fk-vs-turan-tovuz/dod93#4946688",
+    "opponent": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 2
+    },
+    "home": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 2
+    },
+    "away": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-02T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946687",
+    "pageUrl": "/matches/sumqayit-vs-araz-pfk/34hrqx16#4946687",
+    "opponent": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 3
+    },
+    "home": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 3
+    },
+    "away": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-02T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946686",
+    "pageUrl": "/matches/fk-qabala-vs-sabah-fk/5vobk1t2#4946686",
+    "opponent": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 1
+    },
+    "home": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 1
+    },
+    "away": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-03T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946693",
+    "pageUrl": "/matches/shamakhi-fk-vs-imisli-fk/kefkovk7#4946693",
+    "opponent": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "home": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "away": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-07T09:44:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946690",
+    "pageUrl": "/matches/fk-qabala-vs-sumqayit/bbrlxzo#4946690",
+    "opponent": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "home": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "away": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-07T12:44:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946689",
+    "pageUrl": "/matches/karvan-fk-vs-araz-pfk/1k0ychok#4946689",
+    "opponent": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "home": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "away": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-08T11:44:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946694",
+    "pageUrl": "/matches/turan-tovuz-vs-zira/25vrtxq2#4946694",
+    "opponent": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 0
+    },
+    "home": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 0
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-08T14:44:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946691",
+    "pageUrl": "/matches/fc-kapaz-vs-sabah-fk/5ty49wlz#4946691",
+    "opponent": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 1
+    },
+    "home": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 1
+    },
+    "away": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T11:44:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946692",
+    "pageUrl": "/matches/fk-neftchi-vs-qarabag-fk/1b95kq#4946692",
+    "opponent": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 2
+    },
+    "home": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 2
+    },
+    "away": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T14:44:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946696",
+    "pageUrl": "/matches/fc-kapaz-vs-karvan-fk/18a2oz#4946696",
+    "opponent": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "home": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "away": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-21T10:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946699",
+    "pageUrl": "/matches/qarabag-fk-vs-sumqayit/bbf1vlh#4946699",
+    "opponent": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 2
+    },
+    "home": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 2
+    },
+    "away": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-21T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946695",
+    "pageUrl": "/matches/turan-tovuz-vs-araz-pfk/1j9isrgf#4946695",
+    "opponent": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 1
+    },
+    "home": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 1
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-22T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946700",
+    "pageUrl": "/matches/fk-qabala-vs-zira/26smcnto#4946700",
+    "opponent": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "home": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "away": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-22T13:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946698",
+    "pageUrl": "/matches/shamakhi-fk-vs-sabah-fk/5t1sd23n#4946698",
+    "opponent": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 0
+    },
+    "home": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 0
+    },
+    "away": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-23T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946697",
+    "pageUrl": "/matches/fk-neftchi-vs-imisli-fk/kghyzo2a#4946697",
+    "opponent": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 2
+    },
+    "home": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 2
+    },
+    "away": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-23T13:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946703",
+    "pageUrl": "/matches/fc-kapaz-vs-zira/25qq9268#4946703",
+    "opponent": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "home": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "away": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-28T10:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946706",
+    "pageUrl": "/matches/fk-neftchi-vs-turan-tovuz/ppap0#4946706",
+    "opponent": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 0
+    },
+    "home": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 0
+    },
+    "away": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-28T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946702",
+    "pageUrl": "/matches/sabah-fk-vs-imisli-fk/1btuo80k8#4946702",
+    "opponent": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "home": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "away": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-29T10:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946704",
+    "pageUrl": "/matches/qarabag-fk-vs-karvan-fk/24gr2k#4946704",
+    "opponent": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 2
+    },
+    "home": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 2
+    },
+    "away": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-29T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946705",
+    "pageUrl": "/matches/shamakhi-fk-vs-sumqayit/aq4nnlu#4946705",
+    "opponent": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "home": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "away": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-30T10:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946701",
+    "pageUrl": "/matches/fk-qabala-vs-araz-pfk/1k17gni6#4946701",
+    "opponent": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 2
+    },
+    "home": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 2
+    },
+    "away": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-30T12:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946712",
+    "pageUrl": "/matches/qarabag-fk-vs-zira/26rp86b1#4946712",
+    "opponent": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "home": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "away": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-06T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946709",
+    "pageUrl": "/matches/shamakhi-fk-vs-karvan-fk/unwsn#4946709",
+    "opponent": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "home": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "away": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-07T10:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946708",
+    "pageUrl": "/matches/turan-tovuz-vs-fk-qabala/1ceg5x#4946708",
+    "opponent": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "home": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-08T11:00:00Z",
+      "cancelled": true,
+      "started": true,
+      "finished": true,
+      "reason": {
+        "short": "Ab",
+        "shortKey": "aborted_short",
+        "long": "Abandoned",
+        "longKey": "aborted"
+      },
+      "scoreStr": "0 - 0"
+    }
+  },
+  {
+    "id": "4946710",
+    "pageUrl": "/matches/fk-neftchi-vs-sabah-fk/5u5i5ozq#4946710",
+    "opponent": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 2
+    },
+    "home": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 2
+    },
+    "away": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-08T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946707",
+    "pageUrl": "/matches/fc-kapaz-vs-araz-pfk/1j59urbd#4946707",
+    "opponent": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "home": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "away": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-09T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946711",
+    "pageUrl": "/matches/sumqayit-vs-imisli-fk/pisq6kmd#4946711",
+    "opponent": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "home": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "away": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-09T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946717",
+    "pageUrl": "/matches/shamakhi-fk-vs-zira/2572h87e#4946717",
+    "opponent": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 2
+    },
+    "home": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 2
+    },
+    "away": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-13T10:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946718",
+    "pageUrl": "/matches/turan-tovuz-vs-sabah-fk/5u6emazt#4946718",
+    "opponent": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "home": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "away": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-13T12:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946714",
+    "pageUrl": "/matches/fc-kapaz-vs-fk-qabala/18i6sv#4946714",
+    "opponent": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 1
+    },
+    "home": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 1
+    },
+    "away": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-14T10:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946716",
+    "pageUrl": "/matches/qarabag-fk-vs-araz-pfk/1k0fj278#4946716",
+    "opponent": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 5
+    },
+    "home": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 5
+    },
+    "away": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-14T13:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946713",
+    "pageUrl": "/matches/karvan-fk-vs-imisli-fk/kjbl35n8#4946713",
+    "opponent": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 1
+    },
+    "home": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 1
+    },
+    "away": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-15T10:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946715",
+    "pageUrl": "/matches/fk-neftchi-vs-sumqayit/az5unyf#4946715",
+    "opponent": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 2
+    },
+    "home": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 2
+    },
+    "away": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-15T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4883478",
+    "pageUrl": "/matches/qarabag-fk-vs-sabah-fk/5vmt9h5k#4883478",
+    "opponent": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 2
+    },
+    "home": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 2
+    },
+    "away": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-18T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946721",
+    "pageUrl": "/matches/fc-kapaz-vs-turan-tovuz/n6mqm#4946721",
+    "opponent": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "home": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-19T10:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946722",
+    "pageUrl": "/matches/fk-neftchi-vs-karvan-fk/1bqhcq#4946722",
+    "opponent": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "home": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "away": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-20T10:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946724",
+    "pageUrl": "/matches/zira-vs-imisli-fk/zn9tqfvh#4946724",
+    "opponent": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 0
+    },
+    "home": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 0
+    },
+    "away": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-20T12:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946720",
+    "pageUrl": "/matches/qarabag-fk-vs-fk-qabala/24retd#4946720",
+    "opponent": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 1
+    },
+    "home": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 1
+    },
+    "away": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-21T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946719",
+    "pageUrl": "/matches/shamakhi-fk-vs-araz-pfk/1iopy0nc#4946719",
+    "opponent": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "home": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "away": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-21T13:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946723",
+    "pageUrl": "/matches/sumqayit-vs-sabah-fk/8o7zvslt#4946723",
+    "opponent": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "home": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "away": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-22T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946725",
+    "pageUrl": "/matches/araz-pfk-vs-imisli-fk/wxji6jr4#4946725",
+    "opponent": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 2
+    },
+    "home": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 2
+    },
+    "away": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-23T10:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946726",
+    "pageUrl": "/matches/fk-neftchi-vs-zira/25v82kuh#4946726",
+    "opponent": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 0
+    },
+    "home": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 0
+    },
+    "away": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-23T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946729",
+    "pageUrl": "/matches/shamakhi-fk-vs-fk-qabala/uunxu#4946729",
+    "opponent": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "home": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "away": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-24T10:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946727",
+    "pageUrl": "/matches/fc-kapaz-vs-qarabag-fk/17tdz7#4946727",
+    "opponent": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 0
+    },
+    "home": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 0
+    },
+    "away": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-24T12:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946730",
+    "pageUrl": "/matches/turan-tovuz-vs-sumqayit/azd9rsx#4946730",
+    "opponent": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 2
+    },
+    "home": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 2
+    },
+    "away": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-25T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946728",
+    "pageUrl": "/matches/karvan-fk-vs-sabah-fk/5vntu7y0#4946728",
+    "opponent": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 4
+    },
+    "home": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 4
+    },
+    "away": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-25T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946734",
+    "pageUrl": "/matches/karvan-fk-vs-sumqayit/bbniemt#4946734",
+    "opponent": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "home": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "away": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-30T10:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946732",
+    "pageUrl": "/matches/fk-qabala-vs-imisli-fk/kjci77qm#4946732",
+    "opponent": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 3
+    },
+    "home": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 3
+    },
+    "away": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-30T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946733",
+    "pageUrl": "/matches/shamakhi-fk-vs-fc-kapaz/bn6ht#4946733",
+    "opponent": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "home": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "away": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-31T10:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946736",
+    "pageUrl": "/matches/zira-vs-sabah-fk/excs9tc9#4946736",
+    "opponent": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "home": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "away": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-31T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946731",
+    "pageUrl": "/matches/fk-neftchi-vs-araz-pfk/1j925ji9#4946731",
+    "opponent": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 0
+    },
+    "home": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 0
+    },
+    "away": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-01T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946735",
+    "pageUrl": "/matches/turan-tovuz-vs-qarabag-fk/1bokxh#4946735",
+    "opponent": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 1
+    },
+    "home": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 1
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-01T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946739",
+    "pageUrl": "/matches/araz-pfk-vs-sabah-fk/d6so1g5k#4946739",
+    "opponent": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 4
+    },
+    "home": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 4
+    },
+    "away": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-08T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946741",
+    "pageUrl": "/matches/sumqayit-vs-zira/3zxr8h7k#4946741",
+    "opponent": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 2
+    },
+    "home": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 2
+    },
+    "away": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-08T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946737",
+    "pageUrl": "/matches/fc-kapaz-vs-imisli-fk/kg456oyv#4946737",
+    "opponent": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "home": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "away": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-09T10:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946742",
+    "pageUrl": "/matches/turan-tovuz-vs-karvan-fk/1c5zit#4946742",
+    "opponent": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "home": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "away": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-09T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946740",
+    "pageUrl": "/matches/shamakhi-fk-vs-qarabag-fk/ua15z#4946740",
+    "opponent": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "home": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "away": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-10T10:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946738",
+    "pageUrl": "/matches/fk-neftchi-vs-fk-qabala/1bywmr#4946738",
+    "opponent": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 1
+    },
+    "home": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 1
+    },
+    "away": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-10T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946746",
+    "pageUrl": "/matches/qarabag-fk-vs-imisli-fk/kj9oq75g#4946746",
+    "opponent": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "home": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "away": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-14T10:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946748",
+    "pageUrl": "/matches/karvan-fk-vs-zira/26sbjih9#4946748",
+    "opponent": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "home": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "away": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-14T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946745",
+    "pageUrl": "/matches/fc-kapaz-vs-fk-neftchi/mvvu1#4946745",
+    "opponent": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 1
+    },
+    "home": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 1
+    },
+    "away": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-15T10:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946743",
+    "pageUrl": "/matches/sumqayit-vs-araz-pfk/34hrqx16#4946743",
+    "opponent": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 1
+    },
+    "home": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 1
+    },
+    "away": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-15T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946747",
+    "pageUrl": "/matches/shamakhi-fk-vs-turan-tovuz/dod93#4946747",
+    "opponent": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "home": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-16T10:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946744",
+    "pageUrl": "/matches/fk-qabala-vs-sabah-fk/5vobk1t2#4946744",
+    "opponent": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "home": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "away": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-16T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946754",
+    "pageUrl": "/matches/turan-tovuz-vs-zira/25vrtxq2#4946754",
+    "opponent": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 2
+    },
+    "home": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 2
+    },
+    "away": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-20T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946753",
+    "pageUrl": "/matches/fk-qabala-vs-sumqayit/bbrlxzo#4946753",
+    "opponent": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 0
+    },
+    "home": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 0
+    },
+    "away": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-20T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946750",
+    "pageUrl": "/matches/karvan-fk-vs-araz-pfk/1k0ychok#4946750",
+    "opponent": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "home": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "away": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-21T10:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946749",
+    "pageUrl": "/matches/shamakhi-fk-vs-imisli-fk/kefkovk7#4946749",
+    "opponent": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "home": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "away": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T10:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946752",
+    "pageUrl": "/matches/fc-kapaz-vs-sabah-fk/5ty49wlz#4946752",
+    "opponent": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 1
+    },
+    "home": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 1
+    },
+    "away": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5198693",
+    "pageUrl": "/matches/turan-tovuz-vs-fk-qabala/1ceg5x#5198693",
+    "opponent": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "home": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-24T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946757",
+    "pageUrl": "/matches/fc-kapaz-vs-sumqayit/axh4vwb#4946757",
+    "opponent": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 3
+    },
+    "home": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 3
+    },
+    "away": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-27T10:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946755",
+    "pageUrl": "/matches/araz-pfk-vs-zira/77rrc24t#4946755",
+    "opponent": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 0
+    },
+    "home": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 0
+    },
+    "away": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-27T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946759",
+    "pageUrl": "/matches/shamakhi-fk-vs-fk-neftchi/dg4dl#4946759",
+    "opponent": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 2
+    },
+    "home": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 2
+    },
+    "away": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-28T10:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946756",
+    "pageUrl": "/matches/karvan-fk-vs-fk-qabala/25dhcx#4946756",
+    "opponent": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 1
+    },
+    "home": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 1
+    },
+    "away": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-28T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946760",
+    "pageUrl": "/matches/turan-tovuz-vs-imisli-fk/kgjnrcfd#4946760",
+    "opponent": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 0
+    },
+    "home": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 0
+    },
+    "away": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T12:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946758",
+    "pageUrl": "/matches/qarabag-fk-vs-sabah-fk/5vmt9h5k#4946758",
+    "opponent": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 3
+    },
+    "home": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 3
+    },
+    "away": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946761",
+    "pageUrl": "/matches/karvan-fk-vs-sumqayit/bbniemt#4946761",
+    "opponent": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "home": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "away": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-07T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946765",
+    "pageUrl": "/matches/shamakhi-fk-vs-imisli-fk/kefkovk7#4946765",
+    "opponent": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "home": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "away": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-08T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946763",
+    "pageUrl": "/matches/qarabag-fk-vs-araz-pfk/1k0fj278#4946763",
+    "opponent": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 6
+    },
+    "home": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 6
+    },
+    "away": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-08T15:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "6 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946766",
+    "pageUrl": "/matches/fc-kapaz-vs-zira/25qq9268#4946766",
+    "opponent": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 2
+    },
+    "home": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 2
+    },
+    "away": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-09T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946762",
+    "pageUrl": "/matches/fk-neftchi-vs-turan-tovuz/ppap0#4946762",
+    "opponent": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 0
+    },
+    "home": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 0
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-09T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946764",
+    "pageUrl": "/matches/fk-qabala-vs-sabah-fk/5vobk1t2#4946764",
+    "opponent": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 7
+    },
+    "home": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 7
+    },
+    "away": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-10T15:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "7 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946767",
+    "pageUrl": "/matches/karvan-fk-vs-araz-pfk/1k0ychok#4946767",
+    "opponent": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "home": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "away": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-13T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946771",
+    "pageUrl": "/matches/shamakhi-fk-vs-sumqayit/aq4nnlu#4946771",
+    "opponent": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 0
+    },
+    "home": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 0
+    },
+    "away": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-13T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946769",
+    "pageUrl": "/matches/sabah-fk-vs-imisli-fk/1btuo80k8#4946769",
+    "opponent": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "home": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "away": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-14T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946772",
+    "pageUrl": "/matches/qarabag-fk-vs-zira/26rp86b1#4946772",
+    "opponent": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "home": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "away": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-14T15:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946770",
+    "pageUrl": "/matches/fc-kapaz-vs-turan-tovuz/n6mqm#4946770",
+    "opponent": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 1
+    },
+    "home": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 1
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-15T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946768",
+    "pageUrl": "/matches/fk-neftchi-vs-fk-qabala/1bywmr#4946768",
+    "opponent": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 1
+    },
+    "home": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 1
+    },
+    "away": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-15T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946777",
+    "pageUrl": "/matches/shamakhi-fk-vs-araz-pfk/1iopy0nc#4946777",
+    "opponent": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "home": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "away": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-18T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946773",
+    "pageUrl": "/matches/karvan-fk-vs-zira/26sbjih9#4946773",
+    "opponent": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "home": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "away": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-19T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946776",
+    "pageUrl": "/matches/sumqayit-vs-sabah-fk/8o7zvslt#4946776",
+    "opponent": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 3
+    },
+    "home": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 3
+    },
+    "away": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-19T15:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946775",
+    "pageUrl": "/matches/fc-kapaz-vs-qarabag-fk/17tdz7#4946775",
+    "opponent": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 1
+    },
+    "home": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 1
+    },
+    "away": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-20T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946774",
+    "pageUrl": "/matches/fk-neftchi-vs-imisli-fk/kghyzo2a#4946774",
+    "opponent": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 6
+    },
+    "home": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 6
+    },
+    "away": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-20T15:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "6 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946778",
+    "pageUrl": "/matches/turan-tovuz-vs-fk-qabala/1ceg5x#4946778",
+    "opponent": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 3
+    },
+    "home": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 3
+    },
+    "away": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-21T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946780",
+    "pageUrl": "/matches/fc-kapaz-vs-fk-qabala/18i6sv#4946780",
+    "opponent": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "home": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "away": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-05T11:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946782",
+    "pageUrl": "/matches/fk-neftchi-vs-sumqayit/az5unyf#4946782",
+    "opponent": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "home": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "away": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-05T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946781",
+    "pageUrl": "/matches/qarabag-fk-vs-karvan-fk/24gr2k#4946781",
+    "opponent": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 7
+    },
+    "home": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 7
+    },
+    "away": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-06T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "7 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946824",
+    "pageUrl": "/matches/turan-tovuz-vs-imisli-fk/kgjnrcfd#4946824",
+    "opponent": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 1
+    },
+    "home": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 1
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-07T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946783",
+    "pageUrl": "/matches/shamakhi-fk-vs-zira/2572h87e#4946783",
+    "opponent": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "home": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "away": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-07T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946779",
+    "pageUrl": "/matches/araz-pfk-vs-sabah-fk/d6so1g5k#4946779",
+    "opponent": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "home": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "away": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-07T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946785",
+    "pageUrl": "/matches/fc-kapaz-vs-karvan-fk/18a2oz#4946785",
+    "opponent": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 4
+    },
+    "home": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 4
+    },
+    "away": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-10T11:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946788",
+    "pageUrl": "/matches/shamakhi-fk-vs-qarabag-fk/ua15z#4946788",
+    "opponent": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "home": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "away": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-11T11:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946787",
+    "pageUrl": "/matches/zira-vs-sabah-fk/excs9tc9#4946787",
+    "opponent": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 2
+    },
+    "home": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 2
+    },
+    "away": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-11T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946786",
+    "pageUrl": "/matches/fk-neftchi-vs-araz-pfk/1j925ji9#4946786",
+    "opponent": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 2
+    },
+    "home": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 2
+    },
+    "away": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-11T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946784",
+    "pageUrl": "/matches/fk-qabala-vs-imisli-fk/kjci77qm#4946784",
+    "opponent": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "home": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "away": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-12T11:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946789",
+    "pageUrl": "/matches/turan-tovuz-vs-sumqayit/azd9rsx#4946789",
+    "opponent": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 2
+    },
+    "home": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 2
+    },
+    "away": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-12T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946790",
+    "pageUrl": "/matches/turan-tovuz-vs-araz-pfk/1j9isrgf#4946790",
+    "opponent": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 0
+    },
+    "home": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 0
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-17T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946795",
+    "pageUrl": "/matches/fk-neftchi-vs-zira/25v82kuh#4946795",
+    "opponent": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "home": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "away": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-17T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946792",
+    "pageUrl": "/matches/shamakhi-fk-vs-karvan-fk/unwsn#4946792",
+    "opponent": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "home": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "away": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-18T11:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946793",
+    "pageUrl": "/matches/qarabag-fk-vs-sabah-fk/5vmt9h5k#4946793",
+    "opponent": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 0
+    },
+    "home": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 0
+    },
+    "away": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-18T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946791",
+    "pageUrl": "/matches/fc-kapaz-vs-imisli-fk/kg456oyv#4946791",
+    "opponent": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "home": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "away": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-19T11:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946794",
+    "pageUrl": "/matches/fk-qabala-vs-sumqayit/bbrlxzo#4946794",
+    "opponent": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "home": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "away": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-19T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946797",
+    "pageUrl": "/matches/sumqayit-vs-imisli-fk/pisq6kmd#4946797",
+    "opponent": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "home": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "away": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-25T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946796",
+    "pageUrl": "/matches/fk-qabala-vs-araz-pfk/1k17gni6#4946796",
+    "opponent": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 1
+    },
+    "home": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 1
+    },
+    "away": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-25T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946800",
+    "pageUrl": "/matches/shamakhi-fk-vs-fc-kapaz/bn6ht#4946800",
+    "opponent": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 2
+    },
+    "home": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 2
+    },
+    "away": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-26T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946798",
+    "pageUrl": "/matches/fk-neftchi-vs-qarabag-fk/1b95kq#4946798",
+    "opponent": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 1
+    },
+    "home": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 1
+    },
+    "away": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-26T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946801",
+    "pageUrl": "/matches/turan-tovuz-vs-zira/25vrtxq2#4946801",
+    "opponent": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "home": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "away": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-27T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946799",
+    "pageUrl": "/matches/karvan-fk-vs-sabah-fk/5vntu7y0#4946799",
+    "opponent": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 2
+    },
+    "home": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 2
+    },
+    "away": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-27T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946751",
+    "pageUrl": "/matches/fk-neftchi-vs-qarabag-fk/1b95kq#4946751",
+    "opponent": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 2
+    },
+    "home": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 2
+    },
+    "away": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-30T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946803",
+    "pageUrl": "/matches/fc-kapaz-vs-sumqayit/axh4vwb#4946803",
+    "opponent": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 2
+    },
+    "home": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 2
+    },
+    "away": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-02T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946802",
+    "pageUrl": "/matches/araz-pfk-vs-imisli-fk/wxji6jr4#4946802",
+    "opponent": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 0
+    },
+    "home": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 0
+    },
+    "away": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-02T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946825",
+    "pageUrl": "/matches/shamakhi-fk-vs-sabah-fk/5t1sd23n#4946825",
+    "opponent": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "home": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "away": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-03T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946806",
+    "pageUrl": "/matches/fk-qabala-vs-zira/26smcnto#4946806",
+    "opponent": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "home": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 1
+    },
+    "away": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-03T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946805",
+    "pageUrl": "/matches/turan-tovuz-vs-qarabag-fk/1bokxh#4946805",
+    "opponent": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 2
+    },
+    "home": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 2
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-04T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946804",
+    "pageUrl": "/matches/fk-neftchi-vs-karvan-fk/1bqhcq#4946804",
+    "opponent": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "home": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "away": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-05T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946808",
+    "pageUrl": "/matches/zira-vs-imisli-fk/zn9tqfvh#4946808",
+    "opponent": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "home": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "away": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-08T12:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946809",
+    "pageUrl": "/matches/fc-kapaz-vs-sabah-fk/5ty49wlz#4946809",
+    "opponent": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 0
+    },
+    "home": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 0
+    },
+    "away": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-08T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946807",
+    "pageUrl": "/matches/qarabag-fk-vs-fk-qabala/24retd#4946807",
+    "opponent": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 1
+    },
+    "home": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 1
+    },
+    "away": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-09T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946810",
+    "pageUrl": "/matches/sumqayit-vs-araz-pfk/34hrqx16#4946810",
+    "opponent": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 2
+    },
+    "home": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 2
+    },
+    "away": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-09T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946811",
+    "pageUrl": "/matches/turan-tovuz-vs-karvan-fk/1c5zit#4946811",
+    "opponent": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "home": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 1
+    },
+    "away": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946826",
+    "pageUrl": "/matches/shamakhi-fk-vs-fk-neftchi/dg4dl#4946826",
+    "opponent": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 3
+    },
+    "home": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 3
+    },
+    "away": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946827",
+    "pageUrl": "/matches/karvan-fk-vs-fk-qabala/25dhcx#4946827",
+    "opponent": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "home": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 1
+    },
+    "away": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-15T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946812",
+    "pageUrl": "/matches/fc-kapaz-vs-araz-pfk/1j59urbd#4946812",
+    "opponent": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "home": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 2
+    },
+    "away": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-15T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946813",
+    "pageUrl": "/matches/qarabag-fk-vs-imisli-fk/kj9oq75g#4946813",
+    "opponent": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 3
+    },
+    "home": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 3
+    },
+    "away": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-16T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946815",
+    "pageUrl": "/matches/shamakhi-fk-vs-turan-tovuz/dod93#4946815",
+    "opponent": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 3
+    },
+    "home": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 3
+    },
+    "away": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-16T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946814",
+    "pageUrl": "/matches/fk-neftchi-vs-sabah-fk/5u5i5ozq#4946814",
+    "opponent": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 1
+    },
+    "home": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 1
+    },
+    "away": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-17T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946816",
+    "pageUrl": "/matches/sumqayit-vs-zira/3zxr8h7k#4946816",
+    "opponent": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 2
+    },
+    "home": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 2
+    },
+    "away": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-17T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4946818",
+    "pageUrl": "/matches/shamakhi-fk-vs-fk-qabala/uunxu#4946818",
+    "opponent": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "home": {
+      "id": "8076",
+      "name": "FK Qabala",
+      "score": 0
+    },
+    "away": {
+      "id": "2103",
+      "name": "Shamakhi FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-21T14:30:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4946822",
+    "pageUrl": "/matches/turan-tovuz-vs-sabah-fk/5u6emazt#4946822",
+    "opponent": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 0
+    },
+    "home": {
+      "id": "4674",
+      "name": "Turan Tovuz",
+      "score": 0
+    },
+    "away": {
+      "id": "951893",
+      "name": "Sabah FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-22T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4946821",
+    "pageUrl": "/matches/qarabag-fk-vs-sumqayit/bbf1vlh#4946821",
+    "opponent": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 0
+    },
+    "home": {
+      "id": "213987",
+      "name": "Sumqayit",
+      "score": 0
+    },
+    "away": {
+      "id": "7981",
+      "name": "Qarabag FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-22T15:30:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4946820",
+    "pageUrl": "/matches/fc-kapaz-vs-fk-neftchi/mvvu1#4946820",
+    "opponent": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "home": {
+      "id": "4150",
+      "name": "FC Kapaz",
+      "score": 0
+    },
+    "away": {
+      "id": "4617",
+      "name": "FK Neftchi",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-23T11:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4946817",
+    "pageUrl": "/matches/araz-pfk-vs-zira/77rrc24t#4946817",
+    "opponent": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 0
+    },
+    "home": {
+      "id": "485832",
+      "name": "Araz PFK",
+      "score": 0
+    },
+    "away": {
+      "id": "577619",
+      "name": "Zira",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-23T15:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4946819",
+    "pageUrl": "/matches/karvan-fk-vs-imisli-fk/kjbl35n8#4946819",
+    "opponent": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "home": {
+      "id": "1786024",
+      "name": "Imisli FK",
+      "score": 0
+    },
+    "away": {
+      "id": "8045",
+      "name": "Karvan FK",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-24T12:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  }
+]

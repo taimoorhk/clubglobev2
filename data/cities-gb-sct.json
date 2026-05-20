@@ -1,0 +1,187 @@
+{
+  "Aberdeen": {
+    "lat": 57.1497,
+    "lng": -2.0943,
+    "countryCode": "GB-SCT"
+  },
+  "Alloa": {
+    "lat": 56.1156137,
+    "lng": -3.7922423,
+    "countryCode": "GB-SCT"
+  },
+  "Annan": {
+    "lat": 54.9873333,
+    "lng": -3.2620207,
+    "countryCode": "GB-SCT"
+  },
+  "Arbroath": {
+    "lat": 56.5586729,
+    "lng": -2.5815669,
+    "countryCode": "GB-SCT"
+  },
+  "Ayr": {
+    "lat": 55.4628044,
+    "lng": -4.6302502,
+    "countryCode": "GB-SCT"
+  },
+  "Clyde": {
+    "lat": 55.7043865,
+    "lng": -3.8742974,
+    "countryCode": "GB-SCT"
+  },
+  "Cove Rangers": {
+    "lat": 57.1129751,
+    "lng": -2.0967974,
+    "countryCode": "GB-SCT"
+  },
+  "Dumbarton": {
+    "lat": 55.9432443,
+    "lng": -4.5708479,
+    "countryCode": "GB-SCT"
+  },
+  "Dumfries": {
+    "lat": 55.0691831,
+    "lng": -3.6106856,
+    "countryCode": "GB-SCT"
+  },
+  "Dundee": {
+    "lat": 56.462,
+    "lng": -2.9707,
+    "countryCode": "GB-SCT"
+  },
+  "Dunfermline": {
+    "lat": 56.0713724,
+    "lng": -3.4616183,
+    "countryCode": "GB-SCT"
+  },
+  "East Fife": {
+    "lat": 56.0551778,
+    "lng": -3.6230047,
+    "countryCode": "GB-SCT"
+  },
+  "East Kilbride": {
+    "lat": 55.7605737,
+    "lng": -4.177663,
+    "countryCode": "GB-SCT"
+  },
+  "Edinburgh": {
+    "lat": 55.9533,
+    "lng": -3.1883,
+    "countryCode": "GB-SCT"
+  },
+  "Elgin": {
+    "lat": 57.6487891,
+    "lng": -3.3148459,
+    "countryCode": "GB-SCT"
+  },
+  "Falkirk": {
+    "lat": 55.9991959,
+    "lng": -3.784376,
+    "countryCode": "GB-SCT"
+  },
+  "Forfar": {
+    "lat": 56.6443013,
+    "lng": -2.888212,
+    "countryCode": "GB-SCT"
+  },
+  "Glasgow": {
+    "lat": 55.8642,
+    "lng": -4.2518,
+    "countryCode": "GB-SCT"
+  },
+  "Greenock": {
+    "lat": 55.9473423,
+    "lng": -4.7564721,
+    "countryCode": "GB-SCT"
+  },
+  "Hamilton Academical": {
+    "lat": 55.7821405,
+    "lng": -4.0579043,
+    "countryCode": "GB-SCT"
+  },
+  "Hearts": {
+    "lat": 55.9315613,
+    "lng": -3.133008,
+    "countryCode": "GB-SCT"
+  },
+  "Inverness CT": {
+    "lat": 57.4790124,
+    "lng": -4.225739,
+    "countryCode": "GB-SCT"
+  },
+  "Kelty Hearts": {
+    "lat": 56.1362372,
+    "lng": -3.3794504,
+    "countryCode": "GB-SCT"
+  },
+  "Kilmarnock": {
+    "lat": 55.6100589,
+    "lng": -4.4964652,
+    "countryCode": "GB-SCT"
+  },
+  "Kirkcaldy": {
+    "lat": 56.1110218,
+    "lng": -3.1582296,
+    "countryCode": "GB-SCT"
+  },
+  "Livingston": {
+    "lat": 55.8829582,
+    "lng": -3.5175773,
+    "countryCode": "GB-SCT"
+  },
+  "Montrose": {
+    "lat": 56.7114295,
+    "lng": -2.4681544,
+    "countryCode": "GB-SCT"
+  },
+  "Motherwell": {
+    "lat": 55.7893512,
+    "lng": -3.9904173,
+    "countryCode": "GB-SCT"
+  },
+  "Peterhead": {
+    "lat": 57.5052909,
+    "lng": -1.7813194,
+    "countryCode": "GB-SCT"
+  },
+  "Queen's Park": {
+    "lat": 55.8314201,
+    "lng": -4.2702266,
+    "countryCode": "GB-SCT"
+  },
+  "Ross": {
+    "lat": 55.8380097,
+    "lng": -2.0625284,
+    "countryCode": "GB-SCT"
+  },
+  "Spartans": {
+    "lat": 55.9715487,
+    "lng": -3.2331249,
+    "countryCode": "GB-SCT"
+  },
+  "St. Johnstone": {
+    "lat": 56.152149,
+    "lng": -3.7991758,
+    "countryCode": "GB-SCT"
+  },
+  "St. Mirren": {
+    "lat": 55.8505344,
+    "lng": -4.4442054,
+    "countryCode": "GB-SCT"
+  },
+  "Stenhousemuir": {
+    "lat": 56.0258265,
+    "lng": -3.8163132,
+    "countryCode": "GB-SCT"
+  },
+  "Stirling": {
+    "lat": 56.1181242,
+    "lng": -3.9360012,
+    "countryCode": "GB-SCT"
+  },
+  "Stranraer": {
+    "lat": 54.9044332,
+    "lng": -5.026204,
+    "countryCode": "GB-SCT"
+  }
+}

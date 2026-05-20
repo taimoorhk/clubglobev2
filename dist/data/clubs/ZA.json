@@ -1,0 +1,3362 @@
+[
+  {
+    "id": "za-academy-fc",
+    "name": "Academy FC",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Academy",
+    "lat": -26.1475233,
+    "lng": 27.9042845,
+    "divisionTier": 7,
+    "leagueId": "africa-curated-ZA-t7",
+    "leagueName": "SAFA LFA Division 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-african-wanderers",
+    "name": "African Wanderers",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "African",
+    "lat": -28.8086236,
+    "lng": 25.059639,
+    "divisionTier": 6,
+    "leagueId": "africa-curated-ZA-t6",
+    "leagueName": "SAFA LFA Division 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-ajax-cape-town",
+    "name": "Ajax Cape Town",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Ajax Cape",
+    "lat": -33.9186987,
+    "lng": 18.5817601,
+    "divisionTier": 4,
+    "leagueId": "africa-curated-ZA-t4",
+    "leagueName": "SAFA Regional League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-amazulu-development",
+    "name": "AmaZulu Development",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "AmaZulu",
+    "lat": -26.2320964,
+    "lng": 27.7543604,
+    "divisionTier": 5,
+    "leagueId": "africa-curated-ZA-t5",
+    "leagueName": "SAFA LFA Premier",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102100.png",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-amazulu-fc",
+    "name": "AmaZulu FC",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "AmaZulu",
+    "lat": -26.1920964,
+    "lng": 27.6303604,
+    "divisionTier": 1,
+    "leagueId": "537",
+    "leagueName": "Premier Soccer League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102100.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 5,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Kaizer Chiefs",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T13:00:00Z",
+          "opponent": "Orbit College",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-06T17:30:00Z",
+          "opponent": "Lamontville Golden Arrows",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T13:00:00Z",
+          "opponent": "Chippa United",
+          "homeAway": "home",
+          "score": "5 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T13:00:00Z",
+          "opponent": "Orlando Pirates",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T13:00:00Z",
+          "opponent": "Siwelele",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T15:30:00Z",
+          "opponent": "Sekhukhune United",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:30:00Z",
+          "opponent": "Polokwane City",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T16:00:00Z",
+          "opponent": "Richards Bay",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-04T17:30:00Z",
+          "opponent": "Magesi FC",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-baroka-fc",
+    "name": "Baroka FC",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Baroka",
+    "lat": -28.476,
+    "lng": 24.62,
+    "divisionTier": 3,
+    "leagueId": "africa-curated-ZA-t3",
+    "leagueName": "SAFA Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-batau-fc",
+    "name": "Batau FC",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Batau",
+    "lat": -25.1333333,
+    "lng": 26.6648889,
+    "divisionTier": 6,
+    "leagueId": "africa-curated-ZA-t6",
+    "leagueName": "SAFA LFA Division 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-bidvest-wits",
+    "name": "Bidvest Wits",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Bidvest Wits",
+    "lat": -28.452,
+    "lng": 24.644,
+    "divisionTier": 4,
+    "leagueId": "africa-curated-ZA-t4",
+    "leagueName": "SAFA Regional League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-black-leopards",
+    "name": "Black Leopards",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Thohoyandou",
+    "lat": -22.9116,
+    "lng": 30.3975,
+    "divisionTier": 3,
+    "leagueId": "africa-curated-ZA-t3",
+    "leagueName": "SAFA Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-blackburn-rovers",
+    "name": "Blackburn Rovers",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Blackburn",
+    "lat": -26.1981961,
+    "lng": 28.408986300000002,
+    "divisionTier": 6,
+    "leagueId": "africa-curated-ZA-t6",
+    "leagueName": "SAFA LFA Division 1",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Blackburn_Rovers.svg/330px-Blackburn_Rovers.svg.png",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-bloemfontein-celtic",
+    "name": "Bloemfontein Celtic",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Bloemfontein Celtic",
+    "lat": -28.516,
+    "lng": 24.744,
+    "divisionTier": 4,
+    "leagueId": "africa-curated-ZA-t4",
+    "leagueName": "SAFA Regional League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-bush-bucks",
+    "name": "Bush Bucks",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Bush Bucks",
+    "lat": -28.564,
+    "lng": 24.695999999999998,
+    "divisionTier": 7,
+    "leagueId": "africa-curated-ZA-t7",
+    "leagueName": "SAFA LFA Division 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-cape-town-all-stars",
+    "name": "Cape Town All Stars",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Cape Town",
+    "lat": -33.9769,
+    "lng": 18.4321,
+    "divisionTier": 7,
+    "leagueId": "africa-curated-ZA-t7",
+    "leagueName": "SAFA LFA Division 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-cape-town-spurs",
+    "name": "Cape Town Spurs",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Cape Town",
+    "lat": -33.9889,
+    "lng": 18.420099999999998,
+    "divisionTier": 2,
+    "leagueId": "africa-curated-ZA-t2",
+    "leagueName": "National First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-cape-umoya-united",
+    "name": "Cape Umoya United",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Cape Umoya",
+    "lat": -28.44,
+    "lng": 24.656,
+    "divisionTier": 5,
+    "leagueId": "africa-curated-ZA-t5",
+    "leagueName": "SAFA LFA Premier",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-casric-stars",
+    "name": "Casric Stars",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Casric Stars",
+    "lat": -28.476,
+    "lng": 24.62,
+    "divisionTier": 2,
+    "leagueId": "africa-curated-ZA-t2",
+    "leagueName": "National First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-chippa-united",
+    "name": "Chippa United",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Gqeberha",
+    "lat": -33.9008,
+    "lng": 25.5582,
+    "divisionTier": 1,
+    "leagueId": "537",
+    "leagueName": "Premier Soccer League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/316438.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 3,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Lamontville Golden Arrows",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T13:00:00Z",
+          "opponent": "TS Galaxy",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-06T11:00:00Z",
+          "opponent": "Sekhukhune United",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T13:00:00Z",
+          "opponent": "AmaZulu FC",
+          "homeAway": "away",
+          "score": "5 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T18:00:00Z",
+          "opponent": "Polokwane City",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T17:30:00Z",
+          "opponent": "Siwelele",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T17:30:00Z",
+          "opponent": "Mamelodi Sundowns FC",
+          "homeAway": "away",
+          "score": "4 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:30:00Z",
+          "opponent": "Stellenbosch FC",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:30:00Z",
+          "opponent": "Magesi FC",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-04T17:30:00Z",
+          "opponent": "Marumo Gallants",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-dikwena",
+    "name": "Dikwena",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Dikwena",
+    "lat": -25.9320373,
+    "lng": 28.153864,
+    "divisionTier": 7,
+    "leagueId": "africa-curated-ZA-t7",
+    "leagueName": "SAFA LFA Division 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-durban-city",
+    "name": "Durban City",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Durban",
+    "lat": -29.9107,
+    "lng": 31.029799999999998,
+    "divisionTier": 1,
+    "leagueId": "537",
+    "leagueName": "Premier Soccer League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/149599.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 5,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Orlando Pirates",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T17:30:00Z",
+          "opponent": "Stellenbosch FC",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-05T17:30:00Z",
+          "opponent": "Siwelele",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T17:30:00Z",
+          "opponent": "Orbit College",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T15:30:00Z",
+          "opponent": "Magesi FC",
+          "homeAway": "away",
+          "score": "5 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T13:00:00Z",
+          "opponent": "Lamontville Golden Arrows",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T17:30:00Z",
+          "opponent": "Mamelodi Sundowns FC",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T16:00:00Z",
+          "opponent": "Richards Bay",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T13:30:00Z",
+          "opponent": "Kaizer Chiefs",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-04T17:30:00Z",
+          "opponent": "Sekhukhune United",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-durban-stars",
+    "name": "Durban Stars",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Durban",
+    "lat": -29.8427,
+    "lng": 31.0978,
+    "divisionTier": 5,
+    "leagueId": "africa-curated-ZA-t5",
+    "leagueName": "SAFA LFA Premier",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/149599.png",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-dynamos-giyani",
+    "name": "Dynamos Giyani",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Dynamos Giyani",
+    "lat": -28.48,
+    "lng": 24.779999999999998,
+    "divisionTier": 6,
+    "leagueId": "africa-curated-ZA-t6",
+    "leagueName": "SAFA LFA Division 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-eastern-gables",
+    "name": "Eastern Gables",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Eastern Gables",
+    "lat": -28.576,
+    "lng": 24.684,
+    "divisionTier": 7,
+    "leagueId": "africa-curated-ZA-t7",
+    "leagueName": "SAFA LFA Division 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-ezemvelo",
+    "name": "Ezemvelo",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Ezemvelo",
+    "lat": -25.7273464,
+    "lng": 28.9395334,
+    "divisionTier": 5,
+    "leagueId": "africa-curated-ZA-t5",
+    "leagueName": "SAFA LFA Premier",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-free-state-stars",
+    "name": "Free State Stars",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Free State Stars",
+    "lat": -28.424,
+    "lng": 24.672,
+    "divisionTier": 4,
+    "leagueId": "africa-curated-ZA-t4",
+    "leagueName": "SAFA Regional League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-garankuwa-united",
+    "name": "Garankuwa United",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Garankuwa",
+    "lat": -28.436,
+    "lng": 24.66,
+    "divisionTier": 5,
+    "leagueId": "africa-curated-ZA-t5",
+    "leagueName": "SAFA LFA Premier",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-giyani-united",
+    "name": "Giyani United",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Giyani",
+    "lat": -23.243278,
+    "lng": 30.693556,
+    "divisionTier": 7,
+    "leagueId": "africa-curated-ZA-t7",
+    "leagueName": "SAFA LFA Division 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-gomora-united",
+    "name": "Gomora United",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Gomora",
+    "lat": -28.484,
+    "lng": 24.776,
+    "divisionTier": 2,
+    "leagueId": "africa-curated-ZA-t2",
+    "leagueName": "National First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-hazyview-comrades",
+    "name": "Hazyview Comrades",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Hazyview Comrades",
+    "lat": -28.432,
+    "lng": 24.663999999999998,
+    "divisionTier": 7,
+    "leagueId": "africa-curated-ZA-t7",
+    "leagueName": "SAFA LFA Division 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-hellenic-fc",
+    "name": "Hellenic FC",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Hellenic",
+    "lat": -25.8174109,
+    "lng": 28.2313334,
+    "divisionTier": 5,
+    "leagueId": "africa-curated-ZA-t5",
+    "leagueName": "SAFA LFA Premier",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-highlands-park",
+    "name": "Highlands Park",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Highlands Park",
+    "lat": -28.5505058,
+    "lng": 28.689980799999997,
+    "divisionTier": 3,
+    "leagueId": "africa-curated-ZA-t3",
+    "leagueName": "SAFA Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-hungry-lions",
+    "name": "Hungry Lions",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Hungry Lions",
+    "lat": -28.476,
+    "lng": 24.62,
+    "divisionTier": 2,
+    "leagueId": "africa-curated-ZA-t2",
+    "leagueName": "National First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-ikapa-sporting",
+    "name": "Ikapa Sporting",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Ikapa Sporting",
+    "lat": -28.428,
+    "lng": 24.668,
+    "divisionTier": 5,
+    "leagueId": "africa-curated-ZA-t5",
+    "leagueName": "SAFA LFA Premier",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-ikwezi-united",
+    "name": "Ikwezi United",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Ikwezi",
+    "lat": -31.6627295,
+    "lng": 28.804554500000002,
+    "divisionTier": 7,
+    "leagueId": "africa-curated-ZA-t7",
+    "leagueName": "SAFA LFA Division 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-jdr-stars",
+    "name": "JDR Stars",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "JDR Stars",
+    "lat": -28.508,
+    "lng": 24.752,
+    "divisionTier": 3,
+    "leagueId": "africa-curated-ZA-t3",
+    "leagueName": "SAFA Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-jomo-cosmos",
+    "name": "Jomo Cosmos",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Jomo Cosmos",
+    "lat": -26.2479201,
+    "lng": 27.7420769,
+    "divisionTier": 3,
+    "leagueId": "africa-curated-ZA-t3",
+    "leagueName": "SAFA Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-kaizer-chiefs",
+    "name": "Kaizer Chiefs",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Johannesburg",
+    "lat": -26.205,
+    "lng": 28.049,
+    "divisionTier": 1,
+    "leagueId": "537",
+    "leagueName": "Premier Soccer League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6279.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 3,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "AmaZulu FC",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T15:30:00Z",
+          "opponent": "Sekhukhune United",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-06T17:30:00Z",
+          "opponent": "Mamelodi Sundowns FC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T17:30:00Z",
+          "opponent": "Siwelele",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T13:45:00Z",
+          "opponent": "Orlando Pirates",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T15:30:00Z",
+          "opponent": "Polokwane City",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-15T17:30:00Z",
+          "opponent": "Magesi FC",
+          "homeAway": "away",
+          "score": "1 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T13:00:00Z",
+          "opponent": "TS Galaxy",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T13:00:00Z",
+          "opponent": "Orbit College",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T16:00:00Z",
+          "opponent": "Magesi FC",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-ladysmith-celtic",
+    "name": "Ladysmith Celtic",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Ladysmith Celtic",
+    "lat": -28.456,
+    "lng": 24.64,
+    "divisionTier": 6,
+    "leagueId": "africa-curated-ZA-t6",
+    "leagueName": "SAFA LFA Division 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-lamontville-golden-arrows",
+    "name": "Lamontville Golden Arrows",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Lamontville Golden Arrows",
+    "lat": -28.564,
+    "lng": 24.695999999999998,
+    "divisionTier": 1,
+    "leagueId": "537",
+    "leagueName": "Premier Soccer League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102097.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 4,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Chippa United",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T13:00:00Z",
+          "opponent": "Polokwane City",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-06T17:30:00Z",
+          "opponent": "AmaZulu FC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T17:30:00Z",
+          "opponent": "Siwelele",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T13:00:00Z",
+          "opponent": "Orbit College",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T13:00:00Z",
+          "opponent": "Durban City",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T17:30:00Z",
+          "opponent": "Orlando Pirates",
+          "homeAway": "away",
+          "score": "5 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T13:30:00Z",
+          "opponent": "Sekhukhune United",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-18T17:30:00Z",
+          "opponent": "Stellenbosch FC",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:30:00Z",
+          "opponent": "Marumo Gallants",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-leopards-united",
+    "name": "Leopards United",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Leopards",
+    "lat": -34.2848721,
+    "lng": 22.0204709,
+    "divisionTier": 5,
+    "leagueId": "africa-curated-ZA-t5",
+    "leagueName": "SAFA LFA Premier",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-magesi-fc",
+    "name": "Magesi FC",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Magesi",
+    "lat": -28.512,
+    "lng": 24.747999999999998,
+    "divisionTier": 1,
+    "leagueId": "537",
+    "leagueName": "Premier Soccer League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/429859.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 2,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Siwelele",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Orlando Pirates",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-05T17:30:00Z",
+          "opponent": "Orbit College",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T13:00:00Z",
+          "opponent": "TS Galaxy",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T15:30:00Z",
+          "opponent": "Durban City",
+          "homeAway": "home",
+          "score": "5 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-15T17:30:00Z",
+          "opponent": "Kaizer Chiefs",
+          "homeAway": "home",
+          "score": "1 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T15:30:00Z",
+          "opponent": "Sekhukhune United",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T17:30:00Z",
+          "opponent": "Marumo Gallants",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T16:00:00Z",
+          "opponent": "Kaizer Chiefs",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:30:00Z",
+          "opponent": "Chippa United",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-mamelodi-sundowns-fc",
+    "name": "Mamelodi Sundowns FC",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Mamelodi Sundowns",
+    "lat": -28.568,
+    "lng": 24.692,
+    "divisionTier": 1,
+    "leagueId": "537",
+    "leagueName": "Premier Soccer League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4530.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 3,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-12T17:30:00Z",
+          "opponent": "TS Galaxy",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T15:30:00Z",
+          "opponent": "Siwelele",
+          "homeAway": "home",
+          "score": "7 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-06T17:30:00Z",
+          "opponent": "Kaizer Chiefs",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T13:00:00Z",
+          "opponent": "Polokwane City",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T17:30:00Z",
+          "opponent": "Polokwane City",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T15:30:00Z",
+          "opponent": "Richards Bay",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T17:30:00Z",
+          "opponent": "Stellenbosch FC",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T17:30:00Z",
+          "opponent": "Durban City",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T17:30:00Z",
+          "opponent": "Chippa United",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-17T17:30:00Z",
+          "opponent": "Marumo Gallants",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-maritzburg-united",
+    "name": "Maritzburg United",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Maritzburg",
+    "lat": -29.6524234,
+    "lng": 30.4045122,
+    "divisionTier": 4,
+    "leagueId": "africa-curated-ZA-t4",
+    "leagueName": "SAFA Regional League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-marumo-gallants",
+    "name": "Marumo Gallants",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Marumo Gallants",
+    "lat": -28.48,
+    "lng": 24.779999999999998,
+    "divisionTier": 1,
+    "leagueId": "537",
+    "leagueName": "Premier Soccer League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/352390.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 6,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Polokwane City",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T13:00:00Z",
+          "opponent": "Richards Bay",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-06T17:30:00Z",
+          "opponent": "TS Galaxy",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T15:30:00Z",
+          "opponent": "Sekhukhune United",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T13:00:00Z",
+          "opponent": "Siwelele",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T15:30:00Z",
+          "opponent": "Orbit College",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T17:30:00Z",
+          "opponent": "Magesi FC",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-17T17:30:00Z",
+          "opponent": "Mamelodi Sundowns FC",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:30:00Z",
+          "opponent": "Lamontville Golden Arrows",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-04T17:30:00Z",
+          "opponent": "Chippa United",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-milford-fc",
+    "name": "Milford FC",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Milford",
+    "lat": -27.9628333,
+    "lng": 30.304944399999997,
+    "divisionTier": 3,
+    "leagueId": "africa-curated-ZA-t3",
+    "leagueName": "SAFA Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-moroka-swallows",
+    "name": "Moroka Swallows",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Moroka Swallows",
+    "lat": -26.261052499999998,
+    "lng": 27.7264694,
+    "divisionTier": 4,
+    "leagueId": "africa-curated-ZA-t4",
+    "leagueName": "SAFA Regional League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-mthatha-bucks",
+    "name": "Mthatha Bucks",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Mthatha Bucks",
+    "lat": -28.5,
+    "lng": 24.759999999999998,
+    "divisionTier": 6,
+    "leagueId": "africa-curated-ZA-t6",
+    "leagueName": "SAFA LFA Division 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-orbit-college",
+    "name": "Orbit College",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Orbit College",
+    "lat": -25.283853999999998,
+    "lng": 27.2690576,
+    "divisionTier": 1,
+    "leagueId": "537",
+    "leagueName": "Premier Soccer League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/915983.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 3,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Stellenbosch FC",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T13:00:00Z",
+          "opponent": "AmaZulu FC",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-05T17:30:00Z",
+          "opponent": "Magesi FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T17:30:00Z",
+          "opponent": "Durban City",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T13:00:00Z",
+          "opponent": "Lamontville Golden Arrows",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T15:30:00Z",
+          "opponent": "Marumo Gallants",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T13:00:00Z",
+          "opponent": "Kaizer Chiefs",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T13:30:00Z",
+          "opponent": "Siwelele",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-10T17:30:00Z",
+          "opponent": "Mamelodi Sundowns FC",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-03T17:30:00Z",
+          "opponent": "TS Galaxy",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-orlando-pirates",
+    "name": "Orlando Pirates",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Johannesburg",
+    "lat": -26.235,
+    "lng": 27.865,
+    "divisionTier": 1,
+    "leagueId": "537",
+    "leagueName": "Premier Soccer League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7866.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 4,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Durban City",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Magesi FC",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-05T17:30:00Z",
+          "opponent": "Stellenbosch FC",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T13:45:00Z",
+          "opponent": "Kaizer Chiefs",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T13:00:00Z",
+          "opponent": "AmaZulu FC",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T17:30:00Z",
+          "opponent": "Richards Bay",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T17:30:00Z",
+          "opponent": "Lamontville Golden Arrows",
+          "homeAway": "home",
+          "score": "5 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T13:30:00Z",
+          "opponent": "TS Galaxy",
+          "homeAway": "away",
+          "score": "0 - 6",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:30:00Z",
+          "opponent": "Siwelele",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-11T17:30:00Z",
+          "opponent": "Richards Bay",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-orlando-pirates-b",
+    "name": "Orlando Pirates B",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Orlando Pirates B",
+    "lat": -26.274693,
+    "lng": 27.710494500000003,
+    "divisionTier": 6,
+    "leagueId": "africa-curated-ZA-t6",
+    "leagueName": "SAFA LFA Division 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7866.png",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-platinum-stars",
+    "name": "Platinum Stars",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Platinum Stars",
+    "lat": -28.536,
+    "lng": 24.724,
+    "divisionTier": 4,
+    "leagueId": "africa-curated-ZA-t4",
+    "leagueName": "SAFA Regional League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-polokwane-city",
+    "name": "Polokwane City",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Polokwane",
+    "lat": -23.9725,
+    "lng": 29.460900000000002,
+    "divisionTier": 1,
+    "leagueId": "537",
+    "leagueName": "Premier Soccer League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/149600.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 5,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Marumo Gallants",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T13:00:00Z",
+          "opponent": "Lamontville Golden Arrows",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-06T17:30:00Z",
+          "opponent": "Richards Bay",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T13:00:00Z",
+          "opponent": "Mamelodi Sundowns FC",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T17:30:00Z",
+          "opponent": "Mamelodi Sundowns FC",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T13:00:00Z",
+          "opponent": "Stellenbosch FC",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T15:30:00Z",
+          "opponent": "Kaizer Chiefs",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T18:00:00Z",
+          "opponent": "Chippa United",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-08T17:30:00Z",
+          "opponent": "TS Galaxy",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:30:00Z",
+          "opponent": "AmaZulu FC",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-pretoria-callies",
+    "name": "Pretoria Callies",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Pretoria Callies",
+    "lat": -25.8274699,
+    "lng": 28.0540563,
+    "divisionTier": 2,
+    "leagueId": "africa-curated-ZA-t2",
+    "leagueName": "National First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-richards-bay",
+    "name": "Richards Bay",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Richards Bay",
+    "lat": -28.723000000000003,
+    "lng": 31.993799999999997,
+    "divisionTier": 1,
+    "leagueId": "537",
+    "leagueName": "Premier Soccer League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/866690.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 5,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Sekhukhune United",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T13:00:00Z",
+          "opponent": "Marumo Gallants",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-06T17:30:00Z",
+          "opponent": "Polokwane City",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T15:30:00Z",
+          "opponent": "Mamelodi Sundowns FC",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T13:00:00Z",
+          "opponent": "TS Galaxy",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T17:30:00Z",
+          "opponent": "Orlando Pirates",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T17:30:00Z",
+          "opponent": "Stellenbosch FC",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T16:00:00Z",
+          "opponent": "Durban City",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T16:00:00Z",
+          "opponent": "AmaZulu FC",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-11T17:30:00Z",
+          "opponent": "Orlando Pirates",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-sekhukhune-united",
+    "name": "Sekhukhune United",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Polokwane",
+    "lat": -23.9045,
+    "lng": 29.5289,
+    "divisionTier": 1,
+    "leagueId": "537",
+    "leagueName": "Premier Soccer League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/612014.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 5,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Richards Bay",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T15:30:00Z",
+          "opponent": "Kaizer Chiefs",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-06T11:00:00Z",
+          "opponent": "Chippa United",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T15:30:00Z",
+          "opponent": "Marumo Gallants",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T17:30:00Z",
+          "opponent": "Stellenbosch FC",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T15:30:00Z",
+          "opponent": "Magesi FC",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T15:30:00Z",
+          "opponent": "AmaZulu FC",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T13:30:00Z",
+          "opponent": "Lamontville Golden Arrows",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T16:00:00Z",
+          "opponent": "Polokwane City",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-04T17:30:00Z",
+          "opponent": "Durban City",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-siwelele",
+    "name": "Siwelele",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Siwelele",
+    "lat": -28.492,
+    "lng": 24.768,
+    "divisionTier": 1,
+    "leagueId": "537",
+    "leagueName": "Premier Soccer League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102099.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 5,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Magesi FC",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T15:30:00Z",
+          "opponent": "Mamelodi Sundowns FC",
+          "homeAway": "away",
+          "score": "7 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-05T17:30:00Z",
+          "opponent": "Durban City",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T17:30:00Z",
+          "opponent": "Kaizer Chiefs",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T17:30:00Z",
+          "opponent": "Lamontville Golden Arrows",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T13:00:00Z",
+          "opponent": "Marumo Gallants",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T13:00:00Z",
+          "opponent": "AmaZulu FC",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T17:30:00Z",
+          "opponent": "Chippa United",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T13:30:00Z",
+          "opponent": "Orbit College",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:30:00Z",
+          "opponent": "Orlando Pirates",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-stellenbosch-fc",
+    "name": "Stellenbosch FC",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Stellenbosch",
+    "lat": -33.8881,
+    "lng": 18.8002,
+    "divisionTier": 1,
+    "leagueId": "537",
+    "leagueName": "Premier Soccer League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/207873.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 4,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Orbit College",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T17:30:00Z",
+          "opponent": "Durban City",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-05T17:30:00Z",
+          "opponent": "Orlando Pirates",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T13:00:00Z",
+          "opponent": "Polokwane City",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T17:30:00Z",
+          "opponent": "Mamelodi Sundowns FC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T17:30:00Z",
+          "opponent": "Sekhukhune United",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-07T17:30:00Z",
+          "opponent": "Richards Bay",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:30:00Z",
+          "opponent": "Chippa United",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-18T17:30:00Z",
+          "opponent": "Lamontville Golden Arrows",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T17:30:00Z",
+          "opponent": "TS Galaxy",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-ts-galaxy",
+    "name": "TS Galaxy",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "TS Galaxy",
+    "lat": -26.2320672,
+    "lng": 27.8913713,
+    "divisionTier": 1,
+    "leagueId": "537",
+    "leagueName": "Premier Soccer League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/953498.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 4,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-12T17:30:00Z",
+          "opponent": "Mamelodi Sundowns FC",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T13:00:00Z",
+          "opponent": "Chippa United",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-06T17:30:00Z",
+          "opponent": "Marumo Gallants",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T13:00:00Z",
+          "opponent": "Magesi FC",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T13:00:00Z",
+          "opponent": "Richards Bay",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T13:00:00Z",
+          "opponent": "Kaizer Chiefs",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-08T17:30:00Z",
+          "opponent": "Polokwane City",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T13:30:00Z",
+          "opponent": "Orlando Pirates",
+          "homeAway": "home",
+          "score": "0 - 6",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T17:30:00Z",
+          "opponent": "Stellenbosch FC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-03T17:30:00Z",
+          "opponent": "Orbit College",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-university-of-pretoria",
+    "name": "University of Pretoria",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "University of Pretoria",
+    "lat": -25.678335399999998,
+    "lng": 28.2028578,
+    "divisionTier": 2,
+    "leagueId": "africa-curated-ZA-t2",
+    "leagueName": "National First Division",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/University_of_Pretoria_Coat_of_Arms.png/330px-University_of_Pretoria_Coat_of_Arms.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-upington-city",
+    "name": "Upington City",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Upington",
+    "lat": -28.516325,
+    "lng": 21.241867,
+    "divisionTier": 3,
+    "leagueId": "africa-curated-ZA-t3",
+    "leagueName": "SAFA Second Division",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/4f/Upington_City_FC.jpg",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "za-venda-fa",
+    "name": "Venda FA",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "city": "Venda FA",
+    "lat": -26.196515400000003,
+    "lng": 28.1686327,
+    "divisionTier": 2,
+    "leagueId": "africa-curated-ZA-t2",
+    "leagueName": "National First Division",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b1/Venda_Football_Club_logo.jpg",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "1º de Maio": {
+    "lat": -14.7735957,
+    "lng": 17.6867644,
+    "countryCode": "AO"
+  },
+  "Ferroviário Huila": {
+    "lat": -14.930586,
+    "lng": 13.5069951,
+    "countryCode": "AO"
+  },
+  "Luanda": {
+    "lat": -8.839,
+    "lng": 13.2894,
+    "countryCode": "AO"
+  },
+  "Sagrada Esperança": {
+    "lat": -14.7078125,
+    "lng": 14.6446765,
+    "countryCode": "AO"
+  },
+  "Sporting de Cabinda": {
+    "lat": -5.5600682,
+    "lng": 12.1934742,
+    "countryCode": "AO"
+  }
+}

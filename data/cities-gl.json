@@ -1,0 +1,62 @@
+{
+  "Nuuk": {
+    "lat": 64.1835,
+    "lng": -51.7216,
+    "countryCode": "GL"
+  },
+  "Sisimiut": {
+    "lat": 66.9395,
+    "lng": -53.6735,
+    "countryCode": "GL"
+  },
+  "Ilulissat": {
+    "lat": 69.2198,
+    "lng": -51.0986,
+    "countryCode": "GL"
+  },
+  "Qaqortoq": {
+    "lat": 60.7184,
+    "lng": -46.0356,
+    "countryCode": "GL"
+  },
+  "Aasiaat": {
+    "lat": 68.7098,
+    "lng": -52.8699,
+    "countryCode": "GL"
+  },
+  "Maniitsoq": {
+    "lat": 65.4167,
+    "lng": -52.9,
+    "countryCode": "GL"
+  },
+  "Tasiilaq": {
+    "lat": 65.6136,
+    "lng": -37.6337,
+    "countryCode": "GL"
+  },
+  "Upernavik": {
+    "lat": 72.7868,
+    "lng": -56.1549,
+    "countryCode": "GL"
+  },
+  "Paamiut": {
+    "lat": 61.994,
+    "lng": -49.6678,
+    "countryCode": "GL"
+  },
+  "Narsaq": {
+    "lat": 60.9127,
+    "lng": -46.0505,
+    "countryCode": "GL"
+  },
+  "Qeqertarsuaq": {
+    "lat": 69.2472,
+    "lng": -53.5365,
+    "countryCode": "GL"
+  },
+  "Nanortalik": {
+    "lat": 60.1432,
+    "lng": -45.2371,
+    "countryCode": "GL"
+  }
+}

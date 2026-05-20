@@ -1,0 +1,226 @@
+[
+  {
+    "id": "mu-as-port-louis-2000",
+    "name": "AS Port-Louis 2000",
+    "countryCode": "MU",
+    "country": "Mauritius",
+    "city": "AS Port-Louis 2000",
+    "lat": -20.1544522,
+    "lng": 57.5708044,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MU-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mu-beau-bassin-rose-hill",
+    "name": "Beau Bassin-Rose Hill",
+    "countryCode": "MU",
+    "country": "Mauritius",
+    "city": "Beau Bassin-Rose Hill",
+    "lat": -20.294269,
+    "lng": 57.4693447,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MU-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mu-curepipe-starlight",
+    "name": "Curepipe Starlight",
+    "countryCode": "MU",
+    "country": "Mauritius",
+    "city": "Curepipe Starlight",
+    "lat": -20.252000000000002,
+    "lng": 57.544000000000004,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MU-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mu-entente-boulet-rouge",
+    "name": "Entente Boulet Rouge",
+    "countryCode": "MU",
+    "country": "Mauritius",
+    "city": "Entente Boulet Rouge",
+    "lat": -20.336000000000002,
+    "lng": 57.624,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MU-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mu-pamplemousses",
+    "name": "Pamplemousses",
+    "countryCode": "MU",
+    "country": "Mauritius",
+    "city": "Pamplemousses",
+    "lat": -20.1468684,
+    "lng": 57.5861162,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MU-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mu-petite-rivi-re-noire",
+    "name": "Petite Rivière Noire",
+    "countryCode": "MU",
+    "country": "Mauritius",
+    "city": "Petite Rivière Noire",
+    "lat": -20.4497042,
+    "lng": 57.3819621,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MU-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mu-savanne-sc",
+    "name": "Savanne SC",
+    "countryCode": "MU",
+    "country": "Mauritius",
+    "city": "Savanne",
+    "lat": -20.494386000000002,
+    "lng": 57.5133297,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MU-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

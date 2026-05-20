@@ -1,0 +1,62 @@
+{
+  "Citizen": {
+    "lat": 22.3224644,
+    "lng": 114.168894,
+    "countryCode": "HK"
+  },
+  "Eastern": {
+    "lat": 43.0898499,
+    "lng": 131.9677594,
+    "countryCode": "HK"
+  },
+  "Eastern District": {
+    "lat": 22.2730777,
+    "lng": 114.2335938,
+    "countryCode": "HK"
+  },
+  "Happy Valley": {
+    "lat": 22.267237,
+    "lng": 114.1869671,
+    "countryCode": "HK"
+  },
+  "Kitchee": {
+    "lat": 22.3879935,
+    "lng": 114.2066244,
+    "countryCode": "HK"
+  },
+  "Lee Man": {
+    "lat": 22.3773544,
+    "lng": 114.1853864,
+    "countryCode": "HK"
+  },
+  "North District": {
+    "lat": 22.5169493,
+    "lng": 114.2135927,
+    "countryCode": "HK"
+  },
+  "Pegasus": {
+    "lat": 22.2067196,
+    "lng": 114.0338091,
+    "countryCode": "HK"
+  },
+  "Sham Shui Po": {
+    "lat": 22.329757,
+    "lng": 114.160851,
+    "countryCode": "HK"
+  },
+  "Southern": {
+    "lat": 22.219269,
+    "lng": 114.2252234,
+    "countryCode": "HK"
+  },
+  "Tai Po": {
+    "lat": 22.4494017,
+    "lng": 114.1711328,
+    "countryCode": "HK"
+  },
+  "Yuen Long": {
+    "lat": 22.456686,
+    "lng": 114.0207401,
+    "countryCode": "HK"
+  }
+}

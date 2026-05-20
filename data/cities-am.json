@@ -1,0 +1,67 @@
+{
+  "Alashkert": {
+    "lat": 40.1081747,
+    "lng": 44.0530705,
+    "countryCode": "AM"
+  },
+  "Andranik": {
+    "lat": 41.1277768,
+    "lng": 43.9613199,
+    "countryCode": "AM"
+  },
+  "Araks": {
+    "lat": 40.0533932,
+    "lng": 44.3073388,
+    "countryCode": "AM"
+  },
+  "Ararat Yerevan": {
+    "lat": 39.9520146,
+    "lng": 44.5393228,
+    "countryCode": "AM"
+  },
+  "Ararat-Armenia": {
+    "lat": -34.629843,
+    "lng": -58.5684849,
+    "countryCode": "AM"
+  },
+  "Gandzasar": {
+    "lat": 39.2078092,
+    "lng": 46.4011991,
+    "countryCode": "AM"
+  },
+  "Lori": {
+    "lat": 41.007271,
+    "lng": 44.4900113,
+    "countryCode": "AM"
+  },
+  "Pyunik": {
+    "lat": 40.6110775,
+    "lng": 44.5918858,
+    "countryCode": "AM"
+  },
+  "Sevan": {
+    "lat": 40.3925199,
+    "lng": 45.3460867,
+    "countryCode": "AM"
+  },
+  "Shirak": {
+    "lat": 40.918594,
+    "lng": 43.8403536,
+    "countryCode": "AM"
+  },
+  "Syunik": {
+    "lat": 39.3281408,
+    "lng": 46.1530296,
+    "countryCode": "AM"
+  },
+  "Urartu": {
+    "lat": 40.1713448,
+    "lng": 44.4504185,
+    "countryCode": "AM"
+  },
+  "Van": {
+    "lat": 40.220469,
+    "lng": 44.5035358,
+    "countryCode": "AM"
+  }
+}

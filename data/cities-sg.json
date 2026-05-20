@@ -1,0 +1,102 @@
+{
+  "Admiralty": {
+    "lat": 1.4406915,
+    "lng": 103.8009276,
+    "countryCode": "SG"
+  },
+  "Bukit Gombak": {
+    "lat": 1.3588929,
+    "lng": 103.7518249,
+    "countryCode": "SG"
+  },
+  "Clementi": {
+    "lat": 1.3175909,
+    "lng": 103.7607506,
+    "countryCode": "SG"
+  },
+  "Eunos Crescent": {
+    "lat": 1.3207219,
+    "lng": 103.9036667,
+    "countryCode": "SG"
+  },
+  "Geylang II": {
+    "lat": 1.3208955,
+    "lng": 103.8895225,
+    "countryCode": "SG"
+  },
+  "Geylang Serai": {
+    "lat": 1.3300296,
+    "lng": 103.8945294,
+    "countryCode": "SG"
+  },
+  "Home": {
+    "lat": 1.3395776,
+    "lng": 103.8855648,
+    "countryCode": "SG"
+  },
+  "Hougang": {
+    "lat": 1.3636374,
+    "lng": 103.8898002,
+    "countryCode": "SG"
+  },
+  "Hougang II": {
+    "lat": 1.3636374,
+    "lng": 103.8898002,
+    "countryCode": "SG"
+  },
+  "Katong": {
+    "lat": 1.3072648,
+    "lng": 103.902335,
+    "countryCode": "SG"
+  },
+  "Kembangan": {
+    "lat": 1.3210321,
+    "lng": 103.9129269,
+    "countryCode": "SG"
+  },
+  "Lion City Sailors": {
+    "lat": 1.3241365,
+    "lng": 103.8829716,
+    "countryCode": "SG"
+  },
+  "Police SA": {
+    "lat": 1.2831554,
+    "lng": 103.8416795,
+    "countryCode": "SG"
+  },
+  "Sengkang Punggol": {
+    "lat": 1.39201,
+    "lng": 103.8815095,
+    "countryCode": "SG"
+  },
+  "Singapore Cricket Club": {
+    "lat": 1.2890049,
+    "lng": 103.8520622,
+    "countryCode": "SG"
+  },
+  "Tampines": {
+    "lat": 1.3541234,
+    "lng": 103.9438554,
+    "countryCode": "SG"
+  },
+  "Tampines II": {
+    "lat": 1.3541234,
+    "lng": 103.9438554,
+    "countryCode": "SG"
+  },
+  "Tanjong Pagar": {
+    "lat": 1.2766057,
+    "lng": 103.8457793,
+    "countryCode": "SG"
+  },
+  "Tanjong Pagar II": {
+    "lat": 1.2758846,
+    "lng": 103.8458787,
+    "countryCode": "SG"
+  },
+  "Warriors": {
+    "lat": 1.2874319,
+    "lng": 103.8473526,
+    "countryCode": "SG"
+  }
+}

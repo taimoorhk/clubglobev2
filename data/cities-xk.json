@@ -1,0 +1,42 @@
+{
+  "Pristina": {
+    "lat": 42.6629,
+    "lng": 21.1655,
+    "countryCode": "XK"
+  },
+  "Gjilan": {
+    "lat": 42.4635,
+    "lng": 21.4694,
+    "countryCode": "XK"
+  },
+  "Prizren": {
+    "lat": 42.2153,
+    "lng": 20.7415,
+    "countryCode": "XK"
+  },
+  "Mitrovica": {
+    "lat": 42.8914,
+    "lng": 20.865,
+    "countryCode": "XK"
+  },
+  "Ferizaj": {
+    "lat": 42.3706,
+    "lng": 21.1553,
+    "countryCode": "XK"
+  },
+  "Suva Reka": {
+    "lat": 42.3586,
+    "lng": 20.825,
+    "countryCode": "XK"
+  },
+  "Drenas": {
+    "lat": 42.6283,
+    "lng": 20.8939,
+    "countryCode": "XK"
+  },
+  "Peja": {
+    "lat": 42.6591,
+    "lng": 20.2883,
+    "countryCode": "XK"
+  }
+}

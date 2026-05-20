@@ -1,0 +1,77 @@
+{
+  "Mexico City": {
+    "lat": 19.4326,
+    "lng": -99.1332,
+    "countryCode": "MX"
+  },
+  "Guadalajara": {
+    "lat": 20.6597,
+    "lng": -103.3496,
+    "countryCode": "MX"
+  },
+  "Monterrey": {
+    "lat": 25.6866,
+    "lng": -100.3161,
+    "countryCode": "MX"
+  },
+  "Pachuca": {
+    "lat": 20.1011,
+    "lng": -98.7591,
+    "countryCode": "MX"
+  },
+  "Morelia": {
+    "lat": 19.7008,
+    "lng": -101.1844,
+    "countryCode": "MX"
+  },
+  "Celaya": {
+    "lat": 20.5222,
+    "lng": -100.812,
+    "countryCode": "MX"
+  },
+  "Oaxaca": {
+    "lat": 17.0732,
+    "lng": -96.7266,
+    "countryCode": "MX"
+  },
+  "Hermosillo": {
+    "lat": 29.0729,
+    "lng": -110.9559,
+    "countryCode": "MX"
+  },
+  "Tampico": {
+    "lat": 22.2553,
+    "lng": -97.8686,
+    "countryCode": "MX"
+  },
+  "Zacatecas": {
+    "lat": 22.7709,
+    "lng": -102.5832,
+    "countryCode": "MX"
+  },
+  "Veracruz": {
+    "lat": 19.1738,
+    "lng": -96.1342,
+    "countryCode": "MX"
+  },
+  "Puebla": {
+    "lat": 19.0414,
+    "lng": -98.2063,
+    "countryCode": "MX"
+  },
+  "Cancun": {
+    "lat": 21.1619,
+    "lng": -86.8515,
+    "countryCode": "MX"
+  },
+  "Playa del Carmen": {
+    "lat": 20.6296,
+    "lng": -87.0739,
+    "countryCode": "MX"
+  },
+  "Tepatitlan": {
+    "lat": 20.817,
+    "lng": -102.763,
+    "countryCode": "MX"
+  }
+}

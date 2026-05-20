@@ -1,0 +1,32 @@
+{
+  "AS FAN": {
+    "lat": 13.5019629,
+    "lng": 2.1223362,
+    "countryCode": "NE"
+  },
+  "AS Police": {
+    "lat": 13.055921,
+    "lng": 3.2070283,
+    "countryCode": "NE"
+  },
+  "AS SONIDEP": {
+    "lat": 13.5141161,
+    "lng": 7.1068732,
+    "countryCode": "NE"
+  },
+  "Jangorzo": {
+    "lat": 13.5188143,
+    "lng": 2.1408412,
+    "countryCode": "NE"
+  },
+  "Nigelec": {
+    "lat": 13.5175763,
+    "lng": 2.1030818,
+    "countryCode": "NE"
+  },
+  "Sahel": {
+    "lat": 13.531712,
+    "lng": 2.1463928,
+    "countryCode": "NE"
+  }
+}

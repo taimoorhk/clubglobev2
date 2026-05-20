@@ -1,0 +1,37 @@
+{
+  "Al Ansar": {
+    "lat": 33.3946541,
+    "lng": 35.3367236,
+    "countryCode": "LB"
+  },
+  "Bekaa": {
+    "lat": 33.6604238,
+    "lng": 35.8425017,
+    "countryCode": "LB"
+  },
+  "Bourj": {
+    "lat": 33.8888717,
+    "lng": 35.5390068,
+    "countryCode": "LB"
+  },
+  "Nejmeh": {
+    "lat": 33.8966472,
+    "lng": 35.5045614,
+    "countryCode": "LB"
+  },
+  "Safa": {
+    "lat": 33.3793796,
+    "lng": 35.4562499,
+    "countryCode": "LB"
+  },
+  "Sagesse": {
+    "lat": 33.8460314,
+    "lng": 35.5365658,
+    "countryCode": "LB"
+  },
+  "Tripoli": {
+    "lat": 34.4373616,
+    "lng": 35.8348551,
+    "countryCode": "LB"
+  }
+}

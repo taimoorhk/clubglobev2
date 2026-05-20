@@ -1,0 +1,162 @@
+[
+  {
+    "id": "so-elman",
+    "name": "Elman",
+    "countryCode": "SO",
+    "country": "Somalia",
+    "city": "Elman",
+    "lat": 5.148000000000001,
+    "lng": 46.208000000000006,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SO-t1",
+    "leagueName": "Somali First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "so-hamar-young",
+    "name": "Hamar Young",
+    "countryCode": "SO",
+    "country": "Somalia",
+    "city": "Hamar Young",
+    "lat": 5.208,
+    "lng": 46.268,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SO-t1",
+    "leagueName": "Somali First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "so-heegan",
+    "name": "Heegan",
+    "countryCode": "SO",
+    "country": "Somalia",
+    "city": "Heegan",
+    "lat": 4.6972000000000005,
+    "lng": 45.22442,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SO-t1",
+    "leagueName": "Somali First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "so-horseed",
+    "name": "Horseed",
+    "countryCode": "SO",
+    "country": "Somalia",
+    "city": "Horseed",
+    "lat": 3.85106,
+    "lng": 41.854,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SO-t1",
+    "leagueName": "Somali First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "so-mogadishu-city",
+    "name": "Mogadishu City",
+    "countryCode": "SO",
+    "country": "Somalia",
+    "city": "Mogadishu",
+    "lat": 2.1149,
+    "lng": 45.282199999999996,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SO-t1",
+    "leagueName": "Somali First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

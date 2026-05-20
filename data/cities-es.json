@@ -1,0 +1,372 @@
+{
+  "Alaves": {
+    "lat": 42.3927003,
+    "lng": -0.3732675,
+    "countryCode": "ES"
+  },
+  "Albacete": {
+    "lat": 38.9950921,
+    "lng": -1.8559154,
+    "countryCode": "ES"
+  },
+  "Almeria": {
+    "lat": 36.8685739,
+    "lng": -2.3120282,
+    "countryCode": "ES"
+  },
+  "Barcelona": {
+    "lat": 41.3874,
+    "lng": 2.1686,
+    "countryCode": "ES"
+  },
+  "Bilbao": {
+    "lat": 43.263,
+    "lng": -2.935,
+    "countryCode": "ES"
+  },
+  "Burgos": {
+    "lat": 42.3448498,
+    "lng": -3.6812477,
+    "countryCode": "ES"
+  },
+  "Cadiz": {
+    "lat": 36.5297438,
+    "lng": -6.2928976,
+    "countryCode": "ES"
+  },
+  "Castellon": {
+    "lat": 40.2518568,
+    "lng": -0.0615052,
+    "countryCode": "ES"
+  },
+  "Catanzaro": {
+    "lat": 37.6539508,
+    "lng": -1.011377,
+    "countryCode": "ES"
+  },
+  "Cesena": {
+    "lat": 37.6482985,
+    "lng": -1.0091159,
+    "countryCode": "ES"
+  },
+  "Ceuta": {
+    "lat": 35.888361,
+    "lng": -5.304138,
+    "countryCode": "ES"
+  },
+  "Cordoba": {
+    "lat": 37.8845813,
+    "lng": -4.7760138,
+    "countryCode": "ES"
+  },
+  "Eibar": {
+    "lat": 43.1842839,
+    "lng": -2.4732748,
+    "countryCode": "ES"
+  },
+  "Elche": {
+    "lat": 38.2653307,
+    "lng": -0.6988391,
+    "countryCode": "ES"
+  },
+  "Espanyol": {
+    "lat": 40.4211638,
+    "lng": -3.7117889,
+    "countryCode": "ES"
+  },
+  "FC Andorra": {
+    "lat": 40.9753365,
+    "lng": -0.4442782,
+    "countryCode": "ES"
+  },
+  "Getafe": {
+    "lat": 40.3070639,
+    "lng": -3.7331808,
+    "countryCode": "ES"
+  },
+  "Gijon": {
+    "lat": 43.5449422,
+    "lng": -5.66275,
+    "countryCode": "ES"
+  },
+  "Girona": {
+    "lat": 41.9793006,
+    "lng": 2.8199439,
+    "countryCode": "ES"
+  },
+  "Granada": {
+    "lat": 37.1734995,
+    "lng": -3.5995337,
+    "countryCode": "ES"
+  },
+  "Huesca": {
+    "lat": 42.1360615,
+    "lng": -0.0298027,
+    "countryCode": "ES"
+  },
+  "La Coruña": {
+    "lat": 43.3466447,
+    "lng": -8.4127029,
+    "countryCode": "ES"
+  },
+  "Las Palmas": {
+    "lat": 28.1288694,
+    "lng": -15.4349015,
+    "countryCode": "ES"
+  },
+  "Leganes": {
+    "lat": 40.3281942,
+    "lng": -3.76527,
+    "countryCode": "ES"
+  },
+  "Leonesa": {
+    "lat": 40.4121227,
+    "lng": -3.6994285,
+    "countryCode": "ES"
+  },
+  "Levante": {
+    "lat": 38.6453115,
+    "lng": -0.9266378,
+    "countryCode": "ES"
+  },
+  "Madrid": {
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "countryCode": "ES"
+  },
+  "Malaga": {
+    "lat": 36.7647913,
+    "lng": -4.4422005,
+    "countryCode": "ES"
+  },
+  "Mallorca": {
+    "lat": 39.613432,
+    "lng": 2.8829185,
+    "countryCode": "ES"
+  },
+  "Mantova": {
+    "lat": 43.3678816,
+    "lng": -5.8658067,
+    "countryCode": "ES"
+  },
+  "Mirandes": {
+    "lat": 40.7556461,
+    "lng": 0.2929725,
+    "countryCode": "ES"
+  },
+  "Osasuna": {
+    "lat": 42.705769,
+    "lng": -1.60309,
+    "countryCode": "ES"
+  },
+  "Oviedo": {
+    "lat": 43.3533452,
+    "lng": -5.8795096,
+    "countryCode": "ES"
+  },
+  "Padova": {
+    "lat": 40.4269256,
+    "lng": -3.687352,
+    "countryCode": "ES"
+  },
+  "Pescara": {
+    "lat": 40.4153177,
+    "lng": -3.6250757,
+    "countryCode": "ES"
+  },
+  "Rayo Vallecano": {
+    "lat": 40.3765566,
+    "lng": -3.6142162,
+    "countryCode": "ES"
+  },
+  "Rimini": {
+    "lat": 40.4259302,
+    "lng": -3.7162901,
+    "countryCode": "ES"
+  },
+  "San Sebastián": {
+    "lat": 43.3224219,
+    "lng": -1.9838889,
+    "countryCode": "ES"
+  },
+  "Santander": {
+    "lat": 43.4618932,
+    "lng": -3.8100255,
+    "countryCode": "ES"
+  },
+  "Sevilla": {
+    "lat": 37.3886303,
+    "lng": -5.9953403,
+    "countryCode": "ES"
+  },
+  "Seville": {
+    "lat": 37.3891,
+    "lng": -5.9845,
+    "countryCode": "ES"
+  },
+  "Sociedad B": {
+    "lat": 43.3078904,
+    "lng": -1.9742817,
+    "countryCode": "ES"
+  },
+  "Ternana": {
+    "lat": 42.27259,
+    "lng": -2.0697391,
+    "countryCode": "ES"
+  },
+  "Valencia": {
+    "lat": 39.4699,
+    "lng": -0.3763,
+    "countryCode": "ES"
+  },
+  "Valladolid": {
+    "lat": 41.6200024,
+    "lng": -4.7259906,
+    "countryCode": "ES"
+  },
+  "Vigo": {
+    "lat": 42.1986395,
+    "lng": -8.727956,
+    "countryCode": "ES"
+  },
+  "Villarreal": {
+    "lat": 39.9372616,
+    "lng": -0.1004465,
+    "countryCode": "ES"
+  },
+  "Zaragoza": {
+    "lat": 41.6915847,
+    "lng": -0.9101268,
+    "countryCode": "ES"
+  },
+  "Athletic Club": {
+    "lat": 43.2615937,
+    "lng": -2.9357583,
+    "countryCode": "ES"
+  },
+  "Atalanta": {
+    "lat": 40.4160834,
+    "lng": -3.696628,
+    "countryCode": "ES"
+  },
+  "Bari": {
+    "lat": 40.4778724,
+    "lng": -3.7103788,
+    "countryCode": "ES"
+  },
+  "Bologna": {
+    "lat": 39.1531485,
+    "lng": -3.0229752,
+    "countryCode": "ES"
+  },
+  "Cagliari": {
+    "lat": 38.7807297,
+    "lng": 0.1826452,
+    "countryCode": "ES"
+  },
+  "Como": {
+    "lat": 41.3798223,
+    "lng": 2.140222,
+    "countryCode": "ES"
+  },
+  "Fiorentina": {
+    "lat": 37.3886335,
+    "lng": -5.998293,
+    "countryCode": "ES"
+  },
+  "Genoa": {
+    "lat": 37.7750425,
+    "lng": -0.855262,
+    "countryCode": "ES"
+  },
+  "Inter": {
+    "lat": 42.6870202,
+    "lng": -2.9430679,
+    "countryCode": "ES"
+  },
+  "Juventus": {
+    "lat": 41.9442009,
+    "lng": 1.8808816,
+    "countryCode": "ES"
+  },
+  "Lazio": {
+    "lat": 41.9049915,
+    "lng": 12.4825849,
+    "countryCode": "ES"
+  },
+  "Lecce": {
+    "lat": 41.6357944,
+    "lng": -4.7309678,
+    "countryCode": "ES"
+  },
+  "Leganés": {
+    "lat": 40.3281942,
+    "lng": -3.76527,
+    "countryCode": "ES"
+  },
+  "León": {
+    "lat": 42.6341451,
+    "lng": -5.9714151,
+    "countryCode": "ES"
+  },
+  "Milan": {
+    "lat": 42.8128608,
+    "lng": -1.636487,
+    "countryCode": "ES"
+  },
+  "Modena": {
+    "lat": 41.9787176,
+    "lng": 2.8229945,
+    "countryCode": "ES"
+  },
+  "Monza": {
+    "lat": 37.6508703,
+    "lng": -1.0098074,
+    "countryCode": "ES"
+  },
+  "Napoli": {
+    "lat": 36.7273111,
+    "lng": -4.4143281,
+    "countryCode": "ES"
+  },
+  "Padua": {
+    "lat": 41.4033097,
+    "lng": 2.1430413,
+    "countryCode": "ES"
+  },
+  "Palermo": {
+    "lat": 39.5805028,
+    "lng": -7.4712829,
+    "countryCode": "ES"
+  },
+  "Parma": {
+    "lat": 37.3389365,
+    "lng": -5.9336076,
+    "countryCode": "ES"
+  },
+  "Pisa": {
+    "lat": 42.9331419,
+    "lng": -4.6956583,
+    "countryCode": "ES"
+  },
+  "Roma": {
+    "lat": 39.5066866,
+    "lng": -1.1578911,
+    "countryCode": "ES"
+  },
+  "Spezia": {
+    "lat": 39.9622582,
+    "lng": -4.8136319,
+    "countryCode": "ES"
+  },
+  "Torino": {
+    "lat": 43.3696707,
+    "lng": -8.4168325,
+    "countryCode": "ES"
+  },
+  "Venezia": {
+    "lat": 41.3940517,
+    "lng": 2.1739923,
+    "countryCode": "ES"
+  }
+}

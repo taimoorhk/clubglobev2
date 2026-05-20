@@ -1,0 +1,695 @@
+{
+  "Accrington Stanley": null,
+  "AFC Fylde": null,
+  "AFC Sudbury": null,
+  "AFC Telford United": null,
+  "AFC Totton": null,
+  "Aldershot Town": null,
+  "Alfreton Town": {
+    "city": "Amber Valley",
+    "lat": 53.0944561,
+    "lng": -1.3811612,
+    "displayName": "Impact Arena, North Street, Alfreton CP, Leabrooks, Amber Valley, Derbyshire, East Midlands, England, DE55 7FZ, United Kingdom",
+    "query": "Alfreton Town FC stadium"
+  },
+  "Altrincham": {
+    "city": "Trafford",
+    "lat": 53.3830936,
+    "lng": -2.3362979,
+    "displayName": "Stamford Park, Moss Lane / outside Football Ground, Moss Lane, Hale, Altrincham, Trafford, Greater Manchester, England, WA15 8AU, United Kingdom",
+    "query": "Altrincham football ground"
+  },
+  "Alvechurch": null,
+  "Ashton United": {
+    "city": "Tameside",
+    "lat": 53.5013022,
+    "lng": -2.0797099,
+    "displayName": "Ashton United Football Club, Craven Street, Hurst Cross, Ashton-under-Lyne, Tameside, Greater Manchester, England, OL6 8DZ, United Kingdom",
+    "query": "Ashton United football club"
+  },
+  "Aveley": {
+    "city": "Aveley",
+    "lat": 51.489691,
+    "lng": 0.2651271,
+    "displayName": "Thurrock Football Club, South Way, West Thurrock, Aveley, Thurrock, Essex, England, RM19 1NU, United Kingdom",
+    "query": "Aveley football club"
+  },
+  "Bamber Bridge": {
+    "city": "Preston",
+    "lat": 53.7276394,
+    "lng": -2.6728694,
+    "displayName": "Bamber Bridge Football Club, Brownedge Road, Brownedge, Bamber Bridge, Preston, Lancashire, England, PR5 6UX, United Kingdom",
+    "query": "Bamber Bridge football club"
+  },
+  "Banbury United": null,
+  "Barnet": {
+    "city": "Greater London",
+    "lat": 51.6066842,
+    "lng": -0.1699789,
+    "displayName": "Finchley Rugby Football Club, Summers Lane, Fallow Corner, London Borough of Barnet, Greater London, England, N12 0PE, United Kingdom",
+    "query": "Barnet football club stadium"
+  },
+  "Barrow": {
+    "city": "Barrow-in-Furness",
+    "lat": 54.1232599,
+    "lng": -3.2337219,
+    "displayName": "Football Ground, Holker Street, Ormsgill, Barrow, Barrow-in-Furness, Westmorland and Furness, England, LA14 5SP, United Kingdom",
+    "query": "Barrow football ground"
+  },
+  "Barwell FC": null,
+  "Basingstoke": {
+    "city": "Basingstoke and Deane",
+    "lat": 51.3217305,
+    "lng": -1.244331,
+    "displayName": "Kinsclere Recreation Ground Football Pitch, The Dell, Kingsclere, Basingstoke and Deane, Hampshire, England, RG20 5NL, United Kingdom",
+    "query": "Basingstoke football ground"
+  },
+  "Bath City": {
+    "city": "Bath",
+    "lat": 51.378837,
+    "lng": -2.3950494,
+    "displayName": "Bath City Football Club, Landseer Road, Locksbrook, Bath, Bath and North East Somerset, West of England, England, BA2 1DY, United Kingdom",
+    "query": "Bath City football club"
+  },
+  "Bedford Town": {
+    "city": "North Hertfordshire",
+    "lat": 51.9543503,
+    "lng": -0.2841059,
+    "displayName": "Hitchin Town Football Club, Bedford Road, Bearton, Hitchin, North Hertfordshire, Hertfordshire, England, SG5 2TY, United Kingdom",
+    "query": "Bedford Town football club stadium"
+  },
+  "Berkhamsted": {
+    "city": "Dacorum",
+    "lat": 51.7631588,
+    "lng": -0.5647232,
+    "displayName": "Berkhamsted Town Football Club, Broadwater, Ashlyns Estate, Berkhamsted, Northchurch, Dacorum, Hertfordshire, England, HP4 2AS, United Kingdom",
+    "query": "Berkhamsted football club"
+  },
+  "Billericay": {
+    "city": "Basildon",
+    "lat": 51.6215591,
+    "lng": 0.4028757,
+    "displayName": "Billericay Town Football Club, Blunts Wall Road, Havering's Grove, Billericay, Little Burstead, Basildon, Essex, England, CM12 9SA, United Kingdom",
+    "query": "Billericay football club"
+  },
+  "Bishop's Stortford": {
+    "city": "East Hertfordshire",
+    "lat": 51.8776014,
+    "lng": 0.1429435,
+    "displayName": "Bishop's Stortford Rugby Football Club, Cricketfield Lane, Coopers Grange, Hockerill, Bishop's Stortford, Cradle End, East Hertfordshire, Hertfordshire, England, CM23 2QE, United Kingdom",
+    "query": "Bishop's Stortford football club"
+  },
+  "Boreham Wood": {
+    "city": "Hertsmere",
+    "lat": 51.6620315,
+    "lng": -0.2724395,
+    "displayName": "Meadow Park, Broughinge Road, Elstree and Borehamwood, Borehamwood, Hertsmere, Hertfordshire, England, WD6 5AL, United Kingdom",
+    "query": "Boreham Wood football club stadium"
+  },
+  "Boston United": null,
+  "Brackley Town": null,
+  "Bracknell Town": null,
+  "Braintree Town": {
+    "city": "Braintree",
+    "lat": 51.9464939,
+    "lng": 0.6326725,
+    "displayName": "Halstead Town Football Club, Butler Road, Halstead, Braintree, Essex, England, CO9 1LD, United Kingdom",
+    "query": "Braintree Town football club stadium"
+  },
+  "Brentwood Town": null,
+  "Bristol Rovers": {
+    "city": "Bristol",
+    "lat": 51.3028005,
+    "lng": -2.4959165,
+    "displayName": "Paulton Rovers Football Club, Three Tunnys, Wheeler's Hill, Radford, Bristol, Bath and North East Somerset, West of England, England, BS39 7RF, United Kingdom",
+    "query": "Bristol Rovers football club"
+  },
+  "Bromley": {
+    "city": "Greater London",
+    "lat": 51.390086,
+    "lng": 0.0211079,
+    "displayName": "Bromley Football Club, Hayes Lane, Widmore, London Borough of Bromley, Greater London, England, BR2 9EF, United Kingdom",
+    "query": "Bromley football club stadium"
+  },
+  "Bromsgrove Sporting": null,
+  "Burgess Hill Town": {
+    "city": "Mid Sussex",
+    "lat": 50.9673825,
+    "lng": -0.1241091,
+    "displayName": "Burgess Hill Town FC, Maple Drive, World's End, Burgess Hill, Mid Sussex, West Sussex, England, RH15 8DL, United Kingdom",
+    "query": "Burgess Hill Town FC stadium"
+  },
+  "Bury Town": {
+    "city": "West Suffolk",
+    "lat": 52.2488995,
+    "lng": 0.7210955,
+    "displayName": "Bury Town Football Club (Ram Meadow), Magna House, Moreton Hall, Bury St Edmunds, West Suffolk, Suffolk, England, IP33 1AP, United Kingdom",
+    "query": "Bury Town football club"
+  },
+  "Buxton": {
+    "city": "High Peak",
+    "lat": 53.2565988,
+    "lng": -1.9066031,
+    "displayName": "Buxton Football Club, Silverlands, Fairfield, Buxton, High Peak, Derbyshire, East Midlands, England, SK17 6QH, United Kingdom",
+    "query": "Buxton football club"
+  },
+  "Cambridge United": null,
+  "Canvey": null,
+  "Carlisle United": null,
+  "Carshalton Athletic": {
+    "city": "Greater London",
+    "lat": 51.3697141,
+    "lng": -0.1718092,
+    "displayName": "Carshalton Athletic Football Club, Brookfield Avenue, Westmead Road Allotments, The Wrythe, London Borough of Sutton, Greater London, England, SM1 3QR, United Kingdom",
+    "query": "Carshalton Athletic football club"
+  },
+  "Chatham Town": null,
+  "Chelmsford": null,
+  "Cheltenham Town": {
+    "city": "Cheltenham",
+    "lat": 51.9061943,
+    "lng": -2.060656,
+    "displayName": "Cheltenham Town Football Club, Lynworth, Whaddon, Cheltenham, Gloucestershire, England, United Kingdom",
+    "query": "Cheltenham Town football club"
+  },
+  "Chertsey Town": {
+    "city": "Runnymede",
+    "lat": 51.3926171,
+    "lng": -0.5078846,
+    "displayName": "Chertsey Town FC, Alwyns Lane, Chertsey, Runnymede, Surrey, England, KT16 9DW, United Kingdom",
+    "query": "Chertsey Town FC stadium"
+  },
+  "Chesham United": {
+    "city": "Chesham",
+    "lat": 51.6988692,
+    "lng": -0.6139795,
+    "displayName": "Chesham United Football Club, Fuller's Close, Old Town, Chesham, Chesham and Villages Community Board, Buckinghamshire, England, HP5 1BE, United Kingdom",
+    "query": "Chesham United football club"
+  },
+  "Cheshunt": {
+    "city": "Broxbourne",
+    "lat": 51.6943962,
+    "lng": -0.0424266,
+    "displayName": "Cheshunt Football Club, Theobald's Lane, Cheshunt, Broxbourne, Hertfordshire, England, EN8 8RU, United Kingdom",
+    "query": "Cheshunt football club stadium"
+  },
+  "Chester FC": null,
+  "Chesterfield": null,
+  "Chichester City FC": null,
+  "Chippenham Town": {
+    "city": "Chippenham",
+    "lat": 51.4655662,
+    "lng": -2.1287818,
+    "displayName": "Chippenham Town Football Club, Bristol Road, Hardenhuish, Sheldon, Chippenham, Wiltshire, England, SN14 0HB, United Kingdom",
+    "query": "Chippenham Town football club stadium"
+  },
+  "Chorley": {
+    "city": "Chorley",
+    "lat": 53.646394,
+    "lng": -2.629455,
+    "displayName": "Chorley Football Club, Ashby Street, Chorley Moor, Chorley, Lancashire, England, PR7 3EB, United Kingdom",
+    "query": "Chorley football club"
+  },
+  "Cleethorpes Town": {
+    "city": "Cleethorpes",
+    "lat": 53.5702297,
+    "lng": -0.0465117,
+    "displayName": "Blundell Park, Constitutional Avenue, New Clee, Cleethorpes, North East Lincolnshire, Greater Lincolnshire, England, DN35 7PY, United Kingdom",
+    "query": "Cleethorpes Town football club stadium"
+  },
+  "Colchester United": null,
+  "Crawley Town": null,
+  "Cray Valley Paper Mills": null,
+  "Cray Wanderers": null,
+  "Crewe Alexandra": null,
+  "Curzon": null,
+  "Dagenham & Redbridge": {
+    "city": "Greater London",
+    "lat": 51.5477888,
+    "lng": 0.1599006,
+    "displayName": "Dagenham & Redbridge Football Club, Bury Road, Dagenham, London Borough of Barking and Dagenham, Greater London, England, RM10 7XR, United Kingdom",
+    "query": "Dagenham & Redbridge football club"
+  },
+  "Darlington": {
+    "city": "Darlington",
+    "lat": 54.536714,
+    "lng": -1.5752331,
+    "displayName": "Darlington Railway Athletic Football Club, Brinkburn Road, Harrowgate Hill, Hopetown, Darlington, Tees Valley, England, DL3 9LF, United Kingdom",
+    "query": "Darlington football club"
+  },
+  "Dartford": {
+    "city": "Dartford",
+    "lat": 51.4289648,
+    "lng": 0.1796024,
+    "displayName": "Heyden Football Club Sports Ground, Heath Side, Wilmington, Maypole, Dartford, Kent, England, DA2 7AW, United Kingdom",
+    "query": "Dartford football ground"
+  },
+  "Dorchester Town": {
+    "city": "Dorset",
+    "lat": 50.7005996,
+    "lng": -2.4456376,
+    "displayName": "Dorchester Town FC, Dorchester Bypass, Winterborne Herringston, Dorset, England, DT1 2RU, United Kingdom",
+    "query": "Dorchester Town FC stadium"
+  },
+  "Dorking Wanderers": {
+    "city": "Mole Valley",
+    "lat": 51.2504459,
+    "lng": -0.3266251,
+    "displayName": "Dorking Wanderers Football Club, FP 586, Westhumble, Mole Valley, Surrey, England, RH5 6AR, United Kingdom",
+    "query": "Dorking Wanderers football club"
+  },
+  "Dover": null,
+  "Dulwich Hamlet": null,
+  "Eastbourne Borough": null,
+  "Eastleigh": {
+    "city": "Eastleigh",
+    "lat": 50.9753672,
+    "lng": -1.3708798,
+    "displayName": "Stadium IGT, North Stoneham, Eastleigh, Allbrook, Eastleigh, Hampshire, England, SO50 4ET, United Kingdom",
+    "query": "Eastleigh FC stadium"
+  },
+  "Ebbsfleet United": {
+    "city": "Gravesham",
+    "lat": 51.4494972,
+    "lng": 0.3223574,
+    "displayName": "Ebbsfleet United FC, Stonebridge Road, Rosherville, Perry Street, Northfleet, Gravesham, Kent, England, DA11 9GN, United Kingdom",
+    "query": "Ebbsfleet United football club stadium"
+  },
+  "Enfield Town": {
+    "city": "Greater London",
+    "lat": 51.6588699,
+    "lng": -0.0639759,
+    "displayName": "Enfield Town Football Club, Donkey Lane, Carterhatch, Southbury, Enfield, Greater London, England, EN1 3PL, United Kingdom",
+    "query": "Enfield Town football club"
+  },
+  "Evesham United": null,
+  "Farnborough": {
+    "city": "Rushmoor",
+    "lat": 51.2908482,
+    "lng": -0.7998067,
+    "displayName": "Fleet Spurs Football Club, Summit Avenue, Southwood, Farnborough, Rushmoor, Hampshire, England, GU14 0FB, United Kingdom",
+    "query": "Farnborough football club"
+  },
+  "Farnham Town": {
+    "city": "Waverley",
+    "lat": 51.2115165,
+    "lng": -0.8063558,
+    "displayName": "Farnham Town Football Club, Mead Lane, Farnham, Wrecclesham, Waverley, Surrey, England, GU9 7DY, United Kingdom",
+    "query": "Farnham Town football club"
+  },
+  "FC Halifax Town": null,
+  "FC United of Manchester": null,
+  "Fleetwood Town": null,
+  "Folkestone Invicta": null,
+  "Forest Green Rovers": {
+    "city": "Stroud",
+    "lat": 51.6990021,
+    "lng": -2.2378877,
+    "displayName": "The Bolt New Lawn, Another Way, Forest Green, Nailsworth, Inchbrook, Stroud, Gloucestershire, England, GL6 0FG, United Kingdom",
+    "query": "Forest Green Rovers football club"
+  },
+  "Gainsborough": null,
+  "Gateshead FC": null,
+  "Gillingham": {
+    "city": "Gillingham",
+    "lat": 51.3842162,
+    "lng": 0.5607494,
+    "displayName": "Gillingham Football Club, Redfern Avenue, Sally Port Gardens, Brompton, Gillingham, Medway, England, ME7 2DY, United Kingdom",
+    "query": "Gillingham football club"
+  },
+  "Gloucester City": null,
+  "Gosport Borough": null,
+  "Grimsby Town": {
+    "city": "Cleethorpes",
+    "lat": 53.5702297,
+    "lng": -0.0465117,
+    "displayName": "Blundell Park, Constitutional Avenue, New Clee, Cleethorpes, North East Lincolnshire, Greater Lincolnshire, England, DN35 7PY, United Kingdom",
+    "query": "Grimsby Town football club stadium"
+  },
+  "Guiseley": {
+    "city": "Leeds",
+    "lat": 53.8767122,
+    "lng": -1.7199209,
+    "displayName": "Guiseley Association Football Club, Nethermoor Park, Leeds, West Yorkshire, England, LS20 8BT, United Kingdom",
+    "query": "Guiseley football club"
+  },
+  "Halesowen Town FC": null,
+  "Hampton & Richmond": {
+    "city": "Greater London",
+    "lat": 51.4152084,
+    "lng": -0.3632749,
+    "displayName": "Hampton and Richmond Borough Football Club, Sheridan Place, The Beveree, Hampton, London Borough of Richmond upon Thames, Greater London, England, TW12 2SA, United Kingdom",
+    "query": "Hampton & Richmond football club"
+  },
+  "Hanwell Town": null,
+  "Harborough Town FC": null,
+  "Harrogate Town": null,
+  "Hartlepool United": {
+    "city": "Hartlepool",
+    "lat": 54.6890736,
+    "lng": -1.2127007,
+    "displayName": "Hartlepool United Football Club, Clarence Road, Stranton, Hartlepool, Tees Valley, England, TS24 8BZ, United Kingdom",
+    "query": "Hartlepool United football club"
+  },
+  "Hashtag United": null,
+  "Havant and Waterlooville": null,
+  "Hebburn Town": {
+    "city": "South Tyneside",
+    "lat": 54.9685624,
+    "lng": -1.5239571,
+    "displayName": "Hebburn Town Football Club, North Drive, Hebburn, South Tyneside, Tyne and Wear, North East, England, NE31 1ER, United Kingdom",
+    "query": "Hebburn Town football club"
+  },
+  "Hednesford": {
+    "city": "Cannock Chase",
+    "lat": 52.6977773,
+    "lng": -1.9890111,
+    "displayName": "Hednesford Town Football Club, Keys Park Road, Hednesford, Wimblebury, Cannock Chase, Staffordshire, England, WS12 2DZ, United Kingdom",
+    "query": "Hednesford football club stadium"
+  },
+  "Hemel Hempstead": {
+    "city": "Dacorum",
+    "lat": 51.749892,
+    "lng": -0.4262598,
+    "displayName": "Leverstock Green Football Club, Lombardy Close, Leverstock Green, Hemel Hempstead, Dacorum, Hertfordshire, England, HP2 4NG, United Kingdom",
+    "query": "Hemel Hempstead football club"
+  },
+  "Hereford": {
+    "city": "Hereford",
+    "lat": 52.0608896,
+    "lng": -2.7183884,
+    "displayName": "Football Ground, Edgar Street, Widemarsh, Hereford, Herefordshire, England, HR4 9JU, United Kingdom",
+    "query": "Hereford football ground"
+  },
+  "Hornchurch": null,
+  "Horsham": null,
+  "Hungerford Town": {
+    "city": "Hungerford",
+    "lat": 51.408412,
+    "lng": -1.5137865,
+    "displayName": "Hungerford Town Football Club, Bulpit Lane, Hungerford, West Berkshire, England, RG17 0AY, United Kingdom",
+    "query": "Hungerford Town football club"
+  },
+  "Hyde United": null,
+  "Ilkeston Town": null,
+  "Kettering Town FC": null,
+  "Kidderminster Harriers": {
+    "city": "Wyre Forest",
+    "lat": 52.3804266,
+    "lng": -2.2420678,
+    "displayName": "Kidderminster Harriers FC, Stadium Close, Aggborough, Kidderminster, Comberton, Wyre Forest, Worcestershire, England, DY10 1NB, United Kingdom",
+    "query": "Kidderminster Harriers FC stadium"
+  },
+  "King's Lynn Town": {
+    "city": "King's Lynn and West Norfolk",
+    "lat": 52.6790512,
+    "lng": 0.1794984,
+    "displayName": "Wisbech Town Football Club, Walsoken, King's Lynn and West Norfolk, Norfolk, England, United Kingdom",
+    "query": "King's Lynn Town football club"
+  },
+  "Lancaster City": null,
+  "Leamington": {
+    "city": "Warwick",
+    "lat": 52.2444156,
+    "lng": -1.5033672,
+    "displayName": "Leamington Football Club, Harbury Lane, Whitnash, Warwick, Warwickshire, England, CV33 9SA, United Kingdom",
+    "query": "Leamington football club stadium"
+  },
+  "Leek Town": {
+    "city": "Staffordshire Moorlands",
+    "lat": 53.1096805,
+    "lng": -2.0404063,
+    "displayName": "Leek Town FC, Orchard Gardens, Abbey Green, Leek, Staffordshire Moorlands, Staffordshire, England, ST13 8LF, United Kingdom",
+    "query": "Leek Town FC stadium"
+  },
+  "Leiston": {
+    "city": "East Suffolk",
+    "lat": 52.204388,
+    "lng": 1.5714489,
+    "displayName": "Leiston Football Club, Huntingfield Road, Leiston, Aldringham, East Suffolk, Suffolk, England, IP16 4DH, United Kingdom",
+    "query": "Leiston football club"
+  },
+  "Lewes": null,
+  "Macclesfield": {
+    "city": "Staffordshire Moorlands",
+    "lat": 53.1096805,
+    "lng": -2.0404063,
+    "displayName": "Leek Town FC, Macclesfield Road, Abbey Green, Leek, Staffordshire Moorlands, Staffordshire, England, ST13 8LD, United Kingdom",
+    "query": "Macclesfield FC FC stadium"
+  },
+  "Maidenhead United": {
+    "city": "Maidenhead",
+    "lat": 51.5198805,
+    "lng": -0.7179546,
+    "displayName": "Maidenhead United Football Club, York Road, Fishery, Maidenhead, Windsor and Maidenhead, England, SL6 1SF, United Kingdom",
+    "query": "Maidenhead United football club"
+  },
+  "Maidstone United": {
+    "city": "Maidstone",
+    "lat": 51.2797591,
+    "lng": 0.5162681,
+    "displayName": "Maidstone United FC - Gallagher Stadium, James Whatman Way, Ringlestone, Penenden Heath, Maidstone, Kent, England, ME14 1LQ, United Kingdom",
+    "query": "Maidstone United FC stadium"
+  },
+  "Marine": {
+    "city": "East Devon",
+    "lat": 50.6259477,
+    "lng": -3.4145514,
+    "displayName": "Exmouth Town Football Club, Marine Way, Withycombe, Exmouth, East Devon, Devon, Devon and Torbay, England, EX8 1SP, United Kingdom",
+    "query": "Marine football club"
+  },
+  "Merthyr Town": null,
+  "Milton Keynes Dons": null,
+  "Morecambe": null,
+  "Morpeth Town FC": null,
+  "Needham Market": null,
+  "Newport County": {
+    "city": "Newport",
+    "lat": 51.6043151,
+    "lng": -3.0887312,
+    "displayName": "Ty-Isaf Football Club, Isaf Road, Pontymister, Risca West, Newport, Caerphilly, Cymru / Wales, NP11 6EF, United Kingdom",
+    "query": "Newport County football club"
+  },
+  "Notts County": null,
+  "Oldham Athletic": null,
+  "Oxford City": {
+    "city": "Oxford",
+    "lat": 51.7741571,
+    "lng": -1.2286516,
+    "displayName": "Oxford City Football Club, Marsh Lane, Old Marston, Marston, Oxford, Oxfordshire, England, OX3 0NQ, United Kingdom",
+    "query": "Oxford City football club"
+  },
+  "Peterborough Sports": null,
+  "Plymouth Parkway": null,
+  "Poole Town FC": null,
+  "Potters Bar Town": null,
+  "Prescot Cables": {
+    "city": "Knowsley",
+    "lat": 53.4320011,
+    "lng": -2.8049502,
+    "displayName": "Valerie Park (Prescot Cables FC), Eaton Street, Prescot, Huyton, Knowsley, Liverpool City Region, England, L34 6HD, United Kingdom",
+    "query": "Prescot Cables FC stadium"
+  },
+  "Quorn": {
+    "city": "Charnwood",
+    "lat": 52.7488564,
+    "lng": -1.1803085,
+    "displayName": "Quorn Football Club, Farley Way, Quorndon, Quorn, Charnwood, Leicestershire, England, LE12 8TS, United Kingdom",
+    "query": "Quorn football club"
+  },
+  "Radcliffe": null,
+  "Ramsgate": null,
+  "Real Bedford": null,
+  "Redditch United": null,
+  "Rochdale": null,
+  "Royston Town": null,
+  "Rushall Olympic": {
+    "city": "Walsall",
+    "lat": 52.6010916,
+    "lng": -1.9525148,
+    "displayName": "Rushall Olympic Football Club, Dales Lane, Daw End, Coal Pool, Rushall, Walsall, West Midlands, England, WS9 0JX, United Kingdom",
+    "query": "Rushall Olympic football club"
+  },
+  "Salford City": null,
+  "Salisbury": {
+    "city": "Stratford-sub-Castle",
+    "lat": 51.1040649,
+    "lng": -1.7863457,
+    "displayName": "Salisbury Football Club, Grouse Road, Old Sarum, Laverstock, Stratford-sub-Castle, Ford, Wiltshire, England, SP4 6PU, United Kingdom",
+    "query": "Salisbury football club"
+  },
+  "Scarborough Athletic": null,
+  "Scunthorpe United": null,
+  "Sholing": null,
+  "Shrewsbury Town": null,
+  "Slough Town": null,
+  "Solihull Moors": null,
+  "South Shields": null,
+  "Southend United": null,
+  "Southport": {
+    "city": "Southport",
+    "lat": 53.6188743,
+    "lng": -3.0252102,
+    "displayName": "Southport Rugby Football Club, Waterloo Road, Birkdale, Southport, Sefton, Liverpool City Region, England, PR8 4QW, United Kingdom",
+    "query": "Southport football club"
+  },
+  "Spalding United": {
+    "city": "South Holland",
+    "lat": 52.8158548,
+    "lng": -0.16219,
+    "displayName": "Pinchbeck United Football Club, Knight Street, Pinchbeck CP, Crossgate, South Holland, Lincolnshire, Greater Lincolnshire, England, PE11 3RB, United Kingdom",
+    "query": "Spalding United football club"
+  },
+  "Spennymoor Town FC": null,
+  "St Albans": {
+    "city": "St Albans",
+    "lat": 51.7540995,
+    "lng": -0.3252909,
+    "displayName": "St Albans City Football Club, Clarence Park, St Albans, Hertfordshire, England, AL1 4NF, United Kingdom",
+    "query": "St Albans football club stadium"
+  },
+  "St. Ives Town FC": null,
+  "Stamford AFC": null,
+  "Stocksbridge Park Steels": {
+    "city": "Sheffield",
+    "lat": 53.4770886,
+    "lng": -1.5868436,
+    "displayName": "Stocksbridge Park Steels Football Club, Broomfield Road, Stubbin, Stocksbridge, Bolsterstone, Sheffield, South Yorkshire, England, S36 2AU, United Kingdom",
+    "query": "Stocksbridge Park Steels football club"
+  },
+  "Stockton Town": {
+    "city": "Stockton-on-Tees",
+    "lat": 54.5704519,
+    "lng": -1.3424307,
+    "displayName": "Stockton Town Football Club, Ashmead View, Bramley Green, Stockton-on-Tees, Tees Valley, England, TS19 0QD, United Kingdom",
+    "query": "Stockton Town football club"
+  },
+  "Stourbridge": {
+    "city": "Dudley",
+    "lat": 52.4630089,
+    "lng": -2.1504332,
+    "displayName": "Stourbridge Football Club, High Street, Audnam, Amblecote, Dudley, West Midlands, England, DY8 4HN, United Kingdom",
+    "query": "Stourbridge football club"
+  },
+  "Stratford Town": {
+    "city": "Greater London",
+    "lat": 51.5361281,
+    "lng": -0.0151855,
+    "displayName": "Marshgate Lane, Mill Meads, Stratford, London Borough of Newham, Greater London, England, E20 2AE, United Kingdom",
+    "query": "Stratford Town FC stadium"
+  },
+  "Sutton United": {
+    "city": "Birmingham",
+    "lat": 52.5632066,
+    "lng": -1.8046202,
+    "displayName": "Sutton United Football Club, Hollyfield Road, Reddicap Heath, Sutton Coldfield, Birmingham, West Midlands, England, B75 7SN, United Kingdom",
+    "query": "Sutton United football club"
+  },
+  "Swindon Town": {
+    "city": "Swindon",
+    "lat": 51.5638636,
+    "lng": -1.7717153,
+    "displayName": "Swindon Town Football Club Shop, Fan Zone, Broadgreen, Walcot West, South Swindon, Swindon, England, SN1 2EA, United Kingdom",
+    "query": "Swindon Town football club"
+  },
+  "Tamworth": {
+    "city": "Tamworth",
+    "lat": 52.6286125,
+    "lng": -1.6890311,
+    "displayName": "Tamworth FC, The Lamb Ground, Tamworth, Staffordshire, England, B77 1AA, United Kingdom",
+    "query": "Tamworth FC stadium"
+  },
+  "Taunton Town": {
+    "city": "Taunton",
+    "lat": 51.0166954,
+    "lng": -3.0851844,
+    "displayName": "Taunton Town FC, Wordsworth Drive, Lambrook, Taunton, Somerset, England, TA1 2HG, United Kingdom",
+    "query": "Taunton Town FC stadium"
+  },
+  "Tiverton": null,
+  "Tonbridge Angels": {
+    "city": "Tonbridge and Malling",
+    "lat": 51.2115475,
+    "lng": 0.2699002,
+    "displayName": "Tonbridge Angels Football Club, Darenth Avenue, Trench Wood, Tonbridge, Tonbridge and Malling, Kent, England, TN10 3JF, United Kingdom",
+    "query": "Tonbridge Angels football club"
+  },
+  "Torquay United": null,
+  "Tranmere Rovers": null,
+  "Truro City": null,
+  "Uxbridge": null,
+  "Walsall": {
+    "city": "Willenhall",
+    "lat": 52.5910131,
+    "lng": -2.0508711,
+    "displayName": "Stadium Close, Spring Bank, Willenhall, Walsall, West Midlands, England, WV13 1EG, United Kingdom",
+    "query": "Walsall FC stadium"
+  },
+  "Walton and Hersham": null,
+  "Warrington Rylands": null,
+  "Warrington Town": null,
+  "Wealdstone": {
+    "city": "Greater London",
+    "lat": 51.5933613,
+    "lng": -0.3556092,
+    "displayName": "Wealdstone Manor Youth Football Club, Pinner View, Harrow Weald, London Borough of Harrow, Greater London, England, HA2 6PX, United Kingdom",
+    "query": "Wealdstone football club"
+  },
+  "Welling United": null,
+  "Weston Super Mare": {
+    "city": "Weston-super-Mare",
+    "lat": 51.3307689,
+    "lng": -2.9553182,
+    "displayName": "Weston-Super-Mare Football Club, Winterstoke Road, Oldmixon, Uphill, Weston-super-Mare, North Somerset, England, BS24 9AA, United Kingdom",
+    "query": "Weston Super Mare football club stadium"
+  },
+  "Weymouth": null,
+  "Whitby": {
+    "city": "Whitby",
+    "lat": 54.4883816,
+    "lng": -0.6152238,
+    "displayName": "Whitby Fishermans Society Football Club, The Cragg, Whitby, North Yorkshire, York and North Yorkshire, England, YO21 3QA, United Kingdom",
+    "query": "Whitby football club"
+  },
+  "Whitehawk": {
+    "city": "Brighton",
+    "lat": 50.8214103,
+    "lng": -0.0962838,
+    "displayName": "The Enclosed Ground, Wilson Avenue, Whitehawk, Brighton, Brighton and Hove, England, BN2 5TS, United Kingdom",
+    "query": "Whitehawk FC stadium"
+  },
+  "Wimborne Town": {
+    "city": "Wimborne Minster",
+    "lat": 50.7948058,
+    "lng": -1.9656258,
+    "displayName": "Wimborne Town Football Club, St Johns, Wimborne Minster, Dorset, England, United Kingdom",
+    "query": "Wimborne Town football club"
+  },
+  "Wingate & Finchley": null,
+  "Woking": null,
+  "Worcester": {
+    "city": "Dartford",
+    "lat": 51.4385664,
+    "lng": 0.2699199,
+    "displayName": "Charlton Athletic Football Club, Thames Walk, Bluewater Shopping Centre, Stone, Greenhithe, Dartford, Kent, England, DA9 9ST, United Kingdom",
+    "query": "Worcester football club"
+  },
+  "Workington": null,
+  "Worksop Town": {
+    "city": "Bassetlaw",
+    "lat": 53.3115701,
+    "lng": -1.1313882,
+    "displayName": "Sandy Lane - Worksop Town FC, Sandy Lane, Gateford, Worksop, Bassetlaw, Nottinghamshire, East Midlands, England, S80 1TL, United Kingdom",
+    "query": "Worksop Town FC stadium"
+  },
+  "Worthing": null,
+  "Yate Town": null,
+  "Yeovil Town": null,
+  "York City": {
+    "city": "York",
+    "lat": 53.9627501,
+    "lng": -1.1368829,
+    "displayName": "Carr Vikings Junior Football Club, Old School Walk, Knapton, Chapelfields, York, York and North Yorkshire, England, YO26 5TJ, United Kingdom",
+    "query": "York City football club"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Santiago": {
+    "lat": -33.4489,
+    "lng": -70.6693,
+    "countryCode": "CL"
+  },
+  "Valparaiso": {
+    "lat": -33.0472,
+    "lng": -71.6127,
+    "countryCode": "CL"
+  },
+  "Talca": {
+    "lat": -35.4264,
+    "lng": -71.6554,
+    "countryCode": "CL"
+  },
+  "Temuco": {
+    "lat": -38.7359,
+    "lng": -72.5904,
+    "countryCode": "CL"
+  },
+  "Concepcion": {
+    "lat": -36.8201,
+    "lng": -73.0444,
+    "countryCode": "CL"
+  },
+  "Rancagua": {
+    "lat": -34.1708,
+    "lng": -70.7444,
+    "countryCode": "CL"
+  },
+  "La Serena": {
+    "lat": -29.9027,
+    "lng": -71.2519,
+    "countryCode": "CL"
+  }
+}

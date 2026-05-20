@@ -1,0 +1,194 @@
+[
+  {
+    "id": "er-denden",
+    "name": "Denden",
+    "countryCode": "ER",
+    "country": "Eritrea",
+    "city": "Denden",
+    "lat": 15.2613831,
+    "lng": 38.914151700000005,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-ER-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "er-ettehad",
+    "name": "Ettehad",
+    "countryCode": "ER",
+    "country": "Eritrea",
+    "city": "Ettehad",
+    "lat": 15.22,
+    "lng": 38.879999999999995,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-ER-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "er-hintsa",
+    "name": "Hintsa",
+    "countryCode": "ER",
+    "country": "Eritrea",
+    "city": "Hintsa",
+    "lat": 15.252,
+    "lng": 38.912,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-ER-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "er-mekelake",
+    "name": "Mekelake",
+    "countryCode": "ER",
+    "country": "Eritrea",
+    "city": "Mekelake",
+    "lat": 15.292000000000002,
+    "lng": 38.952,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-ER-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "er-red-sea",
+    "name": "Red Sea",
+    "countryCode": "ER",
+    "country": "Eritrea",
+    "city": "Red Sea",
+    "lat": 15.96,
+    "lng": 39.02,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-ER-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "er-semhar",
+    "name": "Semhar",
+    "countryCode": "ER",
+    "country": "Eritrea",
+    "city": "Semhar",
+    "lat": 14.840137400000001,
+    "lng": 38.8336556,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-ER-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

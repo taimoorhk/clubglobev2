@@ -1,0 +1,72 @@
+{
+  "Araz": {
+    "lat": 39.6293745,
+    "lng": 44.8088337,
+    "countryCode": "AZ"
+  },
+  "Gabala": {
+    "lat": 40.9753138,
+    "lng": 47.8402144,
+    "countryCode": "AZ"
+  },
+  "Imisli": {
+    "lat": 39.8679054,
+    "lng": 48.0207626,
+    "countryCode": "AZ"
+  },
+  "Kapaz": {
+    "lat": 40.6806442,
+    "lng": 46.312649,
+    "countryCode": "AZ"
+  },
+  "Mil-Muğan": {
+    "lat": 39.8837477,
+    "lng": 48.1983528,
+    "countryCode": "AZ"
+  },
+  "Neftchi Baku": {
+    "lat": 40.3464922,
+    "lng": 49.8374895,
+    "countryCode": "AZ"
+  },
+  "Qarabag": {
+    "lat": 39.9534796,
+    "lng": 47.0541746,
+    "countryCode": "AZ"
+  },
+  "Sabah": {
+    "lat": 40.3832895,
+    "lng": 49.9333777,
+    "countryCode": "AZ"
+  },
+  "Shafa": {
+    "lat": 40.4096052,
+    "lng": 49.8985453,
+    "countryCode": "AZ"
+  },
+  "Shamakhi": {
+    "lat": 40.6341208,
+    "lng": 48.6383419,
+    "countryCode": "AZ"
+  },
+  "Sumgayit": {
+    "lat": 40.5961585,
+    "lng": 49.6696668,
+    "countryCode": "AZ"
+  },
+  "Turan": {
+    "lat": 40.858673,
+    "lng": 47.2450679,
+    "countryCode": "AZ"
+  },
+  "Zaqatala": {
+    "lat": 41.6180321,
+    "lng": 46.7595126,
+    "countryCode": "AZ"
+  },
+  "Zira": {
+    "lat": 40.2956963,
+    "lng": 49.9227629,
+    "countryCode": "AZ"
+  }
+}

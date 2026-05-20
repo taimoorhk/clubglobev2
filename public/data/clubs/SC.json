@@ -1,0 +1,258 @@
+[
+  {
+    "id": "sc-anse-r-union",
+    "name": "Anse Réunion",
+    "countryCode": "SC",
+    "country": "Seychelles",
+    "city": "Anse Réunion",
+    "lat": -4.3314967,
+    "lng": 55.745763600000004,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SC-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sc-c-te-d-or",
+    "name": "Côte d'Or",
+    "countryCode": "SC",
+    "country": "Seychelles",
+    "city": "Côte d'Or",
+    "lat": -4.3601522,
+    "lng": 55.7634683,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SC-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sc-foresters",
+    "name": "Foresters",
+    "countryCode": "SC",
+    "country": "Seychelles",
+    "city": "Foresters",
+    "lat": -4.736,
+    "lng": 55.524,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SC-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sc-la-passe",
+    "name": "La Passe",
+    "countryCode": "SC",
+    "country": "Seychelles",
+    "city": "La Passe",
+    "lat": -4.349538,
+    "lng": 55.892265300000005,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SC-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sc-lightstars",
+    "name": "Lightstars",
+    "countryCode": "SC",
+    "country": "Seychelles",
+    "city": "Lightstars",
+    "lat": -4.748,
+    "lng": 55.512,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SC-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sc-northern-dynamo",
+    "name": "Northern Dynamo",
+    "countryCode": "SC",
+    "country": "Seychelles",
+    "city": "Northern Dynamo",
+    "lat": -4.72,
+    "lng": 55.54,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SC-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sc-st-louis-suns-united",
+    "name": "St Louis Suns United",
+    "countryCode": "SC",
+    "country": "Seychelles",
+    "city": "St Louis Suns",
+    "lat": -4.7,
+    "lng": 55.56,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SC-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sc-st-michel-united",
+    "name": "St Michel United",
+    "countryCode": "SC",
+    "country": "Seychelles",
+    "city": "St Michel",
+    "lat": -4.6434498,
+    "lng": 55.4687489,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SC-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

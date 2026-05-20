@@ -1,0 +1,22 @@
+{
+  "Académica Praia": {
+    "lat": 14.9216624,
+    "lng": -23.5065085,
+    "countryCode": "CV"
+  },
+  "Boavista Praia": {
+    "lat": 14.9053979,
+    "lng": -23.5261391,
+    "countryCode": "CV"
+  },
+  "Sal-Rei": {
+    "lat": 16.1759748,
+    "lng": -22.9169771,
+    "countryCode": "CV"
+  },
+  "Sporting Praia": {
+    "lat": 14.9072385,
+    "lng": -23.5145809,
+    "countryCode": "CV"
+  }
+}

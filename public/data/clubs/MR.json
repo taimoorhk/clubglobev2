@@ -1,0 +1,258 @@
+[
+  {
+    "id": "mr-asc-k-dia",
+    "name": "ASC Kédia",
+    "countryCode": "MR",
+    "country": "Mauritania",
+    "city": "ASC Kédia",
+    "lat": 20.004,
+    "lng": -9.936,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MR-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mr-chemal",
+    "name": "Chemal",
+    "countryCode": "MR",
+    "country": "Mauritania",
+    "city": "Chemal",
+    "lat": 18.1004345,
+    "lng": -16.0723785,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MR-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mr-concorde",
+    "name": "Concorde",
+    "countryCode": "MR",
+    "country": "Mauritania",
+    "city": "Concorde",
+    "lat": 20.06,
+    "lng": -10.044,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MR-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/British_Airways_Concorde_G-BOAC_03.jpg/330px-British_Airways_Concorde_G-BOAC_03.jpg",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mr-garde-nationale",
+    "name": "Garde Nationale",
+    "countryCode": "MR",
+    "country": "Mauritania",
+    "city": "Garde Nationale",
+    "lat": 20.979741699999998,
+    "lng": -17.0935938,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MR-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mr-gendrim",
+    "name": "Gendrim",
+    "countryCode": "MR",
+    "country": "Mauritania",
+    "city": "Gendrim",
+    "lat": 20.032,
+    "lng": -10.072,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MR-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mr-nouakchott-kings",
+    "name": "Nouakchott Kings",
+    "countryCode": "MR",
+    "country": "Mauritania",
+    "city": "Nouakchott",
+    "lat": 18.0615,
+    "lng": -15.9102,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MR-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mr-snim",
+    "name": "SNIM",
+    "countryCode": "MR",
+    "country": "Mauritania",
+    "city": "SNIM",
+    "lat": 18.0670303,
+    "lng": -15.9385176,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MR-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mr-tevragh-zeina",
+    "name": "Tevragh-Zeina",
+    "countryCode": "MR",
+    "country": "Mauritania",
+    "city": "Tevragh-Zeina",
+    "lat": 18.1871443,
+    "lng": -16.031840199999998,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MR-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "Angkor Tiger": {
+    "lat": 13.3686494,
+    "lng": 103.8537781,
+    "countryCode": "KH"
+  },
+  "Boeung Ket": {
+    "lat": 12.363426,
+    "lng": 105.5521206,
+    "countryCode": "KH"
+  },
+  "Life": {
+    "lat": 11.7814509,
+    "lng": 104.770996,
+    "countryCode": "KH"
+  },
+  "Ministry of Interior": {
+    "lat": 11.5376232,
+    "lng": 104.9272087,
+    "countryCode": "KH"
+  },
+  "NagaWorld": {
+    "lat": 11.5556255,
+    "lng": 104.9372314,
+    "countryCode": "KH"
+  },
+  "National Defense": {
+    "lat": 11.609564,
+    "lng": 104.9152459,
+    "countryCode": "KH"
+  },
+  "Phnom Penh Crown": {
+    "lat": 11.6047054,
+    "lng": 104.8939636,
+    "countryCode": "KH"
+  },
+  "Preah Khan Reach": {
+    "lat": 13.4632251,
+    "lng": 103.9040003,
+    "countryCode": "KH"
+  },
+  "Svay Rieng": {
+    "lat": 11.1950082,
+    "lng": 105.7967967,
+    "countryCode": "KH"
+  },
+  "Visakha": {
+    "lat": 11.5514334,
+    "lng": 104.8857465,
+    "countryCode": "KH"
+  }
+}

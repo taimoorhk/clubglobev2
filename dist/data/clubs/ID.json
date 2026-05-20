@@ -1,0 +1,2214 @@
+[
+  {
+    "id": "id-arema",
+    "name": "Arema",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Arema",
+    "lat": 2.2326648000000002,
+    "lng": 117.4777009,
+    "divisionTier": 1,
+    "leagueId": "8983",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165200.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 2,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T12:00:00Z",
+          "opponent": "PSBS Biak Numfor",
+          "homeAway": "away",
+          "score": "2 - 5",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T08:30:00Z",
+          "opponent": "PSM Makassar",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T08:30:00Z",
+          "opponent": "Persik",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-28T08:30:00Z",
+          "opponent": "Persebaya Surabaya",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T12:00:00Z",
+          "opponent": "Persib Bandung",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T08:30:00Z",
+          "opponent": "Persis Solo",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T12:00:00Z",
+          "opponent": "Persita",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T08:30:00Z",
+          "opponent": "Malut United",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-10T13:30:00Z",
+          "opponent": "Bhayangkara Presisi Indonesia FC",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T13:30:00Z",
+          "opponent": "Bali United FC",
+          "homeAway": "home",
+          "score": "3 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-arema-fc",
+    "name": "Arema FC",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Malang",
+    "lat": -7.9291308,
+    "lng": 112.5780265,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-ID-t1",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165200.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-bali-united",
+    "name": "Bali United",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Gianyar",
+    "lat": -8.4701436,
+    "lng": 115.3575901,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-ID-t1",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/185751.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-bali-united-fc",
+    "name": "Bali United FC",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Bali",
+    "lat": -8.1791303,
+    "lng": 115.13592030000001,
+    "divisionTier": 1,
+    "leagueId": "8983",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/185751.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 0,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T08:30:00Z",
+          "opponent": "Bhayangkara Presisi Indonesia FC",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T12:00:00Z",
+          "opponent": "Borneo Samarinda",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-05T08:30:00Z",
+          "opponent": "Madura United",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-27T08:30:00Z",
+          "opponent": "PSM Makassar",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T08:30:00Z",
+          "opponent": "Persita",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T12:00:00Z",
+          "opponent": "Malut United",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T12:00:00Z",
+          "opponent": "Persib Bandung",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T12:00:00Z",
+          "opponent": "PSBS Biak Numfor",
+          "homeAway": "home",
+          "score": "6 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-12T13:30:00Z",
+          "opponent": "Persis Solo",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T13:30:00Z",
+          "opponent": "Arema",
+          "homeAway": "away",
+          "score": "3 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-barito-putera",
+    "name": "Barito Putera",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Barito Putera",
+    "lat": -6.26,
+    "lng": 106.8,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-ID-t1",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Barito_Putera_logo-en.svg/330px-Barito_Putera_logo-en.svg.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-bhayangkara-fc",
+    "name": "Bhayangkara FC",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Bhayangkara",
+    "lat": -1.8671568,
+    "lng": 116.14086590000001,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-ID-t1",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/185749.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-bhayangkara-presisi-indonesia-fc",
+    "name": "Bhayangkara Presisi Indonesia FC",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Bhayangkara",
+    "lat": -1.8551568,
+    "lng": 116.15286590000001,
+    "divisionTier": 1,
+    "leagueId": "8983",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/185749.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 0,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T08:30:00Z",
+          "opponent": "Bali United FC",
+          "homeAway": "away",
+          "score": "4 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T12:00:00Z",
+          "opponent": "Madura United",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T08:30:00Z",
+          "opponent": "PSM Makassar",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-30T12:00:00Z",
+          "opponent": "Persib Bandung",
+          "homeAway": "home",
+          "score": "2 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T08:30:00Z",
+          "opponent": "Persis Solo",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T08:30:00Z",
+          "opponent": "PSIM Yogyakarta",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T12:00:00Z",
+          "opponent": "Persijap Jepara",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T08:30:00Z",
+          "opponent": "Persija Jakarta",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-10T13:30:00Z",
+          "opponent": "Arema",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T13:30:00Z",
+          "opponent": "Dewa United FC",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-borneo-fc",
+    "name": "Borneo FC",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Borneo",
+    "lat": -2.9285686,
+    "lng": 115.43007180000001,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-ID-t1",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/585858.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-borneo-samarinda",
+    "name": "Borneo Samarinda",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Borneo Samarinda",
+    "lat": -0.4349326,
+    "lng": 117.0858652,
+    "divisionTier": 1,
+    "leagueId": "8983",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/585858.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 8,
+      "draws": 2,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T12:00:00Z",
+          "opponent": "Persijap Jepara",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T12:00:00Z",
+          "opponent": "Bali United FC",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-05T12:00:00Z",
+          "opponent": "Persita",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T08:30:00Z",
+          "opponent": "Persik",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T12:00:00Z",
+          "opponent": "Semen Padang",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T12:00:00Z",
+          "opponent": "PSM Makassar",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T08:30:00Z",
+          "opponent": "PSBS Biak Numfor",
+          "homeAway": "home",
+          "score": "5 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T12:00:00Z",
+          "opponent": "Madura United",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T13:30:00Z",
+          "opponent": "Persib Bandung",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T13:30:00Z",
+          "opponent": "Persebaya Surabaya",
+          "homeAway": "home",
+          "score": "5 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-deltras-sidoarjo",
+    "name": "Deltras Sidoarjo",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Deltras Sidoarjo",
+    "lat": -6.244,
+    "lng": 106.816,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-ID-t2",
+    "leagueName": "Liga 2",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Deltras_FC_logo.png/330px-Deltras_FC_logo.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-dewa-united",
+    "name": "Dewa United",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Dewa",
+    "lat": -8.143906000000001,
+    "lng": 112.83263109999999,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-ID-t1",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/585860.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-dewa-united-fc",
+    "name": "Dewa United FC",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Dewa",
+    "lat": -8.247906,
+    "lng": 112.89263109999999,
+    "divisionTier": 1,
+    "leagueId": "8983",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/585860.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 2,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T12:00:00Z",
+          "opponent": "Persis Solo",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T12:00:00Z",
+          "opponent": "PSBS Biak Numfor",
+          "homeAway": "away",
+          "score": "0 - 5",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T12:00:00Z",
+          "opponent": "Semen Padang",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T12:00:00Z",
+          "opponent": "Persijap Jepara",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T08:30:00Z",
+          "opponent": "Madura United",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-20T12:00:00Z",
+          "opponent": "Persib Bandung",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T12:00:00Z",
+          "opponent": "Malut United",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T12:00:00Z",
+          "opponent": "PSIM Yogyakarta",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T13:30:00Z",
+          "opponent": "Persija Jakarta",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T13:30:00Z",
+          "opponent": "Bhayangkara Presisi Indonesia FC",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-garudayaksa",
+    "name": "Garudayaksa",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Garudayaksa",
+    "lat": -6.3221389,
+    "lng": 107.0120214,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-ID-t2",
+    "leagueName": "Liga 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-gresik-united",
+    "name": "Gresik United",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Gresik",
+    "lat": -5.8333465,
+    "lng": 112.6798223,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-ID-t2",
+    "leagueName": "Liga 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-madura-united",
+    "name": "Madura United",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Madura",
+    "lat": -7.0588909,
+    "lng": 113.34389350000001,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-ID-t1",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165199.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-malut-united",
+    "name": "Malut United",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Malut",
+    "lat": 0.6581215,
+    "lng": 127.89602190000001,
+    "divisionTier": 1,
+    "leagueId": "8983",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1665351.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 3,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T12:00:00Z",
+          "opponent": "Persita",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T12:00:00Z",
+          "opponent": "PSIM Yogyakarta",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T13:30:00Z",
+          "opponent": "Persis Solo",
+          "homeAway": "home",
+          "score": "5 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-28T12:00:00Z",
+          "opponent": "PSBS Biak Numfor",
+          "homeAway": "away",
+          "score": "0 - 7",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T12:00:00Z",
+          "opponent": "Persebaya Surabaya",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T12:00:00Z",
+          "opponent": "Bali United FC",
+          "homeAway": "away",
+          "score": "4 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T12:00:00Z",
+          "opponent": "Dewa United FC",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T08:30:00Z",
+          "opponent": "Arema",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T12:00:00Z",
+          "opponent": "PSM Makassar",
+          "homeAway": "home",
+          "score": "3 - 3",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-03T13:30:00Z",
+          "opponent": "Madura United",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-persebaya-surabaya",
+    "name": "Persebaya Surabaya",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Persebaya Surabaya",
+    "lat": -6.24,
+    "lng": 106.82,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-ID-t1",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/930525.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-persela-lamongan",
+    "name": "Persela Lamongan",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Persela Lamongan",
+    "lat": -6.16,
+    "lng": 106.736,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-ID-t2",
+    "leagueName": "Liga 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-persib-bandung",
+    "name": "Persib Bandung",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Bandung",
+    "lat": -6.9215,
+    "lng": 107.6751,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-ID-t1",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165196.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-persiba-balikpapan",
+    "name": "Persiba Balikpapan",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Persiba Balikpapan",
+    "lat": -6.276,
+    "lng": 106.78399999999999,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-ID-t2",
+    "leagueName": "Liga 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-persija-jakarta",
+    "name": "Persija Jakarta",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "lat": -6.2208,
+    "lng": 106.8936,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-ID-t1",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165191.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-persijap-jepara",
+    "name": "Persijap Jepara",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Persijap Jepara",
+    "lat": -6.164000000000001,
+    "lng": 106.732,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-ID-t2",
+    "leagueName": "Liga 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165194.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-persik",
+    "name": "Persik",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Persik",
+    "lat": -0.4443801,
+    "lng": 117.22752559999999,
+    "divisionTier": 1,
+    "leagueId": "8983",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165197.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 1,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T08:30:00Z",
+          "opponent": "Persija Jakarta",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T08:30:00Z",
+          "opponent": "Semen Padang",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T08:30:00Z",
+          "opponent": "Arema",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T08:30:00Z",
+          "opponent": "Borneo Samarinda",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T08:30:00Z",
+          "opponent": "PSM Makassar",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T08:30:00Z",
+          "opponent": "Persita",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T08:30:00Z",
+          "opponent": "Madura United",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T08:30:00Z",
+          "opponent": "Persijap Jepara",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-09T13:30:00Z",
+          "opponent": "Persib Bandung",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-05T13:30:00Z",
+          "opponent": "PSBS Biak Numfor",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-persik-kediri",
+    "name": "Persik Kediri",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Persik",
+    "lat": -0.3963801,
+    "lng": 117.1115256,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-ID-t1",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165197.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-persikabo-1973",
+    "name": "Persikabo 1973",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Persikabo 1973",
+    "lat": -6.472531900000001,
+    "lng": 106.8891879,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-ID-t2",
+    "leagueName": "Liga 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165197.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-persiku-kudus",
+    "name": "Persiku Kudus",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Persik",
+    "lat": -0.5283801,
+    "lng": 117.1435256,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-ID-t2",
+    "leagueName": "Liga 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165197.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-persiraja-banda-aceh",
+    "name": "Persiraja Banda Aceh",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Persiraja Banda Aceh",
+    "lat": -6.252,
+    "lng": 106.80799999999999,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-ID-t2",
+    "leagueName": "Liga 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-persis-solo",
+    "name": "Persis Solo",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Persis Solo",
+    "lat": -7.5544203,
+    "lng": 110.8675533,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-ID-t1",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/583034.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-persita",
+    "name": "Persita",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Persita",
+    "lat": -6.140000000000001,
+    "lng": 106.756,
+    "divisionTier": 1,
+    "leagueId": "8983",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165206.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 1,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T12:00:00Z",
+          "opponent": "Malut United",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T08:30:00Z",
+          "opponent": "Persijap Jepara",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-05T12:00:00Z",
+          "opponent": "Borneo Samarinda",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-30T08:30:00Z",
+          "opponent": "PSIM Yogyakarta",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T08:30:00Z",
+          "opponent": "Bali United FC",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T08:30:00Z",
+          "opponent": "Persik",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T12:00:00Z",
+          "opponent": "Arema",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T12:00:00Z",
+          "opponent": "Persebaya Surabaya",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T13:30:00Z",
+          "opponent": "Madura United",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-02T13:30:00Z",
+          "opponent": "PSM Makassar",
+          "homeAway": "away",
+          "score": "2 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-persita-tangerang",
+    "name": "Persita Tangerang",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Persita Tangerang",
+    "lat": -6.228,
+    "lng": 106.832,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-ID-t2",
+    "leagueName": "Liga 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165206.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-psbs-biak",
+    "name": "PSBS Biak",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "PSBS Biak",
+    "lat": -6.208,
+    "lng": 106.852,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-ID-t2",
+    "leagueName": "Liga 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/585877.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-psbs-biak-numfor",
+    "name": "PSBS Biak Numfor",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "PSBS Biak Numfor",
+    "lat": -6.152,
+    "lng": 106.744,
+    "divisionTier": 1,
+    "leagueId": "8983",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/585877.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 10,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T12:00:00Z",
+          "opponent": "Arema",
+          "homeAway": "home",
+          "score": "2 - 5",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T12:00:00Z",
+          "opponent": "Dewa United FC",
+          "homeAway": "home",
+          "score": "0 - 5",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T08:30:00Z",
+          "opponent": "Persebaya Surabaya",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-28T12:00:00Z",
+          "opponent": "Malut United",
+          "homeAway": "home",
+          "score": "0 - 7",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T08:30:00Z",
+          "opponent": "Persijap Jepara",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T12:00:00Z",
+          "opponent": "Persija Jakarta",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T08:30:00Z",
+          "opponent": "Borneo Samarinda",
+          "homeAway": "away",
+          "score": "5 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T12:00:00Z",
+          "opponent": "Bali United FC",
+          "homeAway": "away",
+          "score": "6 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-09T13:30:00Z",
+          "opponent": "Semen Padang",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-05T13:30:00Z",
+          "opponent": "Persik",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-psim-yogyakarta",
+    "name": "PSIM Yogyakarta",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "PSIM Yogyakarta",
+    "lat": -6.176,
+    "lng": 106.72,
+    "divisionTier": 1,
+    "leagueId": "8983",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/585850.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 3,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T12:00:00Z",
+          "opponent": "Madura United",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T12:00:00Z",
+          "opponent": "Malut United",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T08:30:00Z",
+          "opponent": "Persib Bandung",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-30T08:30:00Z",
+          "opponent": "Persita",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T08:30:00Z",
+          "opponent": "Persija Jakarta",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T08:30:00Z",
+          "opponent": "Bhayangkara Presisi Indonesia FC",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T08:30:00Z",
+          "opponent": "PSM Makassar",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T12:00:00Z",
+          "opponent": "Dewa United FC",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-11T13:30:00Z",
+          "opponent": "Persijap Jepara",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-04T14:00:00Z",
+          "opponent": "Semen Padang",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-psis-semarang",
+    "name": "PSIS Semarang",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "PSIS Semarang",
+    "lat": -6.9951103,
+    "lng": 110.3987554,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-ID-t1",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-psm-makassar",
+    "name": "PSM Makassar",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "PSM Makassar",
+    "lat": -6.196000000000001,
+    "lng": 106.86399999999999,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-ID-t1",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165198.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-psms-medan",
+    "name": "PSMS Medan",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "PSMS Medan",
+    "lat": 3.6005352,
+    "lng": 98.74219550000001,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-ID-t2",
+    "leagueName": "Liga 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-pss-sleman",
+    "name": "PSS Sleman",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "PSS Sleman",
+    "lat": -6.236,
+    "lng": 106.824,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-ID-t2",
+    "leagueName": "Liga 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-rans-nusantara",
+    "name": "RANS Nusantara",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "RANS Nusantara",
+    "lat": -6.2880479,
+    "lng": 106.6826105,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-ID-t2",
+    "leagueName": "Liga 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-semen-padang",
+    "name": "Semen Padang",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Semen Padang",
+    "lat": -0.4449158,
+    "lng": 100.42279500000001,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-ID-t1",
+    "leagueName": "Liga 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/215564.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-sriwijaya-fc",
+    "name": "Sriwijaya FC",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Sriwijaya",
+    "lat": -3.929434,
+    "lng": 105.5269395,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-ID-t2",
+    "leagueName": "Liga 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "id-sumsel-united",
+    "name": "Sumsel United",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "city": "Sumsel",
+    "lat": -3.2513103,
+    "lng": 104.43550590000001,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-ID-t2",
+    "leagueName": "Liga 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

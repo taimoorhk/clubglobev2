@@ -1,0 +1,2270 @@
+[
+  {
+    "id": "sa-abha",
+    "name": "Abha",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Abha",
+    "lat": 18.264428199999998,
+    "lng": 42.4483596,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-SA-t2",
+    "leagueName": "Saudi First Division League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-adalah",
+    "name": "Al Adalah",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Adalah",
+    "lat": 25.3978483,
+    "lng": 49.6835085,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-SA-t2",
+    "leagueName": "Saudi First Division League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-ahli",
+    "name": "Al Ahli",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Jeddah",
+    "lat": 21.445800000000002,
+    "lng": 39.212500000000006,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-SA-t1",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2530.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-akhdoud",
+    "name": "Al Akhdoud",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Akhdoud",
+    "lat": 24.724,
+    "lng": 46.620000000000005,
+    "divisionTier": 1,
+    "leagueId": "536",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/582759.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 1,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T16:05:00Z",
+          "opponent": "Al Khaleej",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-12T16:20:00Z",
+          "opponent": "Al Kholood",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T18:00:00Z",
+          "opponent": "Al Ahli",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-30T16:00:00Z",
+          "opponent": "Al-Ettifaq",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T18:00:00Z",
+          "opponent": "Damac FC",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T18:00:00Z",
+          "opponent": "Al Nassr FC",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T15:55:00Z",
+          "opponent": "Al Fateh FC",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T19:00:00Z",
+          "opponent": "Al Shabab",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T19:00:00Z",
+          "opponent": "Al-Fayha",
+          "homeAway": "home",
+          "score": "0 - 5",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T19:00:00Z",
+          "opponent": "Al Najma",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-anwar",
+    "name": "Al Anwar",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Anwar",
+    "lat": 26.587802500000002,
+    "lng": 43.8055617,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-SA-t3",
+    "leagueName": "Saudi Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-arabi",
+    "name": "Al Arabi",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Arabi",
+    "lat": 24.6158101,
+    "lng": 46.7343021,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-SA-t2",
+    "leagueName": "Saudi First Division League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-arar",
+    "name": "Al Arar",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Arar",
+    "lat": 24.8011333,
+    "lng": 46.7374327,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-SA-t3",
+    "leagueName": "Saudi Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-baha",
+    "name": "Al Baha",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Baha",
+    "lat": 20.2812671,
+    "lng": 41.4015479,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-SA-t3",
+    "leagueName": "Saudi Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-batin",
+    "name": "Al Batin",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Batin",
+    "lat": 26.311405699999998,
+    "lng": 44.1588916,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-SA-t2",
+    "leagueName": "Saudi First Division League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-bukayriyah",
+    "name": "Al Bukayriyah",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Bukayriyah",
+    "lat": 26.229942899999998,
+    "lng": 43.641355,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-SA-t2",
+    "leagueName": "Saudi First Division League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-draih",
+    "name": "Al Draih",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Draih",
+    "lat": 24.64,
+    "lng": 46.7,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-SA-t3",
+    "leagueName": "Saudi Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-entesar",
+    "name": "Al Entesar",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Entesar",
+    "lat": 24.794785,
+    "lng": 46.551953600000004,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-SA-t3",
+    "leagueName": "Saudi Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-ettifaq",
+    "name": "Al Ettifaq",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Dammam",
+    "lat": 26.3527,
+    "lng": 50.080799999999996,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-SA-t1",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/101915.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-faisaly",
+    "name": "Al Faisaly",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Faisaly",
+    "lat": 24.732,
+    "lng": 46.628,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-SA-t2",
+    "leagueName": "Saudi First Division League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-faisaly-harmah",
+    "name": "Al Faisaly Harmah",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Faisaly Harmah",
+    "lat": 24.631999999999998,
+    "lng": 46.692,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-SA-t3",
+    "leagueName": "Saudi Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-fateh",
+    "name": "Al Fateh",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Fateh",
+    "lat": 24.717075599999998,
+    "lng": 46.712922,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-SA-t1",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/177356.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-fateh-fc",
+    "name": "Al Fateh FC",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Fateh",
+    "lat": 24.7730756,
+    "lng": 46.768922,
+    "divisionTier": 1,
+    "leagueId": "536",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/177356.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 3,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-14T15:55:00Z",
+          "opponent": "Al Najma",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T16:05:00Z",
+          "opponent": "Al Riyadh",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-06T18:00:00Z",
+          "opponent": "Al Ahli",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T15:50:00Z",
+          "opponent": "Neom SC",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-28T16:00:00Z",
+          "opponent": "Al Shabab",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T15:45:00Z",
+          "opponent": "Al Khaleej",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T15:55:00Z",
+          "opponent": "Al Akhdoud",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T19:00:00Z",
+          "opponent": "Al Hilal",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T19:00:00Z",
+          "opponent": "Al-Taawoun",
+          "homeAway": "away",
+          "score": "3 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-26T19:00:00Z",
+          "opponent": "Damac FC",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-feiha",
+    "name": "Al Feiha",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Feiha",
+    "lat": 24.772,
+    "lng": 46.668000000000006,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-SA-t1",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-hazem",
+    "name": "Al Hazem",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Hazem",
+    "lat": 24.5481161,
+    "lng": 46.5678353,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-SA-t1",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/101911.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-hilal",
+    "name": "Al Hilal",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "lat": 24.7456,
+    "lng": 46.6033,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-SA-t1",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2529.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-ittihad",
+    "name": "Al Ittihad",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Jeddah",
+    "lat": 21.5458,
+    "lng": 39.148500000000006,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-SA-t1",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8577.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-jabalain",
+    "name": "Al Jabalain",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Jabalain",
+    "lat": 24.947225200000002,
+    "lng": 50.6857471,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-SA-t2",
+    "leagueName": "Saudi First Division League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-jandal",
+    "name": "Al Jandal",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Jandal",
+    "lat": 29.7699219,
+    "lng": 39.890726,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-SA-t2",
+    "leagueName": "Saudi First Division League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-jeel",
+    "name": "Al Jeel",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Jeel",
+    "lat": 24.5439009,
+    "lng": 46.5629408,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-SA-t3",
+    "leagueName": "Saudi Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-jubail",
+    "name": "Al Jubail",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Jubail",
+    "lat": 24.6749065,
+    "lng": 47.0155034,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-SA-t2",
+    "leagueName": "Saudi First Division League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-khaleej",
+    "name": "Al Khaleej",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Khaleej",
+    "lat": 26.2729378,
+    "lng": 43.9998461,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-SA-t1",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/550433.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-kholood",
+    "name": "Al Kholood",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Kholood",
+    "lat": 25.968113499999998,
+    "lng": 43.4719913,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-SA-t3",
+    "leagueName": "Saudi Second Division",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1523706.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-lewaa",
+    "name": "Al Lewaa",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Lewaa",
+    "lat": 24.676,
+    "lng": 46.736000000000004,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-SA-t3",
+    "leagueName": "Saudi Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-majd",
+    "name": "Al Majd",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Majd",
+    "lat": 24.663999999999998,
+    "lng": 46.724000000000004,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-SA-t3",
+    "leagueName": "Saudi Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-najma",
+    "name": "Al Najma",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Najma",
+    "lat": 24.5911966,
+    "lng": 46.6393167,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-SA-t2",
+    "leagueName": "Saudi First Division League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1523707.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-nassr",
+    "name": "Al Nassr",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "lat": 24.7736,
+    "lng": 46.6313,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-SA-t1",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-nassr-fc",
+    "name": "Al Nassr FC",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Nassr",
+    "lat": 24.7322551,
+    "lng": 46.6788507,
+    "divisionTier": 1,
+    "leagueId": "536",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 8,
+      "draws": 1,
+      "losses": 1,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-12T18:00:00Z",
+          "opponent": "Al Hilal",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-07T18:00:00Z",
+          "opponent": "Al Shabab",
+          "homeAway": "away",
+          "score": "2 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T18:00:00Z",
+          "opponent": "Al Qadsiah",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T18:00:00Z",
+          "opponent": "Al Ahli",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-15T18:00:00Z",
+          "opponent": "Al-Ettifaq",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T18:00:00Z",
+          "opponent": "Al Akhdoud",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T18:00:00Z",
+          "opponent": "Al Najma",
+          "homeAway": "home",
+          "score": "5 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T19:00:00Z",
+          "opponent": "Al Khaleej",
+          "homeAway": "away",
+          "score": "0 - 5",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T19:00:00Z",
+          "opponent": "Neom SC",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T19:00:00Z",
+          "opponent": "Al-Fayha",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-nojoom",
+    "name": "Al Nojoom",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Nojoom",
+    "lat": 24.644,
+    "lng": 46.704,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-SA-t3",
+    "leagueName": "Saudi Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-okhdood",
+    "name": "Al Okhdood",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Okhdood",
+    "lat": 17.4832977,
+    "lng": 44.245261,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-SA-t1",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-qadsiah",
+    "name": "Al Qadsiah",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Qadsiah",
+    "lat": 24.776,
+    "lng": 46.672000000000004,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-SA-t1",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/101919.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-raed",
+    "name": "Al Raed",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Raed",
+    "lat": 19.7899777,
+    "lng": 41.5386945,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-SA-t1",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-rawdhah",
+    "name": "Al Rawdhah",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Rawdhah",
+    "lat": 26.3505496,
+    "lng": 43.9176348,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-SA-t3",
+    "leagueName": "Saudi Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-riyadh",
+    "name": "Al Riyadh",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Riyadh",
+    "lat": 24.642916,
+    "lng": 46.7800104,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-SA-t1",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/582739.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-safa",
+    "name": "Al Safa",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Safa",
+    "lat": 21.5999399,
+    "lng": 39.2883508,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-SA-t2",
+    "leagueName": "Saudi First Division League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-shabab",
+    "name": "Al Shabab",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "lat": 24.6976,
+    "lng": 46.7193,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-SA-t1",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/101916.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-shahania",
+    "name": "Al Shahania",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Shahania",
+    "lat": 24.72,
+    "lng": 46.78,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-SA-t3",
+    "leagueName": "Saudi Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-taawoun",
+    "name": "Al Taawoun",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Taawoun",
+    "lat": 21.4017815,
+    "lng": 39.8558791,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-SA-t1",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/205686.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-tadamun",
+    "name": "Al Tadamun",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Tadamun",
+    "lat": 24.2571069,
+    "lng": 43.7685751,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-SA-t3",
+    "leagueName": "Saudi Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-taee",
+    "name": "Al Taee",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Taee",
+    "lat": 24.618003599999998,
+    "lng": 46.6325361,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-SA-t2",
+    "leagueName": "Saudi First Division League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-tai",
+    "name": "Al Tai",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Tai",
+    "lat": 24.5875496,
+    "lng": 46.5014938,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-SA-t2",
+    "leagueName": "Saudi First Division League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-ula",
+    "name": "Al Ula",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Ula",
+    "lat": 26.5148965,
+    "lng": 37.975651899999995,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-SA-t2",
+    "leagueName": "Saudi First Division League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-washm",
+    "name": "Al Washm",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Washm",
+    "lat": 16.4348772,
+    "lng": 42.943436299999995,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-SA-t3",
+    "leagueName": "Saudi Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-watan",
+    "name": "Al Watan",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Watan",
+    "lat": 17.772143999999997,
+    "lng": 43.700206,
+    "divisionTier": 3,
+    "leagueId": "asia-curated-SA-t3",
+    "leagueName": "Saudi Second Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-wehda",
+    "name": "Al Wehda",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Wehda",
+    "lat": 30.1147316,
+    "lng": 31.1897113,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-SA-t2",
+    "leagueName": "Saudi First Division League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-zulfi",
+    "name": "Al Zulfi",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al Zulfi",
+    "lat": 26.2327194,
+    "lng": 44.8524767,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-SA-t2",
+    "leagueName": "Saudi First Division League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-al-fayha",
+    "name": "Al-Fayha",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Al-Fayha",
+    "lat": 24.675333000000002,
+    "lng": 46.856443999999996,
+    "divisionTier": 1,
+    "leagueId": "536",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/582749.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 2,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T16:15:00Z",
+          "opponent": "Damac FC",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T18:00:00Z",
+          "opponent": "Al Qadsiah",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-04T16:10:00Z",
+          "opponent": "Al Riyadh",
+          "homeAway": "home",
+          "score": "4 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-30T18:00:00Z",
+          "opponent": "Al Kholood",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T16:05:00Z",
+          "opponent": "Al Hazem",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-08T15:55:00Z",
+          "opponent": "Al Ahli",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T16:30:00Z",
+          "opponent": "Neom SC",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:00:00Z",
+          "opponent": "Al-Ettifaq",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T19:00:00Z",
+          "opponent": "Al Akhdoud",
+          "homeAway": "away",
+          "score": "0 - 5",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T19:00:00Z",
+          "opponent": "Al Nassr FC",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-damac",
+    "name": "Damac",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Damac",
+    "lat": 18.2274665,
+    "lng": 42.7123996,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-SA-t1",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/582823.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-damac-fc",
+    "name": "Damac FC",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Damac",
+    "lat": 18.1674665,
+    "lng": 42.8163996,
+    "divisionTier": 1,
+    "leagueId": "536",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/582823.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 2,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T16:15:00Z",
+          "opponent": "Al-Fayha",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T18:00:00Z",
+          "opponent": "Al Ittihad",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T16:10:00Z",
+          "opponent": "Al Khaleej",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-28T18:00:00Z",
+          "opponent": "Al Hilal",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T18:00:00Z",
+          "opponent": "Al Akhdoud",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-09T16:00:00Z",
+          "opponent": "Al Qadsiah",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T16:15:00Z",
+          "opponent": "Al Ahli",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-12T19:00:00Z",
+          "opponent": "Al Najma",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-05T19:00:00Z",
+          "opponent": "Al Riyadh",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-26T19:00:00Z",
+          "opponent": "Al Fateh FC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sa-neom-sc",
+    "name": "Neom SC",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "city": "Neom",
+    "lat": 28.009886100000003,
+    "lng": 35.2667014,
+    "divisionTier": 1,
+    "leagueId": "536",
+    "leagueName": "Saudi Pro League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1699505.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 3,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T16:05:00Z",
+          "opponent": "Al Hilal",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T16:50:00Z",
+          "opponent": "Al Shabab",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T15:50:00Z",
+          "opponent": "Al Fateh FC",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-28T16:45:00Z",
+          "opponent": "Al Hazem",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T16:00:00Z",
+          "opponent": "Al Najma",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-08T18:00:00Z",
+          "opponent": "Al Ittihad",
+          "homeAway": "away",
+          "score": "3 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T16:30:00Z",
+          "opponent": "Al-Fayha",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-12T19:00:00Z",
+          "opponent": "Al-Taawoun",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T19:00:00Z",
+          "opponent": "Al Nassr FC",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T19:00:00Z",
+          "opponent": "Al Kholood",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

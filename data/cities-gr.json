@@ -1,0 +1,47 @@
+{
+  "AE Larissa": {
+    "lat": 39.6383092,
+    "lng": 22.4160706,
+    "countryCode": "GR"
+  },
+  "AEK Athens": {
+    "lat": 38.0371873,
+    "lng": 23.7409322,
+    "countryCode": "GR"
+  },
+  "Aris Thessaloniki": {
+    "lat": 40.6270542,
+    "lng": 22.9569436,
+    "countryCode": "GR"
+  },
+  "Asteras Tripolis": {
+    "lat": 37.5025165,
+    "lng": 22.3884569,
+    "countryCode": "GR"
+  },
+  "Atromitos": {
+    "lat": 38.0637014,
+    "lng": 23.7716499,
+    "countryCode": "GR"
+  },
+  "Kifisia": {
+    "lat": 38.0736082,
+    "lng": 23.8082244,
+    "countryCode": "GR"
+  },
+  "Olympiacos": {
+    "lat": 37.9610679,
+    "lng": 23.7098949,
+    "countryCode": "GR"
+  },
+  "PAOK Thessaloniki": {
+    "lat": 40.6138703,
+    "lng": 22.9723655,
+    "countryCode": "GR"
+  },
+  "Panathinaikos": {
+    "lat": 37.9825968,
+    "lng": 23.6947195,
+    "countryCode": "GR"
+  }
+}

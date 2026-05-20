@@ -1,0 +1,42 @@
+{
+  "Dire Dawa": {
+    "lat": 9.591323,
+    "lng": 41.8566341,
+    "countryCode": "ET"
+  },
+  "Ethiopia Bunna": {
+    "lat": 8.9681769,
+    "lng": 38.7621981,
+    "countryCode": "ET"
+  },
+  "Hadiya Hossana": {
+    "lat": 7.5521302,
+    "lng": 37.852483,
+    "countryCode": "ET"
+  },
+  "Hawassa": {
+    "lat": 7.0481029,
+    "lng": 38.47861,
+    "countryCode": "ET"
+  },
+  "Saint George": {
+    "lat": 12.0316113,
+    "lng": 39.041094,
+    "countryCode": "ET"
+  },
+  "Shire Endaselassie": {
+    "lat": 14.1012267,
+    "lng": 38.2833032,
+    "countryCode": "ET"
+  },
+  "Welwalo Adigrat": {
+    "lat": 14.276957,
+    "lng": 39.4646811,
+    "countryCode": "ET"
+  },
+  "Wolkite": {
+    "lat": 8.286087,
+    "lng": 37.781844,
+    "countryCode": "ET"
+  }
+}

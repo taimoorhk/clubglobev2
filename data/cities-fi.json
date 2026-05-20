@@ -1,0 +1,27 @@
+{
+  "AC Oulu": {
+    "lat": 65.0117914,
+    "lng": 25.4701973,
+    "countryCode": "FI"
+  },
+  "FC Lahti": {
+    "lat": 60.982628,
+    "lng": 25.6613418,
+    "countryCode": "FI"
+  },
+  "Ilves": {
+    "lat": 64.5547987,
+    "lng": 28.9764303,
+    "countryCode": "FI"
+  },
+  "SJK": {
+    "lat": 62.7792961,
+    "lng": 22.8147475,
+    "countryCode": "FI"
+  },
+  "VPS": {
+    "lat": 63.085994,
+    "lng": 21.6481345,
+    "countryCode": "FI"
+  }
+}

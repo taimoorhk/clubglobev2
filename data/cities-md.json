@@ -1,0 +1,42 @@
+{
+  "Chisinau": {
+    "lat": 47.0105,
+    "lng": 28.8638,
+    "countryCode": "MD"
+  },
+  "Tiraspol": {
+    "lat": 46.8403,
+    "lng": 29.6433,
+    "countryCode": "MD"
+  },
+  "Balti": {
+    "lat": 47.7539,
+    "lng": 27.9184,
+    "countryCode": "MD"
+  },
+  "Orhei": {
+    "lat": 47.3831,
+    "lng": 28.8231,
+    "countryCode": "MD"
+  },
+  "Hincesti": {
+    "lat": 46.8305,
+    "lng": 28.5906,
+    "countryCode": "MD"
+  },
+  "Soroca": {
+    "lat": 48.1566,
+    "lng": 28.2849,
+    "countryCode": "MD"
+  },
+  "Cahul": {
+    "lat": 45.9043,
+    "lng": 28.1993,
+    "countryCode": "MD"
+  },
+  "Comrat": {
+    "lat": 46.3002,
+    "lng": 28.6572,
+    "countryCode": "MD"
+  }
+}

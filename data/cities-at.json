@@ -1,0 +1,57 @@
+{
+  "Austria Lustenau": {
+    "lat": 47.4314854,
+    "lng": 9.6578051,
+    "countryCode": "AT"
+  },
+  "Austria Salzburg": {
+    "lat": 47.8122489,
+    "lng": 13.0436622,
+    "countryCode": "AT"
+  },
+  "Austria Wien II": {
+    "lat": 48.264039,
+    "lng": 16.401842,
+    "countryCode": "AT"
+  },
+  "FC Liefering": {
+    "lat": 47.8260568,
+    "lng": 13.0092544,
+    "countryCode": "AT"
+  },
+  "First Vienna": {
+    "lat": 48.242151,
+    "lng": 16.3711753,
+    "countryCode": "AT"
+  },
+  "Floridsdorfer": {
+    "lat": 48.2494449,
+    "lng": 16.3895817,
+    "countryCode": "AT"
+  },
+  "Kapfenberger": {
+    "lat": 47.616738,
+    "lng": 16.0263032,
+    "countryCode": "AT"
+  },
+  "SKN St. Pölten": {
+    "lat": 48.2209631,
+    "lng": 15.6525319,
+    "countryCode": "AT"
+  },
+  "SKU Amstetten": {
+    "lat": 48.1701788,
+    "lng": 14.8371689,
+    "countryCode": "AT"
+  },
+  "SW Bregenz": {
+    "lat": 47.281593,
+    "lng": 10.127158,
+    "countryCode": "AT"
+  },
+  "Sturm Graz II": {
+    "lat": 47.0300383,
+    "lng": 15.4907697,
+    "countryCode": "AT"
+  }
+}

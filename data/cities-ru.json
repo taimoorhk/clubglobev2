@@ -1,0 +1,117 @@
+{
+  "Baltika": {
+    "lat": 54.772091,
+    "lng": 56.5369,
+    "countryCode": "RU"
+  },
+  "CSKA Moscow": {
+    "lat": 55.786561,
+    "lng": 37.5332007,
+    "countryCode": "RU"
+  },
+  "Dinamo Moscow": {
+    "lat": 55.7897397,
+    "lng": 37.558208,
+    "countryCode": "RU"
+  },
+  "Dynamo Makhachkala": {
+    "lat": 42.9804821,
+    "lng": 47.5072059,
+    "countryCode": "RU"
+  },
+  "FC Krasnodar": {
+    "lat": 45.0351532,
+    "lng": 38.9772396,
+    "countryCode": "RU"
+  },
+  "FC Orenburg": {
+    "lat": 51.7671248,
+    "lng": 55.0978517,
+    "countryCode": "RU"
+  },
+  "FC Rostov": {
+    "lat": 47.2222596,
+    "lng": 39.7198736,
+    "countryCode": "RU"
+  },
+  "Lokomotiv Moscow": {
+    "lat": 55.8041325,
+    "lng": 37.7460075,
+    "countryCode": "RU"
+  },
+  "Nizhny Novgorod": {
+    "lat": 56.2965,
+    "lng": 43.9361,
+    "countryCode": "RU"
+  },
+  "Rubin Kazan": {
+    "lat": 55.7966429,
+    "lng": 49.1000473,
+    "countryCode": "RU"
+  },
+  "Spartak Moscow": {
+    "lat": 55.8175885,
+    "lng": 37.4406099,
+    "countryCode": "RU"
+  },
+  "Start": {
+    "lat": 64.5550548,
+    "lng": 40.5575018,
+    "countryCode": "RU"
+  },
+  "Viking": {
+    "lat": 60.0647674,
+    "lng": 30.3457026,
+    "countryCode": "RU"
+  },
+  "Zenit St. Petersburg": {
+    "lat": 59.9719562,
+    "lng": 30.2119155,
+    "countryCode": "RU"
+  },
+  "Moscow": {
+    "lat": 55.7558,
+    "lng": 37.6173,
+    "countryCode": "RU"
+  },
+  "Saint Petersburg": {
+    "lat": 59.9311,
+    "lng": 30.3609,
+    "countryCode": "RU"
+  },
+  "Kazan": {
+    "lat": 55.7961,
+    "lng": 49.1064,
+    "countryCode": "RU"
+  },
+  "Krasnodar": {
+    "lat": 45.0355,
+    "lng": 38.9753,
+    "countryCode": "RU"
+  },
+  "Samara": {
+    "lat": 53.1959,
+    "lng": 50.1008,
+    "countryCode": "RU"
+  },
+  "Rostov": {
+    "lat": 47.2357,
+    "lng": 39.7015,
+    "countryCode": "RU"
+  },
+  "Sochi": {
+    "lat": 43.5855,
+    "lng": 39.7231,
+    "countryCode": "RU"
+  },
+  "Makhachkala": {
+    "lat": 42.9849,
+    "lng": 47.5047,
+    "countryCode": "RU"
+  },
+  "Yaroslavl": {
+    "lat": 57.6261,
+    "lng": 39.8845,
+    "countryCode": "RU"
+  }
+}

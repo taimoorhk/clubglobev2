@@ -1,0 +1,42 @@
+{
+  "Sarajevo": {
+    "lat": 43.8563,
+    "lng": 18.4131,
+    "countryCode": "BA"
+  },
+  "Banja Luka": {
+    "lat": 44.7722,
+    "lng": 17.191,
+    "countryCode": "BA"
+  },
+  "Mostar": {
+    "lat": 43.3438,
+    "lng": 17.8078,
+    "countryCode": "BA"
+  },
+  "Tuzla": {
+    "lat": 44.5384,
+    "lng": 18.6671,
+    "countryCode": "BA"
+  },
+  "Zenica": {
+    "lat": 44.2034,
+    "lng": 17.9077,
+    "countryCode": "BA"
+  },
+  "Siroki Brijeg": {
+    "lat": 43.3833,
+    "lng": 17.5928,
+    "countryCode": "BA"
+  },
+  "Bijeljina": {
+    "lat": 44.7569,
+    "lng": 19.2161,
+    "countryCode": "BA"
+  },
+  "Doboj": {
+    "lat": 44.7318,
+    "lng": 18.0869,
+    "countryCode": "BA"
+  }
+}

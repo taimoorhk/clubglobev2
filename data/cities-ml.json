@@ -1,0 +1,42 @@
+{
+  "AS Bamako": {
+    "lat": 12.6177248,
+    "lng": -8.0422963,
+    "countryCode": "ML"
+  },
+  "AS Korofina": {
+    "lat": 12.6666019,
+    "lng": -7.9552385,
+    "countryCode": "ML"
+  },
+  "AS Salima": {
+    "lat": 15.6326422,
+    "lng": -4.6139001,
+    "countryCode": "ML"
+  },
+  "Djoliba": {
+    "lat": 12.3421627,
+    "lng": -8.1408298,
+    "countryCode": "ML"
+  },
+  "Real Bamako": {
+    "lat": 12.6177248,
+    "lng": -8.0422963,
+    "countryCode": "ML"
+  },
+  "Stade Malien": {
+    "lat": 12.6572886,
+    "lng": -7.9374341,
+    "countryCode": "ML"
+  },
+  "USFAS": {
+    "lat": 12.6277611,
+    "lng": -8.0179033,
+    "countryCode": "ML"
+  },
+  "Yeelen": {
+    "lat": 12.3603395,
+    "lng": -5.4528656,
+    "countryCode": "ML"
+  }
+}

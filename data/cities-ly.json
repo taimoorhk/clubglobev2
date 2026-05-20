@@ -1,0 +1,42 @@
+{
+  "Al Ahli Tripoli": {
+    "lat": 32.8797592,
+    "lng": 13.1815675,
+    "countryCode": "LY"
+  },
+  "Al Akhdar": {
+    "lat": 32.65,
+    "lng": 21.85,
+    "countryCode": "LY"
+  },
+  "Al Hilal": {
+    "lat": 32.1194214,
+    "lng": 20.0747184,
+    "countryCode": "LY"
+  },
+  "Al Madina": {
+    "lat": 31.2589068,
+    "lng": 20.6090226,
+    "countryCode": "LY"
+  },
+  "Al Nasr": {
+    "lat": 32.7652029,
+    "lng": 21.7484256,
+    "countryCode": "LY"
+  },
+  "Al Tahaddi": {
+    "lat": 32.8867623,
+    "lng": 13.2292991,
+    "countryCode": "LY"
+  },
+  "Al-Ittihad": {
+    "lat": 32.0968647,
+    "lng": 20.1410118,
+    "countryCode": "LY"
+  },
+  "Asswehly": {
+    "lat": 32.3834241,
+    "lng": 15.1163341,
+    "countryCode": "LY"
+  }
+}

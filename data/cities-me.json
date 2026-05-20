@@ -1,0 +1,42 @@
+{
+  "Podgorica": {
+    "lat": 42.4304,
+    "lng": 19.2594,
+    "countryCode": "ME"
+  },
+  "Niksic": {
+    "lat": 42.7731,
+    "lng": 18.9445,
+    "countryCode": "ME"
+  },
+  "Pljevlja": {
+    "lat": 43.3567,
+    "lng": 19.3584,
+    "countryCode": "ME"
+  },
+  "Petrovac": {
+    "lat": 42.2056,
+    "lng": 18.9425,
+    "countryCode": "ME"
+  },
+  "Tuzi": {
+    "lat": 42.3656,
+    "lng": 19.3314,
+    "countryCode": "ME"
+  },
+  "Berane": {
+    "lat": 42.8425,
+    "lng": 19.8733,
+    "countryCode": "ME"
+  },
+  "Kotor": {
+    "lat": 42.4247,
+    "lng": 18.7712,
+    "countryCode": "ME"
+  },
+  "Budva": {
+    "lat": 42.2911,
+    "lng": 18.84,
+    "countryCode": "ME"
+  }
+}

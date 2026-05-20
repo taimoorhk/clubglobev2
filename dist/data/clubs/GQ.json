@@ -1,0 +1,258 @@
+[
+  {
+    "id": "gq-akonangui",
+    "name": "Akonangui",
+    "countryCode": "GQ",
+    "country": "Equatorial Guinea",
+    "city": "Akonangui",
+    "lat": 3.808,
+    "lng": 8.767999999999999,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GQ-t1",
+    "leagueName": "Primera División",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gq-atl-tico-semu",
+    "name": "Atlético Semu",
+    "countryCode": "GQ",
+    "country": "Equatorial Guinea",
+    "city": "Atlético Semu",
+    "lat": 3.776,
+    "lng": 8.735999999999999,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GQ-t1",
+    "leagueName": "Primera División",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gq-c-d-el-nguema",
+    "name": "C.D. Elá Nguema",
+    "countryCode": "GQ",
+    "country": "Equatorial Guinea",
+    "city": "C.D. Elá Nguema",
+    "lat": 3.7443986,
+    "lng": 8.8419513,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GQ-t1",
+    "leagueName": "Primera División",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gq-deportivo-mongomo",
+    "name": "Deportivo Mongomo",
+    "countryCode": "GQ",
+    "country": "Equatorial Guinea",
+    "city": "Deportivo Mongomo",
+    "lat": 3.7279999999999998,
+    "lng": 8.687999999999999,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GQ-t1",
+    "leagueName": "Primera División",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gq-futuro-kings",
+    "name": "Futuro Kings",
+    "countryCode": "GQ",
+    "country": "Equatorial Guinea",
+    "city": "Futuro Kings",
+    "lat": 3.856,
+    "lng": 8.652,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GQ-t1",
+    "leagueName": "Primera División",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gq-pan-african",
+    "name": "Pan African",
+    "countryCode": "GQ",
+    "country": "Equatorial Guinea",
+    "city": "Pan African",
+    "lat": 3.876,
+    "lng": 8.671999999999999,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GQ-t1",
+    "leagueName": "Primera División",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gq-renacimiento",
+    "name": "Renacimiento",
+    "countryCode": "GQ",
+    "country": "Equatorial Guinea",
+    "city": "Renacimiento",
+    "lat": 3.752,
+    "lng": 8.712,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GQ-t1",
+    "leagueName": "Primera División",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gq-sony-el-nguema",
+    "name": "Sony Elá Nguema",
+    "countryCode": "GQ",
+    "country": "Equatorial Guinea",
+    "city": "Sony Elá Nguema",
+    "lat": 3.7439999999999998,
+    "lng": 8.703999999999999,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GQ-t1",
+    "leagueName": "Primera División",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

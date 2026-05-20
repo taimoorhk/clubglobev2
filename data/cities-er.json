@@ -1,0 +1,17 @@
+{
+  "Denden": {
+    "lat": 15.3373831,
+    "lng": 38.9301517,
+    "countryCode": "ER"
+  },
+  "Red Sea": {
+    "lat": 16,
+    "lng": 39,
+    "countryCode": "ER"
+  },
+  "Semhar": {
+    "lat": 14.8801374,
+    "lng": 38.8136556,
+    "countryCode": "ER"
+  }
+}

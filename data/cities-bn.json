@@ -1,0 +1,32 @@
+{
+  "BSE": {
+    "lat": 4.9021997,
+    "lng": 114.9201741,
+    "countryCode": "BN"
+  },
+  "Indera": {
+    "lat": 4.8832321,
+    "lng": 114.9350219,
+    "countryCode": "BN"
+  },
+  "Jerudong": {
+    "lat": 4.9378332,
+    "lng": 114.8417358,
+    "countryCode": "BN"
+  },
+  "Menglait": {
+    "lat": 4.9102701,
+    "lng": 114.9232472,
+    "countryCode": "BN"
+  },
+  "Tutong": {
+    "lat": 4.682681,
+    "lng": 114.6562706,
+    "countryCode": "BN"
+  },
+  "Wijaya": {
+    "lat": 4.8985035,
+    "lng": 114.8887616,
+    "countryCode": "BN"
+  }
+}

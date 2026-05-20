@@ -1,0 +1,47 @@
+{
+  "Al Ahli Sana'a": {
+    "lat": 15.543617,
+    "lng": 43.905183,
+    "countryCode": "YE"
+  },
+  "Al Hilal Hudaydah": {
+    "lat": 14.812569,
+    "lng": 42.945571,
+    "countryCode": "YE"
+  },
+  "Al Hudaydah": {
+    "lat": 15.1159326,
+    "lng": 42.844785,
+    "countryCode": "YE"
+  },
+  "Al Nasr Taiz": {
+    "lat": 13.4543216,
+    "lng": 44.1809388,
+    "countryCode": "YE"
+  },
+  "Al Saada": {
+    "lat": 17.4296853,
+    "lng": 44.7007313,
+    "countryCode": "YE"
+  },
+  "Al Saqr": {
+    "lat": 25.3503797,
+    "lng": 55.3940881,
+    "countryCode": "YE"
+  },
+  "Al Sha'ab Ibb": {
+    "lat": 14.331199,
+    "lng": 44.067683,
+    "countryCode": "YE"
+  },
+  "Al Tilal": {
+    "lat": 12.7720706,
+    "lng": 45.0453843,
+    "countryCode": "YE"
+  },
+  "Al Yarmouk": {
+    "lat": 15.3863851,
+    "lng": 44.2053322,
+    "countryCode": "YE"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Bujumbura": {
+    "lat": -3.3614,
+    "lng": 29.3599,
+    "countryCode": "BI"
+  },
+  "Ngozi": {
+    "lat": -2.8776895,
+    "lng": 29.8994986,
+    "countryCode": "BI"
+  },
+  "Prince Louis": {
+    "lat": -3.3937932,
+    "lng": 29.3953098,
+    "countryCode": "BI"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "Buenos Aires": {
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "countryCode": "AR"
+  },
+  "Avellaneda": {
+    "lat": -34.6625,
+    "lng": -58.3678,
+    "countryCode": "AR"
+  },
+  "La Plata": {
+    "lat": -34.9214,
+    "lng": -57.9545,
+    "countryCode": "AR"
+  },
+  "Quilmes": {
+    "lat": -34.7203,
+    "lng": -58.2545,
+    "countryCode": "AR"
+  },
+  "Rosario": {
+    "lat": -32.9442,
+    "lng": -60.6505,
+    "countryCode": "AR"
+  },
+  "Cordoba": {
+    "lat": -31.4201,
+    "lng": -64.1888,
+    "countryCode": "AR"
+  },
+  "Rafaela": {
+    "lat": -31.2503,
+    "lng": -61.4867,
+    "countryCode": "AR"
+  },
+  "Mendoza": {
+    "lat": -32.8895,
+    "lng": -68.8458,
+    "countryCode": "AR"
+  },
+  "Tandil": {
+    "lat": -37.3217,
+    "lng": -59.1332,
+    "countryCode": "AR"
+  },
+  "Salta": {
+    "lat": -24.7821,
+    "lng": -65.4232,
+    "countryCode": "AR"
+  },
+  "Tucuman": {
+    "lat": -26.8083,
+    "lng": -65.2176,
+    "countryCode": "AR"
+  }
+}

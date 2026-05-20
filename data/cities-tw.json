@@ -1,0 +1,47 @@
+{
+  "Hang Yuan": {
+    "lat": 25.0793174,
+    "lng": 121.2345977,
+    "countryCode": "TW"
+  },
+  "Inter Taoyuan": {
+    "lat": 25.0229048,
+    "lng": 121.2429784,
+    "countryCode": "TW"
+  },
+  "Ming Chuan University": {
+    "lat": 25.087089,
+    "lng": 121.5267033,
+    "countryCode": "TW"
+  },
+  "NSTC": {
+    "lat": 22.92345,
+    "lng": 120.28877,
+    "countryCode": "TW"
+  },
+  "Tainan": {
+    "lat": 22.9912348,
+    "lng": 120.184982,
+    "countryCode": "TW"
+  },
+  "Taipower": {
+    "lat": 22.9702289,
+    "lng": 120.5359034,
+    "countryCode": "TW"
+  },
+  "Taiwan Steel": {
+    "lat": 22.8407068,
+    "lng": 120.2674809,
+    "countryCode": "TW"
+  },
+  "Tatung": {
+    "lat": 25.0671934,
+    "lng": 121.5210364,
+    "countryCode": "TW"
+  },
+  "Yunlin": {
+    "lat": 23.6990775,
+    "lng": 120.5245511,
+    "countryCode": "TW"
+  }
+}

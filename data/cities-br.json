@@ -1,0 +1,217 @@
+{
+  "America MG": {
+    "lat": -19.3350421,
+    "lng": -41.2442611,
+    "countryCode": "BR"
+  },
+  "Athletic Club": {
+    "lat": -21.1274221,
+    "lng": -44.2445373,
+    "countryCode": "BR"
+  },
+  "Atletico GO": {
+    "lat": -16.6406098,
+    "lng": -49.2763909,
+    "countryCode": "BR"
+  },
+  "Atletico MG": {
+    "lat": -22.4310197,
+    "lng": -45.4383683,
+    "countryCode": "BR"
+  },
+  "Avai": {
+    "lat": -22.1564662,
+    "lng": -49.3316395,
+    "countryCode": "BR"
+  },
+  "Belo Horizonte": {
+    "lat": -19.9227318,
+    "lng": -43.9450948,
+    "countryCode": "BR"
+  },
+  "Botafogo RJ": {
+    "lat": -22.9515096,
+    "lng": -43.1862969,
+    "countryCode": "BR"
+  },
+  "Botafogo SP": {
+    "lat": -21.0114511,
+    "lng": -48.5437101,
+    "countryCode": "BR"
+  },
+  "CRB": {
+    "lat": -15.7296992,
+    "lng": -47.9004718,
+    "countryCode": "BR"
+  },
+  "Ceara": {
+    "lat": -5.3264703,
+    "lng": -39.7156073,
+    "countryCode": "BR"
+  },
+  "Chapecoense AF": {
+    "lat": -9.9228882,
+    "lng": -67.84249,
+    "countryCode": "BR"
+  },
+  "Coritiba": {
+    "lat": -16.7345622,
+    "lng": -49.2823416,
+    "countryCode": "BR"
+  },
+  "Criciuma": {
+    "lat": -28.6789941,
+    "lng": -49.3695627,
+    "countryCode": "BR"
+  },
+  "Cuiaba": {
+    "lat": -15.5986686,
+    "lng": -56.0991301,
+    "countryCode": "BR"
+  },
+  "Curitiba": {
+    "lat": -25.4296,
+    "lng": -49.2713,
+    "countryCode": "BR"
+  },
+  "Fortaleza": {
+    "lat": -3.7319,
+    "lng": -38.5267,
+    "countryCode": "BR"
+  },
+  "Goias": {
+    "lat": -15.9323662,
+    "lng": -50.1392928,
+    "countryCode": "BR"
+  },
+  "Gremio": {
+    "lat": -7.772171,
+    "lng": -34.9046316,
+    "countryCode": "BR"
+  },
+  "Juventude": {
+    "lat": -29.2512795,
+    "lng": -51.540521,
+    "countryCode": "BR"
+  },
+  "Mirassol": {
+    "lat": -20.8141411,
+    "lng": -49.507449,
+    "countryCode": "BR"
+  },
+  "Nautico": {
+    "lat": -21.717703,
+    "lng": -48.025715,
+    "countryCode": "BR"
+  },
+  "Operario Ferroviario": {
+    "lat": -25.116849,
+    "lng": -50.157795,
+    "countryCode": "BR"
+  },
+  "Ponte Preta": {
+    "lat": -27.6577598,
+    "lng": -52.4895431,
+    "countryCode": "BR"
+  },
+  "Porto Alegre": {
+    "lat": -30.0324999,
+    "lng": -51.2303767,
+    "countryCode": "BR"
+  },
+  "Red Bull Bragantino": {
+    "lat": -22.9653902,
+    "lng": -46.5368855,
+    "countryCode": "BR"
+  },
+  "Remo": {
+    "lat": -26.7654345,
+    "lng": -53.6011063,
+    "countryCode": "BR"
+  },
+  "Rio de Janeiro": {
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "countryCode": "BR"
+  },
+  "Salvador": {
+    "lat": -12.9822499,
+    "lng": -38.4812772,
+    "countryCode": "BR"
+  },
+  "Santos": {
+    "lat": -23.9609448,
+    "lng": -46.3166316,
+    "countryCode": "BR"
+  },
+  "Sao Bernardo": {
+    "lat": -3.3650267,
+    "lng": -42.4224814,
+    "countryCode": "BR"
+  },
+  "Sao Paulo": {
+    "lat": -23.5505,
+    "lng": -46.6333,
+    "countryCode": "BR"
+  },
+  "Sport Recife": {
+    "lat": -8.0620291,
+    "lng": -34.9039235,
+    "countryCode": "BR"
+  },
+  "São Paulo": {
+    "lat": -23.5505,
+    "lng": -46.6333,
+    "countryCode": "BR"
+  },
+  "Vila Nova": {
+    "lat": -30.116003,
+    "lng": -51.207517,
+    "countryCode": "BR"
+  },
+  "Vitoria": {
+    "lat": -20.3200917,
+    "lng": -40.3376682,
+    "countryCode": "BR"
+  },
+  "Recife": {
+    "lat": -8.0476,
+    "lng": -34.877,
+    "countryCode": "BR"
+  },
+  "Belem": {
+    "lat": -1.4558,
+    "lng": -48.4902,
+    "countryCode": "BR"
+  },
+  "Joao Pessoa": {
+    "lat": -7.1195,
+    "lng": -34.845,
+    "countryCode": "BR"
+  },
+  "Florianopolis": {
+    "lat": -27.5949,
+    "lng": -48.5482,
+    "countryCode": "BR"
+  },
+  "Brasilia": {
+    "lat": -15.7939,
+    "lng": -47.8828,
+    "countryCode": "BR"
+  },
+  "Manaus": {
+    "lat": -3.119,
+    "lng": -60.0217,
+    "countryCode": "BR"
+  },
+  "Aracaju": {
+    "lat": -10.9472,
+    "lng": -37.0731,
+    "countryCode": "BR"
+  },
+  "Goiania": {
+    "lat": -16.6869,
+    "lng": -49.2648,
+    "countryCode": "BR"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "Al Ansar": {
+    "lat": 17.0026959,
+    "lng": 54.031172,
+    "countryCode": "OM"
+  },
+  "Al Nahda": {
+    "lat": 23.4063183,
+    "lng": 58.4257783,
+    "countryCode": "OM"
+  },
+  "Al Nasr": {
+    "lat": 23.5896278,
+    "lng": 58.5623903,
+    "countryCode": "OM"
+  },
+  "Al Rustaq": {
+    "lat": 23.388616,
+    "lng": 57.4264059,
+    "countryCode": "OM"
+  },
+  "Al Seeb": {
+    "lat": 23.6837112,
+    "lng": 58.1842877,
+    "countryCode": "OM"
+  },
+  "Al Shabab": {
+    "lat": 17.0141134,
+    "lng": 54.1020351,
+    "countryCode": "OM"
+  },
+  "Al Suwaiq": {
+    "lat": 23.9398118,
+    "lng": 57.1280137,
+    "countryCode": "OM"
+  },
+  "Bahla": {
+    "lat": 22.9984735,
+    "lng": 57.316806,
+    "countryCode": "OM"
+  },
+  "Dhofar": {
+    "lat": 18.3999896,
+    "lng": 54.2164111,
+    "countryCode": "OM"
+  },
+  "Ibri": {
+    "lat": 23.2161642,
+    "lng": 56.5153547,
+    "countryCode": "OM"
+  },
+  "Muscat": {
+    "lat": 23.588,
+    "lng": 58.3829,
+    "countryCode": "OM"
+  },
+  "Oman Club": {
+    "lat": 23.5403234,
+    "lng": 58.3917398,
+    "countryCode": "OM"
+  },
+  "Saham": {
+    "lat": 24.142469,
+    "lng": 56.8757899,
+    "countryCode": "OM"
+  },
+  "Samail": {
+    "lat": 23.2959676,
+    "lng": 57.9569143,
+    "countryCode": "OM"
+  },
+  "Sohar": {
+    "lat": 24.3419881,
+    "lng": 56.7298385,
+    "countryCode": "OM"
+  },
+  "Sur": {
+    "lat": 22.5694263,
+    "lng": 59.5297203,
+    "countryCode": "OM"
+  }
+}

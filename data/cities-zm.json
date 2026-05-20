@@ -1,0 +1,27 @@
+{
+  "Kitwe": {
+    "lat": -12.8024,
+    "lng": 28.2132,
+    "countryCode": "ZM"
+  },
+  "Lusaka": {
+    "lat": -15.3875,
+    "lng": 28.3228,
+    "countryCode": "ZM"
+  },
+  "Ndola": {
+    "lat": -12.9587,
+    "lng": 28.6366,
+    "countryCode": "ZM"
+  },
+  "Nkwazi": {
+    "lat": -12.9386343,
+    "lng": 28.6443609,
+    "countryCode": "ZM"
+  },
+  "Zanaco": {
+    "lat": -15.4221134,
+    "lng": 28.2902699,
+    "countryCode": "ZM"
+  }
+}

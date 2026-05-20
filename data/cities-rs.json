@@ -1,0 +1,42 @@
+{
+  "Belgrade": {
+    "lat": 44.8125,
+    "lng": 20.4612,
+    "countryCode": "RS"
+  },
+  "Novi Sad": {
+    "lat": 45.2671,
+    "lng": 19.8335,
+    "countryCode": "RS"
+  },
+  "Nis": {
+    "lat": 43.3209,
+    "lng": 21.8958,
+    "countryCode": "RS"
+  },
+  "Subotica": {
+    "lat": 46.1005,
+    "lng": 19.6651,
+    "countryCode": "RS"
+  },
+  "Krusevac": {
+    "lat": 43.5804,
+    "lng": 21.3267,
+    "countryCode": "RS"
+  },
+  "Lucani": {
+    "lat": 43.8606,
+    "lng": 20.1383,
+    "countryCode": "RS"
+  },
+  "Backa Topola": {
+    "lat": 45.8152,
+    "lng": 19.6318,
+    "countryCode": "RS"
+  },
+  "Novi Pazar": {
+    "lat": 43.1367,
+    "lng": 20.5122,
+    "countryCode": "RS"
+  }
+}

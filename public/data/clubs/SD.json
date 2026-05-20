@@ -1,0 +1,258 @@
+[
+  {
+    "id": "sd-al-ahly-shendi",
+    "name": "Al Ahly Shendi",
+    "countryCode": "SD",
+    "country": "Sudan",
+    "city": "Al Ahly Shendi",
+    "lat": 15.532,
+    "lng": 32.428,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SD-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sd-al-hilal",
+    "name": "Al Hilal",
+    "countryCode": "SD",
+    "country": "Sudan",
+    "city": "Al Hilal",
+    "lat": 15.695244,
+    "lng": 32.4190113,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SD-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sd-al-merreikh-omdurman",
+    "name": "Al Merreikh Omdurman",
+    "countryCode": "SD",
+    "country": "Sudan",
+    "city": "Al Merreikh Omdurman",
+    "lat": 15.713252299999999,
+    "lng": 32.4395796,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SD-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sd-al-merrikh",
+    "name": "Al Merrikh",
+    "countryCode": "SD",
+    "country": "Sudan",
+    "city": "Al Merrikh",
+    "lat": 15.713252299999999,
+    "lng": 32.4395796,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SD-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sd-al-mourada",
+    "name": "Al Mourada",
+    "countryCode": "SD",
+    "country": "Sudan",
+    "city": "Al Mourada",
+    "lat": 15.488,
+    "lng": 32.548,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SD-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sd-al-hilal-omdurman",
+    "name": "Al-Hilal Omdurman",
+    "countryCode": "SD",
+    "country": "Sudan",
+    "city": "Al-Hilal Omdurman",
+    "lat": 15.655244,
+    "lng": 32.543011299999996,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SD-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sd-alamal-atbara",
+    "name": "Alamal Atbara",
+    "countryCode": "SD",
+    "country": "Sudan",
+    "city": "Alamal Atbara",
+    "lat": 15.444,
+    "lng": 32.504,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SD-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sd-hay-al-arab",
+    "name": "Hay Al Arab",
+    "countryCode": "SD",
+    "country": "Sudan",
+    "city": "Hay Al Arab",
+    "lat": 15.607403399999999,
+    "lng": 32.494231299999996,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SD-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

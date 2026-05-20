@@ -1,0 +1,194 @@
+[
+  {
+    "id": "ss-al-hilal-juba",
+    "name": "Al-Hilal Juba",
+    "countryCode": "SS",
+    "country": "South Sudan",
+    "city": "Al-Hilal Juba",
+    "lat": 7.956,
+    "lng": 29.952,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SS-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ss-atlabara",
+    "name": "Atlabara",
+    "countryCode": "SS",
+    "country": "South Sudan",
+    "city": "Atlabara",
+    "lat": 4.880580699999999,
+    "lng": 31.539615,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SS-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ss-juba-fc",
+    "name": "Juba FC",
+    "countryCode": "SS",
+    "country": "South Sudan",
+    "city": "Juba",
+    "lat": 4.8554,
+    "lng": 31.6273,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SS-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ss-kator",
+    "name": "Kator",
+    "countryCode": "SS",
+    "country": "South Sudan",
+    "city": "Kator",
+    "lat": 4.8726151,
+    "lng": 31.5473963,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SS-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ss-munuki",
+    "name": "Munuki",
+    "countryCode": "SS",
+    "country": "South Sudan",
+    "city": "Munuki",
+    "lat": 4.8437123,
+    "lng": 31.608017500000003,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SS-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ss-salam",
+    "name": "Salam",
+    "countryCode": "SS",
+    "country": "South Sudan",
+    "city": "Salam",
+    "lat": 4.8995942,
+    "lng": 31.504997799999998,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SS-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

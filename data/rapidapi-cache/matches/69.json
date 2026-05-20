@@ -1,0 +1,62 @@
+[
+  {
+    "id": "10243",
+    "name": "FC Zürich",
+    "shortName": "FC Zürich"
+  },
+  {
+    "id": "10179",
+    "name": "Sion",
+    "shortName": "Sion"
+  },
+  {
+    "id": "9956",
+    "name": "Grasshopper",
+    "shortName": "Grasshopper"
+  },
+  {
+    "id": "10199",
+    "name": "Luzern",
+    "shortName": "Luzern"
+  },
+  {
+    "id": "10190",
+    "name": "St. Gallen",
+    "shortName": "St. Gallen"
+  },
+  {
+    "id": "9931",
+    "name": "Basel",
+    "shortName": "Basel"
+  },
+  {
+    "id": "10192",
+    "name": "Young Boys",
+    "shortName": "Young Boys"
+  },
+  {
+    "id": "9777",
+    "name": "Servette",
+    "shortName": "Servette"
+  },
+  {
+    "id": "7730",
+    "name": "Lausanne",
+    "shortName": "Lausanne"
+  },
+  {
+    "id": "7894",
+    "name": "Winterthur",
+    "shortName": "Winterthur"
+  },
+  {
+    "id": "7896",
+    "name": "Lugano",
+    "shortName": "Lugano"
+  },
+  {
+    "id": "10191",
+    "name": "Thun",
+    "shortName": "Thun"
+  }
+]

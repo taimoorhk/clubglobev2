@@ -1,0 +1,42 @@
+{
+  "Bulawayo": {
+    "lat": -20.1053948,
+    "lng": 28.5426856,
+    "countryCode": "ZW"
+  },
+  "Harare": {
+    "lat": -17.8252,
+    "lng": 31.0335,
+    "countryCode": "ZW"
+  },
+  "Herentals": {
+    "lat": -17.3673075,
+    "lng": 30.1950233,
+    "countryCode": "ZW"
+  },
+  "Ngezi Platinum": {
+    "lat": -18.6667244,
+    "lng": 30.357194,
+    "countryCode": "ZW"
+  },
+  "TelOne": {
+    "lat": -17.8253938,
+    "lng": 30.9778463,
+    "countryCode": "ZW"
+  },
+  "Triangle": {
+    "lat": -21.0337095,
+    "lng": 31.4504204,
+    "countryCode": "ZW"
+  },
+  "Yadah": {
+    "lat": -17.8818773,
+    "lng": 31.0413468,
+    "countryCode": "ZW"
+  },
+  "Zvishavane": {
+    "lat": -20.3267,
+    "lng": 30.0665,
+    "countryCode": "ZW"
+  }
+}

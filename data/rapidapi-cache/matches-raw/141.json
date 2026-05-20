@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "4822779",
+    "pageUrl": "/matches/ternana-vs-virtus-entella/anmhqrw#4822779",
+    "opponent": {
+      "id": "208932",
+      "name": "Virtus Entella",
+      "score": 4
+    },
+    "home": {
+      "id": "208932",
+      "name": "Virtus Entella",
+      "score": 4
+    },
+    "away": {
+      "id": "6457",
+      "name": "Ternana",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-09T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4822780",
+    "pageUrl": "/matches/lr-vicenza-vs-padova/3e1yf88c#4822780",
+    "opponent": {
+      "id": "583944",
+      "name": "Padova",
+      "score": 0
+    },
+    "home": {
+      "id": "583944",
+      "name": "Padova",
+      "score": 0
+    },
+    "away": {
+      "id": "145007",
+      "name": "LR Vicenza",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-10T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4822778",
+    "pageUrl": "/matches/avellino-vs-audace-cerignola/4vlisppl#4822778",
+    "opponent": {
+      "id": "6722",
+      "name": "Avellino",
+      "score": 0
+    },
+    "home": {
+      "id": "6722",
+      "name": "Avellino",
+      "score": 0
+    },
+    "away": {
+      "id": "867620",
+      "name": "Audace Cerignola",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-10T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4822781",
+    "pageUrl": "/matches/pescara-vs-rimini/38ajr4#4822781",
+    "opponent": {
+      "id": "9878",
+      "name": "Pescara",
+      "score": 1
+    },
+    "home": {
+      "id": "9878",
+      "name": "Pescara",
+      "score": 1
+    },
+    "away": {
+      "id": "9886",
+      "name": "Rimini",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-10T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4822792",
+    "pageUrl": "/matches/reggiana-vs-empoli/1vajwl#4822792",
+    "opponent": {
+      "id": "8534",
+      "name": "Empoli",
+      "score": 1
+    },
+    "home": {
+      "id": "8534",
+      "name": "Empoli",
+      "score": 1
+    },
+    "away": {
+      "id": "6500",
+      "name": "Reggiana",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-15T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "Pen",
+        "shortKey": "penalties_short",
+        "long": "After penalties",
+        "longKey": "afterpenalties"
+      }
+    }
+  },
+  {
+    "id": "4822796",
+    "pageUrl": "/matches/sassuolo-vs-catanzaro/2pnjjb#4822796",
+    "opponent": {
+      "id": "7943",
+      "name": "Sassuolo",
+      "score": 1
+    },
+    "home": {
+      "id": "7943",
+      "name": "Sassuolo",
+      "score": 1
+    },
+    "away": {
+      "id": "10168",
+      "name": "Catanzaro",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-15T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4822793",
+    "pageUrl": "/matches/juve-stabia-vs-lecce/245t67#4822793",
+    "opponent": {
+      "id": "9888",
+      "name": "Lecce",
+      "score": 2
+    },
+    "home": {
+      "id": "9888",
+      "name": "Lecce",
+      "score": 2
+    },
+    "away": {
+      "id": "6106",
+      "name": "Juve Stabia",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-15T18:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4822786",
+    "pageUrl": "/matches/genoa-vs-lr-vicenza/5ja8a0z#4822786",
+    "opponent": {
+      "id": "10233",
+      "name": "Genoa",
+      "score": 3
+    },
+    "home": {
+      "id": "10233",
+      "name": "Genoa",
+      "score": 3
+    },
+    "away": {
+      "id": "145007",
+      "name": "LR Vicenza",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-15T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4822800",
+    "pageUrl": "/matches/venezia-vs-mantova/2m0gg8#4822800",
+    "opponent": {
+      "id": "7881",
+      "name": "Venezia",
+      "score": 4
+    },
+    "home": {
+      "id": "7881",
+      "name": "Venezia",
+      "score": 4
+    },
+    "away": {
+      "id": "9889",
+      "name": "Mantova",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-16T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4822790",
+    "pageUrl": "/matches/como-vs-sudtirol/95ljgpg#4822790",
+    "opponent": {
+      "id": "10171",
+      "name": "Como",
+      "score": 3
+    },
+    "home": {
+      "id": "10171",
+      "name": "Como",
+      "score": 3
+    },
+    "away": {
+      "id": "189475",
+      "name": "Sudtirol",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-16T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4822788",
+    "pageUrl": "/matches/cagliari-vs-virtus-entella/av1h9zc#4822788",
+    "opponent": {
+      "id": "8529",
+      "name": "Cagliari",
+      "score": 1
+    },
+    "home": {
+      "id": "8529",
+      "name": "Cagliari",
+      "score": 1
+    },
+    "away": {
+      "id": "208932",
+      "name": "Virtus Entella",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-16T18:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "Pen",
+        "shortKey": "penalties_short",
+        "long": "After penalties",
+        "longKey": "afterpenalties"
+      }
+    }
+  },
+  {
+    "id": "4822791",
+    "pageUrl": "/matches/cremonese-vs-palermo/27i12b#4822791",
+    "opponent": {
+      "id": "7801",
+      "name": "Cremonese",
+      "score": 0
+    },
+    "home": {
+      "id": "7801",
+      "name": "Cremonese",
+      "score": 0
+    },
+    "away": {
+      "id": "8540",
+      "name": "Palermo",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-16T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "Pen",
+        "shortKey": "penalties_short",
+        "long": "After penalties",
+        "longKey": "afterpenalties"
+      }
+    }
+  },
+  {
+    "id": "4822794",
+    "pageUrl": "/matches/monza-vs-frosinone/28104l#4822794",
+    "opponent": {
+      "id": "6504",
+      "name": "Monza",
+      "score": 0
+    },
+    "home": {
+      "id": "6504",
+      "name": "Monza",
+      "score": 0
+    },
+    "away": {
+      "id": "9891",
+      "name": "Frosinone",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-17T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4822785",
+    "pageUrl": "/matches/pescara-vs-parma/3bmfkh#4822785",
+    "opponent": {
+      "id": "10167",
+      "name": "Parma",
+      "score": 2
+    },
+    "home": {
+      "id": "10167",
+      "name": "Parma",
+      "score": 2
+    },
+    "away": {
+      "id": "9878",
+      "name": "Pescara",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-17T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4822795",
+    "pageUrl": "/matches/pisa-vs-cesena/283d47v2#4822795",
+    "opponent": {
+      "id": "584022",
+      "name": "Cesena",
+      "score": 0
+    },
+    "home": {
+      "id": "584022",
+      "name": "Cesena",
+      "score": 0
+    },
+    "away": {
+      "id": "6479",
+      "name": "Pisa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-17T18:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "Pen",
+        "shortKey": "penalties_short",
+        "long": "After penalties",
+        "longKey": "afterpenalties"
+      }
+    }
+  },
+  {
+    "id": "4822789",
+    "pageUrl": "/matches/milan-vs-bari/2uc3cm#4822789",
+    "opponent": {
+      "id": "8564",
+      "name": "Milan",
+      "score": 2
+    },
+    "home": {
+      "id": "8564",
+      "name": "Milan",
+      "score": 2
+    },
+    "away": {
+      "id": "9976",
+      "name": "Bari",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-17T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4822787",
+    "pageUrl": "/matches/hellas-verona-vs-audace-cerignola/4wv73ic0#4822787",
+    "opponent": {
+      "id": "867620",
+      "name": "Audace Cerignola",
+      "score": 1
+    },
+    "home": {
+      "id": "867620",
+      "name": "Audace Cerignola",
+      "score": 1
+    },
+    "away": {
+      "id": "9876",
+      "name": "Hellas Verona",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-18T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "Pen",
+        "shortKey": "penalties_short",
+        "long": "After penalties",
+        "longKey": "afterpenalties"
+      }
+    }
+  },
+  {
+    "id": "4822797",
+    "pageUrl": "/matches/spezia-vs-sampdoria/38a4i0#4822797",
+    "opponent": {
+      "id": "9881",
+      "name": "Spezia",
+      "score": 1
+    },
+    "home": {
+      "id": "9881",
+      "name": "Spezia",
+      "score": 1
+    },
+    "away": {
+      "id": "9882",
+      "name": "Sampdoria",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-18T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "Pen",
+        "shortKey": "penalties_short",
+        "long": "After penalties",
+        "longKey": "afterpenalties"
+      }
+    }
+  },
+  {
+    "id": "4822799",
+    "pageUrl": "/matches/carrarese-vs-udinese/1vrzio#4822799",
+    "opponent": {
+      "id": "8600",
+      "name": "Udinese",
+      "score": 2
+    },
+    "home": {
+      "id": "8600",
+      "name": "Udinese",
+      "score": 2
+    },
+    "away": {
+      "id": "6488",
+      "name": "Carrarese",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-18T18:45:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4822798",
+    "pageUrl": "/matches/torino-vs-modena/37foj5#4822798",
+    "opponent": {
+      "id": "9804",
+      "name": "Torino",
+      "score": 1
+    },
+    "home": {
+      "id": "9804",
+      "name": "Torino",
+      "score": 1
+    },
+    "away": {
+      "id": "9887",
+      "name": "Modena",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-18T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4932348",
+    "pageUrl": "/matches/cagliari-vs-frosinone/2t0k4l#4932348",
+    "opponent": {
+      "id": "8529",
+      "name": "Cagliari",
+      "score": 4
+    },
+    "home": {
+      "id": "8529",
+      "name": "Cagliari",
+      "score": 4
+    },
+    "away": {
+      "id": "9891",
+      "name": "Frosinone",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-23T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4932343",
+    "pageUrl": "/matches/palermo-vs-udinese/2fgq56#4932343",
+    "opponent": {
+      "id": "8600",
+      "name": "Udinese",
+      "score": 2
+    },
+    "home": {
+      "id": "8600",
+      "name": "Udinese",
+      "score": 2
+    },
+    "away": {
+      "id": "8540",
+      "name": "Palermo",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-23T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4932342",
+    "pageUrl": "/matches/milan-vs-lecce/2td7ci#4932342",
+    "opponent": {
+      "id": "8564",
+      "name": "Milan",
+      "score": 3
+    },
+    "home": {
+      "id": "8564",
+      "name": "Milan",
+      "score": 3
+    },
+    "away": {
+      "id": "9888",
+      "name": "Lecce",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-23T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4932341",
+    "pageUrl": "/matches/spezia-vs-parma/3bnpz5#4932341",
+    "opponent": {
+      "id": "10167",
+      "name": "Parma",
+      "score": 2
+    },
+    "home": {
+      "id": "10167",
+      "name": "Parma",
+      "score": 2
+    },
+    "away": {
+      "id": "9881",
+      "name": "Spezia",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-24T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "Pen",
+        "shortKey": "penalties_short",
+        "long": "After penalties",
+        "longKey": "afterpenalties"
+      }
+    }
+  },
+  {
+    "id": "4932345",
+    "pageUrl": "/matches/venezia-vs-hellas-verona/2lvi93#4932345",
+    "opponent": {
+      "id": "9876",
+      "name": "Hellas Verona",
+      "score": 0
+    },
+    "home": {
+      "id": "9876",
+      "name": "Hellas Verona",
+      "score": 0
+    },
+    "away": {
+      "id": "7881",
+      "name": "Venezia",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-24T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "Pen",
+        "shortKey": "penalties_short",
+        "long": "After penalties",
+        "longKey": "afterpenalties"
+      }
+    }
+  },
+  {
+    "id": "4932347",
+    "pageUrl": "/matches/sassuolo-vs-como/2popgq#4932347",
+    "opponent": {
+      "id": "10171",
+      "name": "Como",
+      "score": 3
+    },
+    "home": {
+      "id": "10171",
+      "name": "Como",
+      "score": 3
+    },
+    "away": {
+      "id": "7943",
+      "name": "Sassuolo",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-24T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4932344",
+    "pageUrl": "/matches/empoli-vs-genoa/2wutke#4932344",
+    "opponent": {
+      "id": "10233",
+      "name": "Genoa",
+      "score": 3
+    },
+    "home": {
+      "id": "10233",
+      "name": "Genoa",
+      "score": 3
+    },
+    "away": {
+      "id": "8534",
+      "name": "Empoli",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-25T16:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4932346",
+    "pageUrl": "/matches/pisa-vs-torino/26xs06#4932346",
+    "opponent": {
+      "id": "9804",
+      "name": "Torino",
+      "score": 1
+    },
+    "home": {
+      "id": "9804",
+      "name": "Torino",
+      "score": 1
+    },
+    "away": {
+      "id": "6479",
+      "name": "Pisa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-25T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4935210",
+    "pageUrl": "/matches/udinese-vs-juventus/2tq9mc#4935210",
+    "opponent": {
+      "id": "9885",
+      "name": "Juventus",
+      "score": 2
+    },
+    "home": {
+      "id": "9885",
+      "name": "Juventus",
+      "score": 2
+    },
+    "away": {
+      "id": "8600",
+      "name": "Udinese",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-02T20:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4935211",
+    "pageUrl": "/matches/atalanta-vs-genoa/2wqssb#4935211",
+    "opponent": {
+      "id": "8524",
+      "name": "Atalanta",
+      "score": 4
+    },
+    "home": {
+      "id": "8524",
+      "name": "Atalanta",
+      "score": 4
+    },
+    "away": {
+      "id": "10233",
+      "name": "Genoa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-03T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4935215",
+    "pageUrl": "/matches/cagliari-vs-napoli/2su8st#4935215",
+    "opponent": {
+      "id": "9875",
+      "name": "Napoli",
+      "score": 1
+    },
+    "home": {
+      "id": "9875",
+      "name": "Napoli",
+      "score": 1
+    },
+    "away": {
+      "id": "8529",
+      "name": "Cagliari",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-03T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "Pen",
+        "shortKey": "penalties_short",
+        "long": "After penalties",
+        "longKey": "afterpenalties"
+      }
+    }
+  },
+  {
+    "id": "4935212",
+    "pageUrl": "/matches/venezia-vs-inter/2980az#4935212",
+    "opponent": {
+      "id": "8636",
+      "name": "Inter",
+      "score": 5
+    },
+    "home": {
+      "id": "8636",
+      "name": "Inter",
+      "score": 5
+    },
+    "away": {
+      "id": "7881",
+      "name": "Venezia",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-03T20:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4935208",
+    "pageUrl": "/matches/bologna-vs-parma/3bdewt#4935208",
+    "opponent": {
+      "id": "9857",
+      "name": "Bologna",
+      "score": 2
+    },
+    "home": {
+      "id": "9857",
+      "name": "Bologna",
+      "score": 2
+    },
+    "away": {
+      "id": "10167",
+      "name": "Parma",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-04T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4935209",
+    "pageUrl": "/matches/lazio-vs-milan/2f4m36#4935209",
+    "opponent": {
+      "id": "8543",
+      "name": "Lazio",
+      "score": 1
+    },
+    "home": {
+      "id": "8543",
+      "name": "Lazio",
+      "score": 1
+    },
+    "away": {
+      "id": "8564",
+      "name": "Milan",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-04T20:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4935213",
+    "pageUrl": "/matches/roma-vs-torino/2ts8vv#4935213",
+    "opponent": {
+      "id": "8686",
+      "name": "Roma",
+      "score": 2
+    },
+    "home": {
+      "id": "8686",
+      "name": "Roma",
+      "score": 2
+    },
+    "away": {
+      "id": "9804",
+      "name": "Torino",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-13T20:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4935214",
+    "pageUrl": "/matches/fiorentina-vs-como/2w6bnm#4935214",
+    "opponent": {
+      "id": "8535",
+      "name": "Fiorentina",
+      "score": 1
+    },
+    "home": {
+      "id": "8535",
+      "name": "Fiorentina",
+      "score": 1
+    },
+    "away": {
+      "id": "10171",
+      "name": "Como",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-27T20:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4935227",
+    "pageUrl": "/matches/inter-vs-torino/2t8ghc#4935227",
+    "opponent": {
+      "id": "8636",
+      "name": "Inter",
+      "score": 2
+    },
+    "home": {
+      "id": "8636",
+      "name": "Inter",
+      "score": 2
+    },
+    "away": {
+      "id": "9804",
+      "name": "Torino",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-04T20:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4935226",
+    "pageUrl": "/matches/atalanta-vs-juventus/2sw7tm#4935226",
+    "opponent": {
+      "id": "8524",
+      "name": "Atalanta",
+      "score": 3
+    },
+    "home": {
+      "id": "8524",
+      "name": "Atalanta",
+      "score": 3
+    },
+    "away": {
+      "id": "9885",
+      "name": "Juventus",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-05T20:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4935228",
+    "pageUrl": "/matches/napoli-vs-como/3bmv18#4935228",
+    "opponent": {
+      "id": "9875",
+      "name": "Napoli",
+      "score": 1
+    },
+    "home": {
+      "id": "9875",
+      "name": "Napoli",
+      "score": 1
+    },
+    "away": {
+      "id": "10171",
+      "name": "Como",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-10T20:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "Pen",
+        "shortKey": "penalties_short",
+        "long": "After penalties",
+        "longKey": "afterpenalties"
+      }
+    }
+  },
+  {
+    "id": "4935225",
+    "pageUrl": "/matches/lazio-vs-bologna/2ssnzl#4935225",
+    "opponent": {
+      "id": "9857",
+      "name": "Bologna",
+      "score": 1
+    },
+    "home": {
+      "id": "9857",
+      "name": "Bologna",
+      "score": 1
+    },
+    "away": {
+      "id": "8543",
+      "name": "Lazio",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-11T20:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "Pen",
+        "shortKey": "penalties_short",
+        "long": "After penalties",
+        "longKey": "afterpenalties"
+      }
+    }
+  },
+  {
+    "id": "4935321",
+    "pageUrl": "/matches/inter-vs-como/2xaxi8#4935321",
+    "opponent": {
+      "id": "10171",
+      "name": "Como",
+      "score": 0
+    },
+    "home": {
+      "id": "10171",
+      "name": "Como",
+      "score": 0
+    },
+    "away": {
+      "id": "8636",
+      "name": "Inter",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-03T20:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4935320",
+    "pageUrl": "/matches/atalanta-vs-lazio/2epyoh#4935320",
+    "opponent": {
+      "id": "8543",
+      "name": "Lazio",
+      "score": 2
+    },
+    "home": {
+      "id": "8543",
+      "name": "Lazio",
+      "score": 2
+    },
+    "away": {
+      "id": "8524",
+      "name": "Atalanta",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-04T20:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4935323",
+    "pageUrl": "/matches/inter-vs-como/2xaxi8#4935323",
+    "opponent": {
+      "id": "8636",
+      "name": "Inter",
+      "score": 3
+    },
+    "home": {
+      "id": "8636",
+      "name": "Inter",
+      "score": 3
+    },
+    "away": {
+      "id": "10171",
+      "name": "Como",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-21T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4935322",
+    "pageUrl": "/matches/atalanta-vs-lazio/2epyoh#4935322",
+    "opponent": {
+      "id": "8524",
+      "name": "Atalanta",
+      "score": 1
+    },
+    "home": {
+      "id": "8524",
+      "name": "Atalanta",
+      "score": 1
+    },
+    "away": {
+      "id": "8543",
+      "name": "Lazio",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-22T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "Pen",
+        "shortKey": "penalties_short",
+        "long": "After penalties",
+        "longKey": "afterpenalties"
+      }
+    }
+  },
+  {
+    "id": "4935324",
+    "pageUrl": "/matches/lazio-vs-inter/2fv2k6#4935324",
+    "opponent": {
+      "id": "8543",
+      "name": "Lazio",
+      "score": 0
+    },
+    "home": {
+      "id": "8543",
+      "name": "Lazio",
+      "score": 0
+    },
+    "away": {
+      "id": "8636",
+      "name": "Inter",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-13T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  }
+]

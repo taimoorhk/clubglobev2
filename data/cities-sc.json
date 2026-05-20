@@ -1,0 +1,22 @@
+{
+  "Anse Réunion": {
+    "lat": -4.3554967,
+    "lng": 55.8257636,
+    "countryCode": "SC"
+  },
+  "Côte d'Or": {
+    "lat": -4.3161522,
+    "lng": 55.7474683,
+    "countryCode": "SC"
+  },
+  "La Passe": {
+    "lat": -4.349538,
+    "lng": 55.8322653,
+    "countryCode": "SC"
+  },
+  "St Michel": {
+    "lat": -4.6914498,
+    "lng": 55.5247489,
+    "countryCode": "SC"
+  }
+}

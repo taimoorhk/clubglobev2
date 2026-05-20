@@ -1,0 +1,2368 @@
+[
+  {
+    "id": "th-ayutthaya-united",
+    "name": "Ayutthaya United",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Ayutthaya",
+    "lat": 14.2589468,
+    "lng": 100.5111681,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-TH-t2",
+    "leagueName": "Thai League 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1110271.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-ayutthaya-united-fc",
+    "name": "Ayutthaya United FC",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Ayutthaya",
+    "lat": 14.3549468,
+    "lng": 100.44316810000001,
+    "divisionTier": 1,
+    "leagueId": "8984",
+    "leagueName": "Thai League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1110271.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 0,
+      "losses": 8,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-10T11:00:00Z",
+          "opponent": "Port FC",
+          "homeAway": "home",
+          "score": "1 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T11:30:00Z",
+          "opponent": "Bangkok United",
+          "homeAway": "away",
+          "score": "4 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T12:00:00Z",
+          "opponent": "Prachuap FC",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T12:00:00Z",
+          "opponent": "Buriram United",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T11:30:00Z",
+          "opponent": "Lamphun Warrior",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T11:00:00Z",
+          "opponent": "Nakhon Ratchasima FC",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T12:00:00Z",
+          "opponent": "Ratchaburi FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T11:30:00Z",
+          "opponent": "Kanchanaburi Power",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T11:00:00Z",
+          "opponent": "Chonburi FC",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-22T11:00:00Z",
+          "opponent": "BG Pathum United",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-bangkok-fc",
+    "name": "Bangkok FC",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "lat": 13.8083,
+    "lng": 100.4498,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-TH-t2",
+    "leagueName": "Thai League 2",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102231.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-bangkok-united",
+    "name": "Bangkok United",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Pathum Thani",
+    "lat": 14.124667,
+    "lng": 100.5360405,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-TH-t1",
+    "leagueName": "Thai League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102231.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-bg-pathum-united",
+    "name": "BG Pathum United",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "BG Pathum",
+    "lat": 13.9766186,
+    "lng": 100.7153097,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-TH-t1",
+    "leagueName": "Thai League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165250.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-buriram-united",
+    "name": "Buriram United",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Buriram",
+    "lat": 14.570710100000001,
+    "lng": 102.66531619999999,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-TH-t1",
+    "leagueName": "Thai League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165243.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-chainat-hornbill",
+    "name": "Chainat Hornbill",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Chainat Hornbill",
+    "lat": 13.744000000000002,
+    "lng": 100.504,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-TH-t2",
+    "leagueName": "Thai League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-chiangmai-united",
+    "name": "Chiangmai United",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Chiangmai",
+    "lat": 18.7889264,
+    "lng": 99.00015520000001,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-TH-t2",
+    "leagueName": "Thai League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-chiangrai-united",
+    "name": "Chiangrai United",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Chiangrai",
+    "lat": 19.908092200000002,
+    "lng": 99.8994568,
+    "divisionTier": 1,
+    "leagueId": "8984",
+    "leagueName": "Thai League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/243243.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 3,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-10T11:00:00Z",
+          "opponent": "Uthai Thani FC",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T12:00:00Z",
+          "opponent": "Lamphun Warrior",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T11:00:00Z",
+          "opponent": "Ratchaburi FC",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T11:00:00Z",
+          "opponent": "Bangkok United",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T12:30:00Z",
+          "opponent": "Sukhothai FC",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T11:00:00Z",
+          "opponent": "Muang Thong United",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T11:00:00Z",
+          "opponent": "Port FC",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T12:00:00Z",
+          "opponent": "Nakhon Ratchasima FC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T11:00:00Z",
+          "opponent": "Kanchanaburi Power",
+          "homeAway": "away",
+          "score": "0 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-21T11:00:00Z",
+          "opponent": "Chonburi FC",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-chonburi",
+    "name": "Chonburi",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Chonburi",
+    "lat": 13.2537117,
+    "lng": 101.0850777,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-TH-t1",
+    "leagueName": "Thai League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/109378.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-chonburi-fc",
+    "name": "Chonburi FC",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Chonburi",
+    "lat": 13.2337117,
+    "lng": 101.0650777,
+    "divisionTier": 1,
+    "leagueId": "8984",
+    "leagueName": "Thai League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/109378.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 2,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-10T11:00:00Z",
+          "opponent": "Nakhon Ratchasima FC",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T12:00:00Z",
+          "opponent": "Kanchanaburi Power",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T11:30:00Z",
+          "opponent": "Muang Thong United",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T11:00:00Z",
+          "opponent": "Prachuap FC",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T11:30:00Z",
+          "opponent": "Rayong FC",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T11:30:00Z",
+          "opponent": "Sukhothai FC",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T11:00:00Z",
+          "opponent": "Buriram United",
+          "homeAway": "away",
+          "score": "5 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T12:00:00Z",
+          "opponent": "BG Pathum United",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T11:00:00Z",
+          "opponent": "Ayutthaya United FC",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-21T11:00:00Z",
+          "opponent": "Chiangrai United",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-customs-united",
+    "name": "Customs United",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Customs",
+    "lat": 16.0945488,
+    "lng": 105.173841,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-TH-t2",
+    "leagueName": "Thai League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-kanchanaburi-power",
+    "name": "Kanchanaburi Power",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Kanchanaburi Power",
+    "lat": 13.74,
+    "lng": 100.5,
+    "divisionTier": 1,
+    "leagueId": "8984",
+    "leagueName": "Thai League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1513933.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 1,
+      "losses": 7,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-10T11:00:00Z",
+          "opponent": "Ratchaburi FC",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T12:00:00Z",
+          "opponent": "Chonburi FC",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T11:30:00Z",
+          "opponent": "Buriram United",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T11:00:00Z",
+          "opponent": "BG Pathum United",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T12:30:00Z",
+          "opponent": "Rayong FC",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T11:30:00Z",
+          "opponent": "Sukhothai FC",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T11:30:00Z",
+          "opponent": "Ayutthaya United FC",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T11:00:00Z",
+          "opponent": "Chiangrai United",
+          "homeAway": "home",
+          "score": "0 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-21T12:00:00Z",
+          "opponent": "Uthai Thani FC",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-14T11:00:00Z",
+          "opponent": "Port FC",
+          "homeAway": "home",
+          "score": "1 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-kasetsart-fc",
+    "name": "Kasetsart FC",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Kasetsart",
+    "lat": 13.852258899999999,
+    "lng": 100.63154349999999,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-TH-t2",
+    "leagueName": "Thai League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-khon-kaen-united",
+    "name": "Khon Kaen United",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Khon Kaen",
+    "lat": 16.6782387,
+    "lng": 102.6072933,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-TH-t1",
+    "leagueName": "Thai League 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-krabi-fc",
+    "name": "Krabi FC",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Krabi",
+    "lat": 8.0991653,
+    "lng": 99.1577298,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-TH-t2",
+    "leagueName": "Thai League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-lampang-fc",
+    "name": "Lampang FC",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Lampang",
+    "lat": 18.631972800000003,
+    "lng": 99.7452501,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-TH-t2",
+    "leagueName": "Thai League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-lamphun-warrior",
+    "name": "Lamphun Warrior",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Lamphun Warrior",
+    "lat": 13.816,
+    "lng": 100.576,
+    "divisionTier": 1,
+    "leagueId": "8984",
+    "leagueName": "Thai League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/584947.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 7,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-10T11:00:00Z",
+          "opponent": "Buriram United",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T12:00:00Z",
+          "opponent": "Chiangrai United",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T11:00:00Z",
+          "opponent": "Rayong FC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T11:00:00Z",
+          "opponent": "Ratchaburi FC",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T11:30:00Z",
+          "opponent": "Ayutthaya United FC",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T12:00:00Z",
+          "opponent": "Uthai Thani FC",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T12:30:00Z",
+          "opponent": "Prachuap FC",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T12:00:00Z",
+          "opponent": "Port FC",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T11:30:00Z",
+          "opponent": "Bangkok United",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-15T11:00:00Z",
+          "opponent": "Muang Thong United",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-lamphun-warriors",
+    "name": "Lamphun Warriors",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Lamphun Warriors",
+    "lat": 13.776000000000002,
+    "lng": 100.536,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-TH-t1",
+    "leagueName": "Thai League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/584947.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-muang-thong-united",
+    "name": "Muang Thong United",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Muang Thong",
+    "lat": 18.8288537,
+    "lng": 98.9328148,
+    "divisionTier": 1,
+    "leagueId": "8984",
+    "leagueName": "Thai League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165251.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 3,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-10T11:00:00Z",
+          "opponent": "Sukhothai FC",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T12:00:00Z",
+          "opponent": "BG Pathum United",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T11:30:00Z",
+          "opponent": "Chonburi FC",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T11:30:00Z",
+          "opponent": "Nakhon Ratchasima FC",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T11:00:00Z",
+          "opponent": "Chiangrai United",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T12:00:00Z",
+          "opponent": "Buriram United",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T11:30:00Z",
+          "opponent": "Uthai Thani FC",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T12:00:00Z",
+          "opponent": "Prachuap FC",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T12:00:00Z",
+          "opponent": "Port FC",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-22T12:00:00Z",
+          "opponent": "Bangkok United",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-muangthong-united",
+    "name": "Muangthong United",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Nonthaburi",
+    "lat": 13.9410918,
+    "lng": 100.3216772,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-TH-t1",
+    "leagueName": "Thai League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165251.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-nakhon-pathom-united",
+    "name": "Nakhon Pathom United",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Nakhon Pathom",
+    "lat": 13.911842499999999,
+    "lng": 100.0965659,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-TH-t2",
+    "leagueName": "Thai League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-nakhon-ratchasima",
+    "name": "Nakhon Ratchasima",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Nakhon Ratchasima",
+    "lat": 14.9309389,
+    "lng": 102.1141358,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-TH-t1",
+    "leagueName": "Thai League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/554037.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-nakhon-ratchasima-fc",
+    "name": "Nakhon Ratchasima FC",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Nakhon Ratchasima",
+    "lat": 15.0509389,
+    "lng": 102.07013579999999,
+    "divisionTier": 1,
+    "leagueId": "8984",
+    "leagueName": "Thai League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/554037.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 2,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-10T11:00:00Z",
+          "opponent": "Chonburi FC",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T11:00:00Z",
+          "opponent": "Sukhothai FC",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T11:30:00Z",
+          "opponent": "BG Pathum United",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T11:30:00Z",
+          "opponent": "Muang Thong United",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T11:30:00Z",
+          "opponent": "Bangkok United",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T12:00:00Z",
+          "opponent": "Uthai Thani FC",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T11:00:00Z",
+          "opponent": "Ayutthaya United FC",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T12:00:00Z",
+          "opponent": "Chiangrai United",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T12:30:00Z",
+          "opponent": "Buriram United",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T11:30:00Z",
+          "opponent": "Prachuap FC",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-nongbua-pitchaya",
+    "name": "Nongbua Pitchaya",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Nongbua Pitchaya",
+    "lat": 13.752,
+    "lng": 100.512,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-TH-t1",
+    "leagueName": "Thai League 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-pattani-fc",
+    "name": "Pattani FC",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Pattani",
+    "lat": 6.7757442999999995,
+    "lng": 101.37099169999999,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-TH-t2",
+    "leagueName": "Thai League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-phrae-united",
+    "name": "Phrae United",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Phrae",
+    "lat": 18.305060100000002,
+    "lng": 100.1606757,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-TH-t2",
+    "leagueName": "Thai League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-police-tero",
+    "name": "Police Tero",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Police Tero",
+    "lat": 13.9432899,
+    "lng": 100.55005879999999,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-TH-t1",
+    "leagueName": "Thai League 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-port-fc",
+    "name": "Port FC",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Port",
+    "lat": 7.8750215,
+    "lng": 98.4776493,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-TH-t1",
+    "leagueName": "Thai League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165255.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-prachuap",
+    "name": "Prachuap",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Prachuap",
+    "lat": 12.087266900000001,
+    "lng": 99.6887235,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-TH-t1",
+    "leagueName": "Thai League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/585025.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-prachuap-fc",
+    "name": "Prachuap FC",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Prachuap",
+    "lat": 11.971266900000002,
+    "lng": 99.7367235,
+    "divisionTier": 1,
+    "leagueId": "8984",
+    "leagueName": "Thai League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/585025.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 2,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-10T11:00:00Z",
+          "opponent": "BG Pathum United",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T11:00:00Z",
+          "opponent": "Uthai Thani FC",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T12:00:00Z",
+          "opponent": "Ayutthaya United FC",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T11:00:00Z",
+          "opponent": "Chonburi FC",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T12:30:00Z",
+          "opponent": "Port FC",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T11:30:00Z",
+          "opponent": "Bangkok United",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T12:30:00Z",
+          "opponent": "Lamphun Warrior",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T12:00:00Z",
+          "opponent": "Muang Thong United",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T11:30:00Z",
+          "opponent": "Nakhon Ratchasima FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-20T12:00:00Z",
+          "opponent": "Rayong FC",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-ranong-united",
+    "name": "Ranong United",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Ranong",
+    "lat": 10.0229546,
+    "lng": 98.7230133,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-TH-t2",
+    "leagueName": "Thai League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-ratchaburi-fc",
+    "name": "Ratchaburi FC",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Ratchaburi",
+    "lat": 13.675789700000001,
+    "lng": 99.2958216,
+    "divisionTier": 1,
+    "leagueId": "8984",
+    "leagueName": "Thai League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/421346.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 2,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-10T11:00:00Z",
+          "opponent": "Kanchanaburi Power",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T11:30:00Z",
+          "opponent": "Rayong FC",
+          "homeAway": "home",
+          "score": "6 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T11:00:00Z",
+          "opponent": "Chiangrai United",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T12:00:00Z",
+          "opponent": "Sukhothai FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T11:00:00Z",
+          "opponent": "Bangkok United",
+          "homeAway": "away",
+          "score": "1 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T11:00:00Z",
+          "opponent": "Lamphun Warrior",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T12:00:00Z",
+          "opponent": "Buriram United",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T11:30:00Z",
+          "opponent": "BG Pathum United",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T12:00:00Z",
+          "opponent": "Ayutthaya United FC",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T12:00:00Z",
+          "opponent": "Uthai Thani FC",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-ratchaburi-mitr-phol",
+    "name": "Ratchaburi Mitr Phol",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Ratchaburi",
+    "lat": 13.6317897,
+    "lng": 99.4158216,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-TH-t1",
+    "leagueName": "Thai League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/421346.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-rayong-fc",
+    "name": "Rayong FC",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Rayong",
+    "lat": 12.7143716,
+    "lng": 101.3505344,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-TH-t1",
+    "leagueName": "Thai League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/584984.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-sisaket-united",
+    "name": "Sisaket United",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Sisaket",
+    "lat": 14.8902,
+    "lng": 104.4719596,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-TH-t2",
+    "leagueName": "Thai League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-songkhla-fc",
+    "name": "Songkhla FC",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Songkhla",
+    "lat": 6.8630221,
+    "lng": 100.5938542,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-TH-t2",
+    "leagueName": "Thai League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-sukhothai",
+    "name": "Sukhothai",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Sukhothai",
+    "lat": 17.1846985,
+    "lng": 99.3735845,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-TH-t1",
+    "leagueName": "Thai League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/584943.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-sukhothai-fc",
+    "name": "Sukhothai FC",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Sukhothai",
+    "lat": 17.2206985,
+    "lng": 99.4095845,
+    "divisionTier": 1,
+    "leagueId": "8984",
+    "leagueName": "Thai League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/584943.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 1,
+      "losses": 7,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-10T11:00:00Z",
+          "opponent": "Muang Thong United",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T11:00:00Z",
+          "opponent": "Nakhon Ratchasima FC",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T12:00:00Z",
+          "opponent": "Ratchaburi FC",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T12:30:00Z",
+          "opponent": "Chiangrai United",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T11:00:00Z",
+          "opponent": "Bangkok United",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T11:30:00Z",
+          "opponent": "Chonburi FC",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T11:30:00Z",
+          "opponent": "Kanchanaburi Power",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T11:00:00Z",
+          "opponent": "Rayong FC",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T11:30:00Z",
+          "opponent": "BG Pathum United",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-21T11:30:00Z",
+          "opponent": "Buriram United",
+          "homeAway": "away",
+          "score": "6 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-trat-fc",
+    "name": "Trat FC",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Trat",
+    "lat": 12.2073544,
+    "lng": 102.4348871,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-TH-t2",
+    "leagueName": "Thai League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-udon-thani",
+    "name": "Udon Thani",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Udon Thani",
+    "lat": 17.485191699999998,
+    "lng": 102.6920012,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-TH-t2",
+    "leagueName": "Thai League 2",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-uthai-thani",
+    "name": "Uthai Thani",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Uthai Thani",
+    "lat": 15.4392084,
+    "lng": 99.40005310000001,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-TH-t1",
+    "leagueName": "Thai League 1",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/561565.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "th-uthai-thani-fc",
+    "name": "Uthai Thani FC",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "city": "Uthai Thani",
+    "lat": 15.3472084,
+    "lng": 99.47205310000001,
+    "divisionTier": 1,
+    "leagueId": "8984",
+    "leagueName": "Thai League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/561565.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 3,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-10T11:00:00Z",
+          "opponent": "Chiangrai United",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T11:00:00Z",
+          "opponent": "Prachuap FC",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-29T11:30:00Z",
+          "opponent": "Bangkok United",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T12:00:00Z",
+          "opponent": "Port FC",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T12:00:00Z",
+          "opponent": "Rayong FC",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T12:00:00Z",
+          "opponent": "Nakhon Ratchasima FC",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T12:00:00Z",
+          "opponent": "Lamphun Warrior",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T11:30:00Z",
+          "opponent": "Muang Thong United",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T12:00:00Z",
+          "opponent": "Ratchaburi FC",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-21T12:00:00Z",
+          "opponent": "Kanchanaburi Power",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "Chemal": {
+    "lat": 18.0484345,
+    "lng": -16.0203785,
+    "countryCode": "MR"
+  },
+  "Garde Nationale": {
+    "lat": 20.9277417,
+    "lng": -17.0415938,
+    "countryCode": "MR"
+  },
+  "SNIM": {
+    "lat": 18.0910303,
+    "lng": -15.9745176,
+    "countryCode": "MR"
+  },
+  "Tevragh-Zeina": {
+    "lat": 18.1111443,
+    "lng": -16.0038402,
+    "countryCode": "MR"
+  }
+}

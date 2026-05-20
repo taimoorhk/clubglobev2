@@ -1,0 +1,52 @@
+{
+  "Arua": {
+    "lat": 3.0191,
+    "lng": 30.9115,
+    "countryCode": "UG"
+  },
+  "Bright Stars": {
+    "lat": -0.714966,
+    "lng": 30.6046117,
+    "countryCode": "UG"
+  },
+  "Buhimba": {
+    "lat": 1.347222,
+    "lng": 31.308056,
+    "countryCode": "UG"
+  },
+  "Entebbe": {
+    "lat": 0.0512,
+    "lng": 32.4637,
+    "countryCode": "UG"
+  },
+  "Jinja": {
+    "lat": 0.4244,
+    "lng": 33.2042,
+    "countryCode": "UG"
+  },
+  "Kampala": {
+    "lat": 0.3476,
+    "lng": 32.5825,
+    "countryCode": "UG"
+  },
+  "Lugazi": {
+    "lat": 0.3693191,
+    "lng": 32.9367405,
+    "countryCode": "UG"
+  },
+  "Police": {
+    "lat": -0.3927152,
+    "lng": 31.4524841,
+    "countryCode": "UG"
+  },
+  "UPDF": {
+    "lat": 0.3198545,
+    "lng": 32.6237961,
+    "countryCode": "UG"
+  },
+  "URA": {
+    "lat": 3.6485833,
+    "lng": 31.2740933,
+    "countryCode": "UG"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Skopje": {
+    "lat": 41.9981,
+    "lng": 21.4254,
+    "countryCode": "MK"
+  },
+  "Tetovo": {
+    "lat": 42.0097,
+    "lng": 20.9716,
+    "countryCode": "MK"
+  },
+  "Bitola": {
+    "lat": 41.0314,
+    "lng": 21.3347,
+    "countryCode": "MK"
+  },
+  "Strumica": {
+    "lat": 41.4378,
+    "lng": 22.6433,
+    "countryCode": "MK"
+  },
+  "Stip": {
+    "lat": 41.7458,
+    "lng": 22.1958,
+    "countryCode": "MK"
+  },
+  "Prilep": {
+    "lat": 41.3441,
+    "lng": 21.5528,
+    "countryCode": "MK"
+  },
+  "Kumanovo": {
+    "lat": 42.1322,
+    "lng": 21.7144,
+    "countryCode": "MK"
+  },
+  "Ohrid": {
+    "lat": 41.1231,
+    "lng": 20.8016,
+    "countryCode": "MK"
+  }
+}

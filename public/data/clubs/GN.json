@@ -1,0 +1,322 @@
+[
+  {
+    "id": "gn-as-kaloum",
+    "name": "AS Kaloum",
+    "countryCode": "GN",
+    "country": "Guinea",
+    "city": "AS Kaloum",
+    "lat": 9.5229641,
+    "lng": -13.6404413,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GN-t1",
+    "leagueName": "Ligue 1 Pro",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gn-ashanti-gb",
+    "name": "Ashanti GB",
+    "countryCode": "GN",
+    "country": "Guinea",
+    "city": "Ashanti GB",
+    "lat": 10.444,
+    "lng": -10.996,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GN-t1",
+    "leagueName": "Ligue 1 Pro",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gn-ci-kamsar",
+    "name": "CI Kamsar",
+    "countryCode": "GN",
+    "country": "Guinea",
+    "city": "CI Kamsar",
+    "lat": 10.6323896,
+    "lng": -14.5553317,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GN-t1",
+    "leagueName": "Ligue 1 Pro",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/19/CI_Kamsar_%28logo%29.png",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gn-fello-star",
+    "name": "Fello Star",
+    "countryCode": "GN",
+    "country": "Guinea",
+    "city": "Fello Star",
+    "lat": 10.512,
+    "lng": -10.928,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GN-t1",
+    "leagueName": "Ligue 1 Pro",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gn-hafia",
+    "name": "Hafia",
+    "countryCode": "GN",
+    "country": "Guinea",
+    "city": "Hafia",
+    "lat": 11.146172300000002,
+    "lng": -12.4046913,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GN-t1",
+    "leagueName": "Ligue 1 Pro",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gn-horoya",
+    "name": "Horoya",
+    "countryCode": "GN",
+    "country": "Guinea",
+    "city": "Horoya",
+    "lat": 7.775924,
+    "lng": -8.7465052,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GN-t1",
+    "leagueName": "Ligue 1 Pro",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gn-renaissance",
+    "name": "Renaissance",
+    "countryCode": "GN",
+    "country": "Guinea",
+    "city": "Renaissance",
+    "lat": 10.452,
+    "lng": -10.988,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GN-t1",
+    "leagueName": "Ligue 1 Pro",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/330px-Da_Vinci_Vitruve_Luc_Viatour.jpg",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gn-renaissance-de-conakry",
+    "name": "Renaissance de Conakry",
+    "countryCode": "GN",
+    "country": "Guinea",
+    "city": "Renaissance de Conakry",
+    "lat": 10.476,
+    "lng": -10.964,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GN-t1",
+    "leagueName": "Ligue 1 Pro",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gn-satellite",
+    "name": "Satellite",
+    "countryCode": "GN",
+    "country": "Guinea",
+    "city": "Satellite",
+    "lat": 10.54,
+    "lng": -11.064,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GN-t1",
+    "leagueName": "Ligue 1 Pro",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Two_3U_CubeSats.jpg/330px-Two_3U_CubeSats.jpg",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "gn-wakirya",
+    "name": "Wakirya",
+    "countryCode": "GN",
+    "country": "Guinea",
+    "city": "Wakirya",
+    "lat": 10.54,
+    "lng": -11.064,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GN-t1",
+    "leagueName": "Ligue 1 Pro",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

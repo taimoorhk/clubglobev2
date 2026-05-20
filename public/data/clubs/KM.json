@@ -1,0 +1,162 @@
+[
+  {
+    "id": "km-coin-nord",
+    "name": "Coin Nord",
+    "countryCode": "KM",
+    "country": "Comoros",
+    "city": "Coin Nord",
+    "lat": -11.968,
+    "lng": 43.192,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-KM-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "km-elan-d-azito",
+    "name": "Elan d'Azito",
+    "countryCode": "KM",
+    "country": "Comoros",
+    "city": "Elan d'Azito",
+    "lat": -11.84,
+    "lng": 43.156000000000006,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-KM-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "km-fomboni",
+    "name": "Fomboni",
+    "countryCode": "KM",
+    "country": "Comoros",
+    "city": "Fomboni",
+    "lat": -12.224053999999999,
+    "lng": 43.698727000000005,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-KM-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "km-komorozine",
+    "name": "Komorozine",
+    "countryCode": "KM",
+    "country": "Comoros",
+    "city": "Komorozine",
+    "lat": -11.884,
+    "lng": 43.276,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-KM-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "km-ngaya",
+    "name": "Ngaya",
+    "countryCode": "KM",
+    "country": "Comoros",
+    "city": "Ngaya",
+    "lat": -11.944,
+    "lng": 43.216,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-KM-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

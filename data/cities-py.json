@@ -1,0 +1,37 @@
+{
+  "Asuncion": {
+    "lat": -25.2637,
+    "lng": -57.5759,
+    "countryCode": "PY"
+  },
+  "Luque": {
+    "lat": -25.2677,
+    "lng": -57.4872,
+    "countryCode": "PY"
+  },
+  "Capiata": {
+    "lat": -25.3552,
+    "lng": -57.4455,
+    "countryCode": "PY"
+  },
+  "Ciudad del Este": {
+    "lat": -25.5167,
+    "lng": -54.6167,
+    "countryCode": "PY"
+  },
+  "Encarnacion": {
+    "lat": -27.3364,
+    "lng": -55.8667,
+    "countryCode": "PY"
+  },
+  "San Lorenzo": {
+    "lat": -25.3397,
+    "lng": -57.5088,
+    "countryCode": "PY"
+  },
+  "Villarrica": {
+    "lat": -25.75,
+    "lng": -56.4333,
+    "countryCode": "PY"
+  }
+}

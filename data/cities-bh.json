@@ -1,0 +1,77 @@
+{
+  "Al Ahli": {
+    "lat": 26.2059406,
+    "lng": 50.5718862,
+    "countryCode": "BH"
+  },
+  "Al Hala": {
+    "lat": 26.2443733,
+    "lng": 50.6152015,
+    "countryCode": "BH"
+  },
+  "Al Hidd": {
+    "lat": 26.2440537,
+    "lng": 50.6528891,
+    "countryCode": "BH"
+  },
+  "Al Ittifaq": {
+    "lat": 26.2214673,
+    "lng": 50.4625726,
+    "countryCode": "BH"
+  },
+  "Al Muharraq": {
+    "lat": 26.2465946,
+    "lng": 50.6164127,
+    "countryCode": "BH"
+  },
+  "Al Najma": {
+    "lat": 26.2255279,
+    "lng": 50.6100262,
+    "countryCode": "BH"
+  },
+  "Al Riffa": {
+    "lat": 26.1242109,
+    "lng": 50.5934456,
+    "countryCode": "BH"
+  },
+  "Al Shabab": {
+    "lat": 26.2122577,
+    "lng": 50.6006449,
+    "countryCode": "BH"
+  },
+  "Bahrain": {
+    "lat": 26.1551249,
+    "lng": 50.5344606,
+    "countryCode": "BH"
+  },
+  "Busaiteen": {
+    "lat": 26.2719165,
+    "lng": 50.6028404,
+    "countryCode": "BH"
+  },
+  "East Riffa": {
+    "lat": 26.1328104,
+    "lng": 50.5587127,
+    "countryCode": "BH"
+  },
+  "Isa": {
+    "lat": 26.1741995,
+    "lng": 50.5473432,
+    "countryCode": "BH"
+  },
+  "Manama Club": {
+    "lat": 26.21104,
+    "lng": 50.6087466,
+    "countryCode": "BH"
+  },
+  "Muharraq Club": {
+    "lat": 26.2555532,
+    "lng": 50.627383,
+    "countryCode": "BH"
+  },
+  "Sitra Club": {
+    "lat": 26.1558745,
+    "lng": 50.625826,
+    "countryCode": "BH"
+  }
+}

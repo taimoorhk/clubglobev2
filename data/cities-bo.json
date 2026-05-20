@@ -1,0 +1,42 @@
+{
+  "La Paz": {
+    "lat": -16.4897,
+    "lng": -68.1193,
+    "countryCode": "BO"
+  },
+  "Santa Cruz": {
+    "lat": -17.7833,
+    "lng": -63.1821,
+    "countryCode": "BO"
+  },
+  "Cochabamba": {
+    "lat": -17.3895,
+    "lng": -66.1568,
+    "countryCode": "BO"
+  },
+  "Sucre": {
+    "lat": -19.0196,
+    "lng": -65.2619,
+    "countryCode": "BO"
+  },
+  "Potosi": {
+    "lat": -19.5836,
+    "lng": -65.7531,
+    "countryCode": "BO"
+  },
+  "Oruro": {
+    "lat": -17.9647,
+    "lng": -67.106,
+    "countryCode": "BO"
+  },
+  "Tarija": {
+    "lat": -21.5355,
+    "lng": -64.7296,
+    "countryCode": "BO"
+  },
+  "Montero": {
+    "lat": -17.3423,
+    "lng": -63.2559,
+    "countryCode": "BO"
+  }
+}

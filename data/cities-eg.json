@@ -1,0 +1,322 @@
+{
+  "Abu Qir": {
+    "lat": 31.3203016,
+    "lng": 30.0641979,
+    "countryCode": "EG"
+  },
+  "Al Adwa": {
+    "lat": 29.9637868,
+    "lng": 31.2198143,
+    "countryCode": "EG"
+  },
+  "Al Ahly": {
+    "lat": 30.0871193,
+    "lng": 31.3343234,
+    "countryCode": "EG"
+  },
+  "Al Badari": {
+    "lat": 26.9984264,
+    "lng": 31.407375,
+    "countryCode": "EG"
+  },
+  "Al Farafra": {
+    "lat": 27.0641733,
+    "lng": 27.9683927,
+    "countryCode": "EG"
+  },
+  "Al Fashn": {
+    "lat": 28.8232566,
+    "lng": 30.8995433,
+    "countryCode": "EG"
+  },
+  "Al Gharbia": {
+    "lat": 30.8391947,
+    "lng": 31.0016072,
+    "countryCode": "EG"
+  },
+  "Al Hamoul": {
+    "lat": 31.3305166,
+    "lng": 31.1748724,
+    "countryCode": "EG"
+  },
+  "Al Husseiniya": {
+    "lat": 30.5742672,
+    "lng": 31.5016432,
+    "countryCode": "EG"
+  },
+  "Al Ibrahimiya": {
+    "lat": 31.223296,
+    "lng": 29.9418078,
+    "countryCode": "EG"
+  },
+  "Al Ittihad Alexandria": {
+    "lat": 31.2096036,
+    "lng": 29.918428,
+    "countryCode": "EG"
+  },
+  "Al Kharga": {
+    "lat": 25.4522583,
+    "lng": 30.5416007,
+    "countryCode": "EG"
+  },
+  "Al Malek": {
+    "lat": 29.9738666,
+    "lng": 31.2884534,
+    "countryCode": "EG"
+  },
+  "Al Manzala": {
+    "lat": 31.1594009,
+    "lng": 31.9364533,
+    "countryCode": "EG"
+  },
+  "Al Maragha": {
+    "lat": 26.7,
+    "lng": 31.6,
+    "countryCode": "EG"
+  },
+  "Al Masry": {
+    "lat": 24.0927083,
+    "lng": 32.8987551,
+    "countryCode": "EG"
+  },
+  "Al Matareya": {
+    "lat": 30.1155032,
+    "lng": 31.3102182,
+    "countryCode": "EG"
+  },
+  "Al Minufiya": {
+    "lat": 30.6907471,
+    "lng": 30.995219,
+    "countryCode": "EG"
+  },
+  "Al Mokawloon Al Arab": {
+    "lat": 30.1132096,
+    "lng": 31.2722375,
+    "countryCode": "EG"
+  },
+  "Al Nasr Cairo": {
+    "lat": 30.0628175,
+    "lng": 31.3756581,
+    "countryCode": "EG"
+  },
+  "Al Nasr Sohag": {
+    "lat": 26.5639049,
+    "lng": 31.6924177,
+    "countryCode": "EG"
+  },
+  "Al Qanater": {
+    "lat": 30.1825003,
+    "lng": 31.1130931,
+    "countryCode": "EG"
+  },
+  "Al Qusair": {
+    "lat": 26.104836,
+    "lng": 34.279764,
+    "countryCode": "EG"
+  },
+  "Al Qusiya": {
+    "lat": 27.4390218,
+    "lng": 30.8161641,
+    "countryCode": "EG"
+  },
+  "Al Riyadh": {
+    "lat": 31.1143418,
+    "lng": 30.9400872,
+    "countryCode": "EG"
+  },
+  "Al Salam": {
+    "lat": 30.877778,
+    "lng": 29.995,
+    "countryCode": "EG"
+  },
+  "Al Tadamon": {
+    "lat": 30.0890018,
+    "lng": 31.2392946,
+    "countryCode": "EG"
+  },
+  "Al Wahda": {
+    "lat": 30.639624,
+    "lng": 31.4893989,
+    "countryCode": "EG"
+  },
+  "Al Zawia": {
+    "lat": 31.3199482,
+    "lng": 31.1658496,
+    "countryCode": "EG"
+  },
+  "Al-Sekka": {
+    "lat": 30.0694571,
+    "lng": 31.235283,
+    "countryCode": "EG"
+  },
+  "Alexandria": {
+    "lat": 31.2001,
+    "lng": 29.9187,
+    "countryCode": "EG"
+  },
+  "Aswan": {
+    "lat": 24.091071,
+    "lng": 32.897306,
+    "countryCode": "EG"
+  },
+  "Banha": {
+    "lat": 30.4624974,
+    "lng": 31.184063,
+    "countryCode": "EG"
+  },
+  "Beni Suef": {
+    "lat": 28.8382688,
+    "lng": 30.8544768,
+    "countryCode": "EG"
+  },
+  "Cairo": {
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "countryCode": "EG"
+  },
+  "Damietta": {
+    "lat": 31.4167427,
+    "lng": 31.8213657,
+    "countryCode": "EG"
+  },
+  "El Dakhleya": {
+    "lat": 31.0406755,
+    "lng": 31.3543807,
+    "countryCode": "EG"
+  },
+  "El Gouna": {
+    "lat": 27.3989266,
+    "lng": 33.6741556,
+    "countryCode": "EG"
+  },
+  "El Mansoura": {
+    "lat": 31.0335399,
+    "lng": 31.3930786,
+    "countryCode": "EG"
+  },
+  "El Obour": {
+    "lat": 30.1914,
+    "lng": 31.450548,
+    "countryCode": "EG"
+  },
+  "El Qanah": {
+    "lat": 31.0519373,
+    "lng": 31.4012305,
+    "countryCode": "EG"
+  },
+  "El Sawahel": {
+    "lat": 30.096471,
+    "lng": 31.2175689,
+    "countryCode": "EG"
+  },
+  "El Shams": {
+    "lat": 30.1169177,
+    "lng": 31.3435018,
+    "countryCode": "EG"
+  },
+  "El Shorta": {
+    "lat": 29.9686517,
+    "lng": 30.9426512,
+    "countryCode": "EG"
+  },
+  "El Tora": {
+    "lat": 29.9463575,
+    "lng": 31.2736003,
+    "countryCode": "EG"
+  },
+  "Ghazl Al Mahalla": {
+    "lat": 30.9540587,
+    "lng": 31.1686455,
+    "countryCode": "EG"
+  },
+  "Giza": {
+    "lat": 29.9870753,
+    "lng": 31.2118063,
+    "countryCode": "EG"
+  },
+  "Haras El Hodoud": {
+    "lat": 31.1508183,
+    "lng": 29.8485042,
+    "countryCode": "EG"
+  },
+  "Helwan": {
+    "lat": 29.8500001,
+    "lng": 31.333333,
+    "countryCode": "EG"
+  },
+  "Hurghada": {
+    "lat": 27.2579,
+    "lng": 33.8116,
+    "countryCode": "EG"
+  },
+  "Ismailia": {
+    "lat": 30.5965,
+    "lng": 32.2715,
+    "countryCode": "EG"
+  },
+  "Luxor": {
+    "lat": 25.702096,
+    "lng": 32.647186,
+    "countryCode": "EG"
+  },
+  "Mallawi": {
+    "lat": 27.731944,
+    "lng": 30.8411109,
+    "countryCode": "EG"
+  },
+  "Minya": {
+    "lat": 28.2125404,
+    "lng": 30.9123741,
+    "countryCode": "EG"
+  },
+  "National Bank": {
+    "lat": 30.0490943,
+    "lng": 31.2402932,
+    "countryCode": "EG"
+  },
+  "Petrojet": {
+    "lat": 31.0972234,
+    "lng": 26.611639,
+    "countryCode": "EG"
+  },
+  "Port Said": {
+    "lat": 31.2653,
+    "lng": 32.3019,
+    "countryCode": "EG"
+  },
+  "Qena": {
+    "lat": 26.2408267,
+    "lng": 32.9084243,
+    "countryCode": "EG"
+  },
+  "Sohag": {
+    "lat": 26.7624629,
+    "lng": 32.0909936,
+    "countryCode": "EG"
+  },
+  "Suez": {
+    "lat": 29.974498,
+    "lng": 32.537086,
+    "countryCode": "EG"
+  },
+  "Tanta": {
+    "lat": 30.7833666,
+    "lng": 30.9982536,
+    "countryCode": "EG"
+  },
+  "Wadi Degla": {
+    "lat": 30.0365397,
+    "lng": 31.4752548,
+    "countryCode": "EG"
+  },
+  "ZED": {
+    "lat": 30.025736,
+    "lng": 31.2118457,
+    "countryCode": "EG"
+  },
+  "Zamalek": {
+    "lat": 30.0629925,
+    "lng": 31.2196336,
+    "countryCode": "EG"
+  }
+}

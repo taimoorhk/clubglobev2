@@ -1,0 +1,290 @@
+[
+  {
+    "id": "lr-bea-mountain",
+    "name": "BEA Mountain",
+    "countryCode": "LR",
+    "country": "Liberia",
+    "city": "BEA Mountain",
+    "lat": 6.44,
+    "lng": -9.564,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LR-t1",
+    "leagueName": "First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "lr-fassell",
+    "name": "Fassell",
+    "countryCode": "LR",
+    "country": "Liberia",
+    "city": "Fassell",
+    "lat": 6.472,
+    "lng": -9.532,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LR-t1",
+    "leagueName": "First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "lr-invincible-eleven",
+    "name": "Invincible Eleven",
+    "countryCode": "LR",
+    "country": "Liberia",
+    "city": "Invincible Eleven",
+    "lat": 6.464,
+    "lng": -9.54,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LR-t1",
+    "leagueName": "First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "lr-jubilee",
+    "name": "Jubilee",
+    "countryCode": "LR",
+    "country": "Liberia",
+    "city": "Jubilee",
+    "lat": 7.0844199,
+    "lng": -9.5114781,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LR-t1",
+    "leagueName": "First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "lr-liscr",
+    "name": "LISCR",
+    "countryCode": "LR",
+    "country": "Liberia",
+    "city": "LISCR",
+    "lat": 6.388000000000001,
+    "lng": -9.452,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LR-t1",
+    "leagueName": "First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "lr-lpra-oilers",
+    "name": "LPRA Oilers",
+    "countryCode": "LR",
+    "country": "Liberia",
+    "city": "LPRA Oilers",
+    "lat": 6.376,
+    "lng": -9.464,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LR-t1",
+    "leagueName": "First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "lr-mighty-barrolle",
+    "name": "Mighty Barrolle",
+    "countryCode": "LR",
+    "country": "Liberia",
+    "city": "Mighty Barrolle",
+    "lat": 6.348000000000001,
+    "lng": -9.492,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LR-t1",
+    "leagueName": "First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "lr-nimba-united",
+    "name": "Nimba United",
+    "countryCode": "LR",
+    "country": "Liberia",
+    "city": "Nimba",
+    "lat": 6.7848813,
+    "lng": -8.7101448,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LR-t1",
+    "leagueName": "First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "lr-watanga",
+    "name": "Watanga",
+    "countryCode": "LR",
+    "country": "Liberia",
+    "city": "Watanga",
+    "lat": 6.388000000000001,
+    "lng": -9.452,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LR-t1",
+    "leagueName": "First Division",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

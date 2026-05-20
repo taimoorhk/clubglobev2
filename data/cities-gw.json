@@ -1,0 +1,32 @@
+{
+  "Benfica Bissau": {
+    "lat": 11.8618592,
+    "lng": -15.5865805,
+    "countryCode": "GW"
+  },
+  "Canhabaque": {
+    "lat": 11.2392744,
+    "lng": -15.7573116,
+    "countryCode": "GW"
+  },
+  "FC Cuntum": {
+    "lat": 11.8506541,
+    "lng": -15.6151532,
+    "countryCode": "GW"
+  },
+  "Porto de Bissau": {
+    "lat": 11.8587635,
+    "lng": -15.5758795,
+    "countryCode": "GW"
+  },
+  "SC Bissau": {
+    "lat": 11.861324,
+    "lng": -15.583055,
+    "countryCode": "GW"
+  },
+  "Sport Bissau e Benfica": {
+    "lat": 11.8618592,
+    "lng": -15.5865805,
+    "countryCode": "GW"
+  }
+}

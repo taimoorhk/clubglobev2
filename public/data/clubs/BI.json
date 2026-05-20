@@ -1,0 +1,290 @@
+[
+  {
+    "id": "bi-athletico-olympic",
+    "name": "Athletico Olympic",
+    "countryCode": "BI",
+    "country": "Burundi",
+    "city": "Athletico Olympic",
+    "lat": -3.392,
+    "lng": 29.968,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BI-t1",
+    "leagueName": "Primus League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "bi-bujumbura-city",
+    "name": "Bujumbura City",
+    "countryCode": "BI",
+    "country": "Burundi",
+    "city": "Bujumbura",
+    "lat": -3.3174,
+    "lng": 29.2999,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BI-t1",
+    "leagueName": "Primus League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "bi-flambeau-du-centre",
+    "name": "Flambeau du Centre",
+    "countryCode": "BI",
+    "country": "Burundi",
+    "city": "Flambeau du Centre",
+    "lat": -3.416,
+    "lng": 29.944,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BI-t1",
+    "leagueName": "Primus League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "bi-inter-star",
+    "name": "Inter Star",
+    "countryCode": "BI",
+    "country": "Burundi",
+    "city": "Inter Star",
+    "lat": -3.464,
+    "lng": 29.895999999999997,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BI-t1",
+    "leagueName": "Primus League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "bi-muzinga",
+    "name": "Muzinga",
+    "countryCode": "BI",
+    "country": "Burundi",
+    "city": "Muzinga",
+    "lat": -3.328,
+    "lng": 29.868,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BI-t1",
+    "leagueName": "Primus League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "bi-ngozi-city",
+    "name": "Ngozi City",
+    "countryCode": "BI",
+    "country": "Burundi",
+    "city": "Ngozi",
+    "lat": -2.9096895,
+    "lng": 29.9274986,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BI-t1",
+    "leagueName": "Primus League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "bi-prince-louis",
+    "name": "Prince Louis",
+    "countryCode": "BI",
+    "country": "Burundi",
+    "city": "Prince Louis",
+    "lat": -3.4497932000000002,
+    "lng": 29.3993098,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BI-t1",
+    "leagueName": "Primus League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "bi-rukinzo",
+    "name": "Rukinzo",
+    "countryCode": "BI",
+    "country": "Burundi",
+    "city": "Rukinzo",
+    "lat": -3.32,
+    "lng": 29.875999999999998,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BI-t1",
+    "leagueName": "Primus League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "bi-vital-o",
+    "name": "Vital'O",
+    "countryCode": "BI",
+    "country": "Burundi",
+    "city": "Vital'O",
+    "lat": -3.356,
+    "lng": 29.84,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BI-t1",
+    "leagueName": "Primus League",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/fe/Vital%27O_FC_logo.png",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

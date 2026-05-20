@@ -1,0 +1,47 @@
+{
+  "Prague": {
+    "lat": 50.0755,
+    "lng": 14.4378,
+    "countryCode": "CZ"
+  },
+  "Plzen": {
+    "lat": 49.7384,
+    "lng": 13.3736,
+    "countryCode": "CZ"
+  },
+  "Ostrava": {
+    "lat": 49.8209,
+    "lng": 18.2625,
+    "countryCode": "CZ"
+  },
+  "Olomouc": {
+    "lat": 49.5938,
+    "lng": 17.2509,
+    "countryCode": "CZ"
+  },
+  "Liberec": {
+    "lat": 50.7663,
+    "lng": 15.0543,
+    "countryCode": "CZ"
+  },
+  "Uherske Hradiste": {
+    "lat": 49.0698,
+    "lng": 17.4597,
+    "countryCode": "CZ"
+  },
+  "Jablonec": {
+    "lat": 50.7221,
+    "lng": 15.1702,
+    "countryCode": "CZ"
+  },
+  "Brno": {
+    "lat": 49.1951,
+    "lng": 16.6068,
+    "countryCode": "CZ"
+  },
+  "Teplice": {
+    "lat": 50.6404,
+    "lng": 13.8245,
+    "countryCode": "CZ"
+  }
+}

@@ -1,0 +1,258 @@
+[
+  {
+    "id": "sl-anti-drugs-strikers",
+    "name": "Anti Drugs Strikers",
+    "countryCode": "SL",
+    "country": "Sierra Leone",
+    "city": "Anti Drugs Strikers",
+    "lat": 8.528,
+    "lng": -11.876000000000001,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SL-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sl-bo-rangers",
+    "name": "Bo Rangers",
+    "countryCode": "SL",
+    "country": "Sierra Leone",
+    "city": "Bo Rangers",
+    "lat": 8.448,
+    "lng": -11.792000000000002,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SL-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sl-diamond-stars",
+    "name": "Diamond Stars",
+    "countryCode": "SL",
+    "country": "Sierra Leone",
+    "city": "Diamond Stars",
+    "lat": 8.42,
+    "lng": -11.82,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SL-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sl-east-end-lions",
+    "name": "East End Lions",
+    "countryCode": "SL",
+    "country": "Sierra Leone",
+    "city": "East End Lions",
+    "lat": 8.436,
+    "lng": -11.804,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SL-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sl-kallon",
+    "name": "Kallon",
+    "countryCode": "SL",
+    "country": "Sierra Leone",
+    "city": "Kallon",
+    "lat": 8.451677299999998,
+    "lng": -13.3251552,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SL-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sl-mighty-blackpool",
+    "name": "Mighty Blackpool",
+    "countryCode": "SL",
+    "country": "Sierra Leone",
+    "city": "Mighty Blackpool",
+    "lat": 8.492,
+    "lng": -11.748000000000001,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SL-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sl-ports-authority",
+    "name": "Ports Authority",
+    "countryCode": "SL",
+    "country": "Sierra Leone",
+    "city": "Ports Authority",
+    "lat": 8.572,
+    "lng": -11.832,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SL-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sl-wusum-stars",
+    "name": "Wusum Stars",
+    "countryCode": "SL",
+    "country": "Sierra Leone",
+    "city": "Wusum Stars",
+    "lat": 8.508,
+    "lng": -11.732000000000001,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SL-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

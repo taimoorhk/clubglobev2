@@ -1,0 +1,47 @@
+{
+  "Arambagh KS": {
+    "lat": 22.8087008,
+    "lng": 89.5472595,
+    "countryCode": "BD"
+  },
+  "Bashundhara Kings": {
+    "lat": 23.8239025,
+    "lng": 90.4699552,
+    "countryCode": "BD"
+  },
+  "Brothers Union": {
+    "lat": 23.7216083,
+    "lng": 90.4223099,
+    "countryCode": "BD"
+  },
+  "Farashganj": {
+    "lat": 23.7031127,
+    "lng": 90.4160782,
+    "countryCode": "BD"
+  },
+  "Muktijoddha Sangsad": {
+    "lat": 23.7584096,
+    "lng": 90.4113528,
+    "countryCode": "BD"
+  },
+  "Police": {
+    "lat": -20.1751659,
+    "lng": 57.5069394,
+    "countryCode": "BD"
+  },
+  "Sheikh Jamal Dhanmondi Club": {
+    "lat": 23.7460259,
+    "lng": 90.3802911,
+    "countryCode": "BD"
+  },
+  "Sheikh Russel KC": {
+    "lat": 22.4632011,
+    "lng": 91.9700773,
+    "countryCode": "BD"
+  },
+  "Uttara": {
+    "lat": 23.8693275,
+    "lng": 90.3926893,
+    "countryCode": "BD"
+  }
+}

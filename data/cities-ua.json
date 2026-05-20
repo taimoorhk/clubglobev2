@@ -1,0 +1,52 @@
+{
+  "Kyiv": {
+    "lat": 50.4501,
+    "lng": 30.5234,
+    "countryCode": "UA"
+  },
+  "Donetsk": {
+    "lat": 48.0159,
+    "lng": 37.8029,
+    "countryCode": "UA"
+  },
+  "Lviv": {
+    "lat": 49.8397,
+    "lng": 24.0297,
+    "countryCode": "UA"
+  },
+  "Dnipro": {
+    "lat": 48.4647,
+    "lng": 35.0462,
+    "countryCode": "UA"
+  },
+  "Odesa": {
+    "lat": 46.4825,
+    "lng": 30.7233,
+    "countryCode": "UA"
+  },
+  "Kharkiv": {
+    "lat": 49.9935,
+    "lng": 36.2304,
+    "countryCode": "UA"
+  },
+  "Poltava": {
+    "lat": 49.5883,
+    "lng": 34.5514,
+    "countryCode": "UA"
+  },
+  "Uzhhorod": {
+    "lat": 48.6208,
+    "lng": 22.2879,
+    "countryCode": "UA"
+  },
+  "Cherkasy": {
+    "lat": 49.4444,
+    "lng": 32.0598,
+    "countryCode": "UA"
+  },
+  "Ternopil": {
+    "lat": 49.5535,
+    "lng": 25.5948,
+    "countryCode": "UA"
+  }
+}

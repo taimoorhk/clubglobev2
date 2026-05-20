@@ -1,0 +1,132 @@
+{
+  "Al Ahli": {
+    "lat": 25.2519411,
+    "lng": 51.5350308,
+    "countryCode": "QA"
+  },
+  "Al Ahli Doha": {
+    "lat": 25.2519411,
+    "lng": 51.5350308,
+    "countryCode": "QA"
+  },
+  "Al Arabi": {
+    "lat": 25.2591393,
+    "lng": 51.518592,
+    "countryCode": "QA"
+  },
+  "Al Bidda": {
+    "lat": 25.2931033,
+    "lng": 51.5193599,
+    "countryCode": "QA"
+  },
+  "Al Duhail": {
+    "lat": 25.3808371,
+    "lng": 51.4616054,
+    "countryCode": "QA"
+  },
+  "Al Duhail II": {
+    "lat": 25.366869,
+    "lng": 51.4740888,
+    "countryCode": "QA"
+  },
+  "Al Gharafa": {
+    "lat": 25.3447465,
+    "lng": 51.4404613,
+    "countryCode": "QA"
+  },
+  "Al Gharafa II": {
+    "lat": 25.3268604,
+    "lng": 51.4573768,
+    "countryCode": "QA"
+  },
+  "Al Kharaitiyat": {
+    "lat": 25.3919779,
+    "lng": 51.4271524,
+    "countryCode": "QA"
+  },
+  "Al Khor": {
+    "lat": 25.7567822,
+    "lng": 51.3269839,
+    "countryCode": "QA"
+  },
+  "Al Markhiya": {
+    "lat": 25.3281657,
+    "lng": 51.4936494,
+    "countryCode": "QA"
+  },
+  "Al Mesaimeer": {
+    "lat": 25.404951,
+    "lng": 51.4594193,
+    "countryCode": "QA"
+  },
+  "Al Rayyan": {
+    "lat": 25.0819602,
+    "lng": 51.158416,
+    "countryCode": "QA"
+  },
+  "Al Rayyan II": {
+    "lat": 25.296619,
+    "lng": 51.434626,
+    "countryCode": "QA"
+  },
+  "Al Sadd": {
+    "lat": 25.2781809,
+    "lng": 51.5019019,
+    "countryCode": "QA"
+  },
+  "Al Sadd II": {
+    "lat": 25.2781809,
+    "lng": 51.5019019,
+    "countryCode": "QA"
+  },
+  "Al Sailiya": {
+    "lat": 25.2857908,
+    "lng": 51.4421966,
+    "countryCode": "QA"
+  },
+  "Al Shahaniya": {
+    "lat": 25.4000594,
+    "lng": 51.0518714,
+    "countryCode": "QA"
+  },
+  "Al Shamal": {
+    "lat": 26.0517166,
+    "lng": 51.2005821,
+    "countryCode": "QA"
+  },
+  "Al Waab": {
+    "lat": 25.2591268,
+    "lng": 51.4703557,
+    "countryCode": "QA"
+  },
+  "Al Wakrah": {
+    "lat": 25.0037453,
+    "lng": 51.4103338,
+    "countryCode": "QA"
+  },
+  "Al-Duhail": {
+    "lat": 25.3808371,
+    "lng": 51.4616054,
+    "countryCode": "QA"
+  },
+  "Lusail": {
+    "lat": 25.4228888,
+    "lng": 51.5197163,
+    "countryCode": "QA"
+  },
+  "Muaither": {
+    "lat": 25.2743043,
+    "lng": 51.4160217,
+    "countryCode": "QA"
+  },
+  "Qatar": {
+    "lat": 25.3336984,
+    "lng": 51.2295295,
+    "countryCode": "QA"
+  },
+  "Umm Salal": {
+    "lat": 25.4897276,
+    "lng": 51.3262709,
+    "countryCode": "QA"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "Ashdod": {
+    "lat": 31.7977314,
+    "lng": 34.6529922,
+    "countryCode": "IL"
+  },
+  "Beitar Jerusalem": {
+    "lat": 31.7497998,
+    "lng": 35.2235574,
+    "countryCode": "IL"
+  },
+  "Bnei Sakhnin": {
+    "lat": 32.8668814,
+    "lng": 35.310266,
+    "countryCode": "IL"
+  },
+  "Bnei Yehuda": {
+    "lat": 32.7984155,
+    "lng": 35.6902145,
+    "countryCode": "IL"
+  },
+  "Hapoel Hadera": {
+    "lat": 32.5245583,
+    "lng": 34.9442403,
+    "countryCode": "IL"
+  },
+  "Hapoel Haifa": {
+    "lat": 32.804301,
+    "lng": 34.9966155,
+    "countryCode": "IL"
+  },
+  "Hapoel Jerusalem": {
+    "lat": 31.7527759,
+    "lng": 35.1895527,
+    "countryCode": "IL"
+  },
+  "Hapoel Kfar Saba": {
+    "lat": 32.1757242,
+    "lng": 34.9359176,
+    "countryCode": "IL"
+  },
+  "Hapoel Petah Tikva": {
+    "lat": 32.0898441,
+    "lng": 34.9001383,
+    "countryCode": "IL"
+  },
+  "Hapoel Rishon LeZion": {
+    "lat": 31.9643278,
+    "lng": 34.7988984,
+    "countryCode": "IL"
+  },
+  "Hapoel Tel Aviv": {
+    "lat": 32.1898151,
+    "lng": 34.8152906,
+    "countryCode": "IL"
+  },
+  "Ironi Modi'in": {
+    "lat": 31.898277,
+    "lng": 35.0145618,
+    "countryCode": "IL"
+  },
+  "Ironi Tiberias": {
+    "lat": 32.785726,
+    "lng": 35.509594,
+    "countryCode": "IL"
+  },
+  "Kiryat Gat": {
+    "lat": 31.6070652,
+    "lng": 34.7698531,
+    "countryCode": "IL"
+  },
+  "Maccabi Haifa": {
+    "lat": 32.8067704,
+    "lng": 35.0023002,
+    "countryCode": "IL"
+  },
+  "Maccabi Herzliya": {
+    "lat": 32.1695446,
+    "lng": 34.8015622,
+    "countryCode": "IL"
+  },
+  "Maccabi Netanya": {
+    "lat": 32.3271544,
+    "lng": 34.8548203,
+    "countryCode": "IL"
+  },
+  "Maccabi Petah Tikva": {
+    "lat": 32.0903329,
+    "lng": 34.8621052,
+    "countryCode": "IL"
+  },
+  "Maccabi Tel Aviv": {
+    "lat": 32.02065,
+    "lng": 34.7577302,
+    "countryCode": "IL"
+  }
+}

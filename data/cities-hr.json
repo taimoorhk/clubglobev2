@@ -1,0 +1,42 @@
+{
+  "Zagreb": {
+    "lat": 45.815,
+    "lng": 15.9819,
+    "countryCode": "HR"
+  },
+  "Split": {
+    "lat": 43.5081,
+    "lng": 16.4402,
+    "countryCode": "HR"
+  },
+  "Rijeka": {
+    "lat": 45.3271,
+    "lng": 14.4422,
+    "countryCode": "HR"
+  },
+  "Osijek": {
+    "lat": 45.5549,
+    "lng": 18.6955,
+    "countryCode": "HR"
+  },
+  "Varazdin": {
+    "lat": 46.3057,
+    "lng": 16.3366,
+    "countryCode": "HR"
+  },
+  "Pula": {
+    "lat": 44.8666,
+    "lng": 13.8496,
+    "countryCode": "HR"
+  },
+  "Koprivnica": {
+    "lat": 46.1628,
+    "lng": 16.8277,
+    "countryCode": "HR"
+  },
+  "Sibenik": {
+    "lat": 43.735,
+    "lng": 15.8952,
+    "countryCode": "HR"
+  }
+}

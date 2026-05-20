@@ -1,0 +1,27 @@
+{
+  "Atlabara": {
+    "lat": 4.8365807,
+    "lng": 31.599615,
+    "countryCode": "SS"
+  },
+  "Juba": {
+    "lat": 4.8594,
+    "lng": 31.5713,
+    "countryCode": "SS"
+  },
+  "Kator": {
+    "lat": 4.8246151,
+    "lng": 31.6033963,
+    "countryCode": "SS"
+  },
+  "Munuki": {
+    "lat": 4.8677123,
+    "lng": 31.5720175,
+    "countryCode": "SS"
+  },
+  "Salam": {
+    "lat": 4.8515942,
+    "lng": 31.5609978,
+    "countryCode": "SS"
+  }
+}

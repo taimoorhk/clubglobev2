@@ -1,0 +1,27 @@
+{
+  "AS Port-Louis 2000": {
+    "lat": -20.1624522,
+    "lng": 57.5028044,
+    "countryCode": "MU"
+  },
+  "Beau Bassin-Rose Hill": {
+    "lat": -20.234269,
+    "lng": 57.4693447,
+    "countryCode": "MU"
+  },
+  "Pamplemousses": {
+    "lat": -20.0988684,
+    "lng": 57.5741162,
+    "countryCode": "MU"
+  },
+  "Petite Rivière Noire": {
+    "lat": -20.3897042,
+    "lng": 57.3819621,
+    "countryCode": "MU"
+  },
+  "Savanne": {
+    "lat": -20.458386,
+    "lng": 57.4893297,
+    "countryCode": "MU"
+  }
+}

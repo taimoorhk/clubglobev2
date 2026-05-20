@@ -1,0 +1,62 @@
+{
+  "Bukoba": {
+    "lat": -1.3317,
+    "lng": 31.8122,
+    "countryCode": "TZ"
+  },
+  "Dar es Salaam": {
+    "lat": -6.7924,
+    "lng": 39.2083,
+    "countryCode": "TZ"
+  },
+  "Fountain Gate": {
+    "lat": -6.8416056,
+    "lng": 39.2076696,
+    "countryCode": "TZ"
+  },
+  "Geita Gold": {
+    "lat": -2.8578341,
+    "lng": 32.1924608,
+    "countryCode": "TZ"
+  },
+  "Ihefu": {
+    "lat": -8.4081092,
+    "lng": 35.216364,
+    "countryCode": "TZ"
+  },
+  "Mashujaa": {
+    "lat": -6.7922363,
+    "lng": 39.2459546,
+    "countryCode": "TZ"
+  },
+  "Mbeya": {
+    "lat": -8.6131228,
+    "lng": 33.3341957,
+    "countryCode": "TZ"
+  },
+  "Pamba Jiji": {
+    "lat": -6.1632011,
+    "lng": 39.2156811,
+    "countryCode": "TZ"
+  },
+  "Polisi Tanzania": {
+    "lat": -3.3690429,
+    "lng": 36.6919603,
+    "countryCode": "TZ"
+  },
+  "TRA": {
+    "lat": -6.8271931,
+    "lng": 39.2698141,
+    "countryCode": "TZ"
+  },
+  "Tabora": {
+    "lat": -5.1913822,
+    "lng": 32.5080629,
+    "countryCode": "TZ"
+  },
+  "Tanga": {
+    "lat": -5.0889,
+    "lng": 39.0989,
+    "countryCode": "TZ"
+  }
+}

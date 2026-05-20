@@ -1,0 +1,1678 @@
+{
+  "generatedAt": "2026-05-20T08:12:31.895Z",
+  "totalClubs": 3758,
+  "countries": [
+    {
+      "countryCode": "AF",
+      "country": "Afghanistan",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/AF.json"
+    },
+    {
+      "countryCode": "AL",
+      "country": "Albania",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/AL.json"
+    },
+    {
+      "countryCode": "DZ",
+      "country": "Algeria",
+      "clubCount": 19,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/DZ.json"
+    },
+    {
+      "countryCode": "AO",
+      "country": "Angola",
+      "clubCount": 12,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/AO.json"
+    },
+    {
+      "countryCode": "AR",
+      "country": "Argentina",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/AR.json"
+    },
+    {
+      "countryCode": "AM",
+      "country": "Armenia",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/AM.json"
+    },
+    {
+      "countryCode": "AU",
+      "country": "Australia",
+      "clubCount": 12,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/AU.json"
+    },
+    {
+      "countryCode": "AT",
+      "country": "Austria",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/AT.json"
+    },
+    {
+      "countryCode": "AZ",
+      "country": "Azerbaijan",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/AZ.json"
+    },
+    {
+      "countryCode": "BH",
+      "country": "Bahrain",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/BH.json"
+    },
+    {
+      "countryCode": "BD",
+      "country": "Bangladesh",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/BD.json"
+    },
+    {
+      "countryCode": "BY",
+      "country": "Belarus",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/BY.json"
+    },
+    {
+      "countryCode": "BE",
+      "country": "Belgium",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/BE.json"
+    },
+    {
+      "countryCode": "BJ",
+      "country": "Benin",
+      "clubCount": 10,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/BJ.json"
+    },
+    {
+      "countryCode": "BO",
+      "country": "Bolivia",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/BO.json"
+    },
+    {
+      "countryCode": "BA",
+      "country": "Bosnia and Herzegovina",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/BA.json"
+    },
+    {
+      "countryCode": "BW",
+      "country": "Botswana",
+      "clubCount": 12,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/BW.json"
+    },
+    {
+      "countryCode": "BR",
+      "country": "Brazil",
+      "clubCount": 60,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/BR.json"
+    },
+    {
+      "countryCode": "BN",
+      "country": "Brunei",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/BN.json"
+    },
+    {
+      "countryCode": "BG",
+      "country": "Bulgaria",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/BG.json"
+    },
+    {
+      "countryCode": "BF",
+      "country": "Burkina Faso",
+      "clubCount": 12,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/BF.json"
+    },
+    {
+      "countryCode": "BI",
+      "country": "Burundi",
+      "clubCount": 9,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/BI.json"
+    },
+    {
+      "countryCode": "KH",
+      "country": "Cambodia",
+      "clubCount": 15,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/KH.json"
+    },
+    {
+      "countryCode": "CM",
+      "country": "Cameroon",
+      "clubCount": 18,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/CM.json"
+    },
+    {
+      "countryCode": "CA",
+      "country": "Canada",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/CA.json"
+    },
+    {
+      "countryCode": "CV",
+      "country": "Cape Verde",
+      "clubCount": 8,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/CV.json"
+    },
+    {
+      "countryCode": "CF",
+      "country": "Central African Republic",
+      "clubCount": 5,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/CF.json"
+    },
+    {
+      "countryCode": "TD",
+      "country": "Chad",
+      "clubCount": 8,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/TD.json"
+    },
+    {
+      "countryCode": "CL",
+      "country": "Chile",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/CL.json"
+    },
+    {
+      "countryCode": "CN",
+      "country": "China",
+      "clubCount": 74,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/CN.json"
+    },
+    {
+      "countryCode": "CO",
+      "country": "Colombia",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/CO.json"
+    },
+    {
+      "countryCode": "KM",
+      "country": "Comoros",
+      "clubCount": 5,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/KM.json"
+    },
+    {
+      "countryCode": "CG",
+      "country": "Congo",
+      "clubCount": 8,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/CG.json"
+    },
+    {
+      "countryCode": "HR",
+      "country": "Croatia",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/HR.json"
+    },
+    {
+      "countryCode": "CZ",
+      "country": "Czech Republic",
+      "clubCount": 27,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/CZ.json"
+    },
+    {
+      "countryCode": "DK",
+      "country": "Denmark",
+      "clubCount": 12,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/DK.json"
+    },
+    {
+      "countryCode": "DJ",
+      "country": "Djibouti",
+      "clubCount": 5,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/DJ.json"
+    },
+    {
+      "countryCode": "CD",
+      "country": "DR Congo",
+      "clubCount": 14,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/CD.json"
+    },
+    {
+      "countryCode": "EC",
+      "country": "Ecuador",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/EC.json"
+    },
+    {
+      "countryCode": "EG",
+      "country": "Egypt",
+      "clubCount": 60,
+      "tiersAvailable": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/EG.json"
+    },
+    {
+      "countryCode": "GB",
+      "country": "England",
+      "clubCount": 205,
+      "tiersAvailable": [
+        1,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/GB.json"
+    },
+    {
+      "countryCode": "GQ",
+      "country": "Equatorial Guinea",
+      "clubCount": 8,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/GQ.json"
+    },
+    {
+      "countryCode": "ER",
+      "country": "Eritrea",
+      "clubCount": 6,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/ER.json"
+    },
+    {
+      "countryCode": "EE",
+      "country": "Estonia",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/EE.json"
+    },
+    {
+      "countryCode": "SZ",
+      "country": "Eswatini",
+      "clubCount": 8,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/SZ.json"
+    },
+    {
+      "countryCode": "ET",
+      "country": "Ethiopia",
+      "clubCount": 12,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/ET.json"
+    },
+    {
+      "countryCode": "FI",
+      "country": "Finland",
+      "clubCount": 12,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/FI.json"
+    },
+    {
+      "countryCode": "FR",
+      "country": "France",
+      "clubCount": 41,
+      "tiersAvailable": [
+        1,
+        2,
+        3
+      ],
+      "file": "clubs/FR.json"
+    },
+    {
+      "countryCode": "GA",
+      "country": "Gabon",
+      "clubCount": 8,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/GA.json"
+    },
+    {
+      "countryCode": "GM",
+      "country": "Gambia",
+      "clubCount": 10,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/GM.json"
+    },
+    {
+      "countryCode": "GE",
+      "country": "Georgia",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/GE.json"
+    },
+    {
+      "countryCode": "DE",
+      "country": "Germany",
+      "clubCount": 37,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/DE.json"
+    },
+    {
+      "countryCode": "GH",
+      "country": "Ghana",
+      "clubCount": 23,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/GH.json"
+    },
+    {
+      "countryCode": "GR",
+      "country": "Greece",
+      "clubCount": 14,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/GR.json"
+    },
+    {
+      "countryCode": "GL",
+      "country": "Greenland",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/GL.json"
+    },
+    {
+      "countryCode": "GN",
+      "country": "Guinea",
+      "clubCount": 10,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/GN.json"
+    },
+    {
+      "countryCode": "GW",
+      "country": "Guinea-Bissau",
+      "clubCount": 8,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/GW.json"
+    },
+    {
+      "countryCode": "HK",
+      "country": "Hong Kong",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/HK.json"
+    },
+    {
+      "countryCode": "HU",
+      "country": "Hungary",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/HU.json"
+    },
+    {
+      "countryCode": "IS",
+      "country": "Iceland",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/IS.json"
+    },
+    {
+      "countryCode": "IN",
+      "country": "India",
+      "clubCount": 65,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "file": "clubs/IN.json"
+    },
+    {
+      "countryCode": "ID",
+      "country": "Indonesia",
+      "clubCount": 41,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/ID.json"
+    },
+    {
+      "countryCode": "IR",
+      "country": "Iran",
+      "clubCount": 31,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/IR.json"
+    },
+    {
+      "countryCode": "IQ",
+      "country": "Iraq",
+      "clubCount": 32,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/IQ.json"
+    },
+    {
+      "countryCode": "IE",
+      "country": "Ireland",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/IE.json"
+    },
+    {
+      "countryCode": "IL",
+      "country": "Israel",
+      "clubCount": 31,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/IL.json"
+    },
+    {
+      "countryCode": "IT",
+      "country": "Italy",
+      "clubCount": 43,
+      "tiersAvailable": [
+        1,
+        2,
+        3
+      ],
+      "file": "clubs/IT.json"
+    },
+    {
+      "countryCode": "CI",
+      "country": "Ivory Coast",
+      "clubCount": 14,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/CI.json"
+    },
+    {
+      "countryCode": "JP",
+      "country": "Japan",
+      "clubCount": 104,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/JP.json"
+    },
+    {
+      "countryCode": "JO",
+      "country": "Jordan",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/JO.json"
+    },
+    {
+      "countryCode": "KZ",
+      "country": "Kazakhstan",
+      "clubCount": 44,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/KZ.json"
+    },
+    {
+      "countryCode": "KE",
+      "country": "Kenya",
+      "clubCount": 22,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/KE.json"
+    },
+    {
+      "countryCode": "XK",
+      "country": "Kosovo",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/XK.json"
+    },
+    {
+      "countryCode": "KW",
+      "country": "Kuwait",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/KW.json"
+    },
+    {
+      "countryCode": "KG",
+      "country": "Kyrgyzstan",
+      "clubCount": 15,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/KG.json"
+    },
+    {
+      "countryCode": "LA",
+      "country": "Laos",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/LA.json"
+    },
+    {
+      "countryCode": "LV",
+      "country": "Latvia",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/LV.json"
+    },
+    {
+      "countryCode": "LB",
+      "country": "Lebanon",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/LB.json"
+    },
+    {
+      "countryCode": "LS",
+      "country": "Lesotho",
+      "clubCount": 10,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/LS.json"
+    },
+    {
+      "countryCode": "LR",
+      "country": "Liberia",
+      "clubCount": 9,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/LR.json"
+    },
+    {
+      "countryCode": "LY",
+      "country": "Libya",
+      "clubCount": 9,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/LY.json"
+    },
+    {
+      "countryCode": "LT",
+      "country": "Lithuania",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/LT.json"
+    },
+    {
+      "countryCode": "MG",
+      "country": "Madagascar",
+      "clubCount": 9,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/MG.json"
+    },
+    {
+      "countryCode": "MW",
+      "country": "Malawi",
+      "clubCount": 9,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/MW.json"
+    },
+    {
+      "countryCode": "MY",
+      "country": "Malaysia",
+      "clubCount": 26,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/MY.json"
+    },
+    {
+      "countryCode": "ML",
+      "country": "Mali",
+      "clubCount": 14,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/ML.json"
+    },
+    {
+      "countryCode": "MR",
+      "country": "Mauritania",
+      "clubCount": 8,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/MR.json"
+    },
+    {
+      "countryCode": "MU",
+      "country": "Mauritius",
+      "clubCount": 7,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/MU.json"
+    },
+    {
+      "countryCode": "MX",
+      "country": "Mexico",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/MX.json"
+    },
+    {
+      "countryCode": "MD",
+      "country": "Moldova",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/MD.json"
+    },
+    {
+      "countryCode": "MN",
+      "country": "Mongolia",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/MN.json"
+    },
+    {
+      "countryCode": "ME",
+      "country": "Montenegro",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/ME.json"
+    },
+    {
+      "countryCode": "MA",
+      "country": "Morocco",
+      "clubCount": 24,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/MA.json"
+    },
+    {
+      "countryCode": "MZ",
+      "country": "Mozambique",
+      "clubCount": 12,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/MZ.json"
+    },
+    {
+      "countryCode": "MM",
+      "country": "Myanmar",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/MM.json"
+    },
+    {
+      "countryCode": "NA",
+      "country": "Namibia",
+      "clubCount": 13,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/NA.json"
+    },
+    {
+      "countryCode": "NP",
+      "country": "Nepal",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/NP.json"
+    },
+    {
+      "countryCode": "NL",
+      "country": "Netherlands",
+      "clubCount": 37,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/NL.json"
+    },
+    {
+      "countryCode": "NE",
+      "country": "Niger",
+      "clubCount": 10,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/NE.json"
+    },
+    {
+      "countryCode": "NG",
+      "country": "Nigeria",
+      "clubCount": 23,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/NG.json"
+    },
+    {
+      "countryCode": "MK",
+      "country": "North Macedonia",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/MK.json"
+    },
+    {
+      "countryCode": "NO",
+      "country": "Norway",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/NO.json"
+    },
+    {
+      "countryCode": "OM",
+      "country": "Oman",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/OM.json"
+    },
+    {
+      "countryCode": "PK",
+      "country": "Pakistan",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/PK.json"
+    },
+    {
+      "countryCode": "PY",
+      "country": "Paraguay",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/PY.json"
+    },
+    {
+      "countryCode": "PE",
+      "country": "Peru",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/PE.json"
+    },
+    {
+      "countryCode": "PH",
+      "country": "Philippines",
+      "clubCount": 32,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/PH.json"
+    },
+    {
+      "countryCode": "PL",
+      "country": "Poland",
+      "clubCount": 54,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/PL.json"
+    },
+    {
+      "countryCode": "PT",
+      "country": "Portugal",
+      "clubCount": 36,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/PT.json"
+    },
+    {
+      "countryCode": "QA",
+      "country": "Qatar",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/QA.json"
+    },
+    {
+      "countryCode": "RO",
+      "country": "Romania",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/RO.json"
+    },
+    {
+      "countryCode": "RU",
+      "country": "Russia",
+      "clubCount": 42,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/RU.json"
+    },
+    {
+      "countryCode": "RW",
+      "country": "Rwanda",
+      "clubCount": 12,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/RW.json"
+    },
+    {
+      "countryCode": "ST",
+      "country": "São Tomé and Príncipe",
+      "clubCount": 8,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/ST.json"
+    },
+    {
+      "countryCode": "SA",
+      "country": "Saudi Arabia",
+      "clubCount": 54,
+      "tiersAvailable": [
+        1,
+        2,
+        3
+      ],
+      "file": "clubs/SA.json"
+    },
+    {
+      "countryCode": "GB-SCT",
+      "country": "Scotland",
+      "clubCount": 22,
+      "tiersAvailable": [
+        1,
+        4
+      ],
+      "file": "clubs/GB-SCT.json"
+    },
+    {
+      "countryCode": "SN",
+      "country": "Senegal",
+      "clubCount": 18,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/SN.json"
+    },
+    {
+      "countryCode": "RS",
+      "country": "Serbia",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/RS.json"
+    },
+    {
+      "countryCode": "SC",
+      "country": "Seychelles",
+      "clubCount": 8,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/SC.json"
+    },
+    {
+      "countryCode": "SL",
+      "country": "Sierra Leone",
+      "clubCount": 8,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/SL.json"
+    },
+    {
+      "countryCode": "SG",
+      "country": "Singapore",
+      "clubCount": 32,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/SG.json"
+    },
+    {
+      "countryCode": "SK",
+      "country": "Slovakia",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/SK.json"
+    },
+    {
+      "countryCode": "SI",
+      "country": "Slovenia",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/SI.json"
+    },
+    {
+      "countryCode": "SO",
+      "country": "Somalia",
+      "clubCount": 5,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/SO.json"
+    },
+    {
+      "countryCode": "ZA",
+      "country": "South Africa",
+      "clubCount": 60,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/ZA.json"
+    },
+    {
+      "countryCode": "KR",
+      "country": "South Korea",
+      "clubCount": 111,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/KR.json"
+    },
+    {
+      "countryCode": "SS",
+      "country": "South Sudan",
+      "clubCount": 6,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/SS.json"
+    },
+    {
+      "countryCode": "ES",
+      "country": "Spain",
+      "clubCount": 51,
+      "tiersAvailable": [
+        1,
+        2,
+        3
+      ],
+      "file": "clubs/ES.json"
+    },
+    {
+      "countryCode": "LK",
+      "country": "Sri Lanka",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/LK.json"
+    },
+    {
+      "countryCode": "SD",
+      "country": "Sudan",
+      "clubCount": 8,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/SD.json"
+    },
+    {
+      "countryCode": "SE",
+      "country": "Sweden",
+      "clubCount": 32,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/SE.json"
+    },
+    {
+      "countryCode": "CH",
+      "country": "Switzerland",
+      "clubCount": 22,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/CH.json"
+    },
+    {
+      "countryCode": "SY",
+      "country": "Syria",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/SY.json"
+    },
+    {
+      "countryCode": "TW",
+      "country": "Taiwan",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/TW.json"
+    },
+    {
+      "countryCode": "TJ",
+      "country": "Tajikistan",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/TJ.json"
+    },
+    {
+      "countryCode": "TZ",
+      "country": "Tanzania",
+      "clubCount": 24,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/TZ.json"
+    },
+    {
+      "countryCode": "TH",
+      "country": "Thailand",
+      "clubCount": 43,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/TH.json"
+    },
+    {
+      "countryCode": "TL",
+      "country": "Timor-Leste",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/TL.json"
+    },
+    {
+      "countryCode": "TG",
+      "country": "Togo",
+      "clubCount": 10,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/TG.json"
+    },
+    {
+      "countryCode": "TN",
+      "country": "Tunisia",
+      "clubCount": 21,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/TN.json"
+    },
+    {
+      "countryCode": "TR",
+      "country": "Turkey",
+      "clubCount": 38,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/TR.json"
+    },
+    {
+      "countryCode": "TM",
+      "country": "Turkmenistan",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/TM.json"
+    },
+    {
+      "countryCode": "UG",
+      "country": "Uganda",
+      "clubCount": 12,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/UG.json"
+    },
+    {
+      "countryCode": "UA",
+      "country": "Ukraine",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/UA.json"
+    },
+    {
+      "countryCode": "AE",
+      "country": "United Arab Emirates",
+      "clubCount": 36,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/AE.json"
+    },
+    {
+      "countryCode": "US",
+      "country": "United States",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/US.json"
+    },
+    {
+      "countryCode": "UY",
+      "country": "Uruguay",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/UY.json"
+    },
+    {
+      "countryCode": "UZ",
+      "country": "Uzbekistan",
+      "clubCount": 40,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/UZ.json"
+    },
+    {
+      "countryCode": "VE",
+      "country": "Venezuela",
+      "clubCount": 28,
+      "tiersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "clubs/VE.json"
+    },
+    {
+      "countryCode": "VN",
+      "country": "Vietnam",
+      "clubCount": 32,
+      "tiersAvailable": [
+        1,
+        2
+      ],
+      "file": "clubs/VN.json"
+    },
+    {
+      "countryCode": "YE",
+      "country": "Yemen",
+      "clubCount": 16,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/YE.json"
+    },
+    {
+      "countryCode": "ZM",
+      "country": "Zambia",
+      "clubCount": 14,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/ZM.json"
+    },
+    {
+      "countryCode": "ZW",
+      "country": "Zimbabwe",
+      "clubCount": 14,
+      "tiersAvailable": [
+        1
+      ],
+      "file": "clubs/ZW.json"
+    }
+  ]
+}

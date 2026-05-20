@@ -1,0 +1,87 @@
+{
+  "Aarau": {
+    "lat": 47.3927146,
+    "lng": 8.0444448,
+    "countryCode": "CH"
+  },
+  "Bellinzona": {
+    "lat": 46.1920538,
+    "lng": 9.0205888,
+    "countryCode": "CH"
+  },
+  "Etoile Carouge": {
+    "lat": 46.1832342,
+    "lng": 6.1286564,
+    "countryCode": "CH"
+  },
+  "FC Rapperswil-Jona": {
+    "lat": 47.2298277,
+    "lng": 8.859686,
+    "countryCode": "CH"
+  },
+  "Wil": {
+    "lat": 47.465266,
+    "lng": 9.0415478,
+    "countryCode": "CH"
+  },
+  "Yverdon": {
+    "lat": 46.7785711,
+    "lng": 6.6409158,
+    "countryCode": "CH"
+  },
+  "Basel": {
+    "lat": 47.5581077,
+    "lng": 7.5878261,
+    "countryCode": "CH"
+  },
+  "FC Zürich": {
+    "lat": 47.3744489,
+    "lng": 8.5410422,
+    "countryCode": "CH"
+  },
+  "Grasshopper": {
+    "lat": 47.3564463,
+    "lng": 8.536044,
+    "countryCode": "CH"
+  },
+  "Lausanne": {
+    "lat": 46.5218269,
+    "lng": 6.6327025,
+    "countryCode": "CH"
+  },
+  "Lugano": {
+    "lat": 46.0038007,
+    "lng": 8.9512275,
+    "countryCode": "CH"
+  },
+  "Luzern": {
+    "lat": 47.052144,
+    "lng": 8.3058123,
+    "countryCode": "CH"
+  },
+  "Servette": {
+    "lat": 46.2129466,
+    "lng": 6.1311729,
+    "countryCode": "CH"
+  },
+  "Sion": {
+    "lat": 46.2311749,
+    "lng": 7.3588795,
+    "countryCode": "CH"
+  },
+  "St. Gallen": {
+    "lat": 47.425618,
+    "lng": 9.3762397,
+    "countryCode": "CH"
+  },
+  "Thun": {
+    "lat": 46.7582827,
+    "lng": 7.628086,
+    "countryCode": "CH"
+  },
+  "Winterthur": {
+    "lat": 47.4991723,
+    "lng": 8.7291498,
+    "countryCode": "CH"
+  }
+}

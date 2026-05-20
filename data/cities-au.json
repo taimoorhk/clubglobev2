@@ -1,0 +1,42 @@
+{
+  "Adelaide": {
+    "lat": -34.9281805,
+    "lng": 138.5999312,
+    "countryCode": "AU"
+  },
+  "Auckland": {
+    "lat": -36.8622961,
+    "lng": 174.7190716,
+    "countryCode": "AU"
+  },
+  "Brisbane Roar": {
+    "lat": -27.6703623,
+    "lng": 153.0702993,
+    "countryCode": "AU"
+  },
+  "Central Coast Mariners": {
+    "lat": -33.3133394,
+    "lng": 151.4243298,
+    "countryCode": "AU"
+  },
+  "Macarthur": {
+    "lat": -34.0719861,
+    "lng": 150.7971899,
+    "countryCode": "AU"
+  },
+  "Melbourne": {
+    "lat": -37.8142454,
+    "lng": 144.9631732,
+    "countryCode": "AU"
+  },
+  "Sydney": {
+    "lat": -33.8698439,
+    "lng": 151.2082848,
+    "countryCode": "AU"
+  },
+  "Western Sydney": {
+    "lat": -33.7224563,
+    "lng": 150.6032265,
+    "countryCode": "AU"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Abidjan": {
+    "lat": 5.36,
+    "lng": -4.0083,
+    "countryCode": "CI"
+  },
+  "Bouaké": {
+    "lat": 7.6939,
+    "lng": -5.0303,
+    "countryCode": "CI"
+  },
+  "Korhogo": {
+    "lat": 9.458,
+    "lng": -5.63,
+    "countryCode": "CI"
+  },
+  "SOA": {
+    "lat": 7.7447306,
+    "lng": -7.4936879,
+    "countryCode": "CI"
+  },
+  "SOL": {
+    "lat": 37.5617295,
+    "lng": 126.9751574,
+    "countryCode": "CI"
+  },
+  "San Pedro": {
+    "lat": 4.7589989,
+    "lng": -6.6463922,
+    "countryCode": "CI"
+  },
+  "Stade d'Abidjan": {
+    "lat": 5.4804988,
+    "lng": -4.0745027,
+    "countryCode": "CI"
+  },
+  "Tanda": {
+    "lat": 7.803664,
+    "lng": -3.1672478,
+    "countryCode": "CI"
+  }
+}

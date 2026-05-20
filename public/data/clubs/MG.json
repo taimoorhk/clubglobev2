@@ -1,0 +1,290 @@
+[
+  {
+    "id": "mg-ajesaia",
+    "name": "Ajesaia",
+    "countryCode": "MG",
+    "country": "Madagascar",
+    "city": "Ajesaia",
+    "lat": -18.912,
+    "lng": 47.548,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MG-t1",
+    "leagueName": "THB Champions League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mg-as-adema",
+    "name": "AS Adema",
+    "countryCode": "MG",
+    "country": "Madagascar",
+    "city": "AS Adema",
+    "lat": -18.964,
+    "lng": 47.496,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MG-t1",
+    "leagueName": "THB Champions League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mg-as-fortior",
+    "name": "AS Fortior",
+    "countryCode": "MG",
+    "country": "Madagascar",
+    "city": "AS Fortior",
+    "lat": -18.875999999999998,
+    "lng": 47.42,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MG-t1",
+    "leagueName": "THB Champions League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mg-cnaps-sport",
+    "name": "CNaPS Sport",
+    "countryCode": "MG",
+    "country": "Madagascar",
+    "city": "CNaPS Sport",
+    "lat": -18.852,
+    "lng": 47.444,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MG-t1",
+    "leagueName": "THB Champions League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mg-cosfap",
+    "name": "COSFAP",
+    "countryCode": "MG",
+    "country": "Madagascar",
+    "city": "COSFAP",
+    "lat": -18.919999999999998,
+    "lng": 47.54,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MG-t1",
+    "leagueName": "THB Champions League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mg-elgeco-plus",
+    "name": "Elgeco Plus",
+    "countryCode": "MG",
+    "country": "Madagascar",
+    "city": "Elgeco Plus",
+    "lat": -18.9083468,
+    "lng": 47.503346900000004,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MG-t1",
+    "leagueName": "THB Champions League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mg-fomela",
+    "name": "Fomela",
+    "countryCode": "MG",
+    "country": "Madagascar",
+    "city": "Fomela",
+    "lat": -18.924,
+    "lng": 47.536,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MG-t1",
+    "leagueName": "THB Champions League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mg-fosa-juniors",
+    "name": "Fosa Juniors",
+    "countryCode": "MG",
+    "country": "Madagascar",
+    "city": "Fosa Juniors",
+    "lat": -18.915999999999997,
+    "lng": 47.544,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MG-t1",
+    "leagueName": "THB Champions League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "mg-tana-formation",
+    "name": "Tana Formation",
+    "countryCode": "MG",
+    "country": "Madagascar",
+    "city": "Tana Formation",
+    "lat": -18.924,
+    "lng": 47.536,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-MG-t1",
+    "leagueName": "THB Champions League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

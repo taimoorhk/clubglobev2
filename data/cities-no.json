@@ -1,0 +1,77 @@
+{
+  "Aalesund": {
+    "lat": 62.5425718,
+    "lng": 6.5741057,
+    "countryCode": "NO"
+  },
+  "Bodø": {
+    "lat": 67.2844313,
+    "lng": 14.3817503,
+    "countryCode": "NO"
+  },
+  "Brann": {
+    "lat": 64.4871527,
+    "lng": 11.7084779,
+    "countryCode": "NO"
+  },
+  "Fredrikstad": {
+    "lat": 59.1862013,
+    "lng": 10.8680241,
+    "countryCode": "NO"
+  },
+  "KFUM": {
+    "lat": 59.889572,
+    "lng": 10.7831095,
+    "countryCode": "NO"
+  },
+  "Kristiansund": {
+    "lat": 63.2168194,
+    "lng": 7.545259,
+    "countryCode": "NO"
+  },
+  "Lillestrøm": {
+    "lat": 59.9155396,
+    "lng": 11.2170354,
+    "countryCode": "NO"
+  },
+  "Molde": {
+    "lat": 62.6016257,
+    "lng": 8.1386208,
+    "countryCode": "NO"
+  },
+  "Rosenborg": {
+    "lat": 63.4342105,
+    "lng": 10.4230927,
+    "countryCode": "NO"
+  },
+  "Sandefjord": {
+    "lat": 59.0799004,
+    "lng": 10.2804322,
+    "countryCode": "NO"
+  },
+  "Sarpsborg 08": {
+    "lat": 59.2838792,
+    "lng": 11.1096115,
+    "countryCode": "NO"
+  },
+  "Start": {
+    "lat": 70.197496,
+    "lng": 28.1612108,
+    "countryCode": "NO"
+  },
+  "Tromsø": {
+    "lat": 69.6516345,
+    "lng": 18.9558585,
+    "countryCode": "NO"
+  },
+  "Viking": {
+    "lat": 59.9281005,
+    "lng": 10.8419035,
+    "countryCode": "NO"
+  },
+  "Vålerenga": {
+    "lat": 59.9076477,
+    "lng": 10.7872813,
+    "countryCode": "NO"
+  }
+}

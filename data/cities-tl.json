@@ -1,0 +1,37 @@
+{
+  "Ainaro": {
+    "lat": -8.9895601,
+    "lng": 125.509338,
+    "countryCode": "TL"
+  },
+  "Baucau": {
+    "lat": -8.4789378,
+    "lng": 126.4526942,
+    "countryCode": "TL"
+  },
+  "Dili": {
+    "lat": -8.5569,
+    "lng": 125.5603,
+    "countryCode": "TL"
+  },
+  "Dili Leste": {
+    "lat": -8.5517409,
+    "lng": 125.542952,
+    "countryCode": "TL"
+  },
+  "Karketu Dili": {
+    "lat": -8.548723,
+    "lng": 125.5639043,
+    "countryCode": "TL"
+  },
+  "Lospalos": {
+    "lat": -8.5246131,
+    "lng": 126.9972691,
+    "countryCode": "TL"
+  },
+  "Maliana": {
+    "lat": -8.9896013,
+    "lng": 125.2082835,
+    "countryCode": "TL"
+  }
+}

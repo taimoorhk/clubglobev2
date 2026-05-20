@@ -1,0 +1,162 @@
+{
+  "AZ Alkmaar": {
+    "lat": 52.6128273,
+    "lng": 4.7420619,
+    "countryCode": "NL"
+  },
+  "Almere": {
+    "lat": 52.3705038,
+    "lng": 5.2185859,
+    "countryCode": "NL"
+  },
+  "Amsterdam": {
+    "lat": 52.3676,
+    "lng": 4.9041,
+    "countryCode": "NL"
+  },
+  "Breda": {
+    "lat": 51.5887845,
+    "lng": 4.7760237,
+    "countryCode": "NL"
+  },
+  "Cambuur": {
+    "lat": 53.2041094,
+    "lng": 5.8114482,
+    "countryCode": "NL"
+  },
+  "De Graafschap": {
+    "lat": 52.4536557,
+    "lng": 5.7050478,
+    "countryCode": "NL"
+  },
+  "Deventer": {
+    "lat": 52.2694897,
+    "lng": 6.2364886,
+    "countryCode": "NL"
+  },
+  "Eindhoven": {
+    "lat": 51.4392648,
+    "lng": 5.478633,
+    "countryCode": "NL"
+  },
+  "Enschede": {
+    "lat": 52.2209855,
+    "lng": 6.8940537,
+    "countryCode": "NL"
+  },
+  "Excelsior": {
+    "lat": 51.3712307,
+    "lng": 6.1538838,
+    "countryCode": "NL"
+  },
+  "FC Den Bosch": {
+    "lat": 51.6889387,
+    "lng": 5.303116,
+    "countryCode": "NL"
+  },
+  "FC Dordrecht": {
+    "lat": 51.8001661,
+    "lng": 4.724831,
+    "countryCode": "NL"
+  },
+  "FC Eindhoven": {
+    "lat": 51.4392648,
+    "lng": 5.478633,
+    "countryCode": "NL"
+  },
+  "FC Emmen": {
+    "lat": 52.788937,
+    "lng": 6.8939001,
+    "countryCode": "NL"
+  },
+  "Feyenoord": {
+    "lat": 51.8941793,
+    "lng": 4.5246367,
+    "countryCode": "NL"
+  },
+  "Groningen": {
+    "lat": 53.2190652,
+    "lng": 6.5680077,
+    "countryCode": "NL"
+  },
+  "Heerenveen": {
+    "lat": 52.9984742,
+    "lng": 5.9231488,
+    "countryCode": "NL"
+  },
+  "Heracles": {
+    "lat": 51.594413,
+    "lng": 5.0253752,
+    "countryCode": "NL"
+  },
+  "Jong FC Utrecht": {
+    "lat": 52.1047473,
+    "lng": 5.1254212,
+    "countryCode": "NL"
+  },
+  "Rotterdam": {
+    "lat": 51.9244,
+    "lng": 4.4777,
+    "countryCode": "NL"
+  },
+  "Sittard": {
+    "lat": 50.9974235,
+    "lng": 5.8666627,
+    "countryCode": "NL"
+  },
+  "Telstar": {
+    "lat": 51.3805063,
+    "lng": 5.5619898,
+    "countryCode": "NL"
+  },
+  "The Hague": {
+    "lat": 52.0799838,
+    "lng": 4.3113461,
+    "countryCode": "NL"
+  },
+  "Tilburg": {
+    "lat": 51.5856185,
+    "lng": 5.0660616,
+    "countryCode": "NL"
+  },
+  "Utrecht": {
+    "lat": 52.0907006,
+    "lng": 5.1215634,
+    "countryCode": "NL"
+  },
+  "VVV-Venlo": {
+    "lat": 51.3688259,
+    "lng": 6.1698466,
+    "countryCode": "NL"
+  },
+  "Vitesse": {
+    "lat": 52.00993,
+    "lng": 5.8175382,
+    "countryCode": "NL"
+  },
+  "Volendam": {
+    "lat": 52.4963759,
+    "lng": 5.0682736,
+    "countryCode": "NL"
+  },
+  "Waalwijk": {
+    "lat": 51.6873372,
+    "lng": 5.0173079,
+    "countryCode": "NL"
+  },
+  "Zwolle": {
+    "lat": 52.5145653,
+    "lng": 6.0977204,
+    "countryCode": "NL"
+  },
+  "Ajax": {
+    "lat": 52.3446377,
+    "lng": 4.9502708,
+    "countryCode": "NL"
+  },
+  "FC Utrecht": {
+    "lat": 52.0757766,
+    "lng": 5.1472065,
+    "countryCode": "NL"
+  }
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "ls-bantu",
+    "name": "Bantu",
+    "countryCode": "LS",
+    "country": "Lesotho",
+    "city": "Bantu",
+    "lat": -29.3115421,
+    "lng": 28.956707,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LS-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ls-lcs",
+    "name": "LCS",
+    "countryCode": "LS",
+    "country": "Lesotho",
+    "city": "LCS",
+    "lat": -29.3797718,
+    "lng": 27.5496544,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LS-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ls-lijabatho",
+    "name": "Lijabatho",
+    "countryCode": "LS",
+    "country": "Lesotho",
+    "city": "Lijabatho",
+    "lat": -29.4193324,
+    "lng": 29.1798485,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LS-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ls-likhopo",
+    "name": "Likhopo",
+    "countryCode": "LS",
+    "country": "Lesotho",
+    "city": "Likhopo",
+    "lat": -29.520000000000003,
+    "lng": 28.176,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LS-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ls-lioli",
+    "name": "Lioli",
+    "countryCode": "LS",
+    "country": "Lesotho",
+    "city": "Lioli",
+    "lat": -29.3723826,
+    "lng": 27.4488154,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LS-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ls-lmps",
+    "name": "LMPS",
+    "countryCode": "LS",
+    "country": "Lesotho",
+    "city": "LMPS",
+    "lat": -29.31823,
+    "lng": 27.5547797,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LS-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ls-machokha",
+    "name": "Machokha",
+    "countryCode": "LS",
+    "country": "Lesotho",
+    "city": "Machokha",
+    "lat": -29.588,
+    "lng": 28.272,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LS-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ls-manonyane",
+    "name": "Manonyane",
+    "countryCode": "LS",
+    "country": "Lesotho",
+    "city": "Manonyane",
+    "lat": -29.3055246,
+    "lng": 28.685992400000003,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LS-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ls-matlama",
+    "name": "Matlama",
+    "countryCode": "LS",
+    "country": "Lesotho",
+    "city": "Matlama",
+    "lat": -29.660511800000002,
+    "lng": 27.856769200000002,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LS-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ls-mazenod-swallows",
+    "name": "Mazenod Swallows",
+    "countryCode": "LS",
+    "country": "Lesotho",
+    "city": "Mazenod Swallows",
+    "lat": -29.584000000000003,
+    "lng": 28.276,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LS-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  { "id": 223, "name": "J. League", "ccode": "JPN", "type": "league", "teams": 20 },
+  { "id": 8974, "name": "J. League 2", "ccode": "JPN", "type": "league", "teams": 20 },
+  { "id": 120, "name": "Super League", "ccode": "CHN", "type": "league", "teams": 16 },
+  { "id": 9080, "name": "K League 1", "ccode": "KOR", "type": "league", "teams": 12 },
+  { "id": 9116, "name": "K League 2", "ccode": "KOR", "type": "league", "teams": 17 },
+  { "id": 536, "name": "Saudi Pro League", "ccode": "KSA", "type": "league", "teams": 18 },
+  { "id": 538, "name": "Pro League", "ccode": "UAE", "type": "league", "teams": 14 },
+  { "id": 535, "name": "Qatar Stars League", "ccode": "QAT", "type": "league", "teams": 12 },
+  { "id": 225, "name": "Premier League", "ccode": "KAZ", "type": "league", "teams": 16 },
+  { "id": 540, "name": "Superliga", "ccode": "UZB", "type": "league", "teams": 16 },
+  { "id": 8983, "name": "Super League", "ccode": "IDN", "type": "league", "teams": 18 },
+  { "id": 8984, "name": "Thai League", "ccode": "THA", "type": "league", "teams": 16 },
+  { "id": 8985, "name": "Liga Super", "ccode": "MAS", "type": "league", "teams": 13 },
+  { "id": 8982, "name": "Indian Football League", "ccode": "IND", "type": "league", "teams": 12 }
+]

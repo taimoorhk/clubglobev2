@@ -1,0 +1,122 @@
+{
+  "AIK": {
+    "lat": 59.3622508,
+    "lng": 17.9997039,
+    "countryCode": "SE"
+  },
+  "Degerfors": {
+    "lat": 59.266667,
+    "lng": 14.433333,
+    "countryCode": "SE"
+  },
+  "Djurgården": {
+    "lat": 59.3266725,
+    "lng": 18.1151378,
+    "countryCode": "SE"
+  },
+  "Elfsborg": {
+    "lat": 59.1707295,
+    "lng": 17.1887958,
+    "countryCode": "SE"
+  },
+  "Falkenbergs": {
+    "lat": 56.8996865,
+    "lng": 12.5345561,
+    "countryCode": "SE"
+  },
+  "GAIS": {
+    "lat": 57.6802292,
+    "lng": 12.0292151,
+    "countryCode": "SE"
+  },
+  "Halmstads": {
+    "lat": 56.6999786,
+    "lng": 12.8668829,
+    "countryCode": "SE"
+  },
+  "Hammarby": {
+    "lat": 59.599281,
+    "lng": 16.5011771,
+    "countryCode": "SE"
+  },
+  "Helsingborg": {
+    "lat": 56.0442098,
+    "lng": 12.703706,
+    "countryCode": "SE"
+  },
+  "Häcken": {
+    "lat": 57.7362131,
+    "lng": 12.3233251,
+    "countryCode": "SE"
+  },
+  "IFK Göteborg": {
+    "lat": 57.7006194,
+    "lng": 12.0438214,
+    "countryCode": "SE"
+  },
+  "Kalmar": {
+    "lat": 56.6628826,
+    "lng": 16.3662382,
+    "countryCode": "SE"
+  },
+  "Ljungskile": {
+    "lat": 58.2246504,
+    "lng": 11.9198287,
+    "countryCode": "SE"
+  },
+  "Malmö": {
+    "lat": 55.6052931,
+    "lng": 13.0001566,
+    "countryCode": "SE"
+  },
+  "Mjällby": {
+    "lat": 56.0472695,
+    "lng": 14.6780706,
+    "countryCode": "SE"
+  },
+  "Nordic": {
+    "lat": 59.3291464,
+    "lng": 18.09389,
+    "countryCode": "SE"
+  },
+  "Norrby": {
+    "lat": 57.7252121,
+    "lng": 12.9304267,
+    "countryCode": "SE"
+  },
+  "Sandvikens": {
+    "lat": 60.616667,
+    "lng": 16.666667,
+    "countryCode": "SE"
+  },
+  "Sirius": {
+    "lat": 62.6282083,
+    "lng": 17.9280476,
+    "countryCode": "SE"
+  },
+  "Västerås": {
+    "lat": 59.6110992,
+    "lng": 16.5463679,
+    "countryCode": "SE"
+  },
+  "Örebro": {
+    "lat": 59.2747287,
+    "lng": 15.2151181,
+    "countryCode": "SE"
+  },
+  "Örgryte": {
+    "lat": 57.6976681,
+    "lng": 12.0037036,
+    "countryCode": "SE"
+  },
+  "Östers": {
+    "lat": 60.575222,
+    "lng": 16.5097957,
+    "countryCode": "SE"
+  },
+  "Östersunds": {
+    "lat": 63.25,
+    "lng": 14.916667,
+    "countryCode": "SE"
+  }
+}

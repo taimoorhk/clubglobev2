@@ -1,0 +1,322 @@
+[
+  {
+    "id": "bj-aspac",
+    "name": "ASPAC",
+    "countryCode": "BJ",
+    "country": "Benin",
+    "city": "ASPAC",
+    "lat": 9.316,
+    "lng": 2.376,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BJ-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e5/ASPAC_FC_%28football_club%29_logo.png",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "bj-buffles",
+    "name": "Buffles",
+    "countryCode": "BJ",
+    "country": "Benin",
+    "city": "Buffles",
+    "lat": 9.308,
+    "lng": 2.368,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BJ-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/90/Les_Buffles_du_Borgou_%28logo%29.png",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "bj-coton-sport-ouidah",
+    "name": "Coton Sport Ouidah",
+    "countryCode": "BJ",
+    "country": "Benin",
+    "city": "Coton Sport Ouidah",
+    "lat": 9.256,
+    "lng": 2.316,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BJ-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "bj-dragons",
+    "name": "Dragons",
+    "countryCode": "BJ",
+    "country": "Benin",
+    "city": "Dragons",
+    "lat": 9.360000000000001,
+    "lng": 2.256,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BJ-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/St_Catherine%2C_St_George_and_the_Dragon_%28M%C3%A4staren_fr%C3%A5n_Kappenberg%29_-_Nationalmuseum_-_18337_%28brightened%29%2C_draken.png/330px-St_Catherine%2C_St_George_and_the_Dragon_%28M%C3%A4staren_fr%C3%A5n_Kappenberg%29_-_Nationalmuseum_-_18337_%28brightened%29%2C_draken.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "bj-dynamo-abomey",
+    "name": "Dynamo Abomey",
+    "countryCode": "BJ",
+    "country": "Benin",
+    "city": "Dynamo Abomey",
+    "lat": 9.236,
+    "lng": 2.296,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BJ-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "bj-energie",
+    "name": "Energie",
+    "countryCode": "BJ",
+    "country": "Benin",
+    "city": "Energie",
+    "lat": 6.3456093000000005,
+    "lng": 2.5020136,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BJ-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "bj-jsp",
+    "name": "JSP",
+    "countryCode": "BJ",
+    "country": "Benin",
+    "city": "JSP",
+    "lat": 9.268,
+    "lng": 2.328,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BJ-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "bj-mogas-90",
+    "name": "Mogas 90",
+    "countryCode": "BJ",
+    "country": "Benin",
+    "city": "Mogas 90",
+    "lat": 9.224,
+    "lng": 2.284,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BJ-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "bj-requins",
+    "name": "Requins",
+    "countryCode": "BJ",
+    "country": "Benin",
+    "city": "Requins",
+    "lat": 9.236,
+    "lng": 2.296,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BJ-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "bj-tonnerre",
+    "name": "Tonnerre",
+    "countryCode": "BJ",
+    "country": "Benin",
+    "city": "Tonnerre",
+    "lat": 9.348,
+    "lng": 2.2439999999999998,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-BJ-t1",
+    "leagueName": "Ligue 1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

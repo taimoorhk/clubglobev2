@@ -1,0 +1,47 @@
+{
+  "Champasak": {
+    "lat": 14.8828473,
+    "lng": 105.8420794,
+    "countryCode": "LA"
+  },
+  "Lao Army": {
+    "lat": 17.982644,
+    "lng": 102.6305402,
+    "countryCode": "LA"
+  },
+  "Luang Prabang": {
+    "lat": 19.8887438,
+    "lng": 102.135898,
+    "countryCode": "LA"
+  },
+  "Namtha": {
+    "lat": 21.0106046,
+    "lng": 101.4351834,
+    "countryCode": "LA"
+  },
+  "Pakse": {
+    "lat": 15.1201461,
+    "lng": 105.8043971,
+    "countryCode": "LA"
+  },
+  "Salavan": {
+    "lat": 15.87128,
+    "lng": 106.3389565,
+    "countryCode": "LA"
+  },
+  "Savannakhet": {
+    "lat": 16.5001958,
+    "lng": 105.7155946,
+    "countryCode": "LA"
+  },
+  "Vientiane": {
+    "lat": 17.9757,
+    "lng": 102.6331,
+    "countryCode": "LA"
+  },
+  "Vientiane Capital": {
+    "lat": 17.9640988,
+    "lng": 102.6133707,
+    "countryCode": "LA"
+  }
+}

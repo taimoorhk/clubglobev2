@@ -1,0 +1,62 @@
+{
+  "Blue Star": {
+    "lat": 5.9566945,
+    "lng": 80.5318097,
+    "countryCode": "LK"
+  },
+  "Colombo": {
+    "lat": 6.9271,
+    "lng": 79.8612,
+    "countryCode": "LK"
+  },
+  "Java Lane": {
+    "lat": 6.926001,
+    "lng": 79.8493987,
+    "countryCode": "LK"
+  },
+  "Ratnam": {
+    "lat": 6.9449035,
+    "lng": 79.8628104,
+    "countryCode": "LK"
+  },
+  "Saunders": {
+    "lat": 6.9369459,
+    "lng": 79.8558149,
+    "countryCode": "LK"
+  },
+  "Solid": {
+    "lat": 6.4181082,
+    "lng": 79.9974353,
+    "countryCode": "LK"
+  },
+  "Sri Lanka Army": {
+    "lat": 8.329907,
+    "lng": 80.3582298,
+    "countryCode": "LK"
+  },
+  "Sri Lanka Navy": {
+    "lat": 6.036891,
+    "lng": 80.2275658,
+    "countryCode": "LK"
+  },
+  "Sri Lanka Police": {
+    "lat": 6.0330068,
+    "lng": 80.2170945,
+    "countryCode": "LK"
+  },
+  "Valentine's": {
+    "lat": 6.9955124,
+    "lng": 79.8758073,
+    "countryCode": "LK"
+  },
+  "Young's": {
+    "lat": 6.8775977,
+    "lng": 79.8908223,
+    "countryCode": "LK"
+  },
+  "Zahira College": {
+    "lat": 6.9277024,
+    "lng": 79.8648297,
+    "countryCode": "LK"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Ljubljana": {
+    "lat": 46.0569,
+    "lng": 14.5058,
+    "countryCode": "SI"
+  },
+  "Maribor": {
+    "lat": 46.5547,
+    "lng": 15.6459,
+    "countryCode": "SI"
+  },
+  "Celje": {
+    "lat": 46.2397,
+    "lng": 15.2677,
+    "countryCode": "SI"
+  },
+  "Koper": {
+    "lat": 45.5481,
+    "lng": 13.7302,
+    "countryCode": "SI"
+  },
+  "Murska Sobota": {
+    "lat": 46.6625,
+    "lng": 16.1664,
+    "countryCode": "SI"
+  },
+  "Domzale": {
+    "lat": 46.1377,
+    "lng": 14.5937,
+    "countryCode": "SI"
+  },
+  "Nova Gorica": {
+    "lat": 45.956,
+    "lng": 13.6484,
+    "countryCode": "SI"
+  },
+  "Velenje": {
+    "lat": 46.3623,
+    "lng": 15.1107,
+    "countryCode": "SI"
+  }
+}

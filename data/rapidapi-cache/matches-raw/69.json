@@ -1,0 +1,8703 @@
+[
+  {
+    "id": "4820724",
+    "pageUrl": "/matches/sion-vs-fc-zurich/3g5xtk#4820724",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-25T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820726",
+    "pageUrl": "/matches/grasshopper-vs-luzern/3cxtou#4820726",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 2
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 2
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-26T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820725",
+    "pageUrl": "/matches/basel-vs-st-gallen/3cj5cg#4820725",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-26T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820727",
+    "pageUrl": "/matches/servette-vs-young-boys/3apu7m#4820727",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 3
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 3
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-26T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820729",
+    "pageUrl": "/matches/lausanne-vs-winterthur/20oe4a#4820729",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 3
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 3
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-27T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820728",
+    "pageUrl": "/matches/lugano-vs-thun/2pe8bo#4820728",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-27T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820731",
+    "pageUrl": "/matches/servette-vs-st-gallen/3aoze9#4820731",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-02T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820730",
+    "pageUrl": "/matches/winterthur-vs-young-boys/2pdud7#4820730",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-02T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820732",
+    "pageUrl": "/matches/basel-vs-grasshopper/39qtfw#4820732",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 2
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 2
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-02T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820733",
+    "pageUrl": "/matches/lausanne-vs-thun/2nm62b#4820733",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 2
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 2
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-03T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820735",
+    "pageUrl": "/matches/luzern-vs-fc-zurich/3gep4y#4820735",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-03T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820734",
+    "pageUrl": "/matches/lugano-vs-sion/2p9kwi#4820734",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 4
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 4
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-03T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820736",
+    "pageUrl": "/matches/basel-vs-young-boys/3ck0ed#4820736",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 4
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 4
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-06T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820737",
+    "pageUrl": "/matches/winterthur-vs-st-gallen/2pd2gg#4820737",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 5
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 5
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-09T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820739",
+    "pageUrl": "/matches/thun-vs-luzern/3frxx8#4820739",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-09T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820740",
+    "pageUrl": "/matches/sion-vs-young-boys/3fjn4e#4820740",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 0
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 0
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-10T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820742",
+    "pageUrl": "/matches/lausanne-vs-fc-zurich/2o666h#4820742",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-10T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820741",
+    "pageUrl": "/matches/lugano-vs-basel/2mm7b5#4820741",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 3
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 3
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-10T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820738",
+    "pageUrl": "/matches/servette-vs-grasshopper/37xfez#4820738",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-10T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820743",
+    "pageUrl": "/matches/thun-vs-fc-zurich/3gb6z2#4820743",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 0
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 0
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-23T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820745",
+    "pageUrl": "/matches/winterthur-vs-grasshopper/2muzwz#4820745",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 2
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 2
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-24T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820746",
+    "pageUrl": "/matches/st-gallen-vs-luzern/3fri6u#4820746",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 0
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 0
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-24T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820748",
+    "pageUrl": "/matches/grasshopper-vs-thun/3cudaq#4820748",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 1
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 1
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-30T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820749",
+    "pageUrl": "/matches/winterthur-vs-fc-zurich/2pxn3v#4820749",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-30T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820750",
+    "pageUrl": "/matches/basel-vs-sion/3ceelw#4820750",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 0
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 0
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-30T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820751",
+    "pageUrl": "/matches/lausanne-vs-st-gallen/2nls8i#4820751",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-31T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820753",
+    "pageUrl": "/matches/servette-vs-luzern/3asu39#4820753",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 2
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 2
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-31T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820752",
+    "pageUrl": "/matches/lugano-vs-young-boys/2pema4#4820752",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 3
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 3
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-31T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820755",
+    "pageUrl": "/matches/servette-vs-fc-zurich/3bbp1v#4820755",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-13T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820754",
+    "pageUrl": "/matches/basel-vs-thun/3cjkve#4820754",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 1
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 1
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-13T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820756",
+    "pageUrl": "/matches/lugano-vs-st-gallen/2pdud9#4820756",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-13T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820757",
+    "pageUrl": "/matches/winterthur-vs-sion/2p8t0b#4820757",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 2
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 2
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-14T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820759",
+    "pageUrl": "/matches/lausanne-vs-grasshopper/2l4jfl#4820759",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 3
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 3
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-14T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820758",
+    "pageUrl": "/matches/young-boys-vs-luzern/3fsdnn#4820758",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-14T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820747",
+    "pageUrl": "/matches/lausanne-vs-lugano/20p28f#4820747",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-17T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820744",
+    "pageUrl": "/matches/servette-vs-sion/3ak9yr#4820744",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 0
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 0
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-17T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820764",
+    "pageUrl": "/matches/lugano-vs-grasshopper/2mvrgq#4820764",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 2
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 2
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-27T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820763",
+    "pageUrl": "/matches/winterthur-vs-servette/2kyuod#4820763",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 4
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 4
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-27T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820760",
+    "pageUrl": "/matches/st-gallen-vs-fc-zurich/3gar7g#4820760",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 3
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 3
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-27T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820761",
+    "pageUrl": "/matches/thun-vs-young-boys/3fovsw#4820761",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 4
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 4
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-28T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820765",
+    "pageUrl": "/matches/basel-vs-luzern/3cn13y#4820765",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-28T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820762",
+    "pageUrl": "/matches/lausanne-vs-sion/2nhk6h#4820762",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 0
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 0
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-28T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820767",
+    "pageUrl": "/matches/sion-vs-luzern/3fmp6e#4820767",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 3
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 3
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-04T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820766",
+    "pageUrl": "/matches/st-gallen-vs-thun/3fo0ci#4820766",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-04T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820768",
+    "pageUrl": "/matches/grasshopper-vs-fc-zurich/3dguq8#4820768",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 3
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 3
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-04T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820769",
+    "pageUrl": "/matches/lausanne-vs-young-boys/2nmjw5#4820769",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 5
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 5
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-05T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820771",
+    "pageUrl": "/matches/servette-vs-basel/37muz5#4820771",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 0
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 0
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-05T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820770",
+    "pageUrl": "/matches/winterthur-vs-lugano/228a1d#4820770",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 2
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 2
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-05T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820773",
+    "pageUrl": "/matches/winterthur-vs-basel/2mlfss#4820773",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 3
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 3
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-18T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820772",
+    "pageUrl": "/matches/servette-vs-thun/3apesx#4820772",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 3
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 3
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-18T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820774",
+    "pageUrl": "/matches/lugano-vs-fc-zurich/2pyf3m#4820774",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-18T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820775",
+    "pageUrl": "/matches/grasshopper-vs-sion/3cp6sw#4820775",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 0
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 0
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-19T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820777",
+    "pageUrl": "/matches/lausanne-vs-luzern/2np8pr#4820777",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 2
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 2
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-19T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820776",
+    "pageUrl": "/matches/st-gallen-vs-young-boys/3fog2p#4820776",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-19T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820778",
+    "pageUrl": "/matches/sion-vs-thun/3fj7ei#4820778",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 0
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 0
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-25T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820780",
+    "pageUrl": "/matches/grasshopper-vs-st-gallen/3ctxr3#4820780",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 5
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 5
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-25T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820779",
+    "pageUrl": "/matches/winterthur-vs-luzern/2pgk2p#4820779",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 2
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 2
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-25T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820781",
+    "pageUrl": "/matches/young-boys-vs-fc-zurich/3gbmqp#4820781",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-26T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820783",
+    "pageUrl": "/matches/lausanne-vs-basel/2kv2ha#4820783",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 5
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 5
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-26T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820782",
+    "pageUrl": "/matches/lugano-vs-servette/2kzly6#4820782",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 2
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 2
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-26T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820785",
+    "pageUrl": "/matches/sion-vs-st-gallen/3firon#4820785",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 3
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 3
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-28T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820784",
+    "pageUrl": "/matches/winterthur-vs-thun/2pdget#4820784",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 3
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 3
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-28T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820789",
+    "pageUrl": "/matches/basel-vs-fc-zurich/3d61as#4820789",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 2
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 2
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-29T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820787",
+    "pageUrl": "/matches/lausanne-vs-servette/2j90uf#4820787",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-29T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820788",
+    "pageUrl": "/matches/grasshopper-vs-young-boys/3cusue#4820788",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 3
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 3
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-30T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820786",
+    "pageUrl": "/matches/lugano-vs-luzern/2phc00#4820786",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 2
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 2
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-30T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820790",
+    "pageUrl": "/matches/sion-vs-thun/3fj7ei#4820790",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 2
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 2
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-01T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820793",
+    "pageUrl": "/matches/winterthur-vs-servette/2kyuod#4820793",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 4
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 4
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-01T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820791",
+    "pageUrl": "/matches/lausanne-vs-fc-zurich/2o666h#4820791",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 1
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 1
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-01T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820795",
+    "pageUrl": "/matches/lugano-vs-st-gallen/2pdud9#4820795",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-02T13:00:00Z",
+      "cancelled": true,
+      "started": true,
+      "finished": true,
+      "reason": {
+        "short": "Ab",
+        "shortKey": "aborted_short",
+        "long": "Abandoned",
+        "longKey": "aborted"
+      },
+      "scoreStr": "1 - 0"
+    }
+  },
+  {
+    "id": "4820794",
+    "pageUrl": "/matches/grasshopper-vs-luzern/3cxtou#4820794",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 6
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 6
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-02T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "6 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820792",
+    "pageUrl": "/matches/basel-vs-young-boys/3ck0ed#4820792",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 0
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 0
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-02T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820796",
+    "pageUrl": "/matches/luzern-vs-fc-zurich/3gep4y#4820796",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 3
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 3
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-08T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820797",
+    "pageUrl": "/matches/winterthur-vs-grasshopper/2muzwz#4820797",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 0
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 0
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-08T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820799",
+    "pageUrl": "/matches/servette-vs-thun/3apesx#4820799",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 0
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 0
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-08T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820801",
+    "pageUrl": "/matches/lugano-vs-basel/2mm7b5#4820801",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 0
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 0
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820800",
+    "pageUrl": "/matches/lausanne-vs-sion/2nhk6h#4820800",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 2
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 2
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820798",
+    "pageUrl": "/matches/st-gallen-vs-young-boys/3fog2p#4820798",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820806",
+    "pageUrl": "/matches/servette-vs-luzern/3asu39#4820806",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 2
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 2
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-22T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820803",
+    "pageUrl": "/matches/winterthur-vs-young-boys/2pdud7#4820803",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 5
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 5
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-22T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820802",
+    "pageUrl": "/matches/lugano-vs-thun/2pe8bo#4820802",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 0
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 0
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-22T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820805",
+    "pageUrl": "/matches/sion-vs-fc-zurich/3g5xtk#4820805",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 2
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 2
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-23T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820807",
+    "pageUrl": "/matches/basel-vs-grasshopper/39qtfw#4820807",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-23T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820804",
+    "pageUrl": "/matches/lausanne-vs-st-gallen/2nls8i#4820804",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-23T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5042918",
+    "pageUrl": "/matches/lugano-vs-st-gallen/2pdud9#5042918",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-26T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820808",
+    "pageUrl": "/matches/grasshopper-vs-fc-zurich/3dguq8#4820808",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 1
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 1
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-29T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820811",
+    "pageUrl": "/matches/lugano-vs-sion/2p9kwi#4820811",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-29T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820810",
+    "pageUrl": "/matches/winterthur-vs-luzern/2pgk2p#4820810",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-29T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820809",
+    "pageUrl": "/matches/servette-vs-young-boys/3apu7m#4820809",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 4
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 4
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-30T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820813",
+    "pageUrl": "/matches/basel-vs-st-gallen/3cj5cg#4820813",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 0
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 0
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-30T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820812",
+    "pageUrl": "/matches/lausanne-vs-thun/2nm62b#4820812",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 2
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 2
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-30T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820819",
+    "pageUrl": "/matches/servette-vs-grasshopper/37xfez#4820819",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 0
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 0
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-06T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820814",
+    "pageUrl": "/matches/thun-vs-luzern/3frxx8#4820814",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 4
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 4
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-06T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820816",
+    "pageUrl": "/matches/st-gallen-vs-fc-zurich/3gar7g#4820816",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-06T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820815",
+    "pageUrl": "/matches/winterthur-vs-basel/2mlfss#4820815",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-07T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820818",
+    "pageUrl": "/matches/lausanne-vs-lugano/20p28f#4820818",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 0
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 0
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-07T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820817",
+    "pageUrl": "/matches/sion-vs-young-boys/3fjn4e#4820817",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 2
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 2
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-07T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820821",
+    "pageUrl": "/matches/winterthur-vs-fc-zurich/2pxn3v#4820821",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-13T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820823",
+    "pageUrl": "/matches/grasshopper-vs-sion/3cp6sw#4820823",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 1
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 1
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-13T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820820",
+    "pageUrl": "/matches/st-gallen-vs-thun/3fo0ci#4820820",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 0
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 0
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-13T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820822",
+    "pageUrl": "/matches/young-boys-vs-luzern/3fsdnn#4820822",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 2
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 2
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-14T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820825",
+    "pageUrl": "/matches/lausanne-vs-basel/2kv2ha#4820825",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 0
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 0
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-14T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820824",
+    "pageUrl": "/matches/lugano-vs-servette/2kzly6#4820824",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 4
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 4
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-14T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820829",
+    "pageUrl": "/matches/sion-vs-st-gallen/3firon#4820829",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 3
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 3
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-16T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820828",
+    "pageUrl": "/matches/winterthur-vs-thun/2pdget#4820828",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-16T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820826",
+    "pageUrl": "/matches/lugano-vs-fc-zurich/2pyf3m#4820826",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 0
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 0
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-17T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820831",
+    "pageUrl": "/matches/basel-vs-luzern/3cn13y#4820831",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-17T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820827",
+    "pageUrl": "/matches/grasshopper-vs-young-boys/3cusue#4820827",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 2
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 2
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 6
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-17T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 6",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820832",
+    "pageUrl": "/matches/thun-vs-fc-zurich/3gb6z2#4820832",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 4
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 4
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-20T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820837",
+    "pageUrl": "/matches/servette-vs-basel/37muz5#4820837",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-20T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820835",
+    "pageUrl": "/matches/lausanne-vs-luzern/2np8pr#4820835",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 0
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 0
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-21T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820836",
+    "pageUrl": "/matches/grasshopper-vs-st-gallen/3ctxr3#4820836",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-21T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820834",
+    "pageUrl": "/matches/lugano-vs-young-boys/2pema4#4820834",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 3
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 3
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-21T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820830",
+    "pageUrl": "/matches/lausanne-vs-servette/2j90uf#4820830",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 0
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 0
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-14T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820833",
+    "pageUrl": "/matches/winterthur-vs-sion/2p8t0b#4820833",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 2
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 2
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-14T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820841",
+    "pageUrl": "/matches/lugano-vs-luzern/2phc00#4820841",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 2
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 2
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-17T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820838",
+    "pageUrl": "/matches/lausanne-vs-young-boys/2nmjw5#4820838",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-17T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820840",
+    "pageUrl": "/matches/servette-vs-fc-zurich/3bbp1v#4820840",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-18T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820843",
+    "pageUrl": "/matches/basel-vs-sion/3ceelw#4820843",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-18T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820842",
+    "pageUrl": "/matches/grasshopper-vs-thun/3cudaq#4820842",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-18T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820849",
+    "pageUrl": "/matches/lausanne-vs-grasshopper/2l4jfl#4820849",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-24T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820848",
+    "pageUrl": "/matches/winterthur-vs-lugano/228a1d#4820848",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 4
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 4
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-24T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820847",
+    "pageUrl": "/matches/sion-vs-luzern/3fmp6e#4820847",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 1
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 1
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-24T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820844",
+    "pageUrl": "/matches/thun-vs-young-boys/3fovsw#4820844",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 4
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 4
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-25T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820845",
+    "pageUrl": "/matches/basel-vs-fc-zurich/3d61as#4820845",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 3
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 3
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-25T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820846",
+    "pageUrl": "/matches/servette-vs-st-gallen/3aoze9#4820846",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-25T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820852",
+    "pageUrl": "/matches/servette-vs-sion/3ak9yr#4820852",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 3
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 3
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-31T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820851",
+    "pageUrl": "/matches/lausanne-vs-winterthur/20oe4a#4820851",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 2
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 2
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-31T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820854",
+    "pageUrl": "/matches/lugano-vs-grasshopper/2mvrgq#4820854",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-31T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820853",
+    "pageUrl": "/matches/st-gallen-vs-luzern/3fri6u#4820853",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 2
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 2
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-01T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820855",
+    "pageUrl": "/matches/basel-vs-thun/3cjkve#4820855",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-01T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820850",
+    "pageUrl": "/matches/young-boys-vs-fc-zurich/3gbmqp#4820850",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 3
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 3
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-01T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5105982",
+    "pageUrl": "/matches/sion-vs-luzern/3fmp6e#5105982",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 0
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 0
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-07T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5105983",
+    "pageUrl": "/matches/winterthur-vs-lugano/228a1d#5105983",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-07T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5105984",
+    "pageUrl": "/matches/grasshopper-vs-young-boys/3cusue#5105984",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-07T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5105985",
+    "pageUrl": "/matches/servette-vs-thun/3apesx#5105985",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-08T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5105986",
+    "pageUrl": "/matches/basel-vs-fc-zurich/3d61as#5105986",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 2
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 2
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-08T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5105987",
+    "pageUrl": "/matches/lausanne-vs-st-gallen/2nls8i#5105987",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-08T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5105988",
+    "pageUrl": "/matches/grasshopper-vs-luzern/3cxtou#5105988",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 4
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 4
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-10T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5105991",
+    "pageUrl": "/matches/winterthur-vs-fc-zurich/2pxn3v#5105991",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 3
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 3
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-11T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5105989",
+    "pageUrl": "/matches/lugano-vs-servette/2kzly6#5105989",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-11T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5105990",
+    "pageUrl": "/matches/st-gallen-vs-young-boys/3fog2p#5105990",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-11T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5105992",
+    "pageUrl": "/matches/basel-vs-sion/3ceelw#5105992",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 2
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 2
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-12T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5105993",
+    "pageUrl": "/matches/lausanne-vs-thun/2nm62b#5105993",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 5
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 5
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-12T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5105998",
+    "pageUrl": "/matches/luzern-vs-fc-zurich/3gep4y#5105998",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 1
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 1
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-14T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5105997",
+    "pageUrl": "/matches/grasshopper-vs-st-gallen/3ctxr3#5105997",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 0
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 0
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-14T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5105999",
+    "pageUrl": "/matches/winterthur-vs-young-boys/2pdud7#5105999",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 6
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 6
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-14T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "6 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106000",
+    "pageUrl": "/matches/sion-vs-thun/3fj7ei#5106000",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 1
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 1
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-15T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106001",
+    "pageUrl": "/matches/lugano-vs-basel/2mm7b5#5106001",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-15T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106002",
+    "pageUrl": "/matches/lausanne-vs-servette/2j90uf#5106002",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 3
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 3
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-15T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820839",
+    "pageUrl": "/matches/winterthur-vs-st-gallen/2pd2gg#4820839",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-18T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106006",
+    "pageUrl": "/matches/servette-vs-st-gallen/3aoze9#5106006",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-21T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106008",
+    "pageUrl": "/matches/grasshopper-vs-fc-zurich/3dguq8#5106008",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-21T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106009",
+    "pageUrl": "/matches/sion-vs-young-boys/3fjn4e#5106009",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 3
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 3
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106010",
+    "pageUrl": "/matches/lausanne-vs-lugano/20p28f#5106010",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 2
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 2
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106011",
+    "pageUrl": "/matches/basel-vs-luzern/3cn13y#5106011",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 4
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 4
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106007",
+    "pageUrl": "/matches/winterthur-vs-thun/2pdget#5106007",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 0
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 0
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-25T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106014",
+    "pageUrl": "/matches/winterthur-vs-st-gallen/2pd2gg#5106014",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-28T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106015",
+    "pageUrl": "/matches/thun-vs-luzern/3frxx8#5106015",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 2
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 2
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-28T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106016",
+    "pageUrl": "/matches/servette-vs-sion/3ak9yr#5106016",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 0
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 0
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-28T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106017",
+    "pageUrl": "/matches/lausanne-vs-basel/2kv2ha#5106017",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106018",
+    "pageUrl": "/matches/lugano-vs-grasshopper/2mvrgq#5106018",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106019",
+    "pageUrl": "/matches/young-boys-vs-fc-zurich/3gbmqp#5106019",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 3
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 3
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106020",
+    "pageUrl": "/matches/winterthur-vs-servette/2kyuod#5106020",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-03T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106023",
+    "pageUrl": "/matches/lausanne-vs-fc-zurich/2o666h#5106023",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 1
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 1
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-04T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106021",
+    "pageUrl": "/matches/lugano-vs-sion/2p9kwi#5106021",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 2
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 2
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-04T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106022",
+    "pageUrl": "/matches/young-boys-vs-luzern/3fsdnn#5106022",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-04T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106024",
+    "pageUrl": "/matches/basel-vs-grasshopper/39qtfw#5106024",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-05T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106025",
+    "pageUrl": "/matches/st-gallen-vs-thun/3fo0ci#5106025",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 2
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 2
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-05T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106026",
+    "pageUrl": "/matches/servette-vs-fc-zurich/3bbp1v#5106026",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 2
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 2
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-07T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106027",
+    "pageUrl": "/matches/winterthur-vs-sion/2p8t0b#5106027",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 1
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 1
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-07T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106028",
+    "pageUrl": "/matches/lugano-vs-luzern/2phc00#5106028",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-07T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106029",
+    "pageUrl": "/matches/basel-vs-st-gallen/3cj5cg#5106029",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 3
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 3
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-08T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106030",
+    "pageUrl": "/matches/lausanne-vs-grasshopper/2l4jfl#5106030",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 2
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 2
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-08T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106031",
+    "pageUrl": "/matches/thun-vs-young-boys/3fovsw#5106031",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-08T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106033",
+    "pageUrl": "/matches/sion-vs-fc-zurich/3g5xtk#5106033",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 1
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 1
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-14T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106032",
+    "pageUrl": "/matches/grasshopper-vs-thun/3cudaq#5106032",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 5
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 5
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-14T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106035",
+    "pageUrl": "/matches/lausanne-vs-young-boys/2nmjw5#5106035",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 0
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 0
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-15T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106036",
+    "pageUrl": "/matches/servette-vs-basel/37muz5#5106036",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 3
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 3
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-15T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106037",
+    "pageUrl": "/matches/winterthur-vs-luzern/2pgk2p#5106037",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-15T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106034",
+    "pageUrl": "/matches/lugano-vs-st-gallen/2pdud9#5106034",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-17T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106039",
+    "pageUrl": "/matches/thun-vs-fc-zurich/3gb6z2#5106039",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-21T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106038",
+    "pageUrl": "/matches/servette-vs-grasshopper/37xfez#5106038",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 5
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 5
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-21T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106040",
+    "pageUrl": "/matches/sion-vs-st-gallen/3firon#5106040",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 1
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 1
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-21T19:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106041",
+    "pageUrl": "/matches/winterthur-vs-basel/2mlfss#5106041",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 0
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 0
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-22T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106042",
+    "pageUrl": "/matches/lausanne-vs-luzern/2np8pr#5106042",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 4
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 4
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-22T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106043",
+    "pageUrl": "/matches/lugano-vs-young-boys/2pema4#5106043",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-22T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106044",
+    "pageUrl": "/matches/lausanne-vs-winterthur/20oe4a#5106044",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 2
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 2
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-04T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106045",
+    "pageUrl": "/matches/lugano-vs-thun/2pe8bo#5106045",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-04T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106046",
+    "pageUrl": "/matches/basel-vs-young-boys/3ck0ed#5106046",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 3
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 3
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-04T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106047",
+    "pageUrl": "/matches/grasshopper-vs-sion/3cp6sw#5106047",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 0
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 0
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-06T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106048",
+    "pageUrl": "/matches/servette-vs-luzern/3asu39#5106048",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 3
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 3
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-06T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106049",
+    "pageUrl": "/matches/st-gallen-vs-fc-zurich/3gar7g#5106049",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-06T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106055",
+    "pageUrl": "/matches/lugano-vs-fc-zurich/2pyf3m#5106055",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 0
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 0
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-11T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106053",
+    "pageUrl": "/matches/winterthur-vs-grasshopper/2muzwz#5106053",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 0
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 0
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-11T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106050",
+    "pageUrl": "/matches/st-gallen-vs-luzern/3fri6u#5106050",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 2
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 2
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-12T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106051",
+    "pageUrl": "/matches/lausanne-vs-sion/2nhk6h#5106051",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 3
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 3
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-12T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106054",
+    "pageUrl": "/matches/servette-vs-young-boys/3apu7m#5106054",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-12T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106052",
+    "pageUrl": "/matches/basel-vs-thun/3cjkve#5106052",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 3
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 3
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-18T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292703",
+    "pageUrl": "/matches/grasshopper-vs-luzern/3cxtou#5292703",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-25T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292704",
+    "pageUrl": "/matches/lausanne-vs-fc-zurich/2o666h#5292704",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 3
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 3
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-25T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292700",
+    "pageUrl": "/matches/lugano-vs-thun/2pe8bo#5292700",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 0
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 0
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-25T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292701",
+    "pageUrl": "/matches/basel-vs-sion/3ceelw#5292701",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 0
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 0
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-26T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292705",
+    "pageUrl": "/matches/winterthur-vs-servette/2kyuod#5292705",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 5
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 5
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-26T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292702",
+    "pageUrl": "/matches/st-gallen-vs-young-boys/3fog2p#5292702",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 1
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-26T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292706",
+    "pageUrl": "/matches/lausanne-vs-luzern/2np8pr#5292706",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-02T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292707",
+    "pageUrl": "/matches/winterthur-vs-fc-zurich/2pxn3v#5292707",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 2
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 2
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-02T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292688",
+    "pageUrl": "/matches/basel-vs-thun/3cjkve#5292688",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 3
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 3
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-02T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292689",
+    "pageUrl": "/matches/sion-vs-st-gallen/3firon#5292689",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 0
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 0
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-03T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292708",
+    "pageUrl": "/matches/servette-vs-grasshopper/37xfez#5292708",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 0
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 0
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-03T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292690",
+    "pageUrl": "/matches/lugano-vs-young-boys/2pema4#5292690",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-03T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292710",
+    "pageUrl": "/matches/grasshopper-vs-fc-zurich/3dguq8#5292710",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 2
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-09T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292709",
+    "pageUrl": "/matches/lausanne-vs-winterthur/20oe4a#5292709",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 2
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 2
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-09T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292711",
+    "pageUrl": "/matches/servette-vs-luzern/3asu39#5292711",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 3
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 3
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-09T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292691",
+    "pageUrl": "/matches/lugano-vs-st-gallen/2pdud9#5292691",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 1
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292692",
+    "pageUrl": "/matches/sion-vs-thun/3fj7ei#5292692",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 2
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 2
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292693",
+    "pageUrl": "/matches/basel-vs-young-boys/3ck0ed#5292693",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 3
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 3
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292712",
+    "pageUrl": "/matches/winterthur-vs-grasshopper/2muzwz#5292712",
+    "opponent": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 3
+    },
+    "home": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 3
+    },
+    "away": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-12T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292713",
+    "pageUrl": "/matches/luzern-vs-fc-zurich/3gep4y#5292713",
+    "opponent": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "home": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 1
+    },
+    "away": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-12T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292714",
+    "pageUrl": "/matches/lausanne-vs-servette/2j90uf#5292714",
+    "opponent": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 2
+    },
+    "home": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 2
+    },
+    "away": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-12T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292694",
+    "pageUrl": "/matches/basel-vs-st-gallen/3cj5cg#5292694",
+    "opponent": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "home": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 1
+    },
+    "away": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-14T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292695",
+    "pageUrl": "/matches/lugano-vs-sion/2p9kwi#5292695",
+    "opponent": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 2
+    },
+    "home": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 2
+    },
+    "away": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-14T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292696",
+    "pageUrl": "/matches/thun-vs-young-boys/3fovsw#5292696",
+    "opponent": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 3
+    },
+    "home": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 3
+    },
+    "away": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 8
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-14T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 8",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292717",
+    "pageUrl": "/matches/servette-vs-fc-zurich/3bbp1v#5292717",
+    "opponent": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 0
+    },
+    "home": {
+      "id": "10243",
+      "name": "FC Zürich",
+      "score": 0
+    },
+    "away": {
+      "id": "9777",
+      "name": "Servette",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-16T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292715",
+    "pageUrl": "/matches/lausanne-vs-grasshopper/2l4jfl#5292715",
+    "opponent": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "home": {
+      "id": "7730",
+      "name": "Lausanne",
+      "score": 1
+    },
+    "away": {
+      "id": "9956",
+      "name": "Grasshopper",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-16T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292716",
+    "pageUrl": "/matches/winterthur-vs-luzern/2pgk2p#5292716",
+    "opponent": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 0
+    },
+    "home": {
+      "id": "7894",
+      "name": "Winterthur",
+      "score": 0
+    },
+    "away": {
+      "id": "10199",
+      "name": "Luzern",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-16T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292697",
+    "pageUrl": "/matches/lugano-vs-basel/2mm7b5#5292697",
+    "opponent": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 4
+    },
+    "home": {
+      "id": "7896",
+      "name": "Lugano",
+      "score": 4
+    },
+    "away": {
+      "id": "9931",
+      "name": "Basel",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-17T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292698",
+    "pageUrl": "/matches/st-gallen-vs-thun/3fo0ci#5292698",
+    "opponent": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "home": {
+      "id": "10190",
+      "name": "St. Gallen",
+      "score": 1
+    },
+    "away": {
+      "id": "10191",
+      "name": "Thun",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-17T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5292699",
+    "pageUrl": "/matches/sion-vs-young-boys/3fjn4e#5292699",
+    "opponent": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 3
+    },
+    "home": {
+      "id": "10192",
+      "name": "Young Boys",
+      "score": 3
+    },
+    "away": {
+      "id": "10179",
+      "name": "Sion",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-17T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  }
+]

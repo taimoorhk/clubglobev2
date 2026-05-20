@@ -1,0 +1,62 @@
+{
+  "Lima": {
+    "lat": -12.0464,
+    "lng": -77.0428,
+    "countryCode": "PE"
+  },
+  "Arequipa": {
+    "lat": -16.409,
+    "lng": -71.5375,
+    "countryCode": "PE"
+  },
+  "Cusco": {
+    "lat": -13.5319,
+    "lng": -71.9675,
+    "countryCode": "PE"
+  },
+  "Trujillo": {
+    "lat": -8.1116,
+    "lng": -79.0288,
+    "countryCode": "PE"
+  },
+  "Huancayo": {
+    "lat": -12.0651,
+    "lng": -75.2049,
+    "countryCode": "PE"
+  },
+  "Piura": {
+    "lat": -5.1945,
+    "lng": -80.6328,
+    "countryCode": "PE"
+  },
+  "Callao": {
+    "lat": -12.0566,
+    "lng": -77.1181,
+    "countryCode": "PE"
+  },
+  "Tarapoto": {
+    "lat": -6.4869,
+    "lng": -76.3597,
+    "countryCode": "PE"
+  },
+  "Huanuco": {
+    "lat": -9.9306,
+    "lng": -76.2422,
+    "countryCode": "PE"
+  },
+  "Nazca": {
+    "lat": -14.8359,
+    "lng": -74.9328,
+    "countryCode": "PE"
+  },
+  "Huaral": {
+    "lat": -11.495,
+    "lng": -77.2078,
+    "countryCode": "PE"
+  },
+  "Chiclayo": {
+    "lat": -6.7714,
+    "lng": -79.8409,
+    "countryCode": "PE"
+  }
+}

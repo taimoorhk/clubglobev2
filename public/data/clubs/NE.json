@@ -1,0 +1,322 @@
+[
+  {
+    "id": "ne-as-fan",
+    "name": "AS FAN",
+    "countryCode": "NE",
+    "country": "Niger",
+    "city": "AS FAN",
+    "lat": 13.4739629,
+    "lng": 2.1543362,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-NE-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/89/AS_FAN_%28logo%29.png",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ne-as-gnn",
+    "name": "AS GNN",
+    "countryCode": "NE",
+    "country": "Niger",
+    "city": "AS GNN",
+    "lat": 17.616,
+    "lng": 8.176,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-NE-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ne-as-police",
+    "name": "AS Police",
+    "countryCode": "NE",
+    "country": "Niger",
+    "city": "AS Police",
+    "lat": 13.043921,
+    "lng": 3.2550283,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-NE-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ne-as-sonidep",
+    "name": "AS SONIDEP",
+    "countryCode": "NE",
+    "country": "Niger",
+    "city": "AS SONIDEP",
+    "lat": 13.474116100000002,
+    "lng": 7.1268731999999995,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-NE-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ne-jangorzo",
+    "name": "Jangorzo",
+    "countryCode": "NE",
+    "country": "Niger",
+    "city": "Jangorzo",
+    "lat": 13.5828143,
+    "lng": 2.1008412,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-NE-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ne-nigelec",
+    "name": "Nigelec",
+    "countryCode": "NE",
+    "country": "Niger",
+    "city": "Nigelec",
+    "lat": 13.4735763,
+    "lng": 2.1190818,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-NE-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ne-sahel",
+    "name": "Sahel",
+    "countryCode": "NE",
+    "country": "Niger",
+    "city": "Sahel",
+    "lat": 13.463712000000001,
+    "lng": 2.1383928,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-NE-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ne-urana",
+    "name": "Urana",
+    "countryCode": "NE",
+    "country": "Niger",
+    "city": "Urana",
+    "lat": 17.624000000000002,
+    "lng": 8.02,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-NE-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/UranaMemorialHall3.JPG/330px-UranaMemorialHall3.JPG",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ne-usgn",
+    "name": "USGN",
+    "countryCode": "NE",
+    "country": "Niger",
+    "city": "USGN",
+    "lat": 17.524,
+    "lng": 8.084,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-NE-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ne-zumunta-ac",
+    "name": "Zumunta AC",
+    "countryCode": "NE",
+    "country": "Niger",
+    "city": "Zumunta",
+    "lat": 17.536,
+    "lng": 8.096,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-NE-t1",
+    "leagueName": "Super Ligue",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

@@ -1,0 +1,397 @@
+{
+  "Ansan": {
+    "lat": 37.3217152,
+    "lng": 126.8308604,
+    "countryCode": "KR"
+  },
+  "Anyang": {
+    "lat": 37.3938528,
+    "lng": 126.9570605,
+    "countryCode": "KR"
+  },
+  "Bucheon": {
+    "lat": 37.5014422,
+    "lng": 126.7660139,
+    "countryCode": "KR"
+  },
+  "Bucheon FC 1995": {
+    "lat": 37.5014422,
+    "lng": 126.7660139,
+    "countryCode": "KR"
+  },
+  "Busan Buk-gu": {
+    "lat": 35.1598481,
+    "lng": 128.9718543,
+    "countryCode": "KR"
+  },
+  "Busan Dong-gu": {
+    "lat": 35.1155532,
+    "lng": 129.0425868,
+    "countryCode": "KR"
+  },
+  "Busan Dongnae": {
+    "lat": 35.2068,
+    "lng": 129.07253,
+    "countryCode": "KR"
+  },
+  "Busan Gangseo": {
+    "lat": 35.1164785,
+    "lng": 128.9062649,
+    "countryCode": "KR"
+  },
+  "Busan Geumjeong": {
+    "lat": 35.2440398,
+    "lng": 129.0920805,
+    "countryCode": "KR"
+  },
+  "Busan Gijang": {
+    "lat": 35.314967,
+    "lng": 129.1779629,
+    "countryCode": "KR"
+  },
+  "Busan Haeundae": {
+    "lat": 35.1633004,
+    "lng": 129.1596309,
+    "countryCode": "KR"
+  },
+  "Busan Jung-gu": {
+    "lat": 35.1138002,
+    "lng": 129.0419583,
+    "countryCode": "KR"
+  },
+  "Busan Nam-gu": {
+    "lat": 35.1050889,
+    "lng": 129.0639918,
+    "countryCode": "KR"
+  },
+  "Busan Saha": {
+    "lat": 35.0856519,
+    "lng": 128.9783168,
+    "countryCode": "KR"
+  },
+  "Busan Sasang": {
+    "lat": 35.1862977,
+    "lng": 128.9871981,
+    "countryCode": "KR"
+  },
+  "Busan Seo-gu": {
+    "lat": 35.116533,
+    "lng": 129.0145,
+    "countryCode": "KR"
+  },
+  "Busan Suyeong": {
+    "lat": 35.1460011,
+    "lng": 129.105529,
+    "countryCode": "KR"
+  },
+  "Busan Yeongdo": {
+    "lat": 35.093763,
+    "lng": 129.0366899,
+    "countryCode": "KR"
+  },
+  "Busan Yeonje": {
+    "lat": 35.182575,
+    "lng": 129.1045776,
+    "countryCode": "KR"
+  },
+  "Changwon": {
+    "lat": 35.227956,
+    "lng": 128.6818586,
+    "countryCode": "KR"
+  },
+  "Cheonan": {
+    "lat": 36.8150283,
+    "lng": 127.1140654,
+    "countryCode": "KR"
+  },
+  "Cheongju": {
+    "lat": 36.6421169,
+    "lng": 127.4891742,
+    "countryCode": "KR"
+  },
+  "Chuncheon": {
+    "lat": 37.8810569,
+    "lng": 127.7297641,
+    "countryCode": "KR"
+  },
+  "Chungbuk Cheongju": {
+    "lat": 36.6281688,
+    "lng": 127.4538403,
+    "countryCode": "KR"
+  },
+  "Chungnam Asan": {
+    "lat": 36.95652,
+    "lng": 126.7796861,
+    "countryCode": "KR"
+  },
+  "Daegu": {
+    "lat": 35.8714,
+    "lng": 128.6014,
+    "countryCode": "KR"
+  },
+  "FC Anyang": {
+    "lat": 37.3938528,
+    "lng": 126.9570605,
+    "countryCode": "KR"
+  },
+  "FC Mokpo": {
+    "lat": 34.7903335,
+    "lng": 126.3847547,
+    "countryCode": "KR"
+  },
+  "Gangneung": {
+    "lat": 37.7525313,
+    "lng": 128.8759523,
+    "countryCode": "KR"
+  },
+  "Gangwon Chuncheon": {
+    "lat": 37.8701817,
+    "lng": 127.7236171,
+    "countryCode": "KR"
+  },
+  "Gimhae": {
+    "lat": 35.2310947,
+    "lng": 128.8908228,
+    "countryCode": "KR"
+  },
+  "Gimhae FC 2008": {
+    "lat": 35.2310947,
+    "lng": 128.8908228,
+    "countryCode": "KR"
+  },
+  "Gimpo": {
+    "lat": 37.6155683,
+    "lng": 126.7157798,
+    "countryCode": "KR"
+  },
+  "Goyang": {
+    "lat": 37.6581862,
+    "lng": 126.8319452,
+    "countryCode": "KR"
+  },
+  "Guri": {
+    "lat": 37.5935948,
+    "lng": 127.1297917,
+    "countryCode": "KR"
+  },
+  "Gwangju": {
+    "lat": 35.1595,
+    "lng": 126.8526,
+    "countryCode": "KR"
+  },
+  "Gwangju Gwangsan": {
+    "lat": 35.1600719,
+    "lng": 126.8062789,
+    "countryCode": "KR"
+  },
+  "Gwangmyeong": {
+    "lat": 37.4785475,
+    "lng": 126.8643937,
+    "countryCode": "KR"
+  },
+  "Gyeongbuk Gyeongju": {
+    "lat": 35.7147015,
+    "lng": 129.3242024,
+    "countryCode": "KR"
+  },
+  "Gyeonggi Goyang": {
+    "lat": 37.7110984,
+    "lng": 126.8814256,
+    "countryCode": "KR"
+  },
+  "Gyeongju Citizen": {
+    "lat": 35.8599434,
+    "lng": 129.2121982,
+    "countryCode": "KR"
+  },
+  "Gyeongnam": {
+    "lat": 35.3878276,
+    "lng": 128.3662341,
+    "countryCode": "KR"
+  },
+  "Gyeongnam Changwon": {
+    "lat": 35.2483502,
+    "lng": 128.6752134,
+    "countryCode": "KR"
+  },
+  "Gyeongnam Geochang": {
+    "lat": 35.6861402,
+    "lng": 127.9090204,
+    "countryCode": "KR"
+  },
+  "Hwangseong": {
+    "lat": 35.8589559,
+    "lng": 129.2232645,
+    "countryCode": "KR"
+  },
+  "Hwaseong": {
+    "lat": 37.1994653,
+    "lng": 126.8312632,
+    "countryCode": "KR"
+  },
+  "Incheon": {
+    "lat": 37.4563,
+    "lng": 126.7052,
+    "countryCode": "KR"
+  },
+  "Jeju": {
+    "lat": 33.4887737,
+    "lng": 126.4987083,
+    "countryCode": "KR"
+  },
+  "Jeonju": {
+    "lat": 35.8237631,
+    "lng": 127.1472805,
+    "countryCode": "KR"
+  },
+  "Jeonnam Mokpo": {
+    "lat": 34.7939217,
+    "lng": 126.3863848,
+    "countryCode": "KR"
+  },
+  "Namyangju": {
+    "lat": 37.6359398,
+    "lng": 127.2165051,
+    "countryCode": "KR"
+  },
+  "Paju": {
+    "lat": 37.7598955,
+    "lng": 126.7801502,
+    "countryCode": "KR"
+  },
+  "Pocheon": {
+    "lat": 37.8948267,
+    "lng": 127.2007295,
+    "countryCode": "KR"
+  },
+  "Pohang": {
+    "lat": 36.0189315,
+    "lng": 129.3429384,
+    "countryCode": "KR"
+  },
+  "Pyeongtaek": {
+    "lat": 36.9924966,
+    "lng": 127.1127168,
+    "countryCode": "KR"
+  },
+  "Seongnam": {
+    "lat": 37.4201556,
+    "lng": 127.1262092,
+    "countryCode": "KR"
+  },
+  "Seoul": {
+    "lat": 37.5665,
+    "lng": 126.978,
+    "countryCode": "KR"
+  },
+  "Seoul Dobong": {
+    "lat": 37.6794691,
+    "lng": 127.0383153,
+    "countryCode": "KR"
+  },
+  "Seoul Eunpyeong": {
+    "lat": 37.6284028,
+    "lng": 126.9287195,
+    "countryCode": "KR"
+  },
+  "Seoul Gangbuk": {
+    "lat": 37.6429104,
+    "lng": 127.0100237,
+    "countryCode": "KR"
+  },
+  "Seoul Gangdong": {
+    "lat": 37.5459108,
+    "lng": 127.1299691,
+    "countryCode": "KR"
+  },
+  "Seoul Gangseo": {
+    "lat": 37.5222164,
+    "lng": 126.8405303,
+    "countryCode": "KR"
+  },
+  "Seoul Gwanak": {
+    "lat": 37.458115,
+    "lng": 126.9521607,
+    "countryCode": "KR"
+  },
+  "Seoul Gwangjin": {
+    "lat": 37.5428569,
+    "lng": 127.0838498,
+    "countryCode": "KR"
+  },
+  "Seoul Jungnang": {
+    "lat": 37.6071525,
+    "lng": 127.0755743,
+    "countryCode": "KR"
+  },
+  "Seoul Mapo": {
+    "lat": 37.5384246,
+    "lng": 126.9496184,
+    "countryCode": "KR"
+  },
+  "Seoul Nowon": {
+    "lat": 37.6424012,
+    "lng": 127.0715405,
+    "countryCode": "KR"
+  },
+  "Seoul Seodaemun": {
+    "lat": 37.5648953,
+    "lng": 126.9667419,
+    "countryCode": "KR"
+  },
+  "Seoul Seongdong": {
+    "lat": 37.5358612,
+    "lng": 127.0117095,
+    "countryCode": "KR"
+  },
+  "Seoul Songpa": {
+    "lat": 37.5158632,
+    "lng": 127.0727891,
+    "countryCode": "KR"
+  },
+  "Seoul Yangcheon": {
+    "lat": 37.5700454,
+    "lng": 126.8396576,
+    "countryCode": "KR"
+  },
+  "Seoul Yeongdeungpo": {
+    "lat": 37.5129113,
+    "lng": 126.8986538,
+    "countryCode": "KR"
+  },
+  "Seoul Yongsan": {
+    "lat": 37.5358612,
+    "lng": 127.0117095,
+    "countryCode": "KR"
+  },
+  "Siheung": {
+    "lat": 37.3798891,
+    "lng": 126.8032255,
+    "countryCode": "KR"
+  },
+  "Suwon": {
+    "lat": 37.2636,
+    "lng": 127.0286,
+    "countryCode": "KR"
+  },
+  "Uijeongbu": {
+    "lat": 37.7380747,
+    "lng": 127.0339665,
+    "countryCode": "KR"
+  },
+  "Ulsan": {
+    "lat": 35.5391697,
+    "lng": 129.3119136,
+    "countryCode": "KR"
+  },
+  "Yangpyeong": {
+    "lat": 37.4916,
+    "lng": 127.4875,
+    "countryCode": "KR"
+  },
+  "Yongin": {
+    "lat": 37.2405741,
+    "lng": 127.1785572,
+    "countryCode": "KR"
+  }
+}

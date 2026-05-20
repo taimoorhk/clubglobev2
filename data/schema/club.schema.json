@@ -1,0 +1,90 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Club",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "countryCode",
+    "country",
+    "city",
+    "lat",
+    "lng",
+    "divisionTier",
+    "leagueId",
+    "leagueName",
+    "season",
+    "logoUrl",
+    "source",
+    "updatedAt"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "countryCode": { "type": "string", "minLength": 2, "maxLength": 2 },
+    "country": { "type": "string" },
+    "city": { "type": "string" },
+    "lat": { "type": "number" },
+    "lng": { "type": "number" },
+    "divisionTier": { "type": "integer", "minimum": 1, "maximum": 7 },
+    "leagueId": { "type": "string" },
+    "leagueName": { "type": "string" },
+    "season": { "type": "string" },
+    "logoUrl": { "type": "string" },
+    "source": { "type": "string" },
+    "updatedAt": { "type": "string", "format": "date" },
+    "recentForm": {
+      "type": "object",
+      "required": ["wins", "draws", "losses", "cancelled", "matches", "source", "updatedAt"],
+      "properties": {
+        "wins": { "type": "integer", "minimum": 0 },
+        "draws": { "type": "integer", "minimum": 0 },
+        "losses": { "type": "integer", "minimum": 0 },
+        "cancelled": { "type": "integer", "minimum": 0 },
+        "matches": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["opponent", "outcome"],
+            "properties": {
+              "date": { "type": "string" },
+              "opponent": { "type": "string" },
+              "homeAway": { "type": "string", "enum": ["home", "away"] },
+              "score": { "type": "string" },
+              "outcome": { "type": "string", "enum": ["W", "D", "L", "C"] },
+              "competition": { "type": "string" },
+              "status": { "type": "string" }
+            }
+          }
+        },
+        "source": { "type": "string" },
+        "updatedAt": { "type": "string", "format": "date" },
+        "unavailableReason": { "type": "string" }
+      }
+    },
+    "trophies": {
+      "type": "object",
+      "required": ["items", "source", "updatedAt"],
+      "properties": {
+        "items": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name"],
+            "properties": {
+              "name": { "type": "string" },
+              "count": { "type": "integer", "minimum": 0 },
+              "seasons": {
+                "type": "array",
+                "items": { "type": "string" }
+              }
+            }
+          }
+        },
+        "source": { "type": "string" },
+        "updatedAt": { "type": "string", "format": "date" },
+        "unavailableReason": { "type": "string" }
+      }
+    }
+  }
+}

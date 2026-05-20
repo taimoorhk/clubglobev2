@@ -1,0 +1,258 @@
+[
+  {
+    "id": "cv-acad-mica-praia",
+    "name": "Académica Praia",
+    "countryCode": "CV",
+    "country": "Cape Verde",
+    "city": "Académica Praia",
+    "lat": 14.9296624,
+    "lng": -23.438508499999998,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CV-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cv-boavista-praia",
+    "name": "Boavista Praia",
+    "countryCode": "CV",
+    "country": "Cape Verde",
+    "city": "Boavista Praia",
+    "lat": 14.9853979,
+    "lng": -23.550139100000003,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CV-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cv-derby",
+    "name": "Derby",
+    "countryCode": "CV",
+    "country": "Cape Verde",
+    "city": "Derby",
+    "lat": 15.18,
+    "lng": -23.624000000000002,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CV-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cv-mindelense",
+    "name": "Mindelense",
+    "countryCode": "CV",
+    "country": "Cape Verde",
+    "city": "Mindelense",
+    "lat": 15.096,
+    "lng": -23.544,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CV-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/330px-Flag_of_Cape_Verde.svg.png",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cv-onze-unidos",
+    "name": "Onze Unidos",
+    "countryCode": "CV",
+    "country": "Cape Verde",
+    "city": "Onze Unidos",
+    "lat": 15.107999999999999,
+    "lng": -23.532,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CV-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b2/Onze_Unidos_crest.png",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cv-paulense",
+    "name": "Paulense",
+    "countryCode": "CV",
+    "country": "Cape Verde",
+    "city": "Paulense",
+    "lat": 15.072,
+    "lng": -23.568,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CV-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Paulense_Desportivo_Clube_logo.png",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cv-sal-rei",
+    "name": "Sal-Rei",
+    "countryCode": "CV",
+    "country": "Cape Verde",
+    "city": "Sal-Rei",
+    "lat": 16.1679748,
+    "lng": -22.8649771,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CV-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cv-sporting-praia",
+    "name": "Sporting Praia",
+    "countryCode": "CV",
+    "country": "Cape Verde",
+    "city": "Sporting Praia",
+    "lat": 14.9152385,
+    "lng": -23.446580899999997,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CV-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

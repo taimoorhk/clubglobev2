@@ -1,0 +1,62 @@
+{
+  "AS Camberene": {
+    "lat": 14.7710028,
+    "lng": -17.4236972,
+    "countryCode": "SN"
+  },
+  "Dakar": {
+    "lat": 14.7167,
+    "lng": -17.4677,
+    "countryCode": "SN"
+  },
+  "Dakar Sacré Coeur": {
+    "lat": 14.7133759,
+    "lng": -17.4622961,
+    "countryCode": "SN"
+  },
+  "Diambars": {
+    "lat": 14.78353,
+    "lng": -17.3795542,
+    "countryCode": "SN"
+  },
+  "Goree": {
+    "lat": 14.6664099,
+    "lng": -17.398279,
+    "countryCode": "SN"
+  },
+  "HLM": {
+    "lat": 14.7100734,
+    "lng": -17.4441806,
+    "countryCode": "SN"
+  },
+  "Mbour": {
+    "lat": 14.4167,
+    "lng": -16.9667,
+    "countryCode": "SN"
+  },
+  "Niary Tally": {
+    "lat": 14.7069004,
+    "lng": -17.4525544,
+    "countryCode": "SN"
+  },
+  "Pikine": {
+    "lat": 14.7549,
+    "lng": -17.3905,
+    "countryCode": "SN"
+  },
+  "Rufisque": {
+    "lat": 14.7162,
+    "lng": -17.2734,
+    "countryCode": "SN"
+  },
+  "Sonacos": {
+    "lat": 14.6958115,
+    "lng": -17.4315666,
+    "countryCode": "SN"
+  },
+  "Thiès": {
+    "lat": 14.7886,
+    "lng": -16.926,
+    "countryCode": "SN"
+  }
+}

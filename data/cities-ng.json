@@ -1,0 +1,77 @@
+{
+  "Aba": {
+    "lat": 5.1066,
+    "lng": 7.3667,
+    "countryCode": "NG"
+  },
+  "Barau": {
+    "lat": 11.36721,
+    "lng": 8.086791,
+    "countryCode": "NG"
+  },
+  "Bauchi": {
+    "lat": 10.3158,
+    "lng": 9.8442,
+    "countryCode": "NG"
+  },
+  "Bayelsa": {
+    "lat": 4.7629786,
+    "lng": 6.028898,
+    "countryCode": "NG"
+  },
+  "Benin City": {
+    "lat": 6.335,
+    "lng": 5.6037,
+    "countryCode": "NG"
+  },
+  "Enugu": {
+    "lat": 6.4584,
+    "lng": 7.5464,
+    "countryCode": "NG"
+  },
+  "Ibadan": {
+    "lat": 7.3775,
+    "lng": 3.947,
+    "countryCode": "NG"
+  },
+  "Ikorodu": {
+    "lat": 6.6191233,
+    "lng": 3.5041271,
+    "countryCode": "NG"
+  },
+  "Jos": {
+    "lat": 9.8965,
+    "lng": 8.8583,
+    "countryCode": "NG"
+  },
+  "Kano": {
+    "lat": 12.0022,
+    "lng": 8.592,
+    "countryCode": "NG"
+  },
+  "Katsina": {
+    "lat": 12.9908,
+    "lng": 7.6014,
+    "countryCode": "NG"
+  },
+  "Kwara": {
+    "lat": 8.8367891,
+    "lng": 4.6688487,
+    "countryCode": "NG"
+  },
+  "Lafia": {
+    "lat": 8.4939,
+    "lng": 8.5153,
+    "countryCode": "NG"
+  },
+  "Port Harcourt": {
+    "lat": 4.8156,
+    "lng": 7.0498,
+    "countryCode": "NG"
+  },
+  "Rivers": {
+    "lat": 4.8416028,
+    "lng": 6.8604088,
+    "countryCode": "NG"
+  }
+}

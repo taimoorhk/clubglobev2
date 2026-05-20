@@ -1,0 +1,112 @@
+{
+  "Felda": {
+    "lat": 3.9653848,
+    "lng": 103.4284325,
+    "countryCode": "MY"
+  },
+  "Imigresen": {
+    "lat": 1.4627674,
+    "lng": 103.7639655,
+    "countryCode": "MY"
+  },
+  "Johor Darul Ta'zim": {
+    "lat": 2.1548839,
+    "lng": 102.7279725,
+    "countryCode": "MY"
+  },
+  "Johor Darul Ta'zim II": {
+    "lat": 1.3550319,
+    "lng": 103.6273961,
+    "countryCode": "MY"
+  },
+  "Kedah": {
+    "lat": 5.8098265,
+    "lng": 100.6715035,
+    "countryCode": "MY"
+  },
+  "Kelantan": {
+    "lat": 5.4021302,
+    "lng": 102.0635972,
+    "countryCode": "MY"
+  },
+  "Kuala Lumpur": {
+    "lat": 3.139,
+    "lng": 101.6869,
+    "countryCode": "MY"
+  },
+  "Kuching": {
+    "lat": 1.5597561,
+    "lng": 110.345397,
+    "countryCode": "MY"
+  },
+  "Kuching FA": {
+    "lat": 1.5269532,
+    "lng": 110.2338349,
+    "countryCode": "MY"
+  },
+  "Melaka": {
+    "lat": 2.3293744,
+    "lng": 102.2880962,
+    "countryCode": "MY"
+  },
+  "Negeri Sembilan": {
+    "lat": 2.7831895,
+    "lng": 102.1925319,
+    "countryCode": "MY"
+  },
+  "PDRM": {
+    "lat": 3.1753123,
+    "lng": 101.7391702,
+    "countryCode": "MY"
+  },
+  "Pahang": {
+    "lat": 3.6168822,
+    "lng": 102.5994547,
+    "countryCode": "MY"
+  },
+  "Penang": {
+    "lat": 5.4065013,
+    "lng": 100.2559077,
+    "countryCode": "MY"
+  },
+  "Perak": {
+    "lat": 4.812181,
+    "lng": 100.9797908,
+    "countryCode": "MY"
+  },
+  "Sabah": {
+    "lat": 5.4257359,
+    "lng": 117.0326392,
+    "countryCode": "MY"
+  },
+  "Sarawak": {
+    "lat": 2.5023855,
+    "lng": 112.9547283,
+    "countryCode": "MY"
+  },
+  "Selangor": {
+    "lat": 3.2083304,
+    "lng": 101.304146,
+    "countryCode": "MY"
+  },
+  "Selangor II": {
+    "lat": 3.0642428,
+    "lng": 101.4831752,
+    "countryCode": "MY"
+  },
+  "Sri Pahang": {
+    "lat": 3.8480971,
+    "lng": 103.3600332,
+    "countryCode": "MY"
+  },
+  "Terengganu": {
+    "lat": 4.8630743,
+    "lng": 102.9949297,
+    "countryCode": "MY"
+  },
+  "Terengganu II": {
+    "lat": 5.3296461,
+    "lng": 103.1383265,
+    "countryCode": "MY"
+  }
+}

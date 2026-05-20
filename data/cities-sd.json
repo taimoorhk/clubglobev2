@@ -1,0 +1,27 @@
+{
+  "Al Hilal": {
+    "lat": 15.647244,
+    "lng": 32.4750113,
+    "countryCode": "SD"
+  },
+  "Al Merreikh Omdurman": {
+    "lat": 15.6412523,
+    "lng": 32.4715796,
+    "countryCode": "SD"
+  },
+  "Al Merrikh": {
+    "lat": 15.6412523,
+    "lng": 32.4715796,
+    "countryCode": "SD"
+  },
+  "Al-Hilal Omdurman": {
+    "lat": 15.647244,
+    "lng": 32.4750113,
+    "countryCode": "SD"
+  },
+  "Hay Al Arab": {
+    "lat": 15.6514034,
+    "lng": 32.4782313,
+    "countryCode": "SD"
+  }
+}

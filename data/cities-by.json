@@ -1,0 +1,42 @@
+{
+  "Minsk": {
+    "lat": 53.9006,
+    "lng": 27.559,
+    "countryCode": "BY"
+  },
+  "Borisov": {
+    "lat": 54.2279,
+    "lng": 28.505,
+    "countryCode": "BY"
+  },
+  "Brest": {
+    "lat": 52.0976,
+    "lng": 23.7341,
+    "countryCode": "BY"
+  },
+  "Gomel": {
+    "lat": 52.4313,
+    "lng": 30.9937,
+    "countryCode": "BY"
+  },
+  "Grodno": {
+    "lat": 53.6694,
+    "lng": 23.8131,
+    "countryCode": "BY"
+  },
+  "Soligorsk": {
+    "lat": 52.7876,
+    "lng": 27.5415,
+    "countryCode": "BY"
+  },
+  "Vitebsk": {
+    "lat": 55.1848,
+    "lng": 30.2016,
+    "countryCode": "BY"
+  },
+  "Mogilev": {
+    "lat": 53.8981,
+    "lng": 30.3325,
+    "countryCode": "BY"
+  }
+}

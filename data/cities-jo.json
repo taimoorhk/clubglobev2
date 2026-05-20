@@ -1,0 +1,57 @@
+{
+  "Al Ahli": {
+    "lat": 31.9615736,
+    "lng": 35.8983459,
+    "countryCode": "JO"
+  },
+  "Al Baqaa": {
+    "lat": 30.477208,
+    "lng": 35.520716,
+    "countryCode": "JO"
+  },
+  "Al Hussein": {
+    "lat": 29.6099965,
+    "lng": 35.018937,
+    "countryCode": "JO"
+  },
+  "Al Jalil": {
+    "lat": 32.3102317,
+    "lng": 35.0292605,
+    "countryCode": "JO"
+  },
+  "Al Jazeera": {
+    "lat": 32.7053752,
+    "lng": 35.6784672,
+    "countryCode": "JO"
+  },
+  "Al Ramtha": {
+    "lat": 32.559167,
+    "lng": 36.006944,
+    "countryCode": "JO"
+  },
+  "Al Salt": {
+    "lat": 32.0390779,
+    "lng": 35.7269843,
+    "countryCode": "JO"
+  },
+  "Al Sareeh": {
+    "lat": 32.0790974,
+    "lng": 35.8888486,
+    "countryCode": "JO"
+  },
+  "Al Wehdat": {
+    "lat": 31.9303618,
+    "lng": 35.9385753,
+    "countryCode": "JO"
+  },
+  "Maan": {
+    "lat": 30.2,
+    "lng": 35.7333329,
+    "countryCode": "JO"
+  },
+  "Sahab": {
+    "lat": 31.8786659,
+    "lng": 36.0043148,
+    "countryCode": "JO"
+  }
+}

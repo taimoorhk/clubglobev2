@@ -1,0 +1,258 @@
+[
+  {
+    "id": "st-6-de-setembro",
+    "name": "6 de Setembro",
+    "countryCode": "ST",
+    "country": "São Tomé and Príncipe",
+    "city": "6 de Setembro",
+    "lat": 1.7000865,
+    "lng": 7.376119900000001,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-ST-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "st-agro-sport",
+    "name": "Agro-Sport",
+    "countryCode": "ST",
+    "country": "São Tomé and Príncipe",
+    "city": "Agro-Sport",
+    "lat": 0.308,
+    "lng": 6.667999999999999,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-ST-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "st-folha-verde",
+    "name": "Folha Verde",
+    "countryCode": "ST",
+    "country": "São Tomé and Príncipe",
+    "city": "Folha Verde",
+    "lat": 0.316,
+    "lng": 6.675999999999999,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-ST-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "st-guadalupe",
+    "name": "Guadalupe",
+    "countryCode": "ST",
+    "country": "São Tomé and Príncipe",
+    "city": "Guadalupe",
+    "lat": 0.3657242,
+    "lng": 6.6790214,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-ST-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "st-neves",
+    "name": "Neves",
+    "countryCode": "ST",
+    "country": "São Tomé and Príncipe",
+    "city": "Neves",
+    "lat": 0.2929712,
+    "lng": 6.5768467,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-ST-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "st-santana",
+    "name": "Santana",
+    "countryCode": "ST",
+    "country": "São Tomé and Príncipe",
+    "city": "Santana",
+    "lat": 0.1821893,
+    "lng": 6.687098600000001,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-ST-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "st-sporting-praia-cruz",
+    "name": "Sporting Praia Cruz",
+    "countryCode": "ST",
+    "country": "São Tomé and Príncipe",
+    "city": "Sporting Praia Cruz",
+    "lat": 0.36,
+    "lng": 6.556,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-ST-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "st-udra",
+    "name": "UDRA",
+    "countryCode": "ST",
+    "country": "São Tomé and Príncipe",
+    "city": "UDRA",
+    "lat": 0.324,
+    "lng": 6.52,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-ST-t1",
+    "leagueName": "Campeonato Nacional",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

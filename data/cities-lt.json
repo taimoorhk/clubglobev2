@@ -1,0 +1,42 @@
+{
+  "Vilnius": {
+    "lat": 54.6872,
+    "lng": 25.2797,
+    "countryCode": "LT"
+  },
+  "Kaunas": {
+    "lat": 54.8985,
+    "lng": 23.9036,
+    "countryCode": "LT"
+  },
+  "Panevezys": {
+    "lat": 55.7348,
+    "lng": 24.3575,
+    "countryCode": "LT"
+  },
+  "Marijampole": {
+    "lat": 54.5599,
+    "lng": 23.3541,
+    "countryCode": "LT"
+  },
+  "Siauliai": {
+    "lat": 55.9349,
+    "lng": 23.3137,
+    "countryCode": "LT"
+  },
+  "Klaipeda": {
+    "lat": 55.7033,
+    "lng": 21.1443,
+    "countryCode": "LT"
+  },
+  "Gargzdai": {
+    "lat": 55.7128,
+    "lng": 21.3947,
+    "countryCode": "LT"
+  },
+  "Alytus": {
+    "lat": 54.3964,
+    "lng": 24.0414,
+    "countryCode": "LT"
+  }
+}

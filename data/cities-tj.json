@@ -1,0 +1,52 @@
+{
+  "Eskhata": {
+    "lat": 38.5932026,
+    "lng": 68.7870433,
+    "countryCode": "TJ"
+  },
+  "Istaravshan": {
+    "lat": 39.9080152,
+    "lng": 68.9956351,
+    "countryCode": "TJ"
+  },
+  "Istiklol": {
+    "lat": 40.5662018,
+    "lng": 69.6415178,
+    "countryCode": "TJ"
+  },
+  "Khatlon": {
+    "lat": 37.8804734,
+    "lng": 69.2636923,
+    "countryCode": "TJ"
+  },
+  "Khosilot": {
+    "lat": 37.7916465,
+    "lng": 68.6799304,
+    "countryCode": "TJ"
+  },
+  "Khujand": {
+    "lat": 40.2844189,
+    "lng": 69.6191669,
+    "countryCode": "TJ"
+  },
+  "Ravshan": {
+    "lat": 38.5138827,
+    "lng": 68.7434426,
+    "countryCode": "TJ"
+  },
+  "Sitora": {
+    "lat": 38.5800516,
+    "lng": 68.7398555,
+    "countryCode": "TJ"
+  },
+  "Vakhsh": {
+    "lat": 38.4398576,
+    "lng": 69.5561653,
+    "countryCode": "TJ"
+  },
+  "Zarafshon": {
+    "lat": 39.1842309,
+    "lng": 68.5352514,
+    "countryCode": "TJ"
+  }
+}

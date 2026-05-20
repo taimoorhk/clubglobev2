@@ -1,0 +1,27 @@
+{
+  "AS Kaloum": {
+    "lat": 9.5149641,
+    "lng": -13.7084413,
+    "countryCode": "GN"
+  },
+  "CI Kamsar": {
+    "lat": 10.6643896,
+    "lng": -14.5833317,
+    "countryCode": "GN"
+  },
+  "Hafia": {
+    "lat": 11.2181723,
+    "lng": -12.3926913,
+    "countryCode": "GN"
+  },
+  "Horoya": {
+    "lat": 7.771924,
+    "lng": -8.8105052,
+    "countryCode": "GN"
+  },
+  "Renaissance": {
+    "lat": 11.3150683,
+    "lng": -12.3066767,
+    "countryCode": "GN"
+  }
+}

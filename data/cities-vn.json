@@ -1,0 +1,152 @@
+{
+  "An Giang": {
+    "lat": 10.3188672,
+    "lng": 105.0432488,
+    "countryCode": "VN"
+  },
+  "Ba Ria Vung Tau": {
+    "lat": 10.3668459,
+    "lng": 107.0843152,
+    "countryCode": "VN"
+  },
+  "Becamex Binh Duong": {
+    "lat": 11.0856134,
+    "lng": 106.6716704,
+    "countryCode": "VN"
+  },
+  "Binh Dinh": {
+    "lat": 14.1086959,
+    "lng": 109.1145897,
+    "countryCode": "VN"
+  },
+  "Binh Phuoc": {
+    "lat": 11.8000378,
+    "lng": 106.9151381,
+    "countryCode": "VN"
+  },
+  "Can Tho": {
+    "lat": 10.0362046,
+    "lng": 105.7872656,
+    "countryCode": "VN"
+  },
+  "Cong An Ha Noi": {
+    "lat": 21.0474978,
+    "lng": 105.8071263,
+    "countryCode": "VN"
+  },
+  "Dong Nai": {
+    "lat": 10.9182878,
+    "lng": 106.8481538,
+    "countryCode": "VN"
+  },
+  "Dong Thap": {
+    "lat": 10.425183,
+    "lng": 105.9271362,
+    "countryCode": "VN"
+  },
+  "Hai Phong II": {
+    "lat": 20.7742599,
+    "lng": 106.5124864,
+    "countryCode": "VN"
+  },
+  "Haiphong": {
+    "lat": 20.8623278,
+    "lng": 106.6799266,
+    "countryCode": "VN"
+  },
+  "Hanoi": {
+    "lat": 21.0278,
+    "lng": 105.8342,
+    "countryCode": "VN"
+  },
+  "Ho Chi Minh": {
+    "lat": 10.7737261,
+    "lng": 106.7166008,
+    "countryCode": "VN"
+  },
+  "Hoang Anh Gia Lai": {
+    "lat": 13.9724101,
+    "lng": 108.0146684,
+    "countryCode": "VN"
+  },
+  "Hong Linh Ha Tinh": {
+    "lat": 18.5339385,
+    "lng": 105.7118457,
+    "countryCode": "VN"
+  },
+  "Khanh Hoa": {
+    "lat": 12.2980751,
+    "lng": 108.9950386,
+    "countryCode": "VN"
+  },
+  "Long An": {
+    "lat": 10.480828,
+    "lng": 107.2008562,
+    "countryCode": "VN"
+  },
+  "Nam Dinh": {
+    "lat": 19.9952624,
+    "lng": 106.485807,
+    "countryCode": "VN"
+  },
+  "Pho Hien": {
+    "lat": 10.7641797,
+    "lng": 106.6873551,
+    "countryCode": "VN"
+  },
+  "Quang Nam": {
+    "lat": 11.9537073,
+    "lng": 108.4306103,
+    "countryCode": "VN"
+  },
+  "Quang Ninh": {
+    "lat": 21.1718046,
+    "lng": 107.2012742,
+    "countryCode": "VN"
+  },
+  "SHB Da Nang": {
+    "lat": 16.0611313,
+    "lng": 108.2193977,
+    "countryCode": "VN"
+  },
+  "Song Lam Nghe An": {
+    "lat": 18.6808732,
+    "lng": 105.6078737,
+    "countryCode": "VN"
+  },
+  "Tay Ninh": {
+    "lat": 11.0800527,
+    "lng": 106.2610531,
+    "countryCode": "VN"
+  },
+  "Thanh Hoa": {
+    "lat": 19.9781573,
+    "lng": 105.4816107,
+    "countryCode": "VN"
+  },
+  "Thanh Hoa II": {
+    "lat": 11.710452,
+    "lng": 106.5884926,
+    "countryCode": "VN"
+  },
+  "The Cong": {
+    "lat": 21.4026404,
+    "lng": 106.2794068,
+    "countryCode": "VN"
+  },
+  "Viettel": {
+    "lat": 21.0296792,
+    "lng": 105.8417547,
+    "countryCode": "VN"
+  },
+  "Viettel II": {
+    "lat": 20.9864003,
+    "lng": 105.5224618,
+    "countryCode": "VN"
+  },
+  "Xuan Thanh": {
+    "lat": 11.9461636,
+    "lng": 108.5061963,
+    "countryCode": "VN"
+  }
+}

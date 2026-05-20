@@ -1,0 +1,187 @@
+{
+  "Amiens": {
+    "lat": 49.8941708,
+    "lng": 2.2956951,
+    "countryCode": "FR"
+  },
+  "Angers": {
+    "lat": 47.4739884,
+    "lng": -0.5515588,
+    "countryCode": "FR"
+  },
+  "Annecy": {
+    "lat": 45.8992348,
+    "lng": 6.1288847,
+    "countryCode": "FR"
+  },
+  "Auxerre": {
+    "lat": 47.7961287,
+    "lng": 3.570579,
+    "countryCode": "FR"
+  },
+  "Bastia": {
+    "lat": 42.6974612,
+    "lng": 9.4497707,
+    "countryCode": "FR"
+  },
+  "Boulogne": {
+    "lat": 46.7947224,
+    "lng": -1.3210389,
+    "countryCode": "FR"
+  },
+  "Brest": {
+    "lat": 48.3905283,
+    "lng": -4.4860088,
+    "countryCode": "FR"
+  },
+  "Clermont Foot": {
+    "lat": 45.8032399,
+    "lng": 3.130394,
+    "countryCode": "FR"
+  },
+  "Dunkerque": {
+    "lat": 51.0347708,
+    "lng": 2.3772525,
+    "countryCode": "FR"
+  },
+  "Grenoble": {
+    "lat": 45.1875602,
+    "lng": 5.7357819,
+    "countryCode": "FR"
+  },
+  "Guingamp": {
+    "lat": 48.5618483,
+    "lng": -3.1502007,
+    "countryCode": "FR"
+  },
+  "Laval": {
+    "lat": 48.0706687,
+    "lng": -0.7734022,
+    "countryCode": "FR"
+  },
+  "Le Havre": {
+    "lat": 49.4938975,
+    "lng": 0.1079732,
+    "countryCode": "FR"
+  },
+  "Le Mans": {
+    "lat": 48.0073849,
+    "lng": 0.1967849,
+    "countryCode": "FR"
+  },
+  "Lens": {
+    "lat": 50.4291723,
+    "lng": 2.8319805,
+    "countryCode": "FR"
+  },
+  "Lille": {
+    "lat": 50.6365654,
+    "lng": 3.0635282,
+    "countryCode": "FR"
+  },
+  "Lorient": {
+    "lat": 47.7477336,
+    "lng": -3.3660907,
+    "countryCode": "FR"
+  },
+  "Lyon": {
+    "lat": 45.764,
+    "lng": 4.8357,
+    "countryCode": "FR"
+  },
+  "Marseille": {
+    "lat": 43.2965,
+    "lng": 5.3698,
+    "countryCode": "FR"
+  },
+  "Metz": {
+    "lat": 49.1196964,
+    "lng": 6.1763552,
+    "countryCode": "FR"
+  },
+  "Monaco": {
+    "lat": 42.2803146,
+    "lng": 9.4304477,
+    "countryCode": "FR"
+  },
+  "Montpellier": {
+    "lat": 43.6112422,
+    "lng": 3.8767337,
+    "countryCode": "FR"
+  },
+  "Nancy": {
+    "lat": 48.6937223,
+    "lng": 6.1834097,
+    "countryCode": "FR"
+  },
+  "Nantes": {
+    "lat": 47.2186371,
+    "lng": -1.5541362,
+    "countryCode": "FR"
+  },
+  "Nice": {
+    "lat": 43.7009358,
+    "lng": 7.2683912,
+    "countryCode": "FR"
+  },
+  "Paris": {
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "countryCode": "FR"
+  },
+  "Pau": {
+    "lat": 43.2957547,
+    "lng": -0.3685668,
+    "countryCode": "FR"
+  },
+  "Petrzalka 1898": {
+    "lat": 48.0941286,
+    "lng": 17.1177808,
+    "countryCode": "FR"
+  },
+  "Red Star": {
+    "lat": 45.8411424,
+    "lng": 1.2489383,
+    "countryCode": "FR"
+  },
+  "Reims": {
+    "lat": 49.2577886,
+    "lng": 4.031926,
+    "countryCode": "FR"
+  },
+  "Rennes": {
+    "lat": 48.1113387,
+    "lng": -1.6800198,
+    "countryCode": "FR"
+  },
+  "Rodez": {
+    "lat": 44.3511408,
+    "lng": 2.5728493,
+    "countryCode": "FR"
+  },
+  "Saint-Etienne": {
+    "lat": 45.4401467,
+    "lng": 4.3873058,
+    "countryCode": "FR"
+  },
+  "Strasbourg": {
+    "lat": 48.584614,
+    "lng": 7.7507127,
+    "countryCode": "FR"
+  },
+  "Toulouse": {
+    "lat": 43.6044638,
+    "lng": 1.4442433,
+    "countryCode": "FR"
+  },
+  "Troyes": {
+    "lat": 48.2971626,
+    "lng": 4.0746257,
+    "countryCode": "FR"
+  },
+  "Zilina B": {
+    "lat": 48.8967771,
+    "lng": 2.1921667,
+    "countryCode": "FR"
+  }
+}

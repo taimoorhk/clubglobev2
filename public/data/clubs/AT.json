@@ -1,0 +1,1954 @@
+[
+  {
+    "id": "at-admira-wacker",
+    "name": "Admira Wacker",
+    "countryCode": "AT",
+    "country": "Austria",
+    "city": "Admira Wacker",
+    "lat": 48.128,
+    "lng": 16.387999999999998,
+    "divisionTier": 1,
+    "leagueId": "119",
+    "leagueName": "2. Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10053.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 4,
+      "losses": 2,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "Floridsdorfer AC",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "FC Liefering",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "SKN St. Pölten",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T08:30:00Z",
+          "opponent": "Sturm Graz II",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:30:00Z",
+          "opponent": "First Vienna FC",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T12:30:00Z",
+          "opponent": "Austria Salzburg",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T16:00:00Z",
+          "opponent": "SV Stripfing",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-04-03T18:30:00Z",
+          "opponent": "Austria Lustenau",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T17:00:00Z",
+          "opponent": "Rapid Wien II",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T17:00:00Z",
+          "opponent": "SW Bregenz",
+          "homeAway": "away",
+          "score": "1 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "at-austria-lustenau",
+    "name": "Austria Lustenau",
+    "countryCode": "AT",
+    "country": "Austria",
+    "city": "Austria Lustenau",
+    "lat": 47.4114854,
+    "lng": 9.697805099999998,
+    "divisionTier": 1,
+    "leagueId": "119",
+    "leagueName": "2. Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9982.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 2,
+      "losses": 2,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "SKU Amstetten",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "Austria Salzburg",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T08:30:00Z",
+          "opponent": "SW Bregenz",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T16:00:00Z",
+          "opponent": "SK Austria Klagenfurt",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T16:00:00Z",
+          "opponent": "Rapid Wien II",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:30:00Z",
+          "opponent": "SKN St. Pölten",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T12:00:00Z",
+          "opponent": "Austria Wien II",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T18:30:00Z",
+          "opponent": "Admira Wacker",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:30:00Z",
+          "opponent": "Floridsdorfer AC",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:30:00Z",
+          "opponent": "Sturm Graz II",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "at-austria-salzburg",
+    "name": "Austria Salzburg",
+    "countryCode": "AT",
+    "country": "Austria",
+    "city": "Austria Salzburg",
+    "lat": 47.8362489,
+    "lng": 12.9636622,
+    "divisionTier": 1,
+    "leagueId": "119",
+    "leagueName": "2. Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/206091.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 5,
+      "losses": 1,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-14T16:00:00Z",
+          "opponent": "SV Stripfing",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "Austria Lustenau",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T12:30:00Z",
+          "opponent": "Sturm Graz II",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T12:30:00Z",
+          "opponent": "Kapfenberger SV",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:30:00Z",
+          "opponent": "Austria Wien II",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T12:30:00Z",
+          "opponent": "Admira Wacker",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T12:00:00Z",
+          "opponent": "SPG HOGO Wels",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T16:00:00Z",
+          "opponent": "SW Bregenz",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T17:00:00Z",
+          "opponent": "SKN St. Pölten",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:30:00Z",
+          "opponent": "FC Liefering",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "at-austria-wien-ii",
+    "name": "Austria Wien II",
+    "countryCode": "AT",
+    "country": "Austria",
+    "city": "Austria Wien II",
+    "lat": 48.320038999999994,
+    "lng": 16.353842,
+    "divisionTier": 1,
+    "leagueId": "119",
+    "leagueName": "2. Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10248.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 3,
+      "losses": 4,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "Kapfenberger SV",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "SW Bregenz",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T12:30:00Z",
+          "opponent": "Floridsdorfer AC",
+          "homeAway": "home",
+          "score": "0 - 5",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T16:00:00Z",
+          "opponent": "FC Liefering",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:30:00Z",
+          "opponent": "Austria Salzburg",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T16:00:00Z",
+          "opponent": "SV Stripfing",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-04-06T12:00:00Z",
+          "opponent": "Austria Lustenau",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T16:00:00Z",
+          "opponent": "SKU Amstetten",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:30:00Z",
+          "opponent": "Sturm Graz II",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T09:30:00Z",
+          "opponent": "First Vienna FC",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "at-fc-liefering",
+    "name": "FC Liefering",
+    "countryCode": "AT",
+    "country": "Austria",
+    "city": "FC Liefering",
+    "lat": 47.8780568,
+    "lng": 12.9572544,
+    "divisionTier": 1,
+    "leagueId": "119",
+    "leagueName": "2. Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1915.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 1,
+      "losses": 3,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "SK Austria Klagenfurt",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "Admira Wacker",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T12:30:00Z",
+          "opponent": "Kapfenberger SV",
+          "homeAway": "away",
+          "score": "1 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T16:00:00Z",
+          "opponent": "Austria Wien II",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T08:30:00Z",
+          "opponent": "SKN St. Pölten",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T12:30:00Z",
+          "opponent": "Floridsdorfer AC",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T12:00:00Z",
+          "opponent": "SKU Amstetten",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T16:00:00Z",
+          "opponent": "SV Stripfing",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-03-20T17:00:00Z",
+          "opponent": "SPG HOGO Wels",
+          "homeAway": "home",
+          "score": "2 - 5",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T19:30:00Z",
+          "opponent": "Austria Salzburg",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "at-first-vienna-fc",
+    "name": "First Vienna FC",
+    "countryCode": "AT",
+    "country": "Austria",
+    "city": "First Vienna",
+    "lat": 48.194151,
+    "lng": 16.3831753,
+    "divisionTier": 1,
+    "leagueId": "119",
+    "leagueName": "2. Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2030.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 2,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "SW Bregenz",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "Rapid Wien II",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T12:30:00Z",
+          "opponent": "SPG HOGO Wels",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T16:00:00Z",
+          "opponent": "SKU Amstetten",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T18:30:00Z",
+          "opponent": "Admira Wacker",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T08:30:00Z",
+          "opponent": "Sturm Graz II",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T14:00:00Z",
+          "opponent": "Floridsdorfer AC",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T16:00:00Z",
+          "opponent": "Kapfenberger SV",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T17:00:00Z",
+          "opponent": "SK Austria Klagenfurt",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T09:30:00Z",
+          "opponent": "Austria Wien II",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "at-floridsdorfer-ac",
+    "name": "Floridsdorfer AC",
+    "countryCode": "AT",
+    "country": "Austria",
+    "city": "Floridsdorfer",
+    "lat": 48.2934449,
+    "lng": 16.329581700000002,
+    "divisionTier": 1,
+    "leagueId": "119",
+    "leagueName": "2. Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8274.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 1,
+      "losses": 4,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "Admira Wacker",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "SV Stripfing",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-05-02T12:30:00Z",
+          "opponent": "Austria Wien II",
+          "homeAway": "away",
+          "score": "0 - 5",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:30:00Z",
+          "opponent": "SKN St. Pölten",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T16:00:00Z",
+          "opponent": "SKU Amstetten",
+          "homeAway": "home",
+          "score": "5 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T12:30:00Z",
+          "opponent": "FC Liefering",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T14:00:00Z",
+          "opponent": "First Vienna FC",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T16:00:00Z",
+          "opponent": "Rapid Wien II",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T19:30:00Z",
+          "opponent": "Austria Lustenau",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T17:00:00Z",
+          "opponent": "SK Austria Klagenfurt",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "at-kapfenberger-sv",
+    "name": "Kapfenberger SV",
+    "countryCode": "AT",
+    "country": "Austria",
+    "city": "Kapfenberger",
+    "lat": 47.608737999999995,
+    "lng": 16.0783032,
+    "divisionTier": 1,
+    "leagueId": "119",
+    "leagueName": "2. Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9979.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 1,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "Austria Wien II",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "SKN St. Pölten",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T12:30:00Z",
+          "opponent": "FC Liefering",
+          "homeAway": "home",
+          "score": "1 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T12:30:00Z",
+          "opponent": "Austria Salzburg",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T16:00:00Z",
+          "opponent": "SW Bregenz",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T16:00:00Z",
+          "opponent": "SK Austria Klagenfurt",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T12:00:00Z",
+          "opponent": "Rapid Wien II",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T16:00:00Z",
+          "opponent": "First Vienna FC",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T09:30:00Z",
+          "opponent": "SKU Amstetten",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T17:00:00Z",
+          "opponent": "SPG HOGO Wels",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "at-rapid-wien-ii",
+    "name": "Rapid Wien II",
+    "countryCode": "AT",
+    "country": "Austria",
+    "city": "Rapid Wien II",
+    "lat": 48.120000000000005,
+    "lng": 16.38,
+    "divisionTier": 1,
+    "leagueId": "119",
+    "leagueName": "2. Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1952.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 0,
+      "losses": 4,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "Sturm Graz II",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "First Vienna FC",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T08:30:00Z",
+          "opponent": "SK Austria Klagenfurt",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T16:00:00Z",
+          "opponent": "SV Stripfing",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-04-17T16:00:00Z",
+          "opponent": "Austria Lustenau",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T16:00:00Z",
+          "opponent": "SPG HOGO Wels",
+          "homeAway": "home",
+          "score": "1 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T12:00:00Z",
+          "opponent": "Kapfenberger SV",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T16:00:00Z",
+          "opponent": "Floridsdorfer AC",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T17:00:00Z",
+          "opponent": "Admira Wacker",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T17:00:00Z",
+          "opponent": "SKU Amstetten",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "at-sk-austria-klagenfurt",
+    "name": "SK Austria Klagenfurt",
+    "countryCode": "AT",
+    "country": "Austria",
+    "city": "SK Austria Klagenfurt",
+    "lat": 48.136,
+    "lng": 16.395999999999997,
+    "divisionTier": 1,
+    "leagueId": "119",
+    "leagueName": "2. Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10009.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 1,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "FC Liefering",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "SKU Amstetten",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T08:30:00Z",
+          "opponent": "Rapid Wien II",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T16:00:00Z",
+          "opponent": "Austria Lustenau",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T12:30:00Z",
+          "opponent": "Sturm Graz II",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T16:00:00Z",
+          "opponent": "Kapfenberger SV",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T15:00:00Z",
+          "opponent": "SKN St. Pölten",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T16:00:00Z",
+          "opponent": "SPG HOGO Wels",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T17:00:00Z",
+          "opponent": "First Vienna FC",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T17:00:00Z",
+          "opponent": "Floridsdorfer AC",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "at-skn-st-p-lten",
+    "name": "SKN St. Pölten",
+    "countryCode": "AT",
+    "country": "Austria",
+    "city": "SKN St. Pölten",
+    "lat": 48.2209631,
+    "lng": 15.7125319,
+    "divisionTier": 1,
+    "leagueId": "119",
+    "leagueName": "2. Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1907.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 3,
+      "losses": 1,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "SPG HOGO Wels",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "Kapfenberger SV",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T18:00:00Z",
+          "opponent": "Admira Wacker",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T18:30:00Z",
+          "opponent": "Floridsdorfer AC",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T08:30:00Z",
+          "opponent": "FC Liefering",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T18:30:00Z",
+          "opponent": "Austria Lustenau",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T15:00:00Z",
+          "opponent": "SK Austria Klagenfurt",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T16:00:00Z",
+          "opponent": "Sturm Graz II",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T17:00:00Z",
+          "opponent": "Austria Salzburg",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T17:00:00Z",
+          "opponent": "SV Stripfing",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "at-sku-amstetten",
+    "name": "SKU Amstetten",
+    "countryCode": "AT",
+    "country": "Austria",
+    "city": "SKU Amstetten",
+    "lat": 48.190178800000005,
+    "lng": 14.9171689,
+    "divisionTier": 1,
+    "leagueId": "119",
+    "leagueName": "2. Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8326.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 3,
+      "losses": 4,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "Austria Lustenau",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "SK Austria Klagenfurt",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T16:00:00Z",
+          "opponent": "SV Stripfing",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-04-24T16:00:00Z",
+          "opponent": "First Vienna FC",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T16:00:00Z",
+          "opponent": "Floridsdorfer AC",
+          "homeAway": "away",
+          "score": "5 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T16:00:00Z",
+          "opponent": "SW Bregenz",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T12:00:00Z",
+          "opponent": "FC Liefering",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T16:00:00Z",
+          "opponent": "Austria Wien II",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T09:30:00Z",
+          "opponent": "Kapfenberger SV",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T17:00:00Z",
+          "opponent": "Rapid Wien II",
+          "homeAway": "away",
+          "score": "4 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "at-spg-hogo-wels",
+    "name": "SPG HOGO Wels",
+    "countryCode": "AT",
+    "country": "Austria",
+    "city": "SPG HOGO Wels",
+    "lat": 48.28,
+    "lng": 16.375999999999998,
+    "divisionTier": 1,
+    "leagueId": "119",
+    "leagueName": "2. Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/946908.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 1,
+      "losses": 3,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "SKN St. Pölten",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "Sturm Graz II",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T12:30:00Z",
+          "opponent": "First Vienna FC",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T16:00:00Z",
+          "opponent": "SW Bregenz",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T16:00:00Z",
+          "opponent": "SV Stripfing",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-04-10T16:00:00Z",
+          "opponent": "Rapid Wien II",
+          "homeAway": "away",
+          "score": "1 - 4",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T12:00:00Z",
+          "opponent": "Austria Salzburg",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T16:00:00Z",
+          "opponent": "SK Austria Klagenfurt",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T17:00:00Z",
+          "opponent": "FC Liefering",
+          "homeAway": "away",
+          "score": "2 - 5",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T17:00:00Z",
+          "opponent": "Kapfenberger SV",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "at-sturm-graz-ii",
+    "name": "Sturm Graz II",
+    "countryCode": "AT",
+    "country": "Austria",
+    "city": "Sturm Graz II",
+    "lat": 47.0540383,
+    "lng": 15.4107697,
+    "divisionTier": 1,
+    "leagueId": "119",
+    "leagueName": "2. Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1921.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 1,
+      "losses": 7,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "Rapid Wien II",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "SPG HOGO Wels",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T12:30:00Z",
+          "opponent": "Austria Salzburg",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T08:30:00Z",
+          "opponent": "Admira Wacker",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T12:30:00Z",
+          "opponent": "SK Austria Klagenfurt",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T08:30:00Z",
+          "opponent": "First Vienna FC",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T15:00:00Z",
+          "opponent": "SW Bregenz",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T16:00:00Z",
+          "opponent": "SKN St. Pölten",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:30:00Z",
+          "opponent": "Austria Wien II",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:30:00Z",
+          "opponent": "Austria Lustenau",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "at-sv-stripfing",
+    "name": "SV Stripfing",
+    "countryCode": "AT",
+    "country": "Austria",
+    "city": "SV Stripfing",
+    "lat": 48.224000000000004,
+    "lng": 16.32,
+    "divisionTier": 1,
+    "leagueId": "119",
+    "leagueName": "2. Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/611179.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 10,
+      "matches": [
+        {
+          "date": "2026-05-14T16:00:00Z",
+          "opponent": "Austria Salzburg",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "Floridsdorfer AC",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-05-01T16:00:00Z",
+          "opponent": "SKU Amstetten",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-04-24T16:00:00Z",
+          "opponent": "Rapid Wien II",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-04-17T16:00:00Z",
+          "opponent": "SPG HOGO Wels",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-04-10T16:00:00Z",
+          "opponent": "Austria Wien II",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-04-06T16:00:00Z",
+          "opponent": "Admira Wacker",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-04-03T16:00:00Z",
+          "opponent": "FC Liefering",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-03-20T17:00:00Z",
+          "opponent": "SW Bregenz",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-03-13T17:00:00Z",
+          "opponent": "SKN St. Pölten",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "at-sw-bregenz",
+    "name": "SW Bregenz",
+    "countryCode": "AT",
+    "country": "Austria",
+    "city": "SW Bregenz",
+    "lat": 47.297593,
+    "lng": 10.203158,
+    "divisionTier": 1,
+    "leagueId": "119",
+    "leagueName": "2. Liga",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/80619.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 2,
+      "losses": 6,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-14T15:00:00Z",
+          "opponent": "First Vienna FC",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T16:00:00Z",
+          "opponent": "Austria Wien II",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T08:30:00Z",
+          "opponent": "Austria Lustenau",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T16:00:00Z",
+          "opponent": "SPG HOGO Wels",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T16:00:00Z",
+          "opponent": "Kapfenberger SV",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T16:00:00Z",
+          "opponent": "SKU Amstetten",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T15:00:00Z",
+          "opponent": "Sturm Graz II",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-03T16:00:00Z",
+          "opponent": "Austria Salzburg",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-20T17:00:00Z",
+          "opponent": "SV Stripfing",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-03-13T17:00:00Z",
+          "opponent": "Admira Wacker",
+          "homeAway": "home",
+          "score": "1 - 4",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

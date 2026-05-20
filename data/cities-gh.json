@@ -1,0 +1,62 @@
+{
+  "Accra": {
+    "lat": 5.6037,
+    "lng": -0.187,
+    "countryCode": "GH"
+  },
+  "Asante Kotoko": {
+    "lat": 6.7178744,
+    "lng": -1.6473675,
+    "countryCode": "GH"
+  },
+  "Bechem": {
+    "lat": 7.08778,
+    "lng": -2.0246,
+    "countryCode": "GH"
+  },
+  "Berekum": {
+    "lat": 7.4534,
+    "lng": -2.584,
+    "countryCode": "GH"
+  },
+  "Bibiani": {
+    "lat": 6.4634,
+    "lng": -2.3194,
+    "countryCode": "GH"
+  },
+  "Dreams": {
+    "lat": 5.5586431,
+    "lng": -0.1870933,
+    "countryCode": "GH"
+  },
+  "Hohoe": {
+    "lat": 7.153187,
+    "lng": 0.477735,
+    "countryCode": "GH"
+  },
+  "Karela": {
+    "lat": 10.9377456,
+    "lng": -1.0919037,
+    "countryCode": "GH"
+  },
+  "Nations": {
+    "lat": 6.094936,
+    "lng": -0.2558639,
+    "countryCode": "GH"
+  },
+  "Samartex": {
+    "lat": 5.6123622,
+    "lng": -2.5655184,
+    "countryCode": "GH"
+  },
+  "Tema": {
+    "lat": 5.6698,
+    "lng": -0.0167,
+    "countryCode": "GH"
+  },
+  "Vision": {
+    "lat": 9.6993106,
+    "lng": 0.3228482,
+    "countryCode": "GH"
+  }
+}

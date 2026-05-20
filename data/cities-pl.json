@@ -1,0 +1,232 @@
+{
+  "Arka Gdynia": {
+    "lat": 54.528591,
+    "lng": 18.502483,
+    "countryCode": "PL"
+  },
+  "Chrobry Głogów": {
+    "lat": 51.6567651,
+    "lng": 16.098432,
+    "countryCode": "PL"
+  },
+  "Cracovia": {
+    "lat": 50.0619474,
+    "lng": 19.9368564,
+    "countryCode": "PL"
+  },
+  "GKS Katowice": {
+    "lat": 50.2516421,
+    "lng": 18.9737842,
+    "countryCode": "PL"
+  },
+  "GKS Tychy": {
+    "lat": 50.1239968,
+    "lng": 18.9895882,
+    "countryCode": "PL"
+  },
+  "Górnik Zabrze": {
+    "lat": 50.2969934,
+    "lng": 18.7680051,
+    "countryCode": "PL"
+  },
+  "Górnik Łęczna": {
+    "lat": 51.3009076,
+    "lng": 22.8756416,
+    "countryCode": "PL"
+  },
+  "Jagiellonia Białystok": {
+    "lat": 53.1398608,
+    "lng": 23.1593289,
+    "countryCode": "PL"
+  },
+  "Korona Kielce": {
+    "lat": 50.8619812,
+    "lng": 20.6244706,
+    "countryCode": "PL"
+  },
+  "Lech Poznań": {
+    "lat": 52.3970048,
+    "lng": 16.8588798,
+    "countryCode": "PL"
+  },
+  "Lechia Gdańsk": {
+    "lat": 54.3906621,
+    "lng": 18.6396096,
+    "countryCode": "PL"
+  },
+  "Legia Warszawa": {
+    "lat": 52.2213093,
+    "lng": 21.0417691,
+    "countryCode": "PL"
+  },
+  "Miedź Legnica": {
+    "lat": 51.2038661,
+    "lng": 16.1706163,
+    "countryCode": "PL"
+  },
+  "Motor Lublin": {
+    "lat": 51.2320671,
+    "lng": 22.5564217,
+    "countryCode": "PL"
+  },
+  "Odra Opole": {
+    "lat": 50.6775161,
+    "lng": 17.9362581,
+    "countryCode": "PL"
+  },
+  "Piast Gliwice": {
+    "lat": 50.2888459,
+    "lng": 18.6894881,
+    "countryCode": "PL"
+  },
+  "Pogoń Grodzisk Mazowiecki": {
+    "lat": 52.0978725,
+    "lng": 20.6215022,
+    "countryCode": "PL"
+  },
+  "Pogoń Siedlce": {
+    "lat": 52.1785618,
+    "lng": 22.2985931,
+    "countryCode": "PL"
+  },
+  "Pogoń Szczecin": {
+    "lat": 53.4328063,
+    "lng": 14.5114468,
+    "countryCode": "PL"
+  },
+  "Polonia Bytom": {
+    "lat": 50.3220436,
+    "lng": 18.9486544,
+    "countryCode": "PL"
+  },
+  "Polonia Warszawa": {
+    "lat": 52.2138636,
+    "lng": 21.0037346,
+    "countryCode": "PL"
+  },
+  "Puszcza Niepołomice": {
+    "lat": 50.0319173,
+    "lng": 20.2211804,
+    "countryCode": "PL"
+  },
+  "Radomiak Radom": {
+    "lat": 51.409461,
+    "lng": 21.1723842,
+    "countryCode": "PL"
+  },
+  "Raków Częstochowa": {
+    "lat": 50.7764884,
+    "lng": 19.1578726,
+    "countryCode": "PL"
+  },
+  "Ruch Chorzów": {
+    "lat": 50.3010954,
+    "lng": 18.9756327,
+    "countryCode": "PL"
+  },
+  "Stal Mielec": {
+    "lat": 50.2894375,
+    "lng": 21.41746,
+    "countryCode": "PL"
+  },
+  "Stal Rzeszów": {
+    "lat": 50.0222767,
+    "lng": 21.9971863,
+    "countryCode": "PL"
+  },
+  "Termalica Nieciecza": {
+    "lat": 50.1576921,
+    "lng": 20.8488046,
+    "countryCode": "PL"
+  },
+  "Widzew Łódź": {
+    "lat": 51.7644438,
+    "lng": 19.5120582,
+    "countryCode": "PL"
+  },
+  "Wieczysta Kraków": {
+    "lat": 50.0736111,
+    "lng": 19.9819444,
+    "countryCode": "PL"
+  },
+  "Wisła Kraków": {
+    "lat": 50.0642207,
+    "lng": 19.9132021,
+    "countryCode": "PL"
+  },
+  "Wisła Płock": {
+    "lat": 52.5621021,
+    "lng": 19.6833612,
+    "countryCode": "PL"
+  },
+  "Zagłębie Lubin": {
+    "lat": 51.4141619,
+    "lng": 16.1972008,
+    "countryCode": "PL"
+  },
+  "Znicz Pruszków": {
+    "lat": 52.169208,
+    "lng": 20.8142134,
+    "countryCode": "PL"
+  },
+  "ŁKS Łódź": {
+    "lat": 51.7632202,
+    "lng": 19.3973465,
+    "countryCode": "PL"
+  },
+  "Śląsk Wrocław": {
+    "lat": 51.098226,
+    "lng": 16.9961887,
+    "countryCode": "PL"
+  },
+  "Warsaw": {
+    "lat": 52.2297,
+    "lng": 21.0122,
+    "countryCode": "PL"
+  },
+  "Krakow": {
+    "lat": 50.0647,
+    "lng": 19.945,
+    "countryCode": "PL"
+  },
+  "Lodz": {
+    "lat": 51.7592,
+    "lng": 19.456,
+    "countryCode": "PL"
+  },
+  "Poznan": {
+    "lat": 52.4064,
+    "lng": 16.9252,
+    "countryCode": "PL"
+  },
+  "Gdansk": {
+    "lat": 54.352,
+    "lng": 18.6466,
+    "countryCode": "PL"
+  },
+  "Wroclaw": {
+    "lat": 51.1079,
+    "lng": 17.0385,
+    "countryCode": "PL"
+  },
+  "Katowice": {
+    "lat": 50.2649,
+    "lng": 19.0238,
+    "countryCode": "PL"
+  },
+  "Lublin": {
+    "lat": 51.2465,
+    "lng": 22.5684,
+    "countryCode": "PL"
+  },
+  "Kielce": {
+    "lat": 50.8661,
+    "lng": 20.6286,
+    "countryCode": "PL"
+  },
+  "Bialystok": {
+    "lat": 53.1325,
+    "lng": 23.1688,
+    "countryCode": "PL"
+  }
+}

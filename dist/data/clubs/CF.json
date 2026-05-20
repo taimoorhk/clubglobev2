@@ -1,0 +1,162 @@
+[
+  {
+    "id": "cf-diplomates",
+    "name": "Diplomates",
+    "countryCode": "CF",
+    "country": "Central African Republic",
+    "city": "Diplomates",
+    "lat": 6.664,
+    "lng": 20.86,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CF-t1",
+    "leagueName": "Championnat National",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cf-fatima",
+    "name": "Fatima",
+    "countryCode": "CF",
+    "country": "Central African Republic",
+    "city": "Fatima",
+    "lat": 4.3611696,
+    "lng": 18.5912323,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CF-t1",
+    "leagueName": "Championnat National",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cf-olympic-real",
+    "name": "Olympic Real",
+    "countryCode": "CF",
+    "country": "Central African Republic",
+    "city": "Olympic Real",
+    "lat": 6.524,
+    "lng": 20.884,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CF-t1",
+    "leagueName": "Championnat National",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cf-temp-te-mocaf",
+    "name": "Tempête Mocaf",
+    "countryCode": "CF",
+    "country": "Central African Republic",
+    "city": "Tempête Mocaf",
+    "lat": 6.592,
+    "lng": 20.951999999999998,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CF-t1",
+    "leagueName": "Championnat National",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "cf-zdr",
+    "name": "ZDR",
+    "countryCode": "CF",
+    "country": "Central African Republic",
+    "city": "ZDR",
+    "lat": 6.651999999999999,
+    "lng": 20.848,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-CF-t1",
+    "leagueName": "Championnat National",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

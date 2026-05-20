@@ -1,0 +1,57 @@
+{
+  "AS Gabes": {
+    "lat": 33.8878082,
+    "lng": 10.10044,
+    "countryCode": "TN"
+  },
+  "AS Gabès": {
+    "lat": 33.8878082,
+    "lng": 10.10044,
+    "countryCode": "TN"
+  },
+  "AS Soliman": {
+    "lat": 36.6944327,
+    "lng": 10.4865924,
+    "countryCode": "TN"
+  },
+  "Avenir de La Marsa": {
+    "lat": 36.8867195,
+    "lng": 10.3090722,
+    "countryCode": "TN"
+  },
+  "Ben Guerdane": {
+    "lat": 33.1403223,
+    "lng": 11.2170109,
+    "countryCode": "TN"
+  },
+  "Espérance": {
+    "lat": 36.8806874,
+    "lng": 10.3121625,
+    "countryCode": "TN"
+  },
+  "Etoile du Sahel": {
+    "lat": 35.8238703,
+    "lng": 10.6069105,
+    "countryCode": "TN"
+  },
+  "Monastir": {
+    "lat": 35.7643,
+    "lng": 10.8113,
+    "countryCode": "TN"
+  },
+  "Sfax": {
+    "lat": 34.7406,
+    "lng": 10.7603,
+    "countryCode": "TN"
+  },
+  "Tunis": {
+    "lat": 36.8065,
+    "lng": 10.1815,
+    "countryCode": "TN"
+  },
+  "Zarzis": {
+    "lat": 33.5036797,
+    "lng": 11.1097173,
+    "countryCode": "TN"
+  }
+}

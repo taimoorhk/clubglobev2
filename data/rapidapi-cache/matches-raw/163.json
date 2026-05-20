@@ -1,0 +1,6880 @@
+[
+  {
+    "id": "4820856",
+    "pageUrl": "/matches/etoile-carouge-vs-fc-rapperswil-jona/81gwdzz#4820856",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-25T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820857",
+    "pageUrl": "/matches/stade-nyonnais-vs-xamax/w6qh2#4820857",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-25T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820859",
+    "pageUrl": "/matches/bellinzona-vs-aarau/28auom#4820859",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 1
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 1
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-26T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820858",
+    "pageUrl": "/matches/wil-vs-fc-stade-lausanne-ouchy/klsh0ml#4820858",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 1
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 1
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-26T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820860",
+    "pageUrl": "/matches/yverdon-vs-fc-vaduz/26tlaw#4820860",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 2
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 2
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-27T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820861",
+    "pageUrl": "/matches/aarau-vs-wil/3cc913#4820861",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-01T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820862",
+    "pageUrl": "/matches/stade-nyonnais-vs-fc-rapperswil-jona/843gsnl#4820862",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-01T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820863",
+    "pageUrl": "/matches/bellinzona-vs-xamax/1q5dxn#4820863",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 1
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 1
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-02T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820864",
+    "pageUrl": "/matches/yverdon-vs-fc-stade-lausanne-ouchy/k3fnw7i#4820864",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 3
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 3
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-03T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820865",
+    "pageUrl": "/matches/etoile-carouge-vs-fc-vaduz/12thbz#4820865",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-03T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820866",
+    "pageUrl": "/matches/etoile-carouge-vs-wil/158j0v#4820866",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-08T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820867",
+    "pageUrl": "/matches/yverdon-vs-fc-rapperswil-jona/8goeax3#4820867",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 0
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 0
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-08T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820869",
+    "pageUrl": "/matches/xamax-vs-aarau/2n8efx#4820869",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-09T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820868",
+    "pageUrl": "/matches/bellinzona-vs-fc-stade-lausanne-ouchy/k3nrjh7#4820868",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 2
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 2
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-09T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820870",
+    "pageUrl": "/matches/stade-nyonnais-vs-fc-vaduz/18sq4n#4820870",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-10T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4925486",
+    "pageUrl": "/matches/bellinzona-vs-aarau/28auom#4925486",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 1
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 1
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-13T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820871",
+    "pageUrl": "/matches/fc-rapperswil-jona-vs-fc-stade-lausanne-ouchy/1fsg5no3#4820871",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-22T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820872",
+    "pageUrl": "/matches/bellinzona-vs-fc-vaduz/279nnn#4820872",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 6
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 6
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-22T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "6 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820873",
+    "pageUrl": "/matches/stade-nyonnais-vs-aarau/19kpto#4820873",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 4
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 4
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-22T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820874",
+    "pageUrl": "/matches/etoile-carouge-vs-xamax/r5glq#4820874",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 2
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 2
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-22T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820875",
+    "pageUrl": "/matches/yverdon-vs-wil/2a993c#4820875",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 4
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 4
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-22T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820877",
+    "pageUrl": "/matches/aarau-vs-fc-stade-lausanne-ouchy/kkkmvyi#4820877",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 3
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 3
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-25T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820876",
+    "pageUrl": "/matches/xamax-vs-fc-vaduz/2m3vu6#4820876",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-25T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820878",
+    "pageUrl": "/matches/wil-vs-fc-rapperswil-jona/8smorqo#4820878",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-26T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820880",
+    "pageUrl": "/matches/yverdon-vs-bellinzona/1duq5n#4820880",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-26T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820879",
+    "pageUrl": "/matches/etoile-carouge-vs-stade-nyonnais/4unw4#4820879",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-26T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820881",
+    "pageUrl": "/matches/stade-nyonnais-vs-bellinzona/nrsp5#4820881",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 3
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 3
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-29T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820882",
+    "pageUrl": "/matches/aarau-vs-fc-rapperswil-jona/8ru23jl#4820882",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 0
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 0
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-29T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820883",
+    "pageUrl": "/matches/etoile-carouge-vs-fc-stade-lausanne-ouchy/jfw85pq#4820883",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 2
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 2
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-30T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820885",
+    "pageUrl": "/matches/fc-vaduz-vs-wil/3b2ouo#4820885",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 2
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 2
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-31T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820884",
+    "pageUrl": "/matches/yverdon-vs-xamax/1pr5x2#4820884",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 3
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 3
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-31T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820886",
+    "pageUrl": "/matches/stade-nyonnais-vs-fc-stade-lausanne-ouchy/jjzbnrq#4820886",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-12T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820888",
+    "pageUrl": "/matches/etoile-carouge-vs-yverdon/j9564#4820888",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 2
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 2
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-12T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820887",
+    "pageUrl": "/matches/xamax-vs-wil/2pux7i#4820887",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 3
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 3
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-12T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820890",
+    "pageUrl": "/matches/fc-vaduz-vs-aarau/386bbl#4820890",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 1
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 1
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-13T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820889",
+    "pageUrl": "/matches/bellinzona-vs-fc-rapperswil-jona/8gtnkv4#4820889",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 1
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 1
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-13T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820891",
+    "pageUrl": "/matches/xamax-vs-fc-rapperswil-jona/8lhewe9#4820891",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-26T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820892",
+    "pageUrl": "/matches/etoile-carouge-vs-aarau/13jjo4#4820892",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-26T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820894",
+    "pageUrl": "/matches/fc-vaduz-vs-fc-stade-lausanne-ouchy/kk1r3bx#4820894",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 1
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 1
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-27T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820893",
+    "pageUrl": "/matches/bellinzona-vs-wil/2apnxv#4820893",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-27T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820895",
+    "pageUrl": "/matches/stade-nyonnais-vs-yverdon/nj0bo#4820895",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 1
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 1
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-28T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820897",
+    "pageUrl": "/matches/stade-nyonnais-vs-wil/1be653#4820897",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 2
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 2
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-03T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820896",
+    "pageUrl": "/matches/xamax-vs-fc-stade-lausanne-ouchy/katwg80#4820896",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 0
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 0
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-03T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820898",
+    "pageUrl": "/matches/yverdon-vs-aarau/27uokf#4820898",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 1
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 1
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-03T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820899",
+    "pageUrl": "/matches/etoile-carouge-vs-bellinzona/jh3g1#4820899",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-04T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820900",
+    "pageUrl": "/matches/fc-vaduz-vs-fc-rapperswil-jona/8rhq76o#4820900",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-05T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820902",
+    "pageUrl": "/matches/stade-nyonnais-vs-fc-rapperswil-jona/843gsnl#4820902",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-17T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820905",
+    "pageUrl": "/matches/etoile-carouge-vs-xamax/r5glq#4820905",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 0
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 0
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-17T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820904",
+    "pageUrl": "/matches/aarau-vs-fc-stade-lausanne-ouchy/kkkmvyi#4820904",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 1
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 1
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-17T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820903",
+    "pageUrl": "/matches/fc-vaduz-vs-wil/3b2ouo#4820903",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-19T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820901",
+    "pageUrl": "/matches/yverdon-vs-bellinzona/1duq5n#4820901",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 2
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 2
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-19T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820907",
+    "pageUrl": "/matches/stade-nyonnais-vs-yverdon/nj0bo#4820907",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 2
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 2
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-24T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820908",
+    "pageUrl": "/matches/xamax-vs-fc-rapperswil-jona/8lhewe9#4820908",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 2
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 2
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-24T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820910",
+    "pageUrl": "/matches/aarau-vs-wil/3cc913#4820910",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-24T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820909",
+    "pageUrl": "/matches/bellinzona-vs-fc-stade-lausanne-ouchy/k3nrjh7#4820909",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-25T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820906",
+    "pageUrl": "/matches/etoile-carouge-vs-fc-vaduz/12thbz#4820906",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-26T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820914",
+    "pageUrl": "/matches/etoile-carouge-vs-bellinzona/jh3g1#4820914",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 2
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 2
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-31T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820911",
+    "pageUrl": "/matches/yverdon-vs-fc-vaduz/26tlaw#4820911",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 3
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 3
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-31T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820915",
+    "pageUrl": "/matches/aarau-vs-fc-rapperswil-jona/8ru23jl#4820915",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-01T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820913",
+    "pageUrl": "/matches/stade-nyonnais-vs-fc-stade-lausanne-ouchy/jjzbnrq#4820913",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 3
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 3
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-01T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820912",
+    "pageUrl": "/matches/xamax-vs-wil/2pux7i#4820912",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 2
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 2
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-02T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820916",
+    "pageUrl": "/matches/wil-vs-fc-rapperswil-jona/8smorqo#4820916",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-07T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820918",
+    "pageUrl": "/matches/etoile-carouge-vs-stade-nyonnais/4unw4#4820918",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-07T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820919",
+    "pageUrl": "/matches/yverdon-vs-xamax/1pr5x2#4820919",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 2
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 2
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-07T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820920",
+    "pageUrl": "/matches/bellinzona-vs-aarau/28auom#4820920",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 5
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 5
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-08T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820917",
+    "pageUrl": "/matches/fc-vaduz-vs-fc-stade-lausanne-ouchy/kk1r3bx#4820917",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820921",
+    "pageUrl": "/matches/yverdon-vs-wil/2a993c#4820921",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 2
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 2
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-21T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820925",
+    "pageUrl": "/matches/bellinzona-vs-fc-vaduz/279nnn#4820925",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-21T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820924",
+    "pageUrl": "/matches/etoile-carouge-vs-fc-rapperswil-jona/81gwdzz#4820924",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 0
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 0
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-21T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820922",
+    "pageUrl": "/matches/stade-nyonnais-vs-aarau/19kpto#4820922",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 0
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 0
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-22T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820928",
+    "pageUrl": "/matches/bellinzona-vs-fc-rapperswil-jona/8gtnkv4#4820928",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-28T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820930",
+    "pageUrl": "/matches/stade-nyonnais-vs-fc-vaduz/18sq4n#4820930",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-28T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820926",
+    "pageUrl": "/matches/xamax-vs-aarau/2n8efx#4820926",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-28T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820929",
+    "pageUrl": "/matches/wil-vs-fc-stade-lausanne-ouchy/klsh0ml#4820929",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-29T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820927",
+    "pageUrl": "/matches/etoile-carouge-vs-yverdon/j9564#4820927",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 2
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 2
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-30T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820934",
+    "pageUrl": "/matches/etoile-carouge-vs-wil/158j0v#4820934",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 0
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 0
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-05T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820933",
+    "pageUrl": "/matches/xamax-vs-fc-vaduz/2m3vu6#4820933",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 1
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 1
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-05T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820935",
+    "pageUrl": "/matches/stade-nyonnais-vs-bellinzona/nrsp5#4820935",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 2
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 2
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-06T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820931",
+    "pageUrl": "/matches/fc-rapperswil-jona-vs-fc-stade-lausanne-ouchy/1fsg5no3#4820931",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 0
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 0
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-06T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820932",
+    "pageUrl": "/matches/yverdon-vs-aarau/27uokf#4820932",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 1
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 1
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-07T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820923",
+    "pageUrl": "/matches/xamax-vs-fc-stade-lausanne-ouchy/katwg80#4820923",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 3
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 3
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-10T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820936",
+    "pageUrl": "/matches/fc-vaduz-vs-fc-rapperswil-jona/8rhq76o#4820936",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 0
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 0
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-12T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820940",
+    "pageUrl": "/matches/etoile-carouge-vs-aarau/13jjo4#4820940",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-12T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820938",
+    "pageUrl": "/matches/yverdon-vs-fc-stade-lausanne-ouchy/k3fnw7i#4820938",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 4
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 4
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-13T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820937",
+    "pageUrl": "/matches/stade-nyonnais-vs-wil/1be653#4820937",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-14T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820939",
+    "pageUrl": "/matches/bellinzona-vs-xamax/1q5dxn#4820939",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-14T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820943",
+    "pageUrl": "/matches/stade-nyonnais-vs-xamax/w6qh2#4820943",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-19T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820944",
+    "pageUrl": "/matches/etoile-carouge-vs-fc-stade-lausanne-ouchy/jfw85pq#4820944",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-19T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820942",
+    "pageUrl": "/matches/fc-vaduz-vs-aarau/386bbl#4820942",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-19T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820945",
+    "pageUrl": "/matches/bellinzona-vs-wil/2apnxv#4820945",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-20T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4820941",
+    "pageUrl": "/matches/yverdon-vs-fc-rapperswil-jona/8goeax3#4820941",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 1
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 1
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-21T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106058",
+    "pageUrl": "/matches/etoile-carouge-vs-stade-nyonnais/4unw4#5106058",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 2
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 2
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-23T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106059",
+    "pageUrl": "/matches/fc-vaduz-vs-wil/3b2ouo#5106059",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-23T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106060",
+    "pageUrl": "/matches/bellinzona-vs-aarau/28auom#5106060",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 1
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 1
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-24T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106061",
+    "pageUrl": "/matches/fc-rapperswil-jona-vs-fc-stade-lausanne-ouchy/1fsg5no3#5106061",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-24T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106062",
+    "pageUrl": "/matches/yverdon-vs-xamax/1pr5x2#5106062",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-25T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106063",
+    "pageUrl": "/matches/bellinzona-vs-xamax/1q5dxn#5106063",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 5
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 5
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-30T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106064",
+    "pageUrl": "/matches/fc-vaduz-vs-fc-stade-lausanne-ouchy/kk1r3bx#5106064",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 5
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 5
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-30T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106065",
+    "pageUrl": "/matches/etoile-carouge-vs-fc-rapperswil-jona/81gwdzz#5106065",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 2
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 2
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-30T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106066",
+    "pageUrl": "/matches/yverdon-vs-aarau/27uokf#5106066",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 1
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 1
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-30T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106067",
+    "pageUrl": "/matches/stade-nyonnais-vs-wil/1be653#5106067",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-01T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106069",
+    "pageUrl": "/matches/stade-nyonnais-vs-bellinzona/nrsp5#5106069",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-06T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106070",
+    "pageUrl": "/matches/etoile-carouge-vs-fc-vaduz/12thbz#5106070",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-06T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106071",
+    "pageUrl": "/matches/aarau-vs-wil/3cc913#5106071",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-07T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106072",
+    "pageUrl": "/matches/yverdon-vs-fc-rapperswil-jona/8goeax3#5106072",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-07T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106073",
+    "pageUrl": "/matches/xamax-vs-fc-stade-lausanne-ouchy/katwg80#5106073",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 3
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 3
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-08T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106074",
+    "pageUrl": "/matches/bellinzona-vs-fc-vaduz/279nnn#5106074",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-13T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106075",
+    "pageUrl": "/matches/wil-vs-fc-rapperswil-jona/8smorqo#5106075",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-13T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106076",
+    "pageUrl": "/matches/etoile-carouge-vs-xamax/r5glq#5106076",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-13T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106077",
+    "pageUrl": "/matches/aarau-vs-fc-stade-lausanne-ouchy/kkkmvyi#5106077",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 4
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 4
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-13T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106078",
+    "pageUrl": "/matches/stade-nyonnais-vs-yverdon/nj0bo#5106078",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 1
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 1
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-13T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106079",
+    "pageUrl": "/matches/bellinzona-vs-fc-rapperswil-jona/8gtnkv4#5106079",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-20T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106080",
+    "pageUrl": "/matches/etoile-carouge-vs-yverdon/j9564#5106080",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 2
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 2
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-20T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106081",
+    "pageUrl": "/matches/stade-nyonnais-vs-aarau/19kpto#5106081",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-20T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106082",
+    "pageUrl": "/matches/xamax-vs-fc-vaduz/2m3vu6#5106082",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 1
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 1
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106083",
+    "pageUrl": "/matches/wil-vs-fc-stade-lausanne-ouchy/klsh0ml#5106083",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106084",
+    "pageUrl": "/matches/yverdon-vs-bellinzona/1duq5n#5106084",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-27T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106085",
+    "pageUrl": "/matches/aarau-vs-fc-rapperswil-jona/8ru23jl#5106085",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 5
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 5
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-27T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106086",
+    "pageUrl": "/matches/etoile-carouge-vs-fc-stade-lausanne-ouchy/jfw85pq#5106086",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 0
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 0
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-28T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106087",
+    "pageUrl": "/matches/stade-nyonnais-vs-fc-vaduz/18sq4n#5106087",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 1
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 1
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106088",
+    "pageUrl": "/matches/xamax-vs-wil/2pux7i#5106088",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 0
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 0
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106091",
+    "pageUrl": "/matches/fc-vaduz-vs-fc-rapperswil-jona/8rhq76o#5106091",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 0
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 0
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-06T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106092",
+    "pageUrl": "/matches/stade-nyonnais-vs-xamax/w6qh2#5106092",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-06T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106093",
+    "pageUrl": "/matches/etoile-carouge-vs-aarau/13jjo4#5106093",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 0
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 0
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-06T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106094",
+    "pageUrl": "/matches/bellinzona-vs-wil/2apnxv#5106094",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 3
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 3
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-07T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106095",
+    "pageUrl": "/matches/yverdon-vs-fc-stade-lausanne-ouchy/k3fnw7i#5106095",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 0
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 0
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-08T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106096",
+    "pageUrl": "/matches/etoile-carouge-vs-bellinzona/jh3g1#5106096",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-13T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106097",
+    "pageUrl": "/matches/fc-vaduz-vs-aarau/386bbl#5106097",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-13T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106098",
+    "pageUrl": "/matches/yverdon-vs-wil/2a993c#5106098",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 0
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 0
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-13T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106099",
+    "pageUrl": "/matches/stade-nyonnais-vs-fc-stade-lausanne-ouchy/jjzbnrq#5106099",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 1
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 1
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-14T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106100",
+    "pageUrl": "/matches/xamax-vs-fc-rapperswil-jona/8lhewe9#5106100",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 3
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 3
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-15T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106113",
+    "pageUrl": "/matches/bellinzona-vs-fc-stade-lausanne-ouchy/k3nrjh7#5106113",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 2
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 2
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-20T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106114",
+    "pageUrl": "/matches/stade-nyonnais-vs-fc-rapperswil-jona/843gsnl#5106114",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 2
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 2
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-20T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106115",
+    "pageUrl": "/matches/yverdon-vs-fc-vaduz/26tlaw#5106115",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 2
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 2
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-20T19:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106116",
+    "pageUrl": "/matches/xamax-vs-aarau/2n8efx#5106116",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 1
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 1
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-21T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106117",
+    "pageUrl": "/matches/etoile-carouge-vs-wil/158j0v#5106117",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-22T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106119",
+    "pageUrl": "/matches/wil-vs-fc-stade-lausanne-ouchy/klsh0ml#5106119",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 0
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 0
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-03T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106122",
+    "pageUrl": "/matches/yverdon-vs-bellinzona/1duq5n#5106122",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 5
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 5
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-03T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106118",
+    "pageUrl": "/matches/etoile-carouge-vs-stade-nyonnais/4unw4#5106118",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 0
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 0
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-03T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106121",
+    "pageUrl": "/matches/xamax-vs-fc-vaduz/2m3vu6#5106121",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-03T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106120",
+    "pageUrl": "/matches/aarau-vs-fc-rapperswil-jona/8ru23jl#5106120",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 4
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 4
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-04T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106126",
+    "pageUrl": "/matches/stade-nyonnais-vs-yverdon/nj0bo#5106126",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-06T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106124",
+    "pageUrl": "/matches/etoile-carouge-vs-aarau/13jjo4#5106124",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 1
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 1
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-07T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106125",
+    "pageUrl": "/matches/fc-rapperswil-jona-vs-fc-stade-lausanne-ouchy/1fsg5no3#5106125",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 1
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 1
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-07T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106128",
+    "pageUrl": "/matches/xamax-vs-wil/2pux7i#5106128",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 5
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 5
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-07T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106127",
+    "pageUrl": "/matches/bellinzona-vs-fc-vaduz/279nnn#5106127",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-07T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106132",
+    "pageUrl": "/matches/stade-nyonnais-vs-xamax/w6qh2#5106132",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 4
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 4
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-10T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106130",
+    "pageUrl": "/matches/etoile-carouge-vs-fc-stade-lausanne-ouchy/jfw85pq#5106130",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-10T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106133",
+    "pageUrl": "/matches/yverdon-vs-fc-vaduz/26tlaw#5106133",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 2
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 2
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-10T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106129",
+    "pageUrl": "/matches/bellinzona-vs-aarau/28auom#5106129",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-11T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106131",
+    "pageUrl": "/matches/wil-vs-fc-rapperswil-jona/8smorqo#5106131",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-11T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106137",
+    "pageUrl": "/matches/etoile-carouge-vs-wil/158j0v#5106137",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 2
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 2
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-17T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106136",
+    "pageUrl": "/matches/stade-nyonnais-vs-bellinzona/nrsp5#5106136",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 4
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 4
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-18T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106138",
+    "pageUrl": "/matches/fc-vaduz-vs-fc-rapperswil-jona/8rhq76o#5106138",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 2
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 2
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-19T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106135",
+    "pageUrl": "/matches/aarau-vs-fc-stade-lausanne-ouchy/kkkmvyi#5106135",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 3
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 3
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-22T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106139",
+    "pageUrl": "/matches/yverdon-vs-xamax/1pr5x2#5106139",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 2
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 2
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-22T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106142",
+    "pageUrl": "/matches/etoile-carouge-vs-fc-rapperswil-jona/81gwdzz#5106142",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-24T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106143",
+    "pageUrl": "/matches/stade-nyonnais-vs-fc-vaduz/18sq4n#5106143",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-24T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106144",
+    "pageUrl": "/matches/aarau-vs-wil/3cc913#5106144",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 2
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 2
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-25T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106141",
+    "pageUrl": "/matches/yverdon-vs-fc-stade-lausanne-ouchy/k3fnw7i#5106141",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 0
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 0
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-26T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106145",
+    "pageUrl": "/matches/bellinzona-vs-xamax/1q5dxn#5106145",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 2
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 2
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-26T14:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106148",
+    "pageUrl": "/matches/stade-nyonnais-vs-wil/1be653#5106148",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 0
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-01T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106150",
+    "pageUrl": "/matches/xamax-vs-aarau/2n8efx#5106150",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-01T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106149",
+    "pageUrl": "/matches/fc-vaduz-vs-fc-stade-lausanne-ouchy/kk1r3bx#5106149",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 2
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 2
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-02T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106147",
+    "pageUrl": "/matches/bellinzona-vs-fc-rapperswil-jona/8gtnkv4#5106147",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 2
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 2
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-03T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106151",
+    "pageUrl": "/matches/etoile-carouge-vs-yverdon/j9564#5106151",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 3
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 3
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-03T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106153",
+    "pageUrl": "/matches/stade-nyonnais-vs-aarau/19kpto#5106153",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 5
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 5
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-08T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106154",
+    "pageUrl": "/matches/etoile-carouge-vs-fc-vaduz/12thbz#5106154",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 1
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-08T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106156",
+    "pageUrl": "/matches/xamax-vs-fc-rapperswil-jona/8lhewe9#5106156",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-08T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106155",
+    "pageUrl": "/matches/bellinzona-vs-fc-stade-lausanne-ouchy/k3nrjh7#5106155",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 5
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 5
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-08T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106157",
+    "pageUrl": "/matches/yverdon-vs-wil/2a993c#5106157",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 0
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-08T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106158",
+    "pageUrl": "/matches/bellinzona-vs-wil/2apnxv#5106158",
+    "opponent": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 2
+    },
+    "home": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 2
+    },
+    "away": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-11T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106160",
+    "pageUrl": "/matches/fc-vaduz-vs-aarau/386bbl#5106160",
+    "opponent": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 1
+    },
+    "home": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 1
+    },
+    "away": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-11T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106159",
+    "pageUrl": "/matches/stade-nyonnais-vs-fc-stade-lausanne-ouchy/jjzbnrq#5106159",
+    "opponent": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "home": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "away": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-11T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106161",
+    "pageUrl": "/matches/etoile-carouge-vs-xamax/r5glq#5106161",
+    "opponent": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 3
+    },
+    "home": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 3
+    },
+    "away": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-11T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106162",
+    "pageUrl": "/matches/yverdon-vs-fc-rapperswil-jona/8goeax3#5106162",
+    "opponent": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 3
+    },
+    "home": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 3
+    },
+    "away": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-11T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106164",
+    "pageUrl": "/matches/yverdon-vs-aarau/27uokf#5106164",
+    "opponent": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "home": {
+      "id": "9930",
+      "name": "Aarau",
+      "score": 2
+    },
+    "away": {
+      "id": "6447",
+      "name": "Yverdon",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-15T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106165",
+    "pageUrl": "/matches/etoile-carouge-vs-bellinzona/jh3g1#5106165",
+    "opponent": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 2
+    },
+    "home": {
+      "id": "1594",
+      "name": "Etoile Carouge",
+      "score": 2
+    },
+    "away": {
+      "id": "6493",
+      "name": "Bellinzona",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-15T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106167",
+    "pageUrl": "/matches/stade-nyonnais-vs-fc-rapperswil-jona/843gsnl#5106167",
+    "opponent": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "home": {
+      "id": "185504",
+      "name": "FC Rapperswil-Jona",
+      "score": 2
+    },
+    "away": {
+      "id": "2442",
+      "name": "Stade Nyonnais",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-15T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106166",
+    "pageUrl": "/matches/xamax-vs-fc-stade-lausanne-ouchy/katwg80#5106166",
+    "opponent": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 2
+    },
+    "home": {
+      "id": "289334",
+      "name": "FC Stade Lausanne-Ouchy",
+      "score": 2
+    },
+    "away": {
+      "id": "7955",
+      "name": "Xamax",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-15T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5106168",
+    "pageUrl": "/matches/fc-vaduz-vs-wil/3b2ouo#5106168",
+    "opponent": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "home": {
+      "id": "10175",
+      "name": "Wil",
+      "score": 1
+    },
+    "away": {
+      "id": "9824",
+      "name": "FC Vaduz",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-15T18:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  }
+]

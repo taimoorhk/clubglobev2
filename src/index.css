@@ -1,0 +1,43 @@
+@import 'tailwindcss';
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  @apply bg-slate-950 text-slate-100 antialiased;
+}
+
+/* Let scroll-wheel zoom reach the globe; pins stay clickable */
+.globe-container > div:first-child {
+  pointer-events: none;
+}
+
+.globe-container canvas {
+  outline: none;
+  touch-action: none;
+  pointer-events: auto;
+}
+
+.globe-container .club-pin {
+  pointer-events: auto;
+}
+
+.club-pin {
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+  transition: transform 0.15s ease, filter 0.15s ease;
+}
+
+.club-pin:hover,
+.club-pin.selected {
+  transform: translate(-50%, -50%) scale(1.15);
+  z-index: 10;
+}
+
+.club-pin img {
+  display: block;
+}

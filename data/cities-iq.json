@@ -1,0 +1,132 @@
+{
+  "Al Diwaniya": {
+    "lat": 31.9853304,
+    "lng": 44.9236266,
+    "countryCode": "IQ"
+  },
+  "Al Hindiya": {
+    "lat": 32.547522,
+    "lng": 44.228589,
+    "countryCode": "IQ"
+  },
+  "Al Karkh": {
+    "lat": 33.3163798,
+    "lng": 44.3658908,
+    "countryCode": "IQ"
+  },
+  "Al Kufa": {
+    "lat": 32.03444,
+    "lng": 44.4031125,
+    "countryCode": "IQ"
+  },
+  "Al Muthanna": {
+    "lat": 30.5923739,
+    "lng": 45.2916041,
+    "countryCode": "IQ"
+  },
+  "Al Naft": {
+    "lat": 30.5429093,
+    "lng": 47.8205458,
+    "countryCode": "IQ"
+  },
+  "Al Najaf": {
+    "lat": 32.0010227,
+    "lng": 44.3299926,
+    "countryCode": "IQ"
+  },
+  "Al Qasim": {
+    "lat": 32.297993,
+    "lng": 44.682816,
+    "countryCode": "IQ"
+  },
+  "Al Samawa": {
+    "lat": 31.3078736,
+    "lng": 45.2826616,
+    "countryCode": "IQ"
+  },
+  "Al Shabab": {
+    "lat": 33.191601,
+    "lng": 44.409238,
+    "countryCode": "IQ"
+  },
+  "Al Sinaah": {
+    "lat": 32.449639,
+    "lng": 44.399861,
+    "countryCode": "IQ"
+  },
+  "Al Sulaymaniyah": {
+    "lat": 35.5574098,
+    "lng": 45.4298074,
+    "countryCode": "IQ"
+  },
+  "Al Taji": {
+    "lat": 33.5274048,
+    "lng": 44.2206506,
+    "countryCode": "IQ"
+  },
+  "Al Talaba": {
+    "lat": 33.3872373,
+    "lng": 44.3932799,
+    "countryCode": "IQ"
+  },
+  "Al Zawraa": {
+    "lat": 32.5971383,
+    "lng": 44.0574361,
+    "countryCode": "IQ"
+  },
+  "Baghdad": {
+    "lat": 33.3152,
+    "lng": 44.3661,
+    "countryCode": "IQ"
+  },
+  "Basra": {
+    "lat": 30.5085,
+    "lng": 47.7804,
+    "countryCode": "IQ"
+  },
+  "Diyala": {
+    "lat": 34.0228719,
+    "lng": 45.1046224,
+    "countryCode": "IQ"
+  },
+  "Duhok": {
+    "lat": 36.8542598,
+    "lng": 42.9924528,
+    "countryCode": "IQ"
+  },
+  "Erbil": {
+    "lat": 36.1911744,
+    "lng": 44.0094145,
+    "countryCode": "IQ"
+  },
+  "Karbala": {
+    "lat": 32.5984057,
+    "lng": 44.0157931,
+    "countryCode": "IQ"
+  },
+  "Kirkuk": {
+    "lat": 35.4719308,
+    "lng": 44.3953896,
+    "countryCode": "IQ"
+  },
+  "Mosul": {
+    "lat": 36.343694,
+    "lng": 43.0997156,
+    "countryCode": "IQ"
+  },
+  "Najaf": {
+    "lat": 32.0010227,
+    "lng": 44.3299926,
+    "countryCode": "IQ"
+  },
+  "Newroz": {
+    "lat": 35.1791904,
+    "lng": 44.7035444,
+    "countryCode": "IQ"
+  },
+  "Salahaddin": {
+    "lat": 36.1479478,
+    "lng": 44.0297036,
+    "countryCode": "IQ"
+  }
+}

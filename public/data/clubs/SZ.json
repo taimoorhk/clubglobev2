@@ -1,0 +1,258 @@
+[
+  {
+    "id": "sz-green-mamba",
+    "name": "Green Mamba",
+    "countryCode": "SZ",
+    "country": "Eswatini",
+    "city": "Green Mamba",
+    "lat": -26.52,
+    "lng": 31.54,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SZ-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sz-highlanders",
+    "name": "Highlanders",
+    "countryCode": "SZ",
+    "country": "Eswatini",
+    "city": "Highlanders",
+    "lat": -26.536,
+    "lng": 31.524,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SZ-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sz-manzini-wanderers",
+    "name": "Manzini Wanderers",
+    "countryCode": "SZ",
+    "country": "Eswatini",
+    "city": "Manzini",
+    "lat": -26.453644399999998,
+    "lng": 31.3150815,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SZ-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sz-mbabane-swallows",
+    "name": "Mbabane Swallows",
+    "countryCode": "SZ",
+    "country": "Eswatini",
+    "city": "Mbabane",
+    "lat": -26.345399999999998,
+    "lng": 31.1567,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SZ-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sz-rangers-fc",
+    "name": "Rangers FC",
+    "countryCode": "SZ",
+    "country": "Eswatini",
+    "city": "Rangers",
+    "lat": -26.484,
+    "lng": 31.576,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SZ-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sz-royal-leopards",
+    "name": "Royal Leopards",
+    "countryCode": "SZ",
+    "country": "Eswatini",
+    "city": "Royal Leopards",
+    "lat": -26.448,
+    "lng": 31.448,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SZ-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sz-tabankulu",
+    "name": "Tabankulu",
+    "countryCode": "SZ",
+    "country": "Eswatini",
+    "city": "Tabankulu",
+    "lat": -26.556,
+    "lng": 31.504,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SZ-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "sz-young-buffaloes",
+    "name": "Young Buffaloes",
+    "countryCode": "SZ",
+    "country": "Eswatini",
+    "city": "Young Buffaloes",
+    "lat": -26.456,
+    "lng": 31.44,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-SZ-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

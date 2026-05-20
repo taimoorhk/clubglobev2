@@ -1,0 +1,92 @@
+{
+  "Hamilton": {
+    "lat": 43.2557,
+    "lng": -79.8711,
+    "countryCode": "CA"
+  },
+  "Calgary": {
+    "lat": 51.0447,
+    "lng": -114.0719,
+    "countryCode": "CA"
+  },
+  "Langford": {
+    "lat": 48.4496,
+    "lng": -123.5043,
+    "countryCode": "CA"
+  },
+  "Ottawa": {
+    "lat": 45.4215,
+    "lng": -75.6972,
+    "countryCode": "CA"
+  },
+  "Toronto": {
+    "lat": 43.6532,
+    "lng": -79.3832,
+    "countryCode": "CA"
+  },
+  "Halifax": {
+    "lat": 44.6488,
+    "lng": -63.5752,
+    "countryCode": "CA"
+  },
+  "Vaughan": {
+    "lat": 43.8563,
+    "lng": -79.5085,
+    "countryCode": "CA"
+  },
+  "Oakville": {
+    "lat": 43.4675,
+    "lng": -79.6877,
+    "countryCode": "CA"
+  },
+  "Mississauga": {
+    "lat": 43.589,
+    "lng": -79.6441,
+    "countryCode": "CA"
+  },
+  "Montreal": {
+    "lat": 45.5019,
+    "lng": -73.5674,
+    "countryCode": "CA"
+  },
+  "Blainville": {
+    "lat": 45.67,
+    "lng": -73.88,
+    "countryCode": "CA"
+  },
+  "Laval": {
+    "lat": 45.6066,
+    "lng": -73.7124,
+    "countryCode": "CA"
+  },
+  "Burnaby": {
+    "lat": 49.2488,
+    "lng": -122.9805,
+    "countryCode": "CA"
+  },
+  "Vancouver": {
+    "lat": 49.2827,
+    "lng": -123.1207,
+    "countryCode": "CA"
+  },
+  "Victoria": {
+    "lat": 48.4284,
+    "lng": -123.3656,
+    "countryCode": "CA"
+  },
+  "Winnipeg": {
+    "lat": 49.8951,
+    "lng": -97.1384,
+    "countryCode": "CA"
+  },
+  "Saskatoon": {
+    "lat": 52.1579,
+    "lng": -106.6702,
+    "countryCode": "CA"
+  },
+  "Regina": {
+    "lat": 50.4452,
+    "lng": -104.6189,
+    "countryCode": "CA"
+  }
+}

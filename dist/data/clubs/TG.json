@@ -1,0 +1,322 @@
+[
+  {
+    "id": "tg-agaza",
+    "name": "Agaza",
+    "countryCode": "TG",
+    "country": "Togo",
+    "city": "Agaza",
+    "lat": 8.52,
+    "lng": 1.18,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TG-t1",
+    "leagueName": "Championnat National",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tg-anges",
+    "name": "Anges",
+    "countryCode": "TG",
+    "country": "Togo",
+    "city": "Anges",
+    "lat": 6.198189599999999,
+    "lng": 1.2619614000000001,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TG-t1",
+    "leagueName": "Championnat National",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tg-asko-kara",
+    "name": "ASKO Kara",
+    "countryCode": "TG",
+    "country": "Togo",
+    "city": "ASKO Kara",
+    "lat": 9.590744999999998,
+    "lng": 1.1265961,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TG-t1",
+    "leagueName": "Championnat National",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tg-binah",
+    "name": "Binah",
+    "countryCode": "TG",
+    "country": "Togo",
+    "city": "Binah",
+    "lat": 9.7463817,
+    "lng": 1.2506538,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TG-t1",
+    "leagueName": "Championnat National",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tg-dynamic-togolais",
+    "name": "Dynamic Togolais",
+    "countryCode": "TG",
+    "country": "Togo",
+    "city": "Dynamic Togolais",
+    "lat": 8.623999999999999,
+    "lng": 1.1199999999999999,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TG-t1",
+    "leagueName": "Championnat National",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tg-gomido",
+    "name": "Gomido",
+    "countryCode": "TG",
+    "country": "Togo",
+    "city": "Gomido",
+    "lat": 6.9199785,
+    "lng": 0.7098947,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TG-t1",
+    "leagueName": "Championnat National",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tg-maranatha",
+    "name": "Maranatha",
+    "countryCode": "TG",
+    "country": "Togo",
+    "city": "Maranatha",
+    "lat": 6.218125,
+    "lng": 1.1972664,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TG-t1",
+    "leagueName": "Championnat National",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tg-semassi",
+    "name": "Semassi",
+    "countryCode": "TG",
+    "country": "Togo",
+    "city": "Semassi",
+    "lat": 8.564,
+    "lng": 1.224,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TG-t1",
+    "leagueName": "Championnat National",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tg-togo-port",
+    "name": "Togo-Port",
+    "countryCode": "TG",
+    "country": "Togo",
+    "city": "Togo-Port",
+    "lat": 8.536,
+    "lng": 1.196,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TG-t1",
+    "leagueName": "Championnat National",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "tg-unisport",
+    "name": "Unisport",
+    "countryCode": "TG",
+    "country": "Togo",
+    "city": "Unisport",
+    "lat": 8.524,
+    "lng": 1.184,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TG-t1",
+    "leagueName": "Championnat National",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

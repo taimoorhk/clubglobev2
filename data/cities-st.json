@@ -1,0 +1,22 @@
+{
+  "6 de Setembro": {
+    "lat": 1.6400865,
+    "lng": 7.4201199,
+    "countryCode": "ST"
+  },
+  "Guadalupe": {
+    "lat": 0.3657242,
+    "lng": 6.6190214,
+    "countryCode": "ST"
+  },
+  "Neves": {
+    "lat": 0.3169712,
+    "lng": 6.5408467,
+    "countryCode": "ST"
+  },
+  "Santana": {
+    "lat": 0.2621893,
+    "lng": 6.7070986,
+    "countryCode": "ST"
+  }
+}

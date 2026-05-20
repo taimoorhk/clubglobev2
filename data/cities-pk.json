@@ -1,0 +1,57 @@
+{
+  "Balochistan": {
+    "lat": 28,
+    "lng": 66,
+    "countryCode": "PK"
+  },
+  "HBL": {
+    "lat": 30.1921339,
+    "lng": 67.0151223,
+    "countryCode": "PK"
+  },
+  "Islamabad": {
+    "lat": 33.6844,
+    "lng": 73.0479,
+    "countryCode": "PK"
+  },
+  "K-Electric": {
+    "lat": 24.849391,
+    "lng": 67.0188307,
+    "countryCode": "PK"
+  },
+  "KRL": {
+    "lat": 33.6082576,
+    "lng": 73.1166728,
+    "countryCode": "PK"
+  },
+  "Karachi": {
+    "lat": 24.8607,
+    "lng": 67.0011,
+    "countryCode": "PK"
+  },
+  "Muslim": {
+    "lat": 31.5767082,
+    "lng": 74.3134071,
+    "countryCode": "PK"
+  },
+  "Pakistan Air Force": {
+    "lat": 24.8703602,
+    "lng": 67.0958906,
+    "countryCode": "PK"
+  },
+  "Pakistan Army": {
+    "lat": 24.6539116,
+    "lng": 68.8645862,
+    "countryCode": "PK"
+  },
+  "Pakistan Navy": {
+    "lat": 24.8494954,
+    "lng": 67.0496497,
+    "countryCode": "PK"
+  },
+  "WAPDA": {
+    "lat": 31.5601251,
+    "lng": 74.3334558,
+    "countryCode": "PK"
+  }
+}

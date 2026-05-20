@@ -1,0 +1,132 @@
+{
+  "Agila": {
+    "lat": 10.3354851,
+    "lng": 123.882539,
+    "countryCode": "PH"
+  },
+  "Agila II": {
+    "lat": 10.3354851,
+    "lng": 123.882539,
+    "countryCode": "PH"
+  },
+  "Air Force II": {
+    "lat": 15.1876898,
+    "lng": 120.5362336,
+    "countryCode": "PH"
+  },
+  "Army II": {
+    "lat": 14.5589769,
+    "lng": 121.0237355,
+    "countryCode": "PH"
+  },
+  "Cebu II": {
+    "lat": 10.2415111,
+    "lng": 123.7992616,
+    "countryCode": "PH"
+  },
+  "Ceres-Negros": {
+    "lat": 10.6384948,
+    "lng": 122.9750265,
+    "countryCode": "PH"
+  },
+  "Ceres-Negros U23": {
+    "lat": 10.6384948,
+    "lng": 122.9750265,
+    "countryCode": "PH"
+  },
+  "Davao II": {
+    "lat": 6.7456965,
+    "lng": 125.3594027,
+    "countryCode": "PH"
+  },
+  "Dynamic Herb Cebu": {
+    "lat": 10.2600934,
+    "lng": 123.8613908,
+    "countryCode": "PH"
+  },
+  "Global Cebu": {
+    "lat": 10.3175867,
+    "lng": 123.8868903,
+    "countryCode": "PH"
+  },
+  "Global II": {
+    "lat": 7.1155615,
+    "lng": 125.6537648,
+    "countryCode": "PH"
+  },
+  "Kaya": {
+    "lat": 14.5612913,
+    "lng": 121.0301577,
+    "countryCode": "PH"
+  },
+  "Kaya II": {
+    "lat": 7.3924518,
+    "lng": 125.7857747,
+    "countryCode": "PH"
+  },
+  "Loyola": {
+    "lat": 8.333354,
+    "lng": 126.3325347,
+    "countryCode": "PH"
+  },
+  "Loyola II": {
+    "lat": 8.333354,
+    "lng": 126.3325347,
+    "countryCode": "PH"
+  },
+  "Maharlika II": {
+    "lat": 17.6430878,
+    "lng": 121.7599021,
+    "countryCode": "PH"
+  },
+  "Maharlika Manila": {
+    "lat": 14.4994975,
+    "lng": 121.0526218,
+    "countryCode": "PH"
+  },
+  "Manila II": {
+    "lat": 14.6820598,
+    "lng": 121.080867,
+    "countryCode": "PH"
+  },
+  "Mendiola": {
+    "lat": 14.4283369,
+    "lng": 121.4528328,
+    "countryCode": "PH"
+  },
+  "Mendiola II": {
+    "lat": 14.4283369,
+    "lng": 121.4528328,
+    "countryCode": "PH"
+  },
+  "Philippine Air Force": {
+    "lat": 15.1804366,
+    "lng": 120.5422809,
+    "countryCode": "PH"
+  },
+  "Philippine Army": {
+    "lat": 17.8539495,
+    "lng": 121.3680959,
+    "countryCode": "PH"
+  },
+  "Stallion II": {
+    "lat": 14.6421544,
+    "lng": 121.1243074,
+    "countryCode": "PH"
+  },
+  "Tuloy": {
+    "lat": 14.4260926,
+    "lng": 121.0321903,
+    "countryCode": "PH"
+  },
+  "United": {
+    "lat": 14.6865188,
+    "lng": 121.0856029,
+    "countryCode": "PH"
+  },
+  "United City II": {
+    "lat": 14.6865188,
+    "lng": 121.0856029,
+    "countryCode": "PH"
+  }
+}

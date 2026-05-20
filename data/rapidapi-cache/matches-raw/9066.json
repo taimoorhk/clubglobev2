@@ -1,0 +1,8686 @@
+[
+  {
+    "id": "4950896",
+    "pageUrl": "/matches/kinondoni-mc-vs-dodoma-jiji-fc/viod2xun#4950896",
+    "opponent": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 1
+    },
+    "home": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 1
+    },
+    "away": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-17T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950897",
+    "pageUrl": "/matches/tanzania-prisons-vs-coastal-union/1b32l3gn#4950897",
+    "opponent": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 1
+    },
+    "home": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 1
+    },
+    "away": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-17T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950898",
+    "pageUrl": "/matches/mbeya-city-vs-fountain-gate-fc/m4hxd7ft#4950898",
+    "opponent": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "away": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-18T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950899",
+    "pageUrl": "/matches/jkt-tanzania-vs-mashujaa/15bbvwiq7#4950899",
+    "opponent": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 1
+    },
+    "home": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 1
+    },
+    "away": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-18T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950900",
+    "pageUrl": "/matches/pamba-jiji-vs-namungo-fc/t87fvbte#4950900",
+    "opponent": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "home": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "away": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-18T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950901",
+    "pageUrl": "/matches/dodoma-jiji-fc-vs-tra-united/1aki1jr64#4950901",
+    "opponent": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 2
+    },
+    "home": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 2
+    },
+    "away": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-20T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950902",
+    "pageUrl": "/matches/mtibwa-sugar-vs-mashujaa/ho51ku3d#4950902",
+    "opponent": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 1
+    },
+    "home": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 1
+    },
+    "away": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-21T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950903",
+    "pageUrl": "/matches/tanzania-prisons-vs-namungo-fc/9yftn9w1#4950903",
+    "opponent": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "home": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "away": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-21T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950904",
+    "pageUrl": "/matches/coastal-union-vs-jkt-tanzania/bca4w45w#4950904",
+    "opponent": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 1
+    },
+    "home": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 1
+    },
+    "away": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-22T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950905",
+    "pageUrl": "/matches/kinondoni-mc-vs-singida-black-stars/vdaycq1h#4950905",
+    "opponent": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "home": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "away": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-23T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950906",
+    "pageUrl": "/matches/young-africans-vs-pamba-jiji/9ilap5ju#4950906",
+    "opponent": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 3
+    },
+    "home": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 3
+    },
+    "away": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-24T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950907",
+    "pageUrl": "/matches/azam-fc-vs-mbeya-city/2jdfb2mw#4950907",
+    "opponent": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 2
+    },
+    "home": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 2
+    },
+    "away": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-24T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950908",
+    "pageUrl": "/matches/simba-sc-vs-fountain-gate-fc/fk5dk3fq#4950908",
+    "opponent": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 3
+    },
+    "home": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 3
+    },
+    "away": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-25T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950909",
+    "pageUrl": "/matches/tanzania-prisons-vs-kinondoni-mc/9cnjv64o#4950909",
+    "opponent": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 1
+    },
+    "home": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 1
+    },
+    "away": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-27T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950910",
+    "pageUrl": "/matches/coastal-union-vs-dodoma-jiji-fc/dos5248l#4950910",
+    "opponent": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 2
+    },
+    "home": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 2
+    },
+    "away": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-27T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950911",
+    "pageUrl": "/matches/pamba-jiji-vs-tra-united/16hv7fndn#4950911",
+    "opponent": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "home": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "away": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-28T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950912",
+    "pageUrl": "/matches/mtibwa-sugar-vs-fountain-gate-fc/fk5ff1cb#4950912",
+    "opponent": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 2
+    },
+    "home": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 2
+    },
+    "away": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-28T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950913",
+    "pageUrl": "/matches/singida-black-stars-vs-mashujaa/19ij5s76g#4950913",
+    "opponent": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "home": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "away": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-30T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950914",
+    "pageUrl": "/matches/young-africans-vs-mbeya-city/2jdcog18#4950914",
+    "opponent": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "home": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "away": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-30T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950916",
+    "pageUrl": "/matches/azam-fc-vs-jkt-tanzania/9cnngwtd#4950916",
+    "opponent": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "home": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "away": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-01T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950915",
+    "pageUrl": "/matches/simba-sc-vs-namungo-fc/9yfswi05#4950915",
+    "opponent": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 3
+    },
+    "home": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 3
+    },
+    "away": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-01T17:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950917",
+    "pageUrl": "/matches/pamba-jiji-vs-mashujaa/15ns7n28t#4950917",
+    "opponent": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 2
+    },
+    "home": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 2
+    },
+    "away": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-17T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950918",
+    "pageUrl": "/matches/dodoma-jiji-fc-vs-fountain-gate-fc/169c45rco#4950918",
+    "opponent": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 1
+    },
+    "home": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 1
+    },
+    "away": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-17T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950919",
+    "pageUrl": "/matches/mbeya-city-vs-kinondoni-mc/ekjm7sre#4950919",
+    "opponent": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "home": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "away": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-18T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950920",
+    "pageUrl": "/matches/mtibwa-sugar-vs-coastal-union/1b32ust8#4950920",
+    "opponent": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "home": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "away": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-19T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950921",
+    "pageUrl": "/matches/jkt-tanzania-vs-namungo-fc/sxs2pcnm#4950921",
+    "opponent": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "home": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "away": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-19T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950922",
+    "pageUrl": "/matches/tanzania-prisons-vs-mbeya-city/2jddt002#4950922",
+    "opponent": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 1
+    },
+    "home": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 1
+    },
+    "away": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-21T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950923",
+    "pageUrl": "/matches/mashujaa-vs-tra-united/1mc0xiz3a#4950923",
+    "opponent": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "home": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "away": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-22T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950924",
+    "pageUrl": "/matches/coastal-union-vs-fountain-gate-fc/i3jhxb35#4950924",
+    "opponent": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 1
+    },
+    "home": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 1
+    },
+    "away": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-22T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950925",
+    "pageUrl": "/matches/mtibwa-sugar-vs-dodoma-jiji-fc/bhr1pn6v#4950925",
+    "opponent": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "away": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-22T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950926",
+    "pageUrl": "/matches/mbeya-city-vs-jkt-tanzania/ekjn46se#4950926",
+    "opponent": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 2
+    },
+    "home": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 2
+    },
+    "away": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-24T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950927",
+    "pageUrl": "/matches/namungo-fc-vs-mashujaa/16kqr8mlp#4950927",
+    "opponent": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 1
+    },
+    "home": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 1
+    },
+    "away": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-25T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950928",
+    "pageUrl": "/matches/kinondoni-mc-vs-fountain-gate-fc/121uvsytf#4950928",
+    "opponent": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 1
+    },
+    "home": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 1
+    },
+    "away": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-25T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950929",
+    "pageUrl": "/matches/pamba-jiji-vs-dodoma-jiji-fc/vtk3qlmz#4950929",
+    "opponent": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "away": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-25T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": true,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "AW",
+        "shortKey": "",
+        "long": "Awarded win",
+        "longKey": "awarded_win"
+      }
+    }
+  },
+  {
+    "id": "4950930",
+    "pageUrl": "/matches/young-africans-vs-mtibwa-sugar/p1g4fd2#4950930",
+    "opponent": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 2
+    },
+    "home": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 2
+    },
+    "away": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-28T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950939",
+    "pageUrl": "/matches/pamba-jiji-vs-singida-black-stars/vo5rnwpt#4950939",
+    "opponent": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 1
+    },
+    "home": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 1
+    },
+    "away": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-08T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950937",
+    "pageUrl": "/matches/simba-sc-vs-jkt-tanzania/9cnjv64n#4950937",
+    "opponent": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "home": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "away": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-08T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950936",
+    "pageUrl": "/matches/young-africans-vs-kinondoni-mc/9cnhpbq6#4950936",
+    "opponent": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 4
+    },
+    "home": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 4
+    },
+    "away": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950938",
+    "pageUrl": "/matches/azam-fc-vs-namungo-fc/9yfwmdfv#4950938",
+    "opponent": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "home": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "away": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950940",
+    "pageUrl": "/matches/kinondoni-mc-vs-jkt-tanzania/rwed320w#4950940",
+    "opponent": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "home": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "away": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-21T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950941",
+    "pageUrl": "/matches/namungo-fc-vs-dodoma-jiji-fc/wmdwyhon#4950941",
+    "opponent": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 2
+    },
+    "home": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 2
+    },
+    "away": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-21T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950942",
+    "pageUrl": "/matches/tanzania-prisons-vs-tra-united/i7s7pkks#4950942",
+    "opponent": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 1
+    },
+    "home": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 1
+    },
+    "away": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-22T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950943",
+    "pageUrl": "/matches/mbeya-city-vs-mashujaa/omn9rplz#4950943",
+    "opponent": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 1
+    },
+    "home": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 1
+    },
+    "away": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-22T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950944",
+    "pageUrl": "/matches/pamba-jiji-vs-fountain-gate-fc/12dt7vir3#4950944",
+    "opponent": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 1
+    },
+    "home": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 1
+    },
+    "away": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-23T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950945",
+    "pageUrl": "/matches/mtibwa-sugar-vs-kinondoni-mc/9cnkl49k#4950945",
+    "opponent": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "home": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "away": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-25T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950946",
+    "pageUrl": "/matches/coastal-union-vs-mbeya-city/3mc9ckox#4950946",
+    "opponent": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 2
+    },
+    "home": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 2
+    },
+    "away": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-26T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950947",
+    "pageUrl": "/matches/tanzania-prisons-vs-fountain-gate-fc/fk5ehke0#4950947",
+    "opponent": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 1
+    },
+    "home": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 1
+    },
+    "away": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-26T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950948",
+    "pageUrl": "/matches/jkt-tanzania-vs-tra-united/165aeap3d#4950948",
+    "opponent": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "home": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "away": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-26T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950953",
+    "pageUrl": "/matches/dodoma-jiji-fc-vs-mashujaa/19p02zmpm#4950953",
+    "opponent": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "home": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "away": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-28T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950950",
+    "pageUrl": "/matches/kinondoni-mc-vs-pamba-jiji/s6my7oxo#4950950",
+    "opponent": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 3
+    },
+    "home": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 3
+    },
+    "away": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-29T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950951",
+    "pageUrl": "/matches/mtibwa-sugar-vs-tra-united/i7s8psc7#4950951",
+    "opponent": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 2
+    },
+    "home": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 2
+    },
+    "away": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-29T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950949",
+    "pageUrl": "/matches/mbeya-city-vs-namungo-fc/fbnizh5w#4950949",
+    "opponent": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "home": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "away": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-30T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950952",
+    "pageUrl": "/matches/jkt-tanzania-vs-fountain-gate-fc/121ux9b51#4950952",
+    "opponent": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "away": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-30T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950957",
+    "pageUrl": "/matches/coastal-union-vs-mashujaa/kdb0s7az#4950957",
+    "opponent": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "home": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "away": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-01T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950955",
+    "pageUrl": "/matches/mtibwa-sugar-vs-jkt-tanzania/9cnlb2eg#4950955",
+    "opponent": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "home": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "away": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-03T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950932",
+    "pageUrl": "/matches/azam-fc-vs-singida-black-stars/beievx2g#4950932",
+    "opponent": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "home": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "away": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-03T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951022",
+    "pageUrl": "/matches/young-africans-vs-fountain-gate-fc/fk5bp5j9#4951022",
+    "opponent": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 2
+    },
+    "home": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 2
+    },
+    "away": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-04T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951020",
+    "pageUrl": "/matches/simba-sc-vs-mbeya-city/2jddfhcf#4951020",
+    "opponent": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 3
+    },
+    "home": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 3
+    },
+    "away": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-04T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950956",
+    "pageUrl": "/matches/tanzania-prisons-vs-pamba-jiji/9ilcvokc#4950956",
+    "opponent": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "home": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "away": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-06T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950935",
+    "pageUrl": "/matches/singida-black-stars-vs-tra-united/1adywd2uy#4950935",
+    "opponent": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "home": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "away": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-06T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950934",
+    "pageUrl": "/matches/simba-sc-vs-azam-fc/p1h3t6s#4950934",
+    "opponent": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 0
+    },
+    "home": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 0
+    },
+    "away": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-07T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950963",
+    "pageUrl": "/matches/young-africans-vs-coastal-union/1b31rzf2#4950963",
+    "opponent": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "home": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "away": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-07T16:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951023",
+    "pageUrl": "/matches/singida-black-stars-vs-dodoma-jiji-fc/z77ftvt6#4951023",
+    "opponent": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 1
+    },
+    "home": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 1
+    },
+    "away": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-16T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950989",
+    "pageUrl": "/matches/azam-fc-vs-coastal-union/1b33nwv5#4950989",
+    "opponent": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 3
+    },
+    "home": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 3
+    },
+    "away": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-17T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950983",
+    "pageUrl": "/matches/simba-sc-vs-mtibwa-sugar/p1gikw1#4950983",
+    "opponent": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 1
+    },
+    "home": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 1
+    },
+    "away": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-18T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951018",
+    "pageUrl": "/matches/young-africans-vs-mashujaa/ho4xm5r7#4951018",
+    "opponent": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 6
+    },
+    "home": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 6
+    },
+    "away": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-19T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "6 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951019",
+    "pageUrl": "/matches/azam-fc-vs-fountain-gate-fc/fk5i7g7e#4951019",
+    "opponent": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "home": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "away": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-20T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951017",
+    "pageUrl": "/matches/jkt-tanzania-vs-singida-black-stars/vdazo8xn#4951017",
+    "opponent": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 0
+    },
+    "home": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 0
+    },
+    "away": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-20T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950969",
+    "pageUrl": "/matches/mtibwa-sugar-vs-mbeya-city/2jde6inq#4950969",
+    "opponent": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 2
+    },
+    "home": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 2
+    },
+    "away": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-21T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950970",
+    "pageUrl": "/matches/tanzania-prisons-vs-dodoma-jiji-fc/bhr0wvlo#4950970",
+    "opponent": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 1
+    },
+    "home": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 1
+    },
+    "away": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-22T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950971",
+    "pageUrl": "/matches/kinondoni-mc-vs-tra-united/165acrlyn#4950971",
+    "opponent": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 3
+    },
+    "home": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 3
+    },
+    "away": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-23T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950972",
+    "pageUrl": "/matches/coastal-union-vs-namungo-fc/c08juoae#4950972",
+    "opponent": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "home": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "away": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-23T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950973",
+    "pageUrl": "/matches/tanzania-prisons-vs-jkt-tanzania/9cnkl49j#4950973",
+    "opponent": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "home": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "away": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-25T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950974",
+    "pageUrl": "/matches/mtibwa-sugar-vs-pamba-jiji/9ildluwk#4950974",
+    "opponent": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 1
+    },
+    "home": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 1
+    },
+    "away": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-25T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951009",
+    "pageUrl": "/matches/young-africans-vs-dodoma-jiji-fc/bhqyiku9#4951009",
+    "opponent": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 3
+    },
+    "home": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 3
+    },
+    "away": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-27T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950976",
+    "pageUrl": "/matches/coastal-union-vs-kinondoni-mc/bca43jfz#4950976",
+    "opponent": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 1
+    },
+    "home": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 1
+    },
+    "away": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-27T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951011",
+    "pageUrl": "/matches/simba-sc-vs-mashujaa/ho4zlhx8#4951011",
+    "opponent": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 2
+    },
+    "home": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 2
+    },
+    "away": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-29T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950965",
+    "pageUrl": "/matches/azam-fc-vs-tra-united/i7sbqfmm#4950965",
+    "opponent": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 2
+    },
+    "home": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 2
+    },
+    "away": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-29T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950979",
+    "pageUrl": "/matches/mbeya-city-vs-pamba-jiji/ery9lyvq#4950979",
+    "opponent": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 1
+    },
+    "home": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 1
+    },
+    "away": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-30T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950978",
+    "pageUrl": "/matches/jkt-tanzania-vs-dodoma-jiji-fc/vioeekt5#4950978",
+    "opponent": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "home": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "away": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-30T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950982",
+    "pageUrl": "/matches/kinondoni-mc-vs-namungo-fc/sxs1fpee#4950982",
+    "opponent": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "home": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "away": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-01-31T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950980",
+    "pageUrl": "/matches/coastal-union-vs-tra-united/kydwy885#4950980",
+    "opponent": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 1
+    },
+    "home": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 1
+    },
+    "away": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-01T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950985",
+    "pageUrl": "/matches/tanzania-prisons-vs-mtibwa-sugar/p1gpnnk#4950985",
+    "opponent": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 2
+    },
+    "home": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 2
+    },
+    "away": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-02T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950988",
+    "pageUrl": "/matches/jkt-tanzania-vs-pamba-jiji/s6mzgqn7#4950988",
+    "opponent": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 3
+    },
+    "home": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 3
+    },
+    "away": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-02T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950987",
+    "pageUrl": "/matches/mbeya-city-vs-dodoma-jiji-fc/h7slgo9x#4950987",
+    "opponent": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 1
+    },
+    "home": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 1
+    },
+    "away": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-03T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950986",
+    "pageUrl": "/matches/kinondoni-mc-vs-mashujaa/15bbudz9t#4950986",
+    "opponent": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 1
+    },
+    "home": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 1
+    },
+    "away": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-03T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950990",
+    "pageUrl": "/matches/namungo-fc-vs-fountain-gate-fc/139geea0j#4950990",
+    "opponent": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 1
+    },
+    "home": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 1
+    },
+    "away": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-04T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950993",
+    "pageUrl": "/matches/coastal-union-vs-pamba-jiji/bith24ab#4950993",
+    "opponent": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 3
+    },
+    "home": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 3
+    },
+    "away": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-06T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950994",
+    "pageUrl": "/matches/tanzania-prisons-vs-mashujaa/ho50l60a#4950994",
+    "opponent": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "home": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "away": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-06T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951000",
+    "pageUrl": "/matches/mbeya-city-vs-tra-united/p9t7lh85#4951000",
+    "opponent": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "home": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "away": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-07T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950996",
+    "pageUrl": "/matches/mtibwa-sugar-vs-namungo-fc/9yfue1ry#4950996",
+    "opponent": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 1
+    },
+    "home": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 1
+    },
+    "away": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-07T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950995",
+    "pageUrl": "/matches/kinondoni-mc-vs-dodoma-jiji-fc/viod2xun#4950995",
+    "opponent": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 2
+    },
+    "home": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 2
+    },
+    "away": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-08T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951002",
+    "pageUrl": "/matches/jkt-tanzania-vs-mashujaa/15bbvwiq7#4951002",
+    "opponent": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "home": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "away": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-09T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951003",
+    "pageUrl": "/matches/tanzania-prisons-vs-coastal-union/1b32l3gn#4951003",
+    "opponent": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 1
+    },
+    "home": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 1
+    },
+    "away": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-10T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951004",
+    "pageUrl": "/matches/pamba-jiji-vs-namungo-fc/t87fvbte#4951004",
+    "opponent": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 1
+    },
+    "home": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 1
+    },
+    "away": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-10T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950999",
+    "pageUrl": "/matches/singida-black-stars-vs-fountain-gate-fc/16344m2yu#4950999",
+    "opponent": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "home": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "away": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-11T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950998",
+    "pageUrl": "/matches/simba-sc-vs-kinondoni-mc/9cnj57zt#4950998",
+    "opponent": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "home": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "away": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-11T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951028",
+    "pageUrl": "/matches/dodoma-jiji-fc-vs-tra-united/1aki1jr64#4951028",
+    "opponent": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 3
+    },
+    "home": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 3
+    },
+    "away": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-12T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951025",
+    "pageUrl": "/matches/coastal-union-vs-jkt-tanzania/bca4w45w#4951025",
+    "opponent": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "home": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "away": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-13T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951026",
+    "pageUrl": "/matches/mtibwa-sugar-vs-mashujaa/ho51ku3d#4951026",
+    "opponent": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 1
+    },
+    "home": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 1
+    },
+    "away": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-13T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951024",
+    "pageUrl": "/matches/tanzania-prisons-vs-namungo-fc/9yftn9w1#4951024",
+    "opponent": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 3
+    },
+    "home": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 3
+    },
+    "away": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-14T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950964",
+    "pageUrl": "/matches/mtibwa-sugar-vs-singida-black-stars/beichyhp#4950964",
+    "opponent": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 1
+    },
+    "home": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 1
+    },
+    "away": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950960",
+    "pageUrl": "/matches/azam-fc-vs-kinondoni-mc/9cnmqyoe#4950960",
+    "opponent": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "home": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "away": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950961",
+    "pageUrl": "/matches/young-africans-vs-namungo-fc/9yfrey8g#4950961",
+    "opponent": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "away": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950962",
+    "pageUrl": "/matches/simba-sc-vs-tanzania-prisons/p1gbi4i#4950962",
+    "opponent": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "home": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "away": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951001",
+    "pageUrl": "/matches/young-africans-vs-jkt-tanzania/9cnif9uy#4951001",
+    "opponent": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 5
+    },
+    "home": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 5
+    },
+    "away": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-25T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950958",
+    "pageUrl": "/matches/simba-sc-vs-dodoma-jiji-fc/bhr0440i#4950958",
+    "opponent": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "away": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-25T16:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950968",
+    "pageUrl": "/matches/mtibwa-sugar-vs-azam-fc/p1hhyq1#4950968",
+    "opponent": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 3
+    },
+    "home": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 3
+    },
+    "away": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-25T18:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950954",
+    "pageUrl": "/matches/fountain-gate-fc-vs-tra-united/1ifzhih4w#4950954",
+    "opponent": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 1
+    },
+    "home": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 1
+    },
+    "away": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-26T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951012",
+    "pageUrl": "/matches/namungo-fc-vs-singida-black-stars/wgx5aqt5#4951012",
+    "opponent": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "home": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "away": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-26T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950966",
+    "pageUrl": "/matches/young-africans-vs-simba-sc/p1fq9u5#4950966",
+    "opponent": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 0
+    },
+    "home": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 0
+    },
+    "away": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T17:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951010",
+    "pageUrl": "/matches/azam-fc-vs-pamba-jiji/9ilfsdxe#4951010",
+    "opponent": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 2
+    },
+    "home": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 2
+    },
+    "away": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-02T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950967",
+    "pageUrl": "/matches/coastal-union-vs-singida-black-stars/dl8rdmh3#4950967",
+    "opponent": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "home": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "away": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-02T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951005",
+    "pageUrl": "/matches/mbeya-city-vs-fountain-gate-fc/m4hxd7ft#4951005",
+    "opponent": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "home": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "away": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-03T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951015",
+    "pageUrl": "/matches/young-africans-vs-singida-black-stars/bei9bcef#4951015",
+    "opponent": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 0
+    },
+    "home": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 0
+    },
+    "away": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-05T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951014",
+    "pageUrl": "/matches/tanzania-prisons-vs-azam-fc/p1havye#4951014",
+    "opponent": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "home": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "away": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-05T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950975",
+    "pageUrl": "/matches/namungo-fc-vs-tra-united/17f5izpyv#4950975",
+    "opponent": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 2
+    },
+    "home": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 2
+    },
+    "away": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-11T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950991",
+    "pageUrl": "/matches/simba-sc-vs-singida-black-stars/beiawng0#4950991",
+    "opponent": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "home": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "away": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-11T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950997",
+    "pageUrl": "/matches/azam-fc-vs-dodoma-jiji-fc/bhr43xym#4950997",
+    "opponent": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "away": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-11T16:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950933",
+    "pageUrl": "/matches/young-africans-vs-tanzania-prisons/p1fxcll#4950933",
+    "opponent": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "home": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "away": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-12T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950977",
+    "pageUrl": "/matches/fountain-gate-fc-vs-mashujaa/1hhwyk1n2#4950977",
+    "opponent": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 1
+    },
+    "home": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 1
+    },
+    "away": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-13T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950959",
+    "pageUrl": "/matches/mbeya-city-vs-singida-black-stars/h3tpngnf#4950959",
+    "opponent": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 1
+    },
+    "home": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 1
+    },
+    "away": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-15T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950981",
+    "pageUrl": "/matches/young-africans-vs-azam-fc/p1gpnnn#4950981",
+    "opponent": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "home": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "away": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-15T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950992",
+    "pageUrl": "/matches/young-africans-vs-tra-united/i7s4oxap#4950992",
+    "opponent": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "home": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "away": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-18T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950984",
+    "pageUrl": "/matches/tanzania-prisons-vs-singida-black-stars/beibpayu#4950984",
+    "opponent": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 1
+    },
+    "home": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 1
+    },
+    "away": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-18T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951021",
+    "pageUrl": "/matches/azam-fc-vs-mashujaa/ho54jucs#4951021",
+    "opponent": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "home": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "away": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-19T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951016",
+    "pageUrl": "/matches/simba-sc-vs-pamba-jiji/9ilc5i85#4951016",
+    "opponent": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 1
+    },
+    "home": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 1
+    },
+    "away": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-19T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951006",
+    "pageUrl": "/matches/young-africans-vs-mtibwa-sugar/p1g4fd2#4951006",
+    "opponent": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 1
+    },
+    "home": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 1
+    },
+    "away": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-21T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951007",
+    "pageUrl": "/matches/simba-sc-vs-tra-united/i7s6pcte#4951007",
+    "opponent": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 3
+    },
+    "home": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 3
+    },
+    "away": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-22T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951008",
+    "pageUrl": "/matches/azam-fc-vs-singida-black-stars/beievx2g#4951008",
+    "opponent": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "home": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "away": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-01T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951013",
+    "pageUrl": "/matches/simba-sc-vs-coastal-union/1b32be43#4951013",
+    "opponent": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 2
+    },
+    "home": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 2
+    },
+    "away": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-02T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951042",
+    "pageUrl": "/matches/dodoma-jiji-fc-vs-fountain-gate-fc/169c45rco#4951042",
+    "opponent": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 3
+    },
+    "home": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 3
+    },
+    "away": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-03T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951043",
+    "pageUrl": "/matches/mbeya-city-vs-kinondoni-mc/ekjm7sre#4951043",
+    "opponent": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 3
+    },
+    "home": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 3
+    },
+    "away": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-03T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951045",
+    "pageUrl": "/matches/pamba-jiji-vs-mashujaa/15ns7n28t#4951045",
+    "opponent": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "home": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "away": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-04T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951047",
+    "pageUrl": "/matches/young-africans-vs-tanzania-prisons/p1fxcll#4951047",
+    "opponent": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 3
+    },
+    "home": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 3
+    },
+    "away": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-04T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951040",
+    "pageUrl": "/matches/jkt-tanzania-vs-namungo-fc/sxs2pcnm#4951040",
+    "opponent": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 2
+    },
+    "home": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 2
+    },
+    "away": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-04T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951046",
+    "pageUrl": "/matches/singida-black-stars-vs-tra-united/1adywd2uy#4951046",
+    "opponent": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 2
+    },
+    "home": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 2
+    },
+    "away": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-05T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951044",
+    "pageUrl": "/matches/simba-sc-vs-azam-fc/p1h3t6s#4951044",
+    "opponent": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "home": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "away": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-05T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951041",
+    "pageUrl": "/matches/mtibwa-sugar-vs-coastal-union/1b32ust8#4951041",
+    "opponent": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 1
+    },
+    "home": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 1
+    },
+    "away": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-06T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951029",
+    "pageUrl": "/matches/kinondoni-mc-vs-singida-black-stars/vdaycq1h#4951029",
+    "opponent": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "home": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "away": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-08T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951027",
+    "pageUrl": "/matches/young-africans-vs-pamba-jiji/9ilap5ju#4951027",
+    "opponent": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "home": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "away": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-08T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951031",
+    "pageUrl": "/matches/azam-fc-vs-mbeya-city/2jdfb2mw#4951031",
+    "opponent": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "home": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "away": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-09T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4950931",
+    "pageUrl": "/matches/simba-sc-vs-tra-united/i7s6pcte#4950931",
+    "opponent": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "home": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "away": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-09T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951034",
+    "pageUrl": "/matches/tanzania-prisons-vs-kinondoni-mc/9cnjv64o#4951034",
+    "opponent": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 1
+    },
+    "home": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 1
+    },
+    "away": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-14T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951030",
+    "pageUrl": "/matches/simba-sc-vs-fountain-gate-fc/fk5dk3fq#4951030",
+    "opponent": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "away": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-15T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951033",
+    "pageUrl": "/matches/coastal-union-vs-dodoma-jiji-fc/dos5248l#4951033",
+    "opponent": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 3
+    },
+    "home": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 3
+    },
+    "away": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-15T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951036",
+    "pageUrl": "/matches/singida-black-stars-vs-mashujaa/19ij5s76g#4951036",
+    "opponent": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 1
+    },
+    "home": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 1
+    },
+    "away": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-16T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951039",
+    "pageUrl": "/matches/young-africans-vs-mbeya-city/2jdcog18#4951039",
+    "opponent": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 6
+    },
+    "home": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 6
+    },
+    "away": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-16T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "6 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951038",
+    "pageUrl": "/matches/pamba-jiji-vs-tra-united/16hv7fndn#4951038",
+    "opponent": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 1
+    },
+    "home": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 1
+    },
+    "away": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-17T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951035",
+    "pageUrl": "/matches/azam-fc-vs-jkt-tanzania/9cnngwtd#4951035",
+    "opponent": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 3
+    },
+    "home": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 3
+    },
+    "away": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-17T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951032",
+    "pageUrl": "/matches/mtibwa-sugar-vs-fountain-gate-fc/fk5ff1cb#4951032",
+    "opponent": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 2
+    },
+    "home": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 2
+    },
+    "away": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-18T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951037",
+    "pageUrl": "/matches/simba-sc-vs-namungo-fc/9yfswi05#4951037",
+    "opponent": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "home": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 1
+    },
+    "away": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-19T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951066",
+    "pageUrl": "/matches/pamba-jiji-vs-fountain-gate-fc/12dt7vir3#4951066",
+    "opponent": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 1
+    },
+    "home": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 1
+    },
+    "away": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-30T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951068",
+    "pageUrl": "/matches/mbeya-city-vs-mashujaa/omn9rplz#4951068",
+    "opponent": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "home": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "away": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-30T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951065",
+    "pageUrl": "/matches/kinondoni-mc-vs-jkt-tanzania/rwed320w#4951065",
+    "opponent": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "home": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "away": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-30T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951067",
+    "pageUrl": "/matches/namungo-fc-vs-dodoma-jiji-fc/wmdwyhon#4951067",
+    "opponent": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "away": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-01T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951071",
+    "pageUrl": "/matches/tanzania-prisons-vs-tra-united/i7s7pkks#4951071",
+    "opponent": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "home": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "away": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-01T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951070",
+    "pageUrl": "/matches/mtibwa-sugar-vs-azam-fc/p1hhyq1#4951070",
+    "opponent": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "home": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "away": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-02T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951069",
+    "pageUrl": "/matches/coastal-union-vs-singida-black-stars/dl8rdmh3#4951069",
+    "opponent": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 2
+    },
+    "home": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 2
+    },
+    "away": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-02T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951060",
+    "pageUrl": "/matches/young-africans-vs-simba-sc/p1fq9u5#4951060",
+    "opponent": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 2
+    },
+    "home": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 2
+    },
+    "away": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-03T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951052",
+    "pageUrl": "/matches/mashujaa-vs-tra-united/1mc0xiz3a#4951052",
+    "opponent": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 1
+    },
+    "home": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 1
+    },
+    "away": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-04T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951055",
+    "pageUrl": "/matches/tanzania-prisons-vs-mbeya-city/2jddt002#4951055",
+    "opponent": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 1
+    },
+    "home": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 1
+    },
+    "away": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-04T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951054",
+    "pageUrl": "/matches/pamba-jiji-vs-singida-black-stars/vo5rnwpt#4951054",
+    "opponent": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 3
+    },
+    "home": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 3
+    },
+    "away": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-05T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951048",
+    "pageUrl": "/matches/coastal-union-vs-fountain-gate-fc/i3jhxb35#4951048",
+    "opponent": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 3
+    },
+    "home": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 3
+    },
+    "away": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-05T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951050",
+    "pageUrl": "/matches/azam-fc-vs-namungo-fc/9yfwmdfv#4951050",
+    "opponent": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 1
+    },
+    "home": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 1
+    },
+    "away": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-05T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951051",
+    "pageUrl": "/matches/young-africans-vs-kinondoni-mc/9cnhpbq6#4951051",
+    "opponent": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "home": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "away": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-06T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951053",
+    "pageUrl": "/matches/simba-sc-vs-jkt-tanzania/9cnjv64n#4951053",
+    "opponent": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 1
+    },
+    "home": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 1
+    },
+    "away": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-06T15:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951049",
+    "pageUrl": "/matches/mtibwa-sugar-vs-dodoma-jiji-fc/bhr1pn6v#4951049",
+    "opponent": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "home": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "away": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-06T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951064",
+    "pageUrl": "/matches/azam-fc-vs-tra-united/i7sbqfmm#4951064",
+    "opponent": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 4
+    },
+    "home": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 4
+    },
+    "away": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-08T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951059",
+    "pageUrl": "/matches/namungo-fc-vs-mashujaa/16kqr8mlp#4951059",
+    "opponent": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "away": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-08T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951062",
+    "pageUrl": "/matches/mtibwa-sugar-vs-singida-black-stars/beichyhp#4951062",
+    "opponent": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 4
+    },
+    "home": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 4
+    },
+    "away": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-09T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951063",
+    "pageUrl": "/matches/young-africans-vs-coastal-union/1b31rzf2#4951063",
+    "opponent": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 3
+    },
+    "home": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 3
+    },
+    "away": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-09T15:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951058",
+    "pageUrl": "/matches/mbeya-city-vs-jkt-tanzania/ekjn46se#4951058",
+    "opponent": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "home": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "away": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-09T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951056",
+    "pageUrl": "/matches/pamba-jiji-vs-dodoma-jiji-fc/vtk3qlmz#4951056",
+    "opponent": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "home": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "away": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951061",
+    "pageUrl": "/matches/simba-sc-vs-tanzania-prisons/p1gbi4i#4951061",
+    "opponent": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 4
+    },
+    "home": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 4
+    },
+    "away": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951057",
+    "pageUrl": "/matches/kinondoni-mc-vs-fountain-gate-fc/121uvsytf#4951057",
+    "opponent": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 2
+    },
+    "home": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 2
+    },
+    "away": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T17:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951078",
+    "pageUrl": "/matches/namungo-fc-vs-singida-black-stars/wgx5aqt5#4951078",
+    "opponent": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "home": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 1
+    },
+    "away": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-12T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951079",
+    "pageUrl": "/matches/jkt-tanzania-vs-tra-united/165aeap3d#4951079",
+    "opponent": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 1
+    },
+    "home": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 1
+    },
+    "away": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-12T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951072",
+    "pageUrl": "/matches/coastal-union-vs-mbeya-city/3mc9ckox#4951072",
+    "opponent": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "home": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "away": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-13T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951076",
+    "pageUrl": "/matches/young-africans-vs-dodoma-jiji-fc/bhqyiku9#4951076",
+    "opponent": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 3
+    },
+    "home": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 3
+    },
+    "away": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-13T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951073",
+    "pageUrl": "/matches/mtibwa-sugar-vs-kinondoni-mc/9cnkl49k#4951073",
+    "opponent": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 4
+    },
+    "home": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 4
+    },
+    "away": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-14T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951074",
+    "pageUrl": "/matches/tanzania-prisons-vs-fountain-gate-fc/fk5ehke0#4951074",
+    "opponent": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 1
+    },
+    "home": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 1
+    },
+    "away": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-14T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951077",
+    "pageUrl": "/matches/simba-sc-vs-mashujaa/ho4zlhx8#4951077",
+    "opponent": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "home": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "away": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-14T13:15:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951075",
+    "pageUrl": "/matches/azam-fc-vs-pamba-jiji/9ilfsdxe#4951075",
+    "opponent": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 2
+    },
+    "home": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 2
+    },
+    "away": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-14T15:30:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4951085",
+    "pageUrl": "/matches/mtibwa-sugar-vs-tra-united/i7s8psc7#4951085",
+    "opponent": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "home": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "away": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-20T13:00:00.000Z",
+      "halfs": {
+        "firstHalfStarted": "20.05.2026 15:00:00"
+      },
+      "periodLength": 45,
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951080",
+    "pageUrl": "/matches/kinondoni-mc-vs-pamba-jiji/s6my7oxo#4951080",
+    "opponent": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "home": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "away": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-20T15:30:00.000Z",
+      "halfs": {
+        "firstHalfStarted": "20.05.2026 17:30:00"
+      },
+      "periodLength": 45,
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951081",
+    "pageUrl": "/matches/dodoma-jiji-fc-vs-mashujaa/19p02zmpm#4951081",
+    "opponent": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "away": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-20T18:00:00.000Z",
+      "halfs": {
+        "firstHalfStarted": "20.05.2026 20:00:00"
+      },
+      "periodLength": 45,
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951087",
+    "pageUrl": "/matches/jkt-tanzania-vs-fountain-gate-fc/121ux9b51#4951087",
+    "opponent": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "home": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "away": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-21T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951084",
+    "pageUrl": "/matches/simba-sc-vs-coastal-union/1b32be43#4951084",
+    "opponent": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "home": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "away": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-21T15:30:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951082",
+    "pageUrl": "/matches/mbeya-city-vs-namungo-fc/fbnizh5w#4951082",
+    "opponent": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "away": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-21T18:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951086",
+    "pageUrl": "/matches/young-africans-vs-singida-black-stars/bei9bcef#4951086",
+    "opponent": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 0
+    },
+    "home": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 0
+    },
+    "away": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-22T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951083",
+    "pageUrl": "/matches/tanzania-prisons-vs-azam-fc/p1havye#4951083",
+    "opponent": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "home": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "away": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-22T15:30:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951089",
+    "pageUrl": "/matches/mtibwa-sugar-vs-jkt-tanzania/9cnlb2eg#4951089",
+    "opponent": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "home": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "away": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-24T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951088",
+    "pageUrl": "/matches/fountain-gate-fc-vs-tra-united/1ifzhih4w#4951088",
+    "opponent": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "home": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "away": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-24T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951093",
+    "pageUrl": "/matches/simba-sc-vs-dodoma-jiji-fc/bhr0440i#4951093",
+    "opponent": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 0
+    },
+    "home": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 0
+    },
+    "away": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-24T15:15:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951090",
+    "pageUrl": "/matches/coastal-union-vs-mashujaa/kdb0s7az#4951090",
+    "opponent": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "home": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "away": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-24T17:30:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951095",
+    "pageUrl": "/matches/young-africans-vs-namungo-fc/9yfrey8g#4951095",
+    "opponent": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 0
+    },
+    "home": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 0
+    },
+    "away": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-25T15:30:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951091",
+    "pageUrl": "/matches/azam-fc-vs-kinondoni-mc/9cnmqyoe#4951091",
+    "opponent": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "home": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "away": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-25T18:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951092",
+    "pageUrl": "/matches/tanzania-prisons-vs-pamba-jiji/9ilcvokc#4951092",
+    "opponent": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "home": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "away": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-26T11:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951094",
+    "pageUrl": "/matches/mbeya-city-vs-singida-black-stars/h3tpngnf#4951094",
+    "opponent": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 0
+    },
+    "home": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 0
+    },
+    "away": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-26T13:15:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951100",
+    "pageUrl": "/matches/azam-fc-vs-fountain-gate-fc/fk5i7g7e#4951100",
+    "opponent": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "away": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-12T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951097",
+    "pageUrl": "/matches/kinondoni-mc-vs-tra-united/165acrlyn#4951097",
+    "opponent": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "home": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "away": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-12T15:30:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951099",
+    "pageUrl": "/matches/coastal-union-vs-namungo-fc/c08juoae#4951099",
+    "opponent": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "home": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "away": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-12T18:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951098",
+    "pageUrl": "/matches/mtibwa-sugar-vs-mbeya-city/2jde6inq#4951098",
+    "opponent": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "home": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "away": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-13T11:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951102",
+    "pageUrl": "/matches/young-africans-vs-mashujaa/ho4xm5r7#4951102",
+    "opponent": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "home": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "away": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-13T13:15:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951101",
+    "pageUrl": "/matches/jkt-tanzania-vs-singida-black-stars/vdazo8xn#4951101",
+    "opponent": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "home": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "away": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-13T15:30:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951096",
+    "pageUrl": "/matches/tanzania-prisons-vs-dodoma-jiji-fc/bhr0wvlo#4951096",
+    "opponent": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "home": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "away": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-14T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951103",
+    "pageUrl": "/matches/simba-sc-vs-pamba-jiji/9ilc5i85#4951103",
+    "opponent": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 0
+    },
+    "home": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 0
+    },
+    "away": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-14T16:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951105",
+    "pageUrl": "/matches/coastal-union-vs-kinondoni-mc/bca43jfz#4951105",
+    "opponent": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "home": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "away": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-15T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951110",
+    "pageUrl": "/matches/namungo-fc-vs-tra-united/17f5izpyv#4951110",
+    "opponent": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "away": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-16T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951107",
+    "pageUrl": "/matches/azam-fc-vs-mashujaa/ho54jucs#4951107",
+    "opponent": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "home": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "away": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-16T16:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951108",
+    "pageUrl": "/matches/young-africans-vs-fountain-gate-fc/fk5bp5j9#4951108",
+    "opponent": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "away": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-17T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951111",
+    "pageUrl": "/matches/singida-black-stars-vs-dodoma-jiji-fc/z77ftvt6#4951111",
+    "opponent": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 0
+    },
+    "home": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 0
+    },
+    "away": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-17T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951109",
+    "pageUrl": "/matches/simba-sc-vs-mbeya-city/2jddfhcf#4951109",
+    "opponent": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "home": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "away": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-18T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951106",
+    "pageUrl": "/matches/mtibwa-sugar-vs-pamba-jiji/9ildluwk#4951106",
+    "opponent": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "home": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "away": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-18T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951104",
+    "pageUrl": "/matches/tanzania-prisons-vs-jkt-tanzania/9cnkl49j#4951104",
+    "opponent": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "home": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "away": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-18T16:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951112",
+    "pageUrl": "/matches/jkt-tanzania-vs-dodoma-jiji-fc/vioeekt5#4951112",
+    "opponent": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "away": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-24T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951113",
+    "pageUrl": "/matches/fountain-gate-fc-vs-mashujaa/1hhwyk1n2#4951113",
+    "opponent": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "away": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-24T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951114",
+    "pageUrl": "/matches/kinondoni-mc-vs-namungo-fc/sxs1fpee#4951114",
+    "opponent": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "home": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "away": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-24T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951115",
+    "pageUrl": "/matches/simba-sc-vs-mtibwa-sugar/p1gikw1#4951115",
+    "opponent": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "home": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "away": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-24T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951116",
+    "pageUrl": "/matches/mbeya-city-vs-pamba-jiji/ery9lyvq#4951116",
+    "opponent": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "home": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "away": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-24T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951117",
+    "pageUrl": "/matches/tanzania-prisons-vs-singida-black-stars/beibpayu#4951117",
+    "opponent": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 0
+    },
+    "home": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 0
+    },
+    "away": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-24T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951118",
+    "pageUrl": "/matches/coastal-union-vs-tra-united/kydwy885#4951118",
+    "opponent": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "home": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "away": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-24T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951119",
+    "pageUrl": "/matches/young-africans-vs-azam-fc/p1gpnnn#4951119",
+    "opponent": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 0
+    },
+    "home": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 0
+    },
+    "away": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-24T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951120",
+    "pageUrl": "/matches/azam-fc-vs-coastal-union/1b33nwv5#4951120",
+    "opponent": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "home": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "away": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-27T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951121",
+    "pageUrl": "/matches/mbeya-city-vs-dodoma-jiji-fc/h7slgo9x#4951121",
+    "opponent": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "away": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-27T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951122",
+    "pageUrl": "/matches/kinondoni-mc-vs-mashujaa/15bbudz9t#4951122",
+    "opponent": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "home": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "away": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-27T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951123",
+    "pageUrl": "/matches/namungo-fc-vs-fountain-gate-fc/139geea0j#4951123",
+    "opponent": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "away": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-27T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951124",
+    "pageUrl": "/matches/jkt-tanzania-vs-pamba-jiji/s6mzgqn7#4951124",
+    "opponent": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "home": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "away": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-27T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951125",
+    "pageUrl": "/matches/simba-sc-vs-singida-black-stars/beiawng0#4951125",
+    "opponent": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 0
+    },
+    "home": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 0
+    },
+    "away": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-27T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951126",
+    "pageUrl": "/matches/tanzania-prisons-vs-mtibwa-sugar/p1gpnnk#4951126",
+    "opponent": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "home": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "away": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-27T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951127",
+    "pageUrl": "/matches/young-africans-vs-tra-united/i7s4oxap#4951127",
+    "opponent": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 0
+    },
+    "home": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 0
+    },
+    "away": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-27T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951128",
+    "pageUrl": "/matches/azam-fc-vs-dodoma-jiji-fc/bhr43xym#4951128",
+    "opponent": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "home": {
+      "id": "165091",
+      "name": "Azam FC",
+      "score": 0
+    },
+    "away": {
+      "id": "1177034",
+      "name": "Dodoma Jiji FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-30T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951129",
+    "pageUrl": "/matches/coastal-union-vs-pamba-jiji/bith24ab#4951129",
+    "opponent": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "home": {
+      "id": "287669",
+      "name": "Coastal Union",
+      "score": 0
+    },
+    "away": {
+      "id": "1056183",
+      "name": "Pamba Jiji",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-30T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951130",
+    "pageUrl": "/matches/singida-black-stars-vs-fountain-gate-fc/16344m2yu#4951130",
+    "opponent": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1396530",
+      "name": "Fountain Gate FC",
+      "score": 0
+    },
+    "away": {
+      "id": "1171766",
+      "name": "Singida Black Stars",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-30T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951131",
+    "pageUrl": "/matches/young-africans-vs-jkt-tanzania/9cnif9uy#4951131",
+    "opponent": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "home": {
+      "id": "1045552",
+      "name": "JKT Tanzania",
+      "score": 0
+    },
+    "away": {
+      "id": "165084",
+      "name": "Young Africans",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-30T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951132",
+    "pageUrl": "/matches/tanzania-prisons-vs-mashujaa/ho50l60a#4951132",
+    "opponent": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "home": {
+      "id": "1499086",
+      "name": "Mashujaa",
+      "score": 0
+    },
+    "away": {
+      "id": "165087",
+      "name": "Tanzania Prisons",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-30T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951133",
+    "pageUrl": "/matches/mbeya-city-vs-tra-united/p9t7lh85#4951133",
+    "opponent": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "home": {
+      "id": "465620",
+      "name": "Mbeya City",
+      "score": 0
+    },
+    "away": {
+      "id": "1524586",
+      "name": "TRA United",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-30T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951134",
+    "pageUrl": "/matches/mtibwa-sugar-vs-namungo-fc/9yfue1ry#4951134",
+    "opponent": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "home": {
+      "id": "1084108",
+      "name": "Namungo FC",
+      "score": 0
+    },
+    "away": {
+      "id": "165088",
+      "name": "Mtibwa Sugar",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-30T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  },
+  {
+    "id": "4951135",
+    "pageUrl": "/matches/simba-sc-vs-kinondoni-mc/9cnj57zt#4951135",
+    "opponent": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 0
+    },
+    "home": {
+      "id": "165086",
+      "name": "Simba SC",
+      "score": 0
+    },
+    "away": {
+      "id": "1045551",
+      "name": "Kinondoni MC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-06-30T13:00:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  }
+]

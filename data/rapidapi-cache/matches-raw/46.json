@@ -1,0 +1,7328 @@
+[
+  {
+    "id": "4801932",
+    "pageUrl": "/matches/fc-kobenhavn-vs-viborg/2s1436#4801932",
+    "opponent": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 2
+    },
+    "home": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 2
+    },
+    "away": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-18T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801933",
+    "pageUrl": "/matches/fredericia-vs-nordsjaelland/2vmauu#4801933",
+    "opponent": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 2
+    },
+    "home": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 2
+    },
+    "away": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-20T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801934",
+    "pageUrl": "/matches/vejle-boldklub-vs-randers-fc/2ag2fv#4801934",
+    "opponent": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "home": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "away": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-20T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801935",
+    "pageUrl": "/matches/agf-vs-sonderjyske/29mjds#4801935",
+    "opponent": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 1
+    },
+    "home": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 1
+    },
+    "away": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-20T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801936",
+    "pageUrl": "/matches/fc-midtjylland-vs-ob/29bjme#4801936",
+    "opponent": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 3
+    },
+    "home": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 3
+    },
+    "away": {
+      "id": "8414",
+      "name": "OB",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-20T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801937",
+    "pageUrl": "/matches/silkeborg-vs-brondby-if/2e55bi#4801937",
+    "opponent": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 3
+    },
+    "home": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 3
+    },
+    "away": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-20T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801938",
+    "pageUrl": "/matches/agf-vs-randers-fc/28v9t7#4801938",
+    "opponent": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 1
+    },
+    "home": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 1
+    },
+    "away": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-25T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801939",
+    "pageUrl": "/matches/vejle-boldklub-vs-fc-kobenhavn/2a9alc#4801939",
+    "opponent": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 2
+    },
+    "home": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 2
+    },
+    "away": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-26T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801940",
+    "pageUrl": "/matches/ob-vs-viborg/2sa5lo#4801940",
+    "opponent": {
+      "id": "8414",
+      "name": "OB",
+      "score": 3
+    },
+    "home": {
+      "id": "8414",
+      "name": "OB",
+      "score": 3
+    },
+    "away": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-27T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801941",
+    "pageUrl": "/matches/silkeborg-vs-fredericia/2cpy79#4801941",
+    "opponent": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "home": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "away": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-27T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801942",
+    "pageUrl": "/matches/brondby-if-vs-nordsjaelland/2x6we6#4801942",
+    "opponent": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 0
+    },
+    "home": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 0
+    },
+    "away": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-27T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801943",
+    "pageUrl": "/matches/fc-midtjylland-vs-sonderjyske/2a1goj#4801943",
+    "opponent": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 6
+    },
+    "home": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 6
+    },
+    "away": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-07-28T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "6 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801944",
+    "pageUrl": "/matches/fc-kobenhavn-vs-fredericia/2cha0x#4801944",
+    "opponent": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 0
+    },
+    "home": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 0
+    },
+    "away": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-01T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801945",
+    "pageUrl": "/matches/vejle-boldklub-vs-ob/2ahht9#4801945",
+    "opponent": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 4
+    },
+    "home": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 4
+    },
+    "away": {
+      "id": "8414",
+      "name": "OB",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-01T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801946",
+    "pageUrl": "/matches/randers-fc-vs-silkeborg/2ca26s#4801946",
+    "opponent": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 1
+    },
+    "home": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 1
+    },
+    "away": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-03T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801947",
+    "pageUrl": "/matches/sonderjyske-vs-nordsjaelland/2vzico#4801947",
+    "opponent": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 3
+    },
+    "home": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 3
+    },
+    "away": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-03T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801948",
+    "pageUrl": "/matches/agf-vs-fc-midtjylland/25zalp#4801948",
+    "opponent": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 0
+    },
+    "home": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 0
+    },
+    "away": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-03T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801949",
+    "pageUrl": "/matches/brondby-if-vs-viborg/2u9pi0#4801949",
+    "opponent": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "home": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "away": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-03T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801950",
+    "pageUrl": "/matches/agf-vs-fc-kobenhavn/28okb4#4801950",
+    "opponent": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 2
+    },
+    "home": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 2
+    },
+    "away": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-08T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801951",
+    "pageUrl": "/matches/sonderjyske-vs-viborg/2t2xgi#4801951",
+    "opponent": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "home": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "away": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-08T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801952",
+    "pageUrl": "/matches/fc-midtjylland-vs-fredericia/29pqdm#4801952",
+    "opponent": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 3
+    },
+    "home": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 3
+    },
+    "away": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-10T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801953",
+    "pageUrl": "/matches/silkeborg-vs-nordsjaelland/2v6pzo#4801953",
+    "opponent": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 4
+    },
+    "home": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 4
+    },
+    "away": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-10T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801954",
+    "pageUrl": "/matches/vejle-boldklub-vs-brondby-if/2cafb6#4801954",
+    "opponent": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 2
+    },
+    "home": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 2
+    },
+    "away": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-10T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801955",
+    "pageUrl": "/matches/randers-fc-vs-ob/2c9p7e#4801955",
+    "opponent": {
+      "id": "8414",
+      "name": "OB",
+      "score": 3
+    },
+    "home": {
+      "id": "8414",
+      "name": "OB",
+      "score": 3
+    },
+    "away": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-11T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801956",
+    "pageUrl": "/matches/fc-kobenhavn-vs-nordsjaelland/2ux5fc#4801956",
+    "opponent": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 1
+    },
+    "home": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 1
+    },
+    "away": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-15T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801957",
+    "pageUrl": "/matches/fredericia-vs-sonderjyske/2dg1f6#4801957",
+    "opponent": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 3
+    },
+    "home": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 3
+    },
+    "away": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-15T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801958",
+    "pageUrl": "/matches/fc-midtjylland-vs-vejle-boldklub/27j2nn#4801958",
+    "opponent": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 0
+    },
+    "home": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 0
+    },
+    "away": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-17T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801959",
+    "pageUrl": "/matches/silkeborg-vs-viborg/2sajri#4801959",
+    "opponent": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 2
+    },
+    "home": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 2
+    },
+    "away": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-17T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801960",
+    "pageUrl": "/matches/randers-fc-vs-brondby-if/2e3bpa#4801960",
+    "opponent": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 0
+    },
+    "home": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 0
+    },
+    "away": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-17T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801961",
+    "pageUrl": "/matches/agf-vs-ob/28woot#4801961",
+    "opponent": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "home": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "away": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-18T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801962",
+    "pageUrl": "/matches/fc-kobenhavn-vs-ob/2c2uot#4801962",
+    "opponent": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 1
+    },
+    "home": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 1
+    },
+    "away": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-23T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801964",
+    "pageUrl": "/matches/fc-midtjylland-vs-silkeborg/29bwdj#4801964",
+    "opponent": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 4
+    },
+    "home": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 4
+    },
+    "away": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-24T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801963",
+    "pageUrl": "/matches/randers-fc-vs-fredericia/2co54m#4801963",
+    "opponent": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 1
+    },
+    "home": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 1
+    },
+    "away": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-24T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801965",
+    "pageUrl": "/matches/sonderjyske-vs-brondby-if/2evgci#4801965",
+    "opponent": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 2
+    },
+    "home": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 2
+    },
+    "away": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-24T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801966",
+    "pageUrl": "/matches/agf-vs-vejle-boldklub/274dnk#4801966",
+    "opponent": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 1
+    },
+    "home": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 1
+    },
+    "away": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-24T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801967",
+    "pageUrl": "/matches/viborg-vs-nordsjaelland/3crs0u#4801967",
+    "opponent": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 1
+    },
+    "home": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 1
+    },
+    "away": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-25T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801968",
+    "pageUrl": "/matches/vejle-boldklub-vs-viborg/2qaixu#4801968",
+    "opponent": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "home": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "away": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-29T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801969",
+    "pageUrl": "/matches/agf-vs-fredericia/29au5d#4801969",
+    "opponent": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 4
+    },
+    "home": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 4
+    },
+    "away": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-31T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801970",
+    "pageUrl": "/matches/silkeborg-vs-sonderjyske/2d1w70#4801970",
+    "opponent": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "home": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "away": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-31T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801971",
+    "pageUrl": "/matches/ob-vs-nordsjaelland/2v6bmi#4801971",
+    "opponent": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "home": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "away": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-31T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801972",
+    "pageUrl": "/matches/fc-kobenhavn-vs-randers-fc/2c1etn#4801972",
+    "opponent": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 1
+    },
+    "home": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 1
+    },
+    "away": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 5
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-31T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 5",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801973",
+    "pageUrl": "/matches/fc-midtjylland-vs-brondby-if/2b40n1#4801973",
+    "opponent": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 1
+    },
+    "home": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 1
+    },
+    "away": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-08-31T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801979",
+    "pageUrl": "/matches/randers-fc-vs-sonderjyske/2d02zs#4801979",
+    "opponent": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 0
+    },
+    "home": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 0
+    },
+    "away": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-12T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801974",
+    "pageUrl": "/matches/fc-kobenhavn-vs-brondby-if/2dwej6#4801974",
+    "opponent": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 2
+    },
+    "home": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 2
+    },
+    "away": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-13T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801976",
+    "pageUrl": "/matches/agf-vs-viborg/2okhjm#4801976",
+    "opponent": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "home": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "away": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-14T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801977",
+    "pageUrl": "/matches/fc-midtjylland-vs-nordsjaelland/2rv6lv#4801977",
+    "opponent": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 1
+    },
+    "home": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 1
+    },
+    "away": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-14T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801978",
+    "pageUrl": "/matches/ob-vs-silkeborg/2cbi4i#4801978",
+    "opponent": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 2
+    },
+    "home": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 2
+    },
+    "away": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-14T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801975",
+    "pageUrl": "/matches/vejle-boldklub-vs-fredericia/2avs7l#4801975",
+    "opponent": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 1
+    },
+    "home": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 1
+    },
+    "away": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-15T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801983",
+    "pageUrl": "/matches/ob-vs-fredericia/2cpl6o#4801983",
+    "opponent": {
+      "id": "8414",
+      "name": "OB",
+      "score": 3
+    },
+    "home": {
+      "id": "8414",
+      "name": "OB",
+      "score": 3
+    },
+    "away": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-19T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801982",
+    "pageUrl": "/matches/fc-midtjylland-vs-viborg/2p0pwd#4801982",
+    "opponent": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 2
+    },
+    "home": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 2
+    },
+    "away": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-20T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801985",
+    "pageUrl": "/matches/vejle-boldklub-vs-sonderjyske/2b7lio#4801985",
+    "opponent": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 2
+    },
+    "home": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 2
+    },
+    "away": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-21T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801981",
+    "pageUrl": "/matches/fc-kobenhavn-vs-silkeborg/2c37no#4801981",
+    "opponent": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 3
+    },
+    "home": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 3
+    },
+    "away": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-21T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801980",
+    "pageUrl": "/matches/agf-vs-brondby-if/2aozua#4801980",
+    "opponent": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 1
+    },
+    "home": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 1
+    },
+    "away": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-21T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801984",
+    "pageUrl": "/matches/randers-fc-vs-nordsjaelland/2v4q64#4801984",
+    "opponent": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 3
+    },
+    "home": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 3
+    },
+    "away": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-22T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801990",
+    "pageUrl": "/matches/fc-kobenhavn-vs-sonderjyske/2ct7eo#4801990",
+    "opponent": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 1
+    },
+    "home": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 1
+    },
+    "away": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-27T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801991",
+    "pageUrl": "/matches/fredericia-vs-viborg/2spwoo#4801991",
+    "opponent": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 2
+    },
+    "home": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 2
+    },
+    "away": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-28T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801988",
+    "pageUrl": "/matches/vejle-boldklub-vs-silkeborg/2ahuno#4801988",
+    "opponent": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 1
+    },
+    "home": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 1
+    },
+    "away": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-28T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801989",
+    "pageUrl": "/matches/agf-vs-nordsjaelland/2repp4#4801989",
+    "opponent": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 1
+    },
+    "home": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 1
+    },
+    "away": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-28T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801986",
+    "pageUrl": "/matches/ob-vs-brondby-if/2e4s70#4801986",
+    "opponent": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 5
+    },
+    "home": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 5
+    },
+    "away": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-28T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801987",
+    "pageUrl": "/matches/fc-midtjylland-vs-randers-fc/29a4m4#4801987",
+    "opponent": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 2
+    },
+    "home": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 2
+    },
+    "away": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-09-29T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801994",
+    "pageUrl": "/matches/ob-vs-sonderjyske/2d1j5i#4801994",
+    "opponent": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "home": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "away": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-03T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801995",
+    "pageUrl": "/matches/randers-fc-vs-viborg/2s8kym#4801995",
+    "opponent": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 2
+    },
+    "home": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 2
+    },
+    "away": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-05T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801997",
+    "pageUrl": "/matches/vejle-boldklub-vs-nordsjaelland/2t5noo#4801997",
+    "opponent": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 0
+    },
+    "home": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 0
+    },
+    "away": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-05T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801992",
+    "pageUrl": "/matches/agf-vs-silkeborg/28x1es#4801992",
+    "opponent": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 3
+    },
+    "home": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 3
+    },
+    "away": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-05T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801993",
+    "pageUrl": "/matches/fc-midtjylland-vs-fc-kobenhavn/293ehv#4801993",
+    "opponent": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 1
+    },
+    "home": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 1
+    },
+    "away": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-05T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801996",
+    "pageUrl": "/matches/fredericia-vs-brondby-if/2ejdso#4801996",
+    "opponent": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 0
+    },
+    "home": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 0
+    },
+    "away": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-05T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802001",
+    "pageUrl": "/matches/fc-kobenhavn-vs-silkeborg/2c37no#4802001",
+    "opponent": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 3
+    },
+    "home": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 3
+    },
+    "away": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-17T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801999",
+    "pageUrl": "/matches/randers-fc-vs-nordsjaelland/2v4q64#4801999",
+    "opponent": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 1
+    },
+    "home": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 1
+    },
+    "away": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-19T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802003",
+    "pageUrl": "/matches/ob-vs-viborg/2sa5lo#4802003",
+    "opponent": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "home": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "away": {
+      "id": "8414",
+      "name": "OB",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-19T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802000",
+    "pageUrl": "/matches/agf-vs-brondby-if/2aozua#4802000",
+    "opponent": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 3
+    },
+    "home": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 3
+    },
+    "away": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-19T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4801998",
+    "pageUrl": "/matches/fc-midtjylland-vs-vejle-boldklub/27j2nn#4801998",
+    "opponent": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 5
+    },
+    "home": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 5
+    },
+    "away": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-19T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802002",
+    "pageUrl": "/matches/fredericia-vs-sonderjyske/2dg1f6#4802002",
+    "opponent": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 3
+    },
+    "home": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 3
+    },
+    "away": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-20T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802004",
+    "pageUrl": "/matches/agf-vs-nordsjaelland/2repp4#4802004",
+    "opponent": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 1
+    },
+    "home": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 1
+    },
+    "away": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-24T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802006",
+    "pageUrl": "/matches/fc-midtjylland-vs-fredericia/29pqdm#4802006",
+    "opponent": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 0
+    },
+    "home": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 0
+    },
+    "away": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-26T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802009",
+    "pageUrl": "/matches/vejle-boldklub-vs-silkeborg/2ahuno#4802009",
+    "opponent": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "home": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "away": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-26T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802007",
+    "pageUrl": "/matches/randers-fc-vs-sonderjyske/2d02zs#4802007",
+    "opponent": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 0
+    },
+    "home": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 0
+    },
+    "away": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-26T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802005",
+    "pageUrl": "/matches/fc-kobenhavn-vs-viborg/2s1436#4802005",
+    "opponent": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 0
+    },
+    "home": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 0
+    },
+    "away": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-26T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802008",
+    "pageUrl": "/matches/ob-vs-brondby-if/2e4s70#4802008",
+    "opponent": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "home": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "away": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-10-27T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802014",
+    "pageUrl": "/matches/fc-kobenhavn-vs-fredericia/2cha0x#4802014",
+    "opponent": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 3
+    },
+    "home": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 3
+    },
+    "away": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-01T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802015",
+    "pageUrl": "/matches/randers-fc-vs-viborg/2s8kym#4802015",
+    "opponent": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 3
+    },
+    "home": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 3
+    },
+    "away": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-02T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802011",
+    "pageUrl": "/matches/vejle-boldklub-vs-sonderjyske/2b7lio#4802011",
+    "opponent": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 2
+    },
+    "home": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 2
+    },
+    "away": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-02T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802010",
+    "pageUrl": "/matches/ob-vs-nordsjaelland/2v6bmi#4802010",
+    "opponent": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 2
+    },
+    "home": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 2
+    },
+    "away": {
+      "id": "8414",
+      "name": "OB",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-02T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802013",
+    "pageUrl": "/matches/silkeborg-vs-brondby-if/2e55bi#4802013",
+    "opponent": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "home": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "away": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-02T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802012",
+    "pageUrl": "/matches/agf-vs-fc-midtjylland/25zalp#4802012",
+    "opponent": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 1
+    },
+    "home": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 1
+    },
+    "away": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-03T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802019",
+    "pageUrl": "/matches/ob-vs-silkeborg/2cbi4i#4802019",
+    "opponent": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "home": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "away": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-07T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802018",
+    "pageUrl": "/matches/fredericia-vs-viborg/2spwoo#4802018",
+    "opponent": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 0
+    },
+    "home": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 0
+    },
+    "away": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802020",
+    "pageUrl": "/matches/vejle-boldklub-vs-fc-kobenhavn/2a9alc#4802020",
+    "opponent": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 2
+    },
+    "home": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 2
+    },
+    "away": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802021",
+    "pageUrl": "/matches/fc-midtjylland-vs-randers-fc/29a4m4#4802021",
+    "opponent": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 0
+    },
+    "home": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 0
+    },
+    "away": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802016",
+    "pageUrl": "/matches/agf-vs-sonderjyske/29mjds#4802016",
+    "opponent": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 2
+    },
+    "home": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 2
+    },
+    "away": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802017",
+    "pageUrl": "/matches/brondby-if-vs-nordsjaelland/2x6we6#4802017",
+    "opponent": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 2
+    },
+    "home": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 2
+    },
+    "away": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-09T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802022",
+    "pageUrl": "/matches/agf-vs-silkeborg/28x1es#4802022",
+    "opponent": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "home": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "away": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-21T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802023",
+    "pageUrl": "/matches/fc-kobenhavn-vs-brondby-if/2dwej6#4802023",
+    "opponent": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 1
+    },
+    "home": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 1
+    },
+    "away": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-23T11:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802027",
+    "pageUrl": "/matches/vejle-boldklub-vs-viborg/2qaixu#4802027",
+    "opponent": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 5
+    },
+    "home": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 5
+    },
+    "away": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-23T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802024",
+    "pageUrl": "/matches/fredericia-vs-nordsjaelland/2vmauu#4802024",
+    "opponent": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 5
+    },
+    "home": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 5
+    },
+    "away": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-23T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802025",
+    "pageUrl": "/matches/fc-midtjylland-vs-sonderjyske/2a1goj#4802025",
+    "opponent": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 2
+    },
+    "home": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 2
+    },
+    "away": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-23T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802026",
+    "pageUrl": "/matches/randers-fc-vs-ob/2c9p7e#4802026",
+    "opponent": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 0
+    },
+    "home": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 0
+    },
+    "away": {
+      "id": "8414",
+      "name": "OB",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-24T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802032",
+    "pageUrl": "/matches/sonderjyske-vs-viborg/2t2xgi#4802032",
+    "opponent": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 2
+    },
+    "home": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 2
+    },
+    "away": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-28T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802028",
+    "pageUrl": "/matches/agf-vs-fc-kobenhavn/28okb4#4802028",
+    "opponent": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 2
+    },
+    "home": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 2
+    },
+    "away": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-30T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802033",
+    "pageUrl": "/matches/randers-fc-vs-silkeborg/2ca26s#4802033",
+    "opponent": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "home": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "away": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-30T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802030",
+    "pageUrl": "/matches/fc-midtjylland-vs-nordsjaelland/2rv6lv#4802030",
+    "opponent": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 6
+    },
+    "home": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 6
+    },
+    "away": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-30T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "6 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802031",
+    "pageUrl": "/matches/vejle-boldklub-vs-ob/2ahht9#4802031",
+    "opponent": {
+      "id": "8414",
+      "name": "OB",
+      "score": 3
+    },
+    "home": {
+      "id": "8414",
+      "name": "OB",
+      "score": 3
+    },
+    "away": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-11-30T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802029",
+    "pageUrl": "/matches/fredericia-vs-brondby-if/2ejdso#4802029",
+    "opponent": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 1
+    },
+    "home": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 1
+    },
+    "away": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-01T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802035",
+    "pageUrl": "/matches/ob-vs-fredericia/2cpl6o#4802035",
+    "opponent": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 1
+    },
+    "home": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 1
+    },
+    "away": {
+      "id": "8414",
+      "name": "OB",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-05T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802036",
+    "pageUrl": "/matches/silkeborg-vs-nordsjaelland/2v6pzo#4802036",
+    "opponent": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 5
+    },
+    "home": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 5
+    },
+    "away": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-07T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802039",
+    "pageUrl": "/matches/fc-midtjylland-vs-viborg/2p0pwd#4802039",
+    "opponent": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 3
+    },
+    "home": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 3
+    },
+    "away": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-07T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802037",
+    "pageUrl": "/matches/agf-vs-randers-fc/28v9t7#4802037",
+    "opponent": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 1
+    },
+    "home": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 1
+    },
+    "away": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-07T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802034",
+    "pageUrl": "/matches/fc-kobenhavn-vs-sonderjyske/2ct7eo#4802034",
+    "opponent": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 0
+    },
+    "home": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 0
+    },
+    "away": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-07T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802038",
+    "pageUrl": "/matches/vejle-boldklub-vs-brondby-if/2cafb6#4802038",
+    "opponent": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 2
+    },
+    "home": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 2
+    },
+    "away": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2025-12-08T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802042",
+    "pageUrl": "/matches/sonderjyske-vs-nordsjaelland/2vzico#4802042",
+    "opponent": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 2
+    },
+    "home": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 2
+    },
+    "away": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-08T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802043",
+    "pageUrl": "/matches/silkeborg-vs-viborg/2sajri#4802043",
+    "opponent": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "home": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "away": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-08T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802044",
+    "pageUrl": "/matches/fc-midtjylland-vs-fc-kobenhavn/293ehv#4802044",
+    "opponent": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 2
+    },
+    "home": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 2
+    },
+    "away": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-08T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802041",
+    "pageUrl": "/matches/randers-fc-vs-brondby-if/2e3bpa#4802041",
+    "opponent": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "home": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "away": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-08T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802045",
+    "pageUrl": "/matches/vejle-boldklub-vs-fredericia/2avs7l#4802045",
+    "opponent": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 2
+    },
+    "home": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 2
+    },
+    "away": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-09T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802040",
+    "pageUrl": "/matches/agf-vs-ob/28woot#4802040",
+    "opponent": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 2
+    },
+    "home": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 2
+    },
+    "away": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-09T20:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802047",
+    "pageUrl": "/matches/vejle-boldklub-vs-randers-fc/2ag2fv#4802047",
+    "opponent": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 2
+    },
+    "home": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 2
+    },
+    "away": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-13T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802046",
+    "pageUrl": "/matches/fc-kobenhavn-vs-nordsjaelland/2ux5fc#4802046",
+    "opponent": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 1
+    },
+    "home": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 1
+    },
+    "away": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-14T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802048",
+    "pageUrl": "/matches/agf-vs-fredericia/29au5d#4802048",
+    "opponent": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 1
+    },
+    "home": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 1
+    },
+    "away": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-15T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802050",
+    "pageUrl": "/matches/fc-midtjylland-vs-ob/29bjme#4802050",
+    "opponent": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "home": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "away": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-15T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802049",
+    "pageUrl": "/matches/brondby-if-vs-viborg/2u9pi0#4802049",
+    "opponent": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "home": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "away": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-15T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802051",
+    "pageUrl": "/matches/silkeborg-vs-sonderjyske/2d1w70#4802051",
+    "opponent": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 2
+    },
+    "home": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 2
+    },
+    "away": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-16T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802054",
+    "pageUrl": "/matches/vejle-boldklub-vs-nordsjaelland/2t5noo#4802054",
+    "opponent": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 3
+    },
+    "home": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 3
+    },
+    "away": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-20T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802055",
+    "pageUrl": "/matches/fc-kobenhavn-vs-ob/2c2uot#4802055",
+    "opponent": {
+      "id": "8414",
+      "name": "OB",
+      "score": 2
+    },
+    "home": {
+      "id": "8414",
+      "name": "OB",
+      "score": 2
+    },
+    "away": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-21T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802056",
+    "pageUrl": "/matches/randers-fc-vs-fredericia/2co54m#4802056",
+    "opponent": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 1
+    },
+    "home": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 1
+    },
+    "away": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802057",
+    "pageUrl": "/matches/fc-midtjylland-vs-silkeborg/29bwdj#4802057",
+    "opponent": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "home": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "away": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802052",
+    "pageUrl": "/matches/agf-vs-viborg/2okhjm#4802052",
+    "opponent": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 5
+    },
+    "home": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 5
+    },
+    "away": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-22T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802053",
+    "pageUrl": "/matches/sonderjyske-vs-brondby-if/2evgci#4802053",
+    "opponent": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "home": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "away": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-02-23T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802058",
+    "pageUrl": "/matches/fc-kobenhavn-vs-randers-fc/2c1etn#4802058",
+    "opponent": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 1
+    },
+    "home": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 1
+    },
+    "away": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802061",
+    "pageUrl": "/matches/fc-midtjylland-vs-brondby-if/2b40n1#4802061",
+    "opponent": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 0
+    },
+    "home": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 0
+    },
+    "away": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802059",
+    "pageUrl": "/matches/silkeborg-vs-fredericia/2cpy79#4802059",
+    "opponent": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 2
+    },
+    "home": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 2
+    },
+    "away": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802063",
+    "pageUrl": "/matches/ob-vs-sonderjyske/2d1j5i#4802063",
+    "opponent": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 1
+    },
+    "home": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 1
+    },
+    "away": {
+      "id": "8414",
+      "name": "OB",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802060",
+    "pageUrl": "/matches/agf-vs-vejle-boldklub/274dnk#4802060",
+    "opponent": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "home": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "away": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "4802062",
+    "pageUrl": "/matches/viborg-vs-nordsjaelland/3crs0u#4802062",
+    "opponent": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 2
+    },
+    "home": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 2
+    },
+    "away": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-01T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222317",
+    "pageUrl": "/matches/randers-fc-vs-fredericia/2co54m#5222317",
+    "opponent": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 0
+    },
+    "home": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 0
+    },
+    "away": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-13T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222350",
+    "pageUrl": "/matches/fc-midtjylland-vs-nordsjaelland/2rv6lv#5222350",
+    "opponent": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 0
+    },
+    "home": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 0
+    },
+    "away": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-15T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222318",
+    "pageUrl": "/matches/fc-kobenhavn-vs-ob/2c2uot#5222318",
+    "opponent": {
+      "id": "8414",
+      "name": "OB",
+      "score": 2
+    },
+    "home": {
+      "id": "8414",
+      "name": "OB",
+      "score": 2
+    },
+    "away": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-15T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222351",
+    "pageUrl": "/matches/agf-vs-sonderjyske/29mjds#5222351",
+    "opponent": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 1
+    },
+    "home": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 1
+    },
+    "away": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-15T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222352",
+    "pageUrl": "/matches/brondby-if-vs-viborg/2u9pi0#5222352",
+    "opponent": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "home": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "away": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-15T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222319",
+    "pageUrl": "/matches/vejle-boldklub-vs-silkeborg/2ahuno#5222319",
+    "opponent": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 1
+    },
+    "home": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 1
+    },
+    "away": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-16T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222320",
+    "pageUrl": "/matches/vejle-boldklub-vs-ob/2ahht9#5222320",
+    "opponent": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "home": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "away": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-20T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222353",
+    "pageUrl": "/matches/sonderjyske-vs-nordsjaelland/2vzico#5222353",
+    "opponent": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 2
+    },
+    "home": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 2
+    },
+    "away": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-22T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222321",
+    "pageUrl": "/matches/randers-fc-vs-silkeborg/2ca26s#5222321",
+    "opponent": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 0
+    },
+    "home": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 0
+    },
+    "away": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-22T13:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222322",
+    "pageUrl": "/matches/fc-kobenhavn-vs-fredericia/2cha0x#5222322",
+    "opponent": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 1
+    },
+    "home": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 1
+    },
+    "away": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-22T15:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222354",
+    "pageUrl": "/matches/agf-vs-brondby-if/2aozua#5222354",
+    "opponent": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 0
+    },
+    "home": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 0
+    },
+    "away": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-22T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222355",
+    "pageUrl": "/matches/fc-midtjylland-vs-viborg/2p0pwd#5222355",
+    "opponent": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "home": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "away": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-03-22T19:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222356",
+    "pageUrl": "/matches/fc-midtjylland-vs-sonderjyske/2a1goj#5222356",
+    "opponent": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 2
+    },
+    "home": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 2
+    },
+    "away": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-04T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222323",
+    "pageUrl": "/matches/fc-kobenhavn-vs-silkeborg/2c37no#5222323",
+    "opponent": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 7
+    },
+    "home": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 7
+    },
+    "away": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-05T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "7 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222324",
+    "pageUrl": "/matches/vejle-boldklub-vs-randers-fc/2ag2fv#5222324",
+    "opponent": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "home": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "away": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-06T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222325",
+    "pageUrl": "/matches/ob-vs-fredericia/2cpl6o#5222325",
+    "opponent": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "home": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "away": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-06T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222357",
+    "pageUrl": "/matches/agf-vs-viborg/2okhjm#5222357",
+    "opponent": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "home": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "away": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-06T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222358",
+    "pageUrl": "/matches/brondby-if-vs-nordsjaelland/2x6we6#5222358",
+    "opponent": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 2
+    },
+    "home": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 2
+    },
+    "away": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-07T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222359",
+    "pageUrl": "/matches/agf-vs-nordsjaelland/2repp4#5222359",
+    "opponent": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 1
+    },
+    "home": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 1
+    },
+    "away": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-10T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222326",
+    "pageUrl": "/matches/ob-vs-silkeborg/2cbi4i#5222326",
+    "opponent": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 3
+    },
+    "home": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 3
+    },
+    "away": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-12T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222360",
+    "pageUrl": "/matches/sonderjyske-vs-viborg/2t2xgi#5222360",
+    "opponent": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 0
+    },
+    "home": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 0
+    },
+    "away": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-12T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222361",
+    "pageUrl": "/matches/fc-midtjylland-vs-brondby-if/2b40n1#5222361",
+    "opponent": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 1
+    },
+    "home": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 1
+    },
+    "away": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-12T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222327",
+    "pageUrl": "/matches/fc-kobenhavn-vs-randers-fc/2c1etn#5222327",
+    "opponent": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 1
+    },
+    "home": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 1
+    },
+    "away": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-12T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222328",
+    "pageUrl": "/matches/vejle-boldklub-vs-fredericia/2avs7l#5222328",
+    "opponent": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 2
+    },
+    "home": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 2
+    },
+    "away": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-13T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222362",
+    "pageUrl": "/matches/sonderjyske-vs-brondby-if/2evgci#5222362",
+    "opponent": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 6
+    },
+    "home": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 6
+    },
+    "away": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-17T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "6 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222329",
+    "pageUrl": "/matches/randers-fc-vs-ob/2c9p7e#5222329",
+    "opponent": {
+      "id": "8414",
+      "name": "OB",
+      "score": 3
+    },
+    "home": {
+      "id": "8414",
+      "name": "OB",
+      "score": 3
+    },
+    "away": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-19T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222330",
+    "pageUrl": "/matches/silkeborg-vs-fredericia/2cpy79#5222330",
+    "opponent": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 2
+    },
+    "home": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 2
+    },
+    "away": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-19T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222363",
+    "pageUrl": "/matches/viborg-vs-nordsjaelland/3crs0u#5222363",
+    "opponent": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 2
+    },
+    "home": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 2
+    },
+    "away": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-19T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222331",
+    "pageUrl": "/matches/vejle-boldklub-vs-fc-kobenhavn/2a9alc#5222331",
+    "opponent": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "home": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "away": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-19T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222364",
+    "pageUrl": "/matches/agf-vs-fc-midtjylland/25zalp#5222364",
+    "opponent": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 2
+    },
+    "home": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 2
+    },
+    "away": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-20T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222332",
+    "pageUrl": "/matches/fc-kobenhavn-vs-ob/2c2uot#5222332",
+    "opponent": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 2
+    },
+    "home": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 2
+    },
+    "away": {
+      "id": "8414",
+      "name": "OB",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-22T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222333",
+    "pageUrl": "/matches/vejle-boldklub-vs-silkeborg/2ahuno#5222333",
+    "opponent": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "home": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "away": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-22T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222365",
+    "pageUrl": "/matches/brondby-if-vs-viborg/2u9pi0#5222365",
+    "opponent": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 0
+    },
+    "home": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 0
+    },
+    "away": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-22T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222366",
+    "pageUrl": "/matches/agf-vs-nordsjaelland/2repp4#5222366",
+    "opponent": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 1
+    },
+    "home": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 1
+    },
+    "away": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-23T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222334",
+    "pageUrl": "/matches/randers-fc-vs-fredericia/2co54m#5222334",
+    "opponent": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 2
+    },
+    "home": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 2
+    },
+    "away": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-23T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222367",
+    "pageUrl": "/matches/fc-midtjylland-vs-sonderjyske/2a1goj#5222367",
+    "opponent": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 1
+    },
+    "home": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 1
+    },
+    "away": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-23T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222335",
+    "pageUrl": "/matches/ob-vs-fredericia/2cpl6o#5222335",
+    "opponent": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 0
+    },
+    "home": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 0
+    },
+    "away": {
+      "id": "8414",
+      "name": "OB",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-26T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222336",
+    "pageUrl": "/matches/randers-fc-vs-silkeborg/2ca26s#5222336",
+    "opponent": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 2
+    },
+    "home": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 2
+    },
+    "away": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-26T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222368",
+    "pageUrl": "/matches/sonderjyske-vs-brondby-if/2evgci#5222368",
+    "opponent": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 3
+    },
+    "home": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 3
+    },
+    "away": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-26T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222369",
+    "pageUrl": "/matches/viborg-vs-nordsjaelland/3crs0u#5222369",
+    "opponent": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "home": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 1
+    },
+    "away": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-26T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222370",
+    "pageUrl": "/matches/agf-vs-fc-midtjylland/25zalp#5222370",
+    "opponent": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 0
+    },
+    "home": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 0
+    },
+    "away": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-26T18:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222337",
+    "pageUrl": "/matches/vejle-boldklub-vs-fc-kobenhavn/2a9alc#5222337",
+    "opponent": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 3
+    },
+    "home": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 3
+    },
+    "away": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-04-27T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222371",
+    "pageUrl": "/matches/brondby-if-vs-nordsjaelland/2x6we6#5222371",
+    "opponent": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 1
+    },
+    "home": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 1
+    },
+    "away": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-01T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222338",
+    "pageUrl": "/matches/ob-vs-silkeborg/2cbi4i#5222338",
+    "opponent": {
+      "id": "8414",
+      "name": "OB",
+      "score": 2
+    },
+    "home": {
+      "id": "8414",
+      "name": "OB",
+      "score": 2
+    },
+    "away": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-03T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222339",
+    "pageUrl": "/matches/vejle-boldklub-vs-randers-fc/2ag2fv#5222339",
+    "opponent": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 1
+    },
+    "home": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 1
+    },
+    "away": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-03T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222340",
+    "pageUrl": "/matches/fc-kobenhavn-vs-fredericia/2cha0x#5222340",
+    "opponent": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 3
+    },
+    "home": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 3
+    },
+    "away": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-03T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222372",
+    "pageUrl": "/matches/agf-vs-sonderjyske/29mjds#5222372",
+    "opponent": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 2
+    },
+    "home": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 2
+    },
+    "away": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-03T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222373",
+    "pageUrl": "/matches/fc-midtjylland-vs-viborg/2p0pwd#5222373",
+    "opponent": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 3
+    },
+    "home": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 3
+    },
+    "away": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-04T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "3 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222376",
+    "pageUrl": "/matches/sonderjyske-vs-viborg/2t2xgi#5222376",
+    "opponent": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 0
+    },
+    "home": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 0
+    },
+    "away": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-08T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222375",
+    "pageUrl": "/matches/fc-midtjylland-vs-nordsjaelland/2rv6lv#5222375",
+    "opponent": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 0
+    },
+    "home": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 0
+    },
+    "away": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222343",
+    "pageUrl": "/matches/vejle-boldklub-vs-fredericia/2avs7l#5222343",
+    "opponent": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 2
+    },
+    "home": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 2
+    },
+    "away": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222341",
+    "pageUrl": "/matches/fc-kobenhavn-vs-silkeborg/2c37no#5222341",
+    "opponent": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "home": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 0
+    },
+    "away": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T14:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222374",
+    "pageUrl": "/matches/agf-vs-brondby-if/2aozua#5222374",
+    "opponent": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "home": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "away": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-10T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222342",
+    "pageUrl": "/matches/randers-fc-vs-ob/2c9p7e#5222342",
+    "opponent": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 2
+    },
+    "home": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 2
+    },
+    "away": {
+      "id": "8414",
+      "name": "OB",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-11T17:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222344",
+    "pageUrl": "/matches/fc-kobenhavn-vs-randers-fc/2c1etn#5222344",
+    "opponent": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 5
+    },
+    "home": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 5
+    },
+    "away": {
+      "id": "8410",
+      "name": "Randers FC",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-17T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "5 - 0",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222345",
+    "pageUrl": "/matches/silkeborg-vs-fredericia/2cpy79#5222345",
+    "opponent": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 4
+    },
+    "home": {
+      "id": "8454",
+      "name": "Fredericia",
+      "score": 4
+    },
+    "away": {
+      "id": "8415",
+      "name": "Silkeborg",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-17T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "4 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222346",
+    "pageUrl": "/matches/vejle-boldklub-vs-ob/2ahht9#5222346",
+    "opponent": {
+      "id": "8414",
+      "name": "OB",
+      "score": 0
+    },
+    "home": {
+      "id": "8414",
+      "name": "OB",
+      "score": 0
+    },
+    "away": {
+      "id": "8231",
+      "name": "Vejle Boldklub",
+      "score": 1
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-17T12:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "0 - 1",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222379",
+    "pageUrl": "/matches/agf-vs-viborg/2okhjm#5222379",
+    "opponent": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 6
+    },
+    "home": {
+      "id": "8071",
+      "name": "AGF",
+      "score": 6
+    },
+    "away": {
+      "id": "9939",
+      "name": "Viborg",
+      "score": 2
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-17T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "6 - 2",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222377",
+    "pageUrl": "/matches/fc-midtjylland-vs-brondby-if/2b40n1#5222377",
+    "opponent": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 2
+    },
+    "home": {
+      "id": "8113",
+      "name": "FC Midtjylland",
+      "score": 2
+    },
+    "away": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 3
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-17T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "2 - 3",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5222378",
+    "pageUrl": "/matches/sonderjyske-vs-nordsjaelland/2vzico#5222378",
+    "opponent": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 1
+    },
+    "home": {
+      "id": "8487",
+      "name": "Sønderjyske",
+      "score": 1
+    },
+    "away": {
+      "id": "10202",
+      "name": "Nordsjælland",
+      "score": 4
+    },
+    "displayTournament": true,
+    "notStarted": false,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-17T16:00:00Z",
+      "finished": true,
+      "started": true,
+      "cancelled": false,
+      "awarded": false,
+      "scoreStr": "1 - 4",
+      "reason": {
+        "short": "FT",
+        "shortKey": "fulltime_short",
+        "long": "Full-Time",
+        "longKey": "finished"
+      }
+    }
+  },
+  {
+    "id": "5630434",
+    "pageUrl": "/matches/fc-kobenhavn-vs-brondby-if/2dwej6#5630434",
+    "opponent": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "home": {
+      "id": "8595",
+      "name": "Brøndby IF",
+      "score": 0
+    },
+    "away": {
+      "id": "8391",
+      "name": "FC København",
+      "score": 0
+    },
+    "displayTournament": true,
+    "notStarted": true,
+    "tournament": {
+      "stage": ""
+    },
+    "status": {
+      "utcTime": "2026-05-21T16:30:00Z",
+      "started": false,
+      "cancelled": false,
+      "finished": false
+    }
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "Agadir": {
+    "lat": 30.4278,
+    "lng": -9.5981,
+    "countryCode": "MA"
+  },
+  "CODM Meknes": {
+    "lat": 33.8965244,
+    "lng": -5.5596621,
+    "countryCode": "MA"
+  },
+  "MAS Fes": {
+    "lat": 34.0241085,
+    "lng": -5.055077,
+    "countryCode": "MA"
+  },
+  "Oujda": {
+    "lat": 34.6814,
+    "lng": -1.9086,
+    "countryCode": "MA"
+  },
+  "Rabat": {
+    "lat": 34.0209,
+    "lng": -6.8416,
+    "countryCode": "MA"
+  },
+  "Racing de Casablanca": {
+    "lat": 33.5596263,
+    "lng": -7.6495402,
+    "countryCode": "MA"
+  },
+  "Raja Casablanca": {
+    "lat": 33.544273,
+    "lng": -7.5581178,
+    "countryCode": "MA"
+  },
+  "Stade Marocain": {
+    "lat": 34.006553,
+    "lng": -6.8400387,
+    "countryCode": "MA"
+  },
+  "Tangier": {
+    "lat": 35.7595,
+    "lng": -5.834,
+    "countryCode": "MA"
+  },
+  "Union Yacoub El-Mansour": {
+    "lat": 33.968339,
+    "lng": -6.897517,
+    "countryCode": "MA"
+  },
+  "Wydad Casablanca": {
+    "lat": 33.5585264,
+    "lng": -7.6484874,
+    "countryCode": "MA"
+  }
+}

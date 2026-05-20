@@ -1,0 +1,47 @@
+{
+  "Kinshasa": {
+    "lat": -4.4419,
+    "lng": 15.2663,
+    "countryCode": "CD"
+  },
+  "Lubumbashi": {
+    "lat": -11.6876,
+    "lng": 27.5026,
+    "countryCode": "CD"
+  },
+  "Don Bosco": {
+    "lat": -11.6788396,
+    "lng": 27.4825372,
+    "countryCode": "CD"
+  },
+  "JSK": {
+    "lat": -4.3187209,
+    "lng": 15.3096555,
+    "countryCode": "CD"
+  },
+  "Manika": {
+    "lat": -5.9083972,
+    "lng": 29.1996242,
+    "countryCode": "CD"
+  },
+  "Rangers": {
+    "lat": -1.5428002,
+    "lng": 29.3030023,
+    "countryCode": "CD"
+  },
+  "Saint-Georges": {
+    "lat": -4.3918705,
+    "lng": 15.3393773,
+    "countryCode": "CD"
+  },
+  "Saint-Luc": {
+    "lat": -4.3489522,
+    "lng": 15.2511255,
+    "countryCode": "CD"
+  },
+  "Tanganyika": {
+    "lat": -6.7105797,
+    "lng": 27.9879861,
+    "countryCode": "CD"
+  }
+}

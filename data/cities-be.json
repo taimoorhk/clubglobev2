@@ -1,0 +1,92 @@
+{
+  "Anderlecht": {
+    "lat": 50.8390983,
+    "lng": 4.3296526,
+    "countryCode": "BE"
+  },
+  "Antwerp": {
+    "lat": 51.2211097,
+    "lng": 4.3997081,
+    "countryCode": "BE"
+  },
+  "Bruges": {
+    "lat": 51.2085526,
+    "lng": 3.226772,
+    "countryCode": "BE"
+  },
+  "Genk": {
+    "lat": 50.9654864,
+    "lng": 5.5001456,
+    "countryCode": "BE"
+  },
+  "Gent": {
+    "lat": 51.0538286,
+    "lng": 3.7250121,
+    "countryCode": "BE"
+  },
+  "Grasshopper": {
+    "lat": 50.8475242,
+    "lng": 4.3525604,
+    "countryCode": "BE"
+  },
+  "Lausanne": {
+    "lat": 50.830116,
+    "lng": 4.352717,
+    "countryCode": "BE"
+  },
+  "Leuven": {
+    "lat": 50.879202,
+    "lng": 4.7011675,
+    "countryCode": "BE"
+  },
+  "Mechelen": {
+    "lat": 51.0281381,
+    "lng": 4.4803453,
+    "countryCode": "BE"
+  },
+  "RAAL La Louviere": {
+    "lat": 50.4676645,
+    "lng": 4.1147271,
+    "countryCode": "BE"
+  },
+  "Servette": {
+    "lat": 46.2226927,
+    "lng": 6.1309452,
+    "countryCode": "BE"
+  },
+  "Sion": {
+    "lat": 50.9835759,
+    "lng": 4.0496985,
+    "countryCode": "BE"
+  },
+  "Sporting Charleroi": {
+    "lat": 50.4308297,
+    "lng": 4.5549463,
+    "countryCode": "BE"
+  },
+  "St.Truiden": {
+    "lat": 50.8152784,
+    "lng": 5.1858896,
+    "countryCode": "BE"
+  },
+  "Standard Liege": {
+    "lat": 50.6109577,
+    "lng": 5.5439342,
+    "countryCode": "BE"
+  },
+  "Union St.Gilloise": {
+    "lat": 50.8202247,
+    "lng": 4.3308055,
+    "countryCode": "BE"
+  },
+  "Westerlo": {
+    "lat": 51.086694,
+    "lng": 4.9168675,
+    "countryCode": "BE"
+  },
+  "Zulte Waregem": {
+    "lat": 50.9071275,
+    "lng": 3.4498834,
+    "countryCode": "BE"
+  }
+}

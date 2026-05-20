@@ -1,0 +1,27 @@
+{
+  "ASKO Kara": {
+    "lat": 9.550745,
+    "lng": 1.1905961,
+    "countryCode": "TG"
+  },
+  "Anges": {
+    "lat": 6.1941896,
+    "lng": 1.1979614,
+    "countryCode": "TG"
+  },
+  "Binah": {
+    "lat": 9.7023817,
+    "lng": 1.3106538,
+    "countryCode": "TG"
+  },
+  "Gomido": {
+    "lat": 6.9039785,
+    "lng": 0.6338947,
+    "countryCode": "TG"
+  },
+  "Maranatha": {
+    "lat": 6.154125,
+    "lng": 1.2372664,
+    "countryCode": "TG"
+  }
+}

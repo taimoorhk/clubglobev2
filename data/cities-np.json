@@ -1,0 +1,37 @@
+{
+  "Jawalakhel Youth Club": {
+    "lat": 27.6722715,
+    "lng": 85.312128,
+    "countryCode": "NP"
+  },
+  "Machhindra": {
+    "lat": 27.6704674,
+    "lng": 85.3117907,
+    "countryCode": "NP"
+  },
+  "Manang Marshyangdi Club": {
+    "lat": 27.721368,
+    "lng": 85.3096266,
+    "countryCode": "NP"
+  },
+  "Nepal Police Club": {
+    "lat": 27.7026675,
+    "lng": 85.3181068,
+    "countryCode": "NP"
+  },
+  "New Road Team": {
+    "lat": 27.6933296,
+    "lng": 85.3139747,
+    "countryCode": "NP"
+  },
+  "RCT": {
+    "lat": 28.9151457,
+    "lng": 80.3488899,
+    "countryCode": "NP"
+  },
+  "Satdobato Youth Club": {
+    "lat": 27.6229971,
+    "lng": 85.3820733,
+    "countryCode": "NP"
+  }
+}

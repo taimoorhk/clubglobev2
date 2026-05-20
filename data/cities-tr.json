@@ -1,0 +1,142 @@
+{
+  "Adana": {
+    "lat": 36.9863599,
+    "lng": 35.3252861,
+    "countryCode": "TR"
+  },
+  "Alanya": {
+    "lat": 36.8865728,
+    "lng": 30.7030242,
+    "countryCode": "TR"
+  },
+  "Antakya": {
+    "lat": 36.2025574,
+    "lng": 36.1640991,
+    "countryCode": "TR"
+  },
+  "Antalya": {
+    "lat": 36.8865728,
+    "lng": 30.7030242,
+    "countryCode": "TR"
+  },
+  "Bandırmaspor": {
+    "lat": 40.3485571,
+    "lng": 28.0062742,
+    "countryCode": "TR"
+  },
+  "Başakşehir": {
+    "lat": 41.1075794,
+    "lng": 28.7950711,
+    "countryCode": "TR"
+  },
+  "Beşiktaş": {
+    "lat": 41.0428465,
+    "lng": 29.0075283,
+    "countryCode": "TR"
+  },
+  "Bodrum": {
+    "lat": 37.0343987,
+    "lng": 27.430651,
+    "countryCode": "TR"
+  },
+  "Boluspor": {
+    "lat": 40.7315803,
+    "lng": 31.6044391,
+    "countryCode": "TR"
+  },
+  "Fatih Karagümrük": {
+    "lat": 41.0255273,
+    "lng": 28.9321636,
+    "countryCode": "TR"
+  },
+  "Fenerbahçe": {
+    "lat": 40.9696064,
+    "lng": 29.0375737,
+    "countryCode": "TR"
+  },
+  "Galatasaray": {
+    "lat": 41.0324757,
+    "lng": 28.9735828,
+    "countryCode": "TR"
+  },
+  "Gaziantep": {
+    "lat": 37.0628317,
+    "lng": 37.3792617,
+    "countryCode": "TR"
+  },
+  "Gençlerbirliği": {
+    "lat": 39.9746751,
+    "lng": 32.8158913,
+    "countryCode": "TR"
+  },
+  "Göztepe": {
+    "lat": 40.979211,
+    "lng": 29.0626291,
+    "countryCode": "TR"
+  },
+  "Igdir": {
+    "lat": 39.9218784,
+    "lng": 44.0467957,
+    "countryCode": "TR"
+  },
+  "Kasımpaşa": {
+    "lat": 39.9733957,
+    "lng": 41.6691899,
+    "countryCode": "TR"
+  },
+  "Kayseri": {
+    "lat": 38.7219011,
+    "lng": 35.4873214,
+    "countryCode": "TR"
+  },
+  "Keçiörengücü": {
+    "lat": 39.9506852,
+    "lng": 32.7774325,
+    "countryCode": "TR"
+  },
+  "Kocaelispor": {
+    "lat": 40.7681917,
+    "lng": 30.0152429,
+    "countryCode": "TR"
+  },
+  "Konya": {
+    "lat": 37.872734,
+    "lng": 32.4924376,
+    "countryCode": "TR"
+  },
+  "Pendikspor": {
+    "lat": 40.887636,
+    "lng": 29.2276524,
+    "countryCode": "TR"
+  },
+  "Rize": {
+    "lat": 40.9569617,
+    "lng": 40.884428,
+    "countryCode": "TR"
+  },
+  "Samsunspor": {
+    "lat": 41.2767919,
+    "lng": 36.3558174,
+    "countryCode": "TR"
+  },
+  "Sariyer": {
+    "lat": 41.1685803,
+    "lng": 29.0572623,
+    "countryCode": "TR"
+  },
+  "Sivas": {
+    "lat": 39.4191717,
+    "lng": 37.1012388,
+    "countryCode": "TR"
+  },
+  "Trabzon": {
+    "lat": 41.0054605,
+    "lng": 39.7301463,
+    "countryCode": "TR"
+  },
+  "Çorum": {
+    "lat": 40.5698389,
+    "lng": 34.7269292,
+    "countryCode": "TR"
+  }
+}

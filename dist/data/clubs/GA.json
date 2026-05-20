@@ -1,0 +1,258 @@
+[
+  {
+    "id": "ga-akanda-fc",
+    "name": "Akanda FC",
+    "countryCode": "GA",
+    "country": "Gabon",
+    "city": "Akanda",
+    "lat": 0.5844243,
+    "lng": 9.3522201,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GA-t1",
+    "leagueName": "Championnat National D1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ga-as-mangasport",
+    "name": "AS Mangasport",
+    "countryCode": "GA",
+    "country": "Gabon",
+    "city": "AS Mangasport",
+    "lat": -0.8440000000000001,
+    "lng": 11.616,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GA-t1",
+    "leagueName": "Championnat National D1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ga-cf-mounana",
+    "name": "CF Mounana",
+    "countryCode": "GA",
+    "country": "Gabon",
+    "city": "CF Mounana",
+    "lat": -0.8560000000000001,
+    "lng": 11.604,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GA-t1",
+    "leagueName": "Championnat National D1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ga-fc-105-libreville",
+    "name": "FC 105 Libreville",
+    "countryCode": "GA",
+    "country": "Gabon",
+    "city": "FC 105 Libreville",
+    "lat": -0.876,
+    "lng": 11.584,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GA-t1",
+    "leagueName": "Championnat National D1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ga-panth-res",
+    "name": "Panthères",
+    "countryCode": "GA",
+    "country": "Gabon",
+    "city": "Panthères",
+    "lat": -0.88,
+    "lng": 11.58,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GA-t1",
+    "leagueName": "Championnat National D1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ga-stade-mandji",
+    "name": "Stade Mandji",
+    "countryCode": "GA",
+    "country": "Gabon",
+    "city": "Stade Mandji",
+    "lat": -0.7650859999999999,
+    "lng": 8.7397387,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GA-t1",
+    "leagueName": "Championnat National D1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ga-us-bitam",
+    "name": "US Bitam",
+    "countryCode": "GA",
+    "country": "Gabon",
+    "city": "US Bitam",
+    "lat": 2.0186422,
+    "lng": 11.4944412,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GA-t1",
+    "leagueName": "Championnat National D1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ga-vantour-mangoro",
+    "name": "Vantour Mangoro",
+    "countryCode": "GA",
+    "country": "Gabon",
+    "city": "Vantour Mangoro",
+    "lat": -0.748,
+    "lng": 11.548,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-GA-t1",
+    "leagueName": "Championnat National D1",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

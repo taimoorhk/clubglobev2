@@ -1,0 +1,42 @@
+{
+  "Douala": {
+    "lat": 4.0511,
+    "lng": 9.7679,
+    "countryCode": "CM"
+  },
+  "Yaoundé": {
+    "lat": 3.848,
+    "lng": 11.5021,
+    "countryCode": "CM"
+  },
+  "Bamboutos": {
+    "lat": 5.6677763,
+    "lng": 10.2926178,
+    "countryCode": "CM"
+  },
+  "Bamenda": {
+    "lat": 5.9631,
+    "lng": 10.1591,
+    "countryCode": "CM"
+  },
+  "Fovu Baham": {
+    "lat": 5.3282309,
+    "lng": 10.3767592,
+    "countryCode": "CM"
+  },
+  "Garoua": {
+    "lat": 9.3265,
+    "lng": 13.3953,
+    "countryCode": "CM"
+  },
+  "Loum": {
+    "lat": 4.7182,
+    "lng": 9.7351,
+    "countryCode": "CM"
+  },
+  "Stade de Bertoua": {
+    "lat": 4.5768644,
+    "lng": 13.7010409,
+    "countryCode": "CM"
+  }
+}

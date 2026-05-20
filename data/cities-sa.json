@@ -1,0 +1,202 @@
+{
+  "Abha": {
+    "lat": 18.2164282,
+    "lng": 42.5043596,
+    "countryCode": "SA"
+  },
+  "Al Adalah": {
+    "lat": 25.4378483,
+    "lng": 49.6635085,
+    "countryCode": "SA"
+  },
+  "Al Anwar": {
+    "lat": 26.5318025,
+    "lng": 43.8535617,
+    "countryCode": "SA"
+  },
+  "Al Arabi": {
+    "lat": 24.6758101,
+    "lng": 46.7343021,
+    "countryCode": "SA"
+  },
+  "Al Arar": {
+    "lat": 24.7771333,
+    "lng": 46.8174327,
+    "countryCode": "SA"
+  },
+  "Al Baha": {
+    "lat": 20.2372671,
+    "lng": 41.4615479,
+    "countryCode": "SA"
+  },
+  "Al Batin": {
+    "lat": 26.2914057,
+    "lng": 44.0788916,
+    "countryCode": "SA"
+  },
+  "Al Bukayriyah": {
+    "lat": 26.1499429,
+    "lng": 43.665355,
+    "countryCode": "SA"
+  },
+  "Al Entesar": {
+    "lat": 24.770785,
+    "lng": 46.6319536,
+    "countryCode": "SA"
+  },
+  "Al Fateh": {
+    "lat": 24.7730756,
+    "lng": 46.708922,
+    "countryCode": "SA"
+  },
+  "Al Hazem": {
+    "lat": 24.5041161,
+    "lng": 46.6278353,
+    "countryCode": "SA"
+  },
+  "Al Jabalain": {
+    "lat": 24.9552252,
+    "lng": 50.6337471,
+    "countryCode": "SA"
+  },
+  "Al Jandal": {
+    "lat": 29.8059219,
+    "lng": 39.866726,
+    "countryCode": "SA"
+  },
+  "Al Jeel": {
+    "lat": 24.5039009,
+    "lng": 46.6269408,
+    "countryCode": "SA"
+  },
+  "Al Jubail": {
+    "lat": 24.6869065,
+    "lng": 46.9675034,
+    "countryCode": "SA"
+  },
+  "Al Khaleej": {
+    "lat": 26.3049378,
+    "lng": 43.9718461,
+    "countryCode": "SA"
+  },
+  "Al Kholood": {
+    "lat": 25.8881135,
+    "lng": 43.4959913,
+    "countryCode": "SA"
+  },
+  "Al Majd": {
+    "lat": 24.0666337,
+    "lng": 38.1032473,
+    "countryCode": "SA"
+  },
+  "Al Najma": {
+    "lat": 24.5311966,
+    "lng": 46.6833167,
+    "countryCode": "SA"
+  },
+  "Al Nassr": {
+    "lat": 24.7402551,
+    "lng": 46.6268507,
+    "countryCode": "SA"
+  },
+  "Al Okhdood": {
+    "lat": 17.4792977,
+    "lng": 44.181261,
+    "countryCode": "SA"
+  },
+  "Al Raed": {
+    "lat": 19.8699777,
+    "lng": 41.5586945,
+    "countryCode": "SA"
+  },
+  "Al Rawdhah": {
+    "lat": 26.4105496,
+    "lng": 43.9176348,
+    "countryCode": "SA"
+  },
+  "Al Riyadh": {
+    "lat": 24.638916,
+    "lng": 46.7160104,
+    "countryCode": "SA"
+  },
+  "Al Safa": {
+    "lat": 21.5839399,
+    "lng": 39.2123508,
+    "countryCode": "SA"
+  },
+  "Al Taawoun": {
+    "lat": 21.4377815,
+    "lng": 39.8318791,
+    "countryCode": "SA"
+  },
+  "Al Tadamun": {
+    "lat": 24.2931069,
+    "lng": 43.7445751,
+    "countryCode": "SA"
+  },
+  "Al Taee": {
+    "lat": 24.5780036,
+    "lng": 46.6965361,
+    "countryCode": "SA"
+  },
+  "Al Tai": {
+    "lat": 24.5595496,
+    "lng": 46.5774938,
+    "countryCode": "SA"
+  },
+  "Al Ula": {
+    "lat": 26.5588965,
+    "lng": 37.9596519,
+    "countryCode": "SA"
+  },
+  "Al Washm": {
+    "lat": 16.4148772,
+    "lng": 42.8634363,
+    "countryCode": "SA"
+  },
+  "Al Watan": {
+    "lat": 17.724144,
+    "lng": 43.756206,
+    "countryCode": "SA"
+  },
+  "Al Wehda": {
+    "lat": 30.0347316,
+    "lng": 31.2137113,
+    "countryCode": "SA"
+  },
+  "Al Zulfi": {
+    "lat": 26.2127194,
+    "lng": 44.7724767,
+    "countryCode": "SA"
+  },
+  "Al-Fayha": {
+    "lat": 24.683333,
+    "lng": 46.804444,
+    "countryCode": "SA"
+  },
+  "Damac": {
+    "lat": 18.1954665,
+    "lng": 42.7843996,
+    "countryCode": "SA"
+  },
+  "Dammam": {
+    "lat": 26.4207,
+    "lng": 50.0888,
+    "countryCode": "SA"
+  },
+  "Jeddah": {
+    "lat": 21.4858,
+    "lng": 39.1925,
+    "countryCode": "SA"
+  },
+  "Neom": {
+    "lat": 28.0058861,
+    "lng": 35.2027014,
+    "countryCode": "SA"
+  },
+  "Riyadh": {
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "countryCode": "SA"
+  }
+}

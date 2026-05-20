@@ -1,0 +1,162 @@
+[
+  {
+    "id": "dj-arta-solar",
+    "name": "Arta Solar",
+    "countryCode": "DJ",
+    "country": "Djibouti",
+    "city": "Arta Solar",
+    "lat": 11.792000000000002,
+    "lng": 42.652,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-DJ-t1",
+    "leagueName": "Division One",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "dj-as-port",
+    "name": "AS Port",
+    "countryCode": "DJ",
+    "country": "Djibouti",
+    "city": "AS Port",
+    "lat": 11.5321712,
+    "lng": 43.0653118,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-DJ-t1",
+    "leagueName": "Division One",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "dj-gendarmerie",
+    "name": "Gendarmerie",
+    "countryCode": "DJ",
+    "country": "Djibouti",
+    "city": "Gendarmerie",
+    "lat": 11.146357900000002,
+    "lng": 42.7623837,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-DJ-t1",
+    "leagueName": "Division One",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Firenze.Carabinieri01.JPG/330px-Firenze.Carabinieri01.JPG",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "dj-gr",
+    "name": "GR",
+    "countryCode": "DJ",
+    "country": "Djibouti",
+    "city": "GR",
+    "lat": 11.8,
+    "lng": 42.660000000000004,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-DJ-t1",
+    "leagueName": "Division One",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "dj-port-de-djibouti",
+    "name": "Port de Djibouti",
+    "countryCode": "DJ",
+    "country": "Djibouti",
+    "city": "Port de Djibouti",
+    "lat": 11.5910057,
+    "lng": 43.1794538,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-DJ-t1",
+    "leagueName": "Division One",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

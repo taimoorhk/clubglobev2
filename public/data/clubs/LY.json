@@ -1,0 +1,290 @@
+[
+  {
+    "id": "ly-al-ahli-tripoli",
+    "name": "Al Ahli Tripoli",
+    "countryCode": "LY",
+    "country": "Libya",
+    "city": "Al Ahli Tripoli",
+    "lat": 32.799759200000004,
+    "lng": 13.1615675,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LY-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ly-al-ahly-benghazi",
+    "name": "Al Ahly Benghazi",
+    "countryCode": "LY",
+    "country": "Libya",
+    "city": "Al Ahly Benghazi",
+    "lat": 27.068,
+    "lng": 16.964,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LY-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ly-al-akhdar",
+    "name": "Al Akhdar",
+    "countryCode": "LY",
+    "country": "Libya",
+    "city": "Al Akhdar",
+    "lat": 32.653999999999996,
+    "lng": 21.914,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LY-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ly-al-hilal",
+    "name": "Al Hilal",
+    "countryCode": "LY",
+    "country": "Libya",
+    "city": "Al Hilal",
+    "lat": 27.052,
+    "lng": 16.948,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LY-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ly-al-madina",
+    "name": "Al Madina",
+    "countryCode": "LY",
+    "country": "Libya",
+    "city": "Al Madina",
+    "lat": 31.318906799999997,
+    "lng": 20.5650226,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LY-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ly-al-nasr",
+    "name": "Al Nasr",
+    "countryCode": "LY",
+    "country": "Libya",
+    "city": "Al Nasr",
+    "lat": 26.94,
+    "lng": 17,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LY-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ly-al-tahaddi",
+    "name": "Al Tahaddi",
+    "countryCode": "LY",
+    "country": "Libya",
+    "city": "Al Tahaddi",
+    "lat": 32.9267623,
+    "lng": 13.1652991,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LY-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ly-al-ittihad",
+    "name": "Al-Ittihad",
+    "countryCode": "LY",
+    "country": "Libya",
+    "city": "Al-Ittihad",
+    "lat": 32.1368647,
+    "lng": 20.0770118,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LY-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ly-asswehly",
+    "name": "Asswehly",
+    "countryCode": "LY",
+    "country": "Libya",
+    "city": "Asswehly",
+    "lat": 32.3514241,
+    "lng": 15.1443341,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-LY-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

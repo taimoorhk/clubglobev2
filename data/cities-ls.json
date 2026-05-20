@@ -1,0 +1,37 @@
+{
+  "Bantu": {
+    "lat": -29.3355421,
+    "lng": 29.036707,
+    "countryCode": "LS"
+  },
+  "LCS": {
+    "lat": -29.3437718,
+    "lng": 27.5256544,
+    "countryCode": "LS"
+  },
+  "LMPS": {
+    "lat": -29.32623,
+    "lng": 27.4867797,
+    "countryCode": "LS"
+  },
+  "Lijabatho": {
+    "lat": -29.3593324,
+    "lng": 29.1798485,
+    "countryCode": "LS"
+  },
+  "Lioli": {
+    "lat": -29.2963826,
+    "lng": 27.4648154,
+    "countryCode": "LS"
+  },
+  "Manonyane": {
+    "lat": -29.3615246,
+    "lng": 28.7339924,
+    "countryCode": "LS"
+  },
+  "Matlama": {
+    "lat": -29.6565118,
+    "lng": 27.8007692,
+    "countryCode": "LS"
+  }
+}

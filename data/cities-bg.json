@@ -1,0 +1,42 @@
+{
+  "Sofia": {
+    "lat": 42.6977,
+    "lng": 23.3219,
+    "countryCode": "BG"
+  },
+  "Plovdiv": {
+    "lat": 42.1354,
+    "lng": 24.7453,
+    "countryCode": "BG"
+  },
+  "Razgrad": {
+    "lat": 43.5337,
+    "lng": 26.5411,
+    "countryCode": "BG"
+  },
+  "Varna": {
+    "lat": 43.2141,
+    "lng": 27.9147,
+    "countryCode": "BG"
+  },
+  "Burgas": {
+    "lat": 42.5048,
+    "lng": 27.4626,
+    "countryCode": "BG"
+  },
+  "Stara Zagora": {
+    "lat": 42.4258,
+    "lng": 25.6345,
+    "countryCode": "BG"
+  },
+  "Veliko Tarnovo": {
+    "lat": 43.0757,
+    "lng": 25.6172,
+    "countryCode": "BG"
+  },
+  "Blagoevgrad": {
+    "lat": 42.0209,
+    "lng": 23.0943,
+    "countryCode": "BG"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Tirana": {
+    "lat": 41.3275,
+    "lng": 19.8187,
+    "countryCode": "AL"
+  },
+  "Shkoder": {
+    "lat": 42.0683,
+    "lng": 19.5126,
+    "countryCode": "AL"
+  },
+  "Durres": {
+    "lat": 41.3231,
+    "lng": 19.4414,
+    "countryCode": "AL"
+  },
+  "Vlore": {
+    "lat": 40.4661,
+    "lng": 19.4914,
+    "countryCode": "AL"
+  },
+  "Korce": {
+    "lat": 40.6186,
+    "lng": 20.7808,
+    "countryCode": "AL"
+  },
+  "Elbasan": {
+    "lat": 41.1125,
+    "lng": 20.0822,
+    "countryCode": "AL"
+  },
+  "Kukes": {
+    "lat": 42.0807,
+    "lng": 20.4141,
+    "countryCode": "AL"
+  },
+  "Fier": {
+    "lat": 40.7275,
+    "lng": 19.5628,
+    "countryCode": "AL"
+  }
+}

@@ -1,0 +1,2786 @@
+[
+  {
+    "id": "ru-akron-togliatti",
+    "name": "Akron Togliatti",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Akron Togliatti",
+    "lat": 55.81,
+    "lng": 37.556000000000004,
+    "divisionTier": 1,
+    "leagueId": "63",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1068364.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 3,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "Krylya Sovetov",
+          "homeAway": "away",
+          "score": "4 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T10:00:00Z",
+          "opponent": "Rostov",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T14:00:00Z",
+          "opponent": "Krasnodar",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-27T17:00:00Z",
+          "opponent": "Baltika",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T14:30:00Z",
+          "opponent": "Dynamo Makhachkala",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T14:00:00Z",
+          "opponent": "Rubin",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-13T14:15:00Z",
+          "opponent": "Dinamo",
+          "homeAway": "home",
+          "score": "2 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T10:00:00Z",
+          "opponent": "CSKA",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T16:00:00Z",
+          "opponent": "Lokomotiv",
+          "homeAway": "away",
+          "score": "5 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T11:00:00Z",
+          "opponent": "Akhmat",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-arsenal-tula",
+    "name": "Arsenal Tula",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Moscow",
+    "lat": 55.7678,
+    "lng": 37.6893,
+    "divisionTier": 2,
+    "leagueId": "eastern-europe-curated-RU-t2",
+    "leagueName": "First League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-baltika",
+    "name": "Baltika",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Baltika",
+    "lat": 54.832091000000005,
+    "lng": 56.492900000000006,
+    "divisionTier": 1,
+    "leagueId": "63",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/49694.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 4,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "Dinamo",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T16:30:00Z",
+          "opponent": "Lokomotiv",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T13:30:00Z",
+          "opponent": "Rubin",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-27T17:00:00Z",
+          "opponent": "Akron Togliatti",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T16:45:00Z",
+          "opponent": "Akhmat",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T16:30:00Z",
+          "opponent": "Krasnodar",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T16:30:00Z",
+          "opponent": "Nizhny Novgorod",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T13:30:00Z",
+          "opponent": "Dynamo Makhachkala",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T17:30:00Z",
+          "opponent": "Sochi",
+          "homeAway": "home",
+          "score": "4 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T17:30:00Z",
+          "opponent": "CSKA",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-cska-moscow",
+    "name": "CSKA Moscow",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "CSKA Moscow",
+    "lat": 55.810561,
+    "lng": 37.453200700000004,
+    "divisionTier": 1,
+    "leagueId": "63",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9760.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 3,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "Lokomotiv",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T12:15:00Z",
+          "opponent": "Nizhny Novgorod",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T16:00:00Z",
+          "opponent": "Zenit",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T16:30:00Z",
+          "opponent": "Rubin",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-21T16:45:00Z",
+          "opponent": "Rostov",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T11:30:00Z",
+          "opponent": "Krylya Sovetov",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T11:00:00Z",
+          "opponent": "Sochi",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T10:00:00Z",
+          "opponent": "Akron Togliatti",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:00:00Z",
+          "opponent": "Dynamo Makhachkala",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T17:30:00Z",
+          "opponent": "Baltika",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-dagestan-regional-xi",
+    "name": "Dagestan Regional XI",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Makhachkala",
+    "lat": 42.9369,
+    "lng": 47.5167,
+    "divisionTier": 6,
+    "leagueId": "eastern-europe-curated-RU-t6",
+    "leagueName": "Regional Championship",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-dinamo-moscow",
+    "name": "Dinamo Moscow",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Dinamo Moscow",
+    "lat": 55.7097397,
+    "lng": 37.538208,
+    "divisionTier": 1,
+    "leagueId": "63",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9763.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 3,
+      "losses": 2,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "Baltika",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T17:00:00Z",
+          "opponent": "Krasnodar",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T16:30:00Z",
+          "opponent": "Lokomotiv",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T14:00:00Z",
+          "opponent": "Sochi",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T16:45:00Z",
+          "opponent": "Rubin",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T16:30:00Z",
+          "opponent": "Nizhny Novgorod",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-13T14:15:00Z",
+          "opponent": "Akron Togliatti",
+          "homeAway": "away",
+          "score": "2 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T15:00:00Z",
+          "opponent": "Torpedo Moscow",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-04-04T14:30:00Z",
+          "opponent": "Orenburg",
+          "homeAway": "home",
+          "score": "3 - 3",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T13:00:00Z",
+          "opponent": "Zenit",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-dynamo-makhachkala",
+    "name": "Dynamo Makhachkala",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Dynamo Makhachkala",
+    "lat": 42.94848210000001,
+    "lng": 47.5352059,
+    "divisionTier": 1,
+    "leagueId": "63",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1068353.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 5,
+      "losses": 4,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "Spartak",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T14:15:00Z",
+          "opponent": "Akhmat",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T11:00:00Z",
+          "opponent": "Rostov",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T14:00:00Z",
+          "opponent": "Krasnodar",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T14:30:00Z",
+          "opponent": "Akron Togliatti",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T11:30:00Z",
+          "opponent": "Zenit",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T13:30:00Z",
+          "opponent": "Lokomotiv",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T13:30:00Z",
+          "opponent": "Baltika",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T13:00:00Z",
+          "opponent": "CSKA",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T16:00:00Z",
+          "opponent": "Torpedo Moscow",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-dynamo-2-moscow",
+    "name": "Dynamo-2 Moscow",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Moscow",
+    "lat": 55.7678,
+    "lng": 37.6893,
+    "divisionTier": 4,
+    "leagueId": "eastern-europe-curated-RU-t4",
+    "leagueName": "Second League B",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-fc-krasnodar",
+    "name": "FC Krasnodar",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "FC Krasnodar",
+    "lat": 45.043153200000006,
+    "lng": 39.045239599999995,
+    "divisionTier": 1,
+    "leagueId": "63",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/168719.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 6,
+      "draws": 2,
+      "losses": 1,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "Torpedo Moscow",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "Orenburg",
+          "homeAway": "home",
+          "score": "3 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T17:00:00Z",
+          "opponent": "Dinamo",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T14:00:00Z",
+          "opponent": "Akron Togliatti",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T14:00:00Z",
+          "opponent": "Dynamo Makhachkala",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T16:45:00Z",
+          "opponent": "Spartak",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T16:30:00Z",
+          "opponent": "Baltika",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T16:30:00Z",
+          "opponent": "Zenit",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T16:45:00Z",
+          "opponent": "Akhmat",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T15:15:00Z",
+          "opponent": "Nizhny Novgorod",
+          "homeAway": "home",
+          "score": "5 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-fc-orenburg",
+    "name": "FC Orenburg",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "FC Orenburg",
+    "lat": 51.8031248,
+    "lng": 55.0298517,
+    "divisionTier": 1,
+    "leagueId": "63",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/132286.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 2,
+      "losses": 5,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "Krasnodar",
+          "homeAway": "away",
+          "score": "3 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T09:30:00Z",
+          "opponent": "Krylya Sovetov",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T11:30:00Z",
+          "opponent": "Sochi",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T11:30:00Z",
+          "opponent": "Rostov",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T14:30:00Z",
+          "opponent": "Nizhny Novgorod",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T09:00:00Z",
+          "opponent": "Lokomotiv",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T13:30:00Z",
+          "opponent": "Rubin",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T14:30:00Z",
+          "opponent": "Dinamo",
+          "homeAway": "away",
+          "score": "3 - 3",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T10:45:00Z",
+          "opponent": "Spartak",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-13T16:30:00Z",
+          "opponent": "Dynamo Makhachkala",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-fc-rostov",
+    "name": "FC Rostov",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "FC Rostov",
+    "lat": 47.2862596,
+    "lng": 39.6798736,
+    "divisionTier": 1,
+    "leagueId": "63",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8705.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 2,
+      "losses": 4,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "Zenit",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T10:00:00Z",
+          "opponent": "Akron Togliatti",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T11:00:00Z",
+          "opponent": "Dynamo Makhachkala",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T15:00:00Z",
+          "opponent": "Torpedo Moscow",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-04-25T11:30:00Z",
+          "opponent": "Orenburg",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-21T16:45:00Z",
+          "opponent": "CSKA",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T16:30:00Z",
+          "opponent": "Sochi",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T13:30:00Z",
+          "opponent": "Spartak",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T11:00:00Z",
+          "opponent": "Nizhny Novgorod",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T10:45:00Z",
+          "opponent": "Akhmat",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-fk-akhmat",
+    "name": "FK Akhmat",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "FK Akhmat",
+    "lat": 55.686,
+    "lng": 37.596000000000004,
+    "divisionTier": 1,
+    "leagueId": "63",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8708.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 5,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "Sochi",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T14:15:00Z",
+          "opponent": "Dynamo Makhachkala",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T16:30:00Z",
+          "opponent": "Nizhny Novgorod",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T16:30:00Z",
+          "opponent": "Zenit",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T16:45:00Z",
+          "opponent": "Baltika",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T14:00:00Z",
+          "opponent": "Spartak",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T11:00:00Z",
+          "opponent": "Krylya Sovetov",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T16:45:00Z",
+          "opponent": "Krasnodar",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T10:45:00Z",
+          "opponent": "Rostov",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T11:00:00Z",
+          "opponent": "Akron Togliatti",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-kazan-amateur",
+    "name": "Kazan Amateur",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Kazan",
+    "lat": 55.8481,
+    "lng": 49.0544,
+    "divisionTier": 5,
+    "leagueId": "eastern-europe-curated-RU-t5",
+    "leagueName": "Amateur Football League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-kazan-city-xi",
+    "name": "Kazan City XI",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Kazan",
+    "lat": 55.7241,
+    "lng": 49.0944,
+    "divisionTier": 7,
+    "leagueId": "eastern-europe-curated-RU-t7",
+    "leagueName": "City League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-krasnodar-regional-xi",
+    "name": "Krasnodar Regional XI",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Krasnodar",
+    "lat": 45.079499999999996,
+    "lng": 38.915299999999995,
+    "divisionTier": 6,
+    "leagueId": "eastern-europe-curated-RU-t6",
+    "leagueName": "Regional Championship",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-krasnodar-2",
+    "name": "Krasnodar-2",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Krasnodar",
+    "lat": 44.9675,
+    "lng": 38.967299999999994,
+    "divisionTier": 3,
+    "leagueId": "eastern-europe-curated-RU-t3",
+    "leagueName": "Second League A",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-krylia-sovetov-2",
+    "name": "Krylia Sovetov-2",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Samara",
+    "lat": 53.2599,
+    "lng": 50.0608,
+    "divisionTier": 4,
+    "leagueId": "eastern-europe-curated-RU-t4",
+    "leagueName": "Second League B",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-krylya-sovetov-samara",
+    "name": "Krylya Sovetov Samara",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Krylya Sovetov Samara",
+    "lat": 55.726,
+    "lng": 37.636,
+    "divisionTier": 1,
+    "leagueId": "63",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8709.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 3,
+      "losses": 3,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "Akron Togliatti",
+          "homeAway": "home",
+          "score": "4 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T09:30:00Z",
+          "opponent": "Orenburg",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T15:00:00Z",
+          "opponent": "Torpedo Moscow",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-05-01T14:00:00Z",
+          "opponent": "Spartak",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T14:00:00Z",
+          "opponent": "Lokomotiv",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-21T14:30:00Z",
+          "opponent": "Sochi",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T11:30:00Z",
+          "opponent": "CSKA",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T11:00:00Z",
+          "opponent": "Akhmat",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T12:15:00Z",
+          "opponent": "Zenit",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T13:30:00Z",
+          "opponent": "Rubin",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-lokomotiv-moscow",
+    "name": "Lokomotiv Moscow",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Lokomotiv Moscow",
+    "lat": 55.8041325,
+    "lng": 37.8060075,
+    "divisionTier": 1,
+    "leagueId": "63",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8710.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 3,
+      "losses": 3,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "CSKA",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T16:30:00Z",
+          "opponent": "Baltika",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T16:30:00Z",
+          "opponent": "Dinamo",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T14:00:00Z",
+          "opponent": "Krylya Sovetov",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T16:45:00Z",
+          "opponent": "Zenit",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T15:00:00Z",
+          "opponent": "Torpedo Moscow",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-04-18T09:00:00Z",
+          "opponent": "Orenburg",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T13:30:00Z",
+          "opponent": "Dynamo Makhachkala",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T16:30:00Z",
+          "opponent": "Spartak",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T16:00:00Z",
+          "opponent": "Akron Togliatti",
+          "homeAway": "home",
+          "score": "5 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-lokomotiv-m-moscow",
+    "name": "Lokomotiv-M Moscow",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Moscow",
+    "lat": 55.7958,
+    "lng": 37.5533,
+    "divisionTier": 5,
+    "leagueId": "eastern-europe-curated-RU-t5",
+    "leagueName": "Amateur Football League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-moscow-city-xi",
+    "name": "Moscow City XI",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Moscow",
+    "lat": 55.7638,
+    "lng": 37.6853,
+    "divisionTier": 7,
+    "leagueId": "eastern-europe-curated-RU-t7",
+    "leagueName": "City League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-moscow-regional-xi",
+    "name": "Moscow Regional XI",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Moscow",
+    "lat": 55.8278,
+    "lng": 37.585300000000004,
+    "divisionTier": 6,
+    "leagueId": "eastern-europe-curated-RU-t6",
+    "leagueName": "Regional Championship",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-murom",
+    "name": "Murom",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Moscow",
+    "lat": 55.8358,
+    "lng": 37.5933,
+    "divisionTier": 3,
+    "leagueId": "eastern-europe-curated-RU-t3",
+    "leagueName": "Second League A",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-nizhny-novgorod",
+    "name": "Nizhny Novgorod",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Nizhny Novgorod",
+    "lat": 56.2464816,
+    "lng": 43.985139499999995,
+    "divisionTier": 1,
+    "leagueId": "63",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/657508.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 3,
+      "losses": 6,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "Rubin",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T12:15:00Z",
+          "opponent": "CSKA",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T16:30:00Z",
+          "opponent": "Akhmat",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T11:00:00Z",
+          "opponent": "Spartak",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T15:00:00Z",
+          "opponent": "Torpedo Moscow",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-04-22T14:30:00Z",
+          "opponent": "Orenburg",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T16:30:00Z",
+          "opponent": "Dinamo",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T16:30:00Z",
+          "opponent": "Baltika",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T11:00:00Z",
+          "opponent": "Rostov",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T15:15:00Z",
+          "opponent": "Krasnodar",
+          "homeAway": "away",
+          "score": "5 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-nizhny-novgorod-2",
+    "name": "Nizhny Novgorod-2",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Nizhny Novgorod",
+    "lat": 56.3525,
+    "lng": 43.8881,
+    "divisionTier": 4,
+    "leagueId": "eastern-europe-curated-RU-t4",
+    "leagueName": "Second League B",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/657508.png",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-pfc-sochi",
+    "name": "PFC Sochi",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "PFC Sochi",
+    "lat": 55.778,
+    "lng": 37.524,
+    "divisionTier": 1,
+    "leagueId": "63",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/195601.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 4,
+      "draws": 1,
+      "losses": 4,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "Akhmat",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T12:00:00Z",
+          "opponent": "Zenit",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T11:30:00Z",
+          "opponent": "Orenburg",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T15:00:00Z",
+          "opponent": "Torpedo Moscow",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-04-26T14:00:00Z",
+          "opponent": "Dinamo",
+          "homeAway": "away",
+          "score": "2 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-21T14:30:00Z",
+          "opponent": "Krylya Sovetov",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-17T16:30:00Z",
+          "opponent": "Rostov",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T11:00:00Z",
+          "opponent": "CSKA",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T16:30:00Z",
+          "opponent": "Rubin",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T17:30:00Z",
+          "opponent": "Baltika",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-rostov-city-xi",
+    "name": "Rostov City XI",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Rostov",
+    "lat": 47.2117,
+    "lng": 39.737500000000004,
+    "divisionTier": 7,
+    "leagueId": "eastern-europe-curated-RU-t7",
+    "leagueName": "City League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-rotor-volgograd",
+    "name": "Rotor Volgograd",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Rostov",
+    "lat": 47.2757,
+    "lng": 39.6375,
+    "divisionTier": 2,
+    "leagueId": "eastern-europe-curated-RU-t2",
+    "leagueName": "First League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-rubin-kazan",
+    "name": "Rubin Kazan",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Rubin Kazan",
+    "lat": 55.7886429,
+    "lng": 49.1520473,
+    "divisionTier": 1,
+    "leagueId": "63",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8683.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 3,
+      "draws": 5,
+      "losses": 1,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "Nizhny Novgorod",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T14:30:00Z",
+          "opponent": "Spartak",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T13:30:00Z",
+          "opponent": "Baltika",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T16:30:00Z",
+          "opponent": "CSKA",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T16:45:00Z",
+          "opponent": "Dinamo",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-18T14:00:00Z",
+          "opponent": "Akron Togliatti",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T15:00:00Z",
+          "opponent": "Torpedo Moscow",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        },
+        {
+          "date": "2026-04-11T13:30:00Z",
+          "opponent": "Orenburg",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-06T16:30:00Z",
+          "opponent": "Sochi",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T13:30:00Z",
+          "opponent": "Krylya Sovetov",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-rubin-2-kazan",
+    "name": "Rubin-2 Kazan",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Kazan",
+    "lat": 55.7241,
+    "lng": 49.0944,
+    "divisionTier": 3,
+    "leagueId": "eastern-europe-curated-RU-t3",
+    "leagueName": "Second League A",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-saint-petersburg-city-xi",
+    "name": "Saint Petersburg City XI",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Saint Petersburg",
+    "lat": 59.8511,
+    "lng": 30.3409,
+    "divisionTier": 7,
+    "leagueId": "eastern-europe-curated-RU-t7",
+    "leagueName": "City League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-samara-regional-xi",
+    "name": "Samara Regional XI",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Samara",
+    "lat": 53.1879,
+    "lng": 50.1528,
+    "divisionTier": 6,
+    "leagueId": "eastern-europe-curated-RU-t6",
+    "leagueName": "Regional Championship",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-shinnik-yaroslavl",
+    "name": "Shinnik Yaroslavl",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Yaroslavl",
+    "lat": 57.5581,
+    "lng": 39.8765,
+    "divisionTier": 2,
+    "leagueId": "eastern-europe-curated-RU-t2",
+    "leagueName": "First League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-sochi-amateur",
+    "name": "Sochi Amateur",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Sochi",
+    "lat": 43.6135,
+    "lng": 39.6471,
+    "divisionTier": 5,
+    "leagueId": "eastern-europe-curated-RU-t5",
+    "leagueName": "Amateur Football League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-spartak-moscow",
+    "name": "Spartak Moscow",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Spartak Moscow",
+    "lat": 55.8895885,
+    "lng": 37.4086099,
+    "divisionTier": 1,
+    "leagueId": "63",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8643.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 2,
+      "losses": 2,
+      "cancelled": 1,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "Dynamo Makhachkala",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-11T14:30:00Z",
+          "opponent": "Rubin",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-01T14:00:00Z",
+          "opponent": "Krylya Sovetov",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T11:00:00Z",
+          "opponent": "Nizhny Novgorod",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T16:45:00Z",
+          "opponent": "Krasnodar",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T14:00:00Z",
+          "opponent": "Akhmat",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T13:30:00Z",
+          "opponent": "Rostov",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-05T16:30:00Z",
+          "opponent": "Lokomotiv",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T10:45:00Z",
+          "opponent": "Orenburg",
+          "homeAway": "away",
+          "score": "0 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-21T16:00:00Z",
+          "opponent": "Torpedo Moscow",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "C",
+          "competition": "",
+          "status": "Can"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-spartak-2-moscow",
+    "name": "Spartak-2 Moscow",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Moscow",
+    "lat": 55.8198,
+    "lng": 37.5773,
+    "divisionTier": 4,
+    "leagueId": "eastern-europe-curated-RU-t4",
+    "leagueName": "Second League B",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-sshor-zenit",
+    "name": "SShOR Zenit",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Saint Petersburg",
+    "lat": 59.9951,
+    "lng": 30.3209,
+    "divisionTier": 5,
+    "leagueId": "eastern-europe-curated-RU-t5",
+    "leagueName": "Amateur Football League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-start",
+    "name": "Start",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Start",
+    "lat": 64.52705479999999,
+    "lng": 40.589501799999994,
+    "divisionTier": 1,
+    "leagueId": "59",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9919.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-torpedo-moscow",
+    "name": "Torpedo Moscow",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Moscow",
+    "lat": 55.6918,
+    "lng": 37.6133,
+    "divisionTier": 2,
+    "leagueId": "eastern-europe-curated-RU-t2",
+    "leagueName": "First League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-v-lerenga",
+    "name": "Vålerenga",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Vålerenga",
+    "lat": 55.79,
+    "lng": 37.536,
+    "divisionTier": 1,
+    "leagueId": "59",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8007.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-zenit-st-petersburg",
+    "name": "Zenit St. Petersburg",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Zenit St. Petersburg",
+    "lat": 59.9439562,
+    "lng": 30.2439155,
+    "divisionTier": 1,
+    "leagueId": "63",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8698.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 8,
+      "draws": 2,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-17T15:00:00Z",
+          "opponent": "Rostov",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T12:00:00Z",
+          "opponent": "Sochi",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-02T16:00:00Z",
+          "opponent": "CSKA",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-26T16:30:00Z",
+          "opponent": "Akhmat",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-22T16:45:00Z",
+          "opponent": "Lokomotiv",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-19T11:30:00Z",
+          "opponent": "Dynamo Makhachkala",
+          "homeAway": "away",
+          "score": "0 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T16:30:00Z",
+          "opponent": "Krasnodar",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-04T12:15:00Z",
+          "opponent": "Krylya Sovetov",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-22T13:00:00Z",
+          "opponent": "Dinamo",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:00:00Z",
+          "opponent": "Spartak",
+          "homeAway": "home",
+          "score": "2 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "ru-zenit-2-saint-petersburg",
+    "name": "Zenit-2 Saint Petersburg",
+    "countryCode": "RU",
+    "country": "Russia",
+    "city": "Saint Petersburg",
+    "lat": 59.9711,
+    "lng": 30.2969,
+    "divisionTier": 3,
+    "leagueId": "eastern-europe-curated-RU-t3",
+    "leagueName": "Second League A",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "eastern-europe-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

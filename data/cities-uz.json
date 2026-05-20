@@ -1,0 +1,182 @@
+{
+  "AGMK": {
+    "lat": 40.8449331,
+    "lng": 69.6006288,
+    "countryCode": "UZ"
+  },
+  "Andijan": {
+    "lat": 40.7833471,
+    "lng": 72.3506746,
+    "countryCode": "UZ"
+  },
+  "Andijon": {
+    "lat": 40.7833471,
+    "lng": 72.3506746,
+    "countryCode": "UZ"
+  },
+  "Bekobod": {
+    "lat": 40.2320291,
+    "lng": 69.2531407,
+    "countryCode": "UZ"
+  },
+  "Bunyodkor": {
+    "lat": 41.3118987,
+    "lng": 69.2430959,
+    "countryCode": "UZ"
+  },
+  "Bunyodkor Tashkent": {
+    "lat": 41.272175,
+    "lng": 69.2057019,
+    "countryCode": "UZ"
+  },
+  "Buxoro": {
+    "lat": 39.7759835,
+    "lng": 64.415153,
+    "countryCode": "UZ"
+  },
+  "Dinamo Samarkand": {
+    "lat": 39.6591002,
+    "lng": 66.948721,
+    "countryCode": "UZ"
+  },
+  "Dinamo Samarqand": {
+    "lat": 39.6591002,
+    "lng": 66.948721,
+    "countryCode": "UZ"
+  },
+  "Farg'ona": {
+    "lat": 40.3764879,
+    "lng": 71.7913193,
+    "countryCode": "UZ"
+  },
+  "G'ijduvon": {
+    "lat": 40.1029573,
+    "lng": 64.6828621,
+    "countryCode": "UZ"
+  },
+  "Jizzax": {
+    "lat": 40.1331797,
+    "lng": 67.8234081,
+    "countryCode": "UZ"
+  },
+  "Kokand": {
+    "lat": 40.5408463,
+    "lng": 70.9473889,
+    "countryCode": "UZ"
+  },
+  "Kokand-1912": {
+    "lat": 40.5408463,
+    "lng": 70.9473889,
+    "countryCode": "UZ"
+  },
+  "Lokomotiv Tashkent": {
+    "lat": 41.2599624,
+    "lng": 69.285117,
+    "countryCode": "UZ"
+  },
+  "Mash'al": {
+    "lat": 39.1113873,
+    "lng": 66.7777671,
+    "countryCode": "UZ"
+  },
+  "Namangan": {
+    "lat": 40.9996482,
+    "lng": 71.6726238,
+    "countryCode": "UZ"
+  },
+  "Nasaf": {
+    "lat": 38.8514794,
+    "lng": 65.7886375,
+    "countryCode": "UZ"
+  },
+  "Nasaf Qarshi": {
+    "lat": 38.8514794,
+    "lng": 65.7886375,
+    "countryCode": "UZ"
+  },
+  "Navbahor": {
+    "lat": 40.9539936,
+    "lng": 71.6728826,
+    "countryCode": "UZ"
+  },
+  "Navbahor Namangan": {
+    "lat": 40.9539936,
+    "lng": 71.6728826,
+    "countryCode": "UZ"
+  },
+  "Navoiy": {
+    "lat": 42,
+    "lng": 64,
+    "countryCode": "UZ"
+  },
+  "Neftchi Farg'ona": {
+    "lat": 40.4463051,
+    "lng": 71.7670633,
+    "countryCode": "UZ"
+  },
+  "Neftchi Fargona": {
+    "lat": 40.4463051,
+    "lng": 71.7670633,
+    "countryCode": "UZ"
+  },
+  "Nukus": {
+    "lat": 42.4600229,
+    "lng": 59.6176603,
+    "countryCode": "UZ"
+  },
+  "Olmaliq": {
+    "lat": 40.845729,
+    "lng": 69.6071609,
+    "countryCode": "UZ"
+  },
+  "Pakhtakor": {
+    "lat": 41.3177914,
+    "lng": 69.2550882,
+    "countryCode": "UZ"
+  },
+  "Pakhtakor Tashkent": {
+    "lat": 41.3177914,
+    "lng": 69.2550882,
+    "countryCode": "UZ"
+  },
+  "Qarshi": {
+    "lat": 38.839824,
+    "lng": 65.7927794,
+    "countryCode": "UZ"
+  },
+  "Qizilqum": {
+    "lat": 40.5807798,
+    "lng": 67.1471019,
+    "countryCode": "UZ"
+  },
+  "Shurtan": {
+    "lat": 38.6826246,
+    "lng": 66.0043511,
+    "countryCode": "UZ"
+  },
+  "Sogdiana": {
+    "lat": 39.6479514,
+    "lng": 66.9602702,
+    "countryCode": "UZ"
+  },
+  "Surkhon": {
+    "lat": 37.8691676,
+    "lng": 67.664115,
+    "countryCode": "UZ"
+  },
+  "Termiz": {
+    "lat": 37.2442466,
+    "lng": 67.283151,
+    "countryCode": "UZ"
+  },
+  "Urganch": {
+    "lat": 41.5517903,
+    "lng": 60.631281,
+    "countryCode": "UZ"
+  },
+  "Xorazm": {
+    "lat": 41.4203897,
+    "lng": 60.5481182,
+    "countryCode": "UZ"
+  }
+}

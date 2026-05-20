@@ -1,0 +1,167 @@
+{
+  "Academico Viseu": {
+    "lat": 40.661018,
+    "lng": -7.905374,
+    "countryCode": "PT"
+  },
+  "Alverca": {
+    "lat": 38.8905595,
+    "lng": -9.0335822,
+    "countryCode": "PT"
+  },
+  "Arouca": {
+    "lat": 40.9289214,
+    "lng": -8.2441746,
+    "countryCode": "PT"
+  },
+  "Benfica B": {
+    "lat": 38.7532868,
+    "lng": -9.1962076,
+    "countryCode": "PT"
+  },
+  "Braga": {
+    "lat": 41.5510583,
+    "lng": -8.4280045,
+    "countryCode": "PT"
+  },
+  "Casa Pia": {
+    "lat": 41.1437755,
+    "lng": -8.6081181,
+    "countryCode": "PT"
+  },
+  "Chaves": {
+    "lat": 41.7399003,
+    "lng": -7.4715213,
+    "countryCode": "PT"
+  },
+  "Estoril": {
+    "lat": 38.7095707,
+    "lng": -9.3901368,
+    "countryCode": "PT"
+  },
+  "Estrela da Amadora": {
+    "lat": 38.7514958,
+    "lng": -9.2271488,
+    "countryCode": "PT"
+  },
+  "FC Porto B": {
+    "lat": 41.3627496,
+    "lng": -8.7401457,
+    "countryCode": "PT"
+  },
+  "Famalicao": {
+    "lat": 41.4064621,
+    "lng": -8.5187849,
+    "countryCode": "PT"
+  },
+  "Farense": {
+    "lat": 37.0006425,
+    "lng": -7.9531253,
+    "countryCode": "PT"
+  },
+  "Feirense": {
+    "lat": 40.9271044,
+    "lng": -8.5466116,
+    "countryCode": "PT"
+  },
+  "Felgueiras 1932": {
+    "lat": 41.3648572,
+    "lng": -8.1989013,
+    "countryCode": "PT"
+  },
+  "Gil Vicente": {
+    "lat": 38.6954657,
+    "lng": -9.30036,
+    "countryCode": "PT"
+  },
+  "Leixoes": {
+    "lat": 41.1864507,
+    "lng": -8.6961588,
+    "countryCode": "PT"
+  },
+  "Lisbon": {
+    "lat": 38.7223,
+    "lng": -9.1393,
+    "countryCode": "PT"
+  },
+  "Lusitania Lourosa": {
+    "lat": 40.9785043,
+    "lng": -8.5407733,
+    "countryCode": "PT"
+  },
+  "Maritimo": {
+    "lat": 38.6983386,
+    "lng": -9.4195922,
+    "countryCode": "PT"
+  },
+  "Moreirense": {
+    "lat": 41.3780317,
+    "lng": -8.3549951,
+    "countryCode": "PT"
+  },
+  "Nacional": {
+    "lat": 40.2132004,
+    "lng": -8.4325585,
+    "countryCode": "PT"
+  },
+  "Oliveirense": {
+    "lat": 41.1312806,
+    "lng": -8.5794899,
+    "countryCode": "PT"
+  },
+  "Pacos de Ferreira": {
+    "lat": 41.290118,
+    "lng": -8.378194,
+    "countryCode": "PT"
+  },
+  "Penafiel": {
+    "lat": 41.2061892,
+    "lng": -8.2855653,
+    "countryCode": "PT"
+  },
+  "Portimonense": {
+    "lat": 37.1366247,
+    "lng": -8.540189,
+    "countryCode": "PT"
+  },
+  "Porto": {
+    "lat": 41.1579,
+    "lng": -8.6291,
+    "countryCode": "PT"
+  },
+  "Rio Ave": {
+    "lat": 41.4441904,
+    "lng": -8.3629345,
+    "countryCode": "PT"
+  },
+  "Santa Clara": {
+    "lat": 38.7860598,
+    "lng": -9.1533613,
+    "countryCode": "PT"
+  },
+  "Tondela": {
+    "lat": 40.51642,
+    "lng": -8.08053,
+    "countryCode": "PT"
+  },
+  "Torreense": {
+    "lat": 39.190739,
+    "lng": -9.1845599,
+    "countryCode": "PT"
+  },
+  "Uniao de Leiria": {
+    "lat": 39.7449565,
+    "lng": -8.8072276,
+    "countryCode": "PT"
+  },
+  "Vitoria de Guimaraes": {
+    "lat": -23.4258877,
+    "lng": -47.4687898,
+    "countryCode": "PT"
+  },
+  "Vizela": {
+    "lat": 41.3767158,
+    "lng": -8.3083651,
+    "countryCode": "PT"
+  }
+}

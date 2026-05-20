@@ -1,0 +1,147 @@
+{
+  "Abu Dhabi": {
+    "lat": 24.4539,
+    "lng": 54.3773,
+    "countryCode": "AE"
+  },
+  "Ajman": {
+    "lat": 25.4064625,
+    "lng": 55.5555044,
+    "countryCode": "AE"
+  },
+  "Al Ain": {
+    "lat": 24.2248697,
+    "lng": 55.7452211,
+    "countryCode": "AE"
+  },
+  "Al Arabi": {
+    "lat": 24.4562801,
+    "lng": 54.3555849,
+    "countryCode": "AE"
+  },
+  "Al Bataeh": {
+    "lat": 25.2660333,
+    "lng": 55.7320488,
+    "countryCode": "AE"
+  },
+  "Al Dhafra": {
+    "lat": 24.2635607,
+    "lng": 54.5289294,
+    "countryCode": "AE"
+  },
+  "Al Dhaid": {
+    "lat": 25.2806866,
+    "lng": 55.8780955,
+    "countryCode": "AE"
+  },
+  "Al Fujairah": {
+    "lat": 25.4147357,
+    "lng": 56.2313667,
+    "countryCode": "AE"
+  },
+  "Al Hamriyah": {
+    "lat": 25.4565135,
+    "lng": 55.5133594,
+    "countryCode": "AE"
+  },
+  "Al Jazira": {
+    "lat": 25.2743179,
+    "lng": 55.3029511,
+    "countryCode": "AE"
+  },
+  "Al Orooba": {
+    "lat": 25.2720718,
+    "lng": 55.3050226,
+    "countryCode": "AE"
+  },
+  "Al Rams": {
+    "lat": 25.2720201,
+    "lng": 55.3048888,
+    "countryCode": "AE"
+  },
+  "Al-Nasr": {
+    "lat": 24.2227682,
+    "lng": 55.7696524,
+    "countryCode": "AE"
+  },
+  "Baniyas": {
+    "lat": 25.266948,
+    "lng": 55.3092487,
+    "countryCode": "AE"
+  },
+  "Dibba Al Fujairah": {
+    "lat": 25.59933,
+    "lng": 56.284321,
+    "countryCode": "AE"
+  },
+  "Dibba Al Hisn": {
+    "lat": 25.6177443,
+    "lng": 56.2689329,
+    "countryCode": "AE"
+  },
+  "Dubai": {
+    "lat": 25.2048,
+    "lng": 55.2708,
+    "countryCode": "AE"
+  },
+  "Emirates": {
+    "lat": 25.2410612,
+    "lng": 55.36568,
+    "countryCode": "AE"
+  },
+  "Emirates Club": {
+    "lat": 25.0837309,
+    "lng": 55.1561433,
+    "countryCode": "AE"
+  },
+  "Fujairah": {
+    "lat": 25.4147357,
+    "lng": 56.2313667,
+    "countryCode": "AE"
+  },
+  "Gulf": {
+    "lat": 25.2421922,
+    "lng": 55.3009003,
+    "countryCode": "AE"
+  },
+  "Hatta": {
+    "lat": 24.7975573,
+    "lng": 56.1206383,
+    "countryCode": "AE"
+  },
+  "Khor Fakkan": {
+    "lat": 25.3491721,
+    "lng": 56.3478105,
+    "countryCode": "AE"
+  },
+  "Khorfakkan": {
+    "lat": 25.3668202,
+    "lng": 56.3481302,
+    "countryCode": "AE"
+  },
+  "Masfout": {
+    "lat": 24.8154269,
+    "lng": 56.0971043,
+    "countryCode": "AE"
+  },
+  "Ras Al Khaimah": {
+    "lat": 25.7737705,
+    "lng": 55.938232,
+    "countryCode": "AE"
+  },
+  "Shabab Al-Ahli Dubai": {
+    "lat": 25.2796597,
+    "lng": 55.3588277,
+    "countryCode": "AE"
+  },
+  "Sharjah": {
+    "lat": 25.3463,
+    "lng": 55.4209,
+    "countryCode": "AE"
+  },
+  "United": {
+    "lat": 24.4546119,
+    "lng": 54.397084,
+    "countryCode": "AE"
+  }
+}

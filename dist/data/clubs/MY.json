@@ -1,0 +1,1194 @@
+[
+  {
+    "id": "my-brunei-dpmm",
+    "name": "Brunei DPMM",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Brunei DPMM",
+    "lat": 3.148,
+    "lng": 101.644,
+    "divisionTier": 1,
+    "leagueId": "8985",
+    "leagueName": "Liga Super",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165158.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 3,
+      "losses": 6,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-15T09:00:00Z",
+          "opponent": "Penang",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T12:15:00Z",
+          "opponent": "Sabah",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T13:00:00Z",
+          "opponent": "Imigresen FC",
+          "homeAway": "away",
+          "score": "3 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T12:15:00Z",
+          "opponent": "Kuching City",
+          "homeAway": "home",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-12T13:00:00Z",
+          "opponent": "Negeri Sembilan",
+          "homeAway": "away",
+          "score": "2 - 2",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T13:30:00Z",
+          "opponent": "Johor Darul Ta'zim",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T14:00:00Z",
+          "opponent": "Kelantan The Real Warriors FC",
+          "homeAway": "away",
+          "score": "0 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-22T14:00:00Z",
+          "opponent": "Kuala Lumpur City",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-01-31T12:15:00Z",
+          "opponent": "Melaka FC",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-01-13T13:00:00Z",
+          "opponent": "Terengganu",
+          "homeAway": "away",
+          "score": "1 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-felda-united",
+    "name": "Felda United",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Felda",
+    "lat": 3.9293848,
+    "lng": 103.4524325,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-MY-t2",
+    "leagueName": "Malaysia Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-imigresen-fc",
+    "name": "Imigresen FC",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Imigresen",
+    "lat": 1.4507674,
+    "lng": 103.8119655,
+    "divisionTier": 1,
+    "leagueId": "8985",
+    "leagueName": "Liga Super",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1783759.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 5,
+      "draws": 2,
+      "losses": 3,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Melaka FC",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-08T13:00:00Z",
+          "opponent": "Terengganu",
+          "homeAway": "away",
+          "score": "1 - 3",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T13:00:00Z",
+          "opponent": "Brunei DPMM",
+          "homeAway": "home",
+          "score": "3 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-25T09:00:00Z",
+          "opponent": "PDRM",
+          "homeAway": "away",
+          "score": "0 - 5",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-11T13:00:00Z",
+          "opponent": "Penang",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-14T13:15:00Z",
+          "opponent": "Sabah",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-08T14:00:00Z",
+          "opponent": "Selangor",
+          "homeAway": "away",
+          "score": "4 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-01T14:00:00Z",
+          "opponent": "Kuching City",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-21T14:00:00Z",
+          "opponent": "Negeri Sembilan",
+          "homeAway": "away",
+          "score": "1 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-01T12:15:00Z",
+          "opponent": "Johor Darul Ta'zim",
+          "homeAway": "away",
+          "score": "5 - 0",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-johor-darul-ta-zim",
+    "name": "Johor Darul Ta'zim",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Johor Darul Ta'zim",
+    "lat": 2.2348839000000003,
+    "lng": 102.7039725,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-MY-t1",
+    "leagueName": "Malaysia Super League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165228.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-johor-darul-ta-zim-ii",
+    "name": "Johor Darul Ta'zim II",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Johor Darul Ta'zim II",
+    "lat": 1.3590319,
+    "lng": 103.69139609999999,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-MY-t2",
+    "leagueName": "Malaysia Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165228.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-kedah",
+    "name": "Kedah",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Kedah",
+    "lat": 5.813826499999999,
+    "lng": 100.7355035,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-MY-t2",
+    "leagueName": "Malaysia Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-kelantan-the-real-warriors-fc",
+    "name": "Kelantan The Real Warriors FC",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Kelantan",
+    "lat": 5.398130200000001,
+    "lng": 102.1195972,
+    "divisionTier": 1,
+    "leagueId": "8985",
+    "leagueName": "Liga Super",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1124836.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 1,
+      "draws": 1,
+      "losses": 8,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Negeri Sembilan",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-10T13:00:00Z",
+          "opponent": "Johor Darul Ta'zim",
+          "homeAway": "home",
+          "score": "1 - 14",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-24T13:00:00Z",
+          "opponent": "Selangor",
+          "homeAway": "home",
+          "score": "0 - 6",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-10T13:00:00Z",
+          "opponent": "Kuala Lumpur City",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T14:00:00Z",
+          "opponent": "Melaka FC",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-06T14:00:00Z",
+          "opponent": "Terengganu",
+          "homeAway": "home",
+          "score": "0 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-27T14:00:00Z",
+          "opponent": "Brunei DPMM",
+          "homeAway": "home",
+          "score": "0 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-21T14:00:00Z",
+          "opponent": "PDRM",
+          "homeAway": "home",
+          "score": "0 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-01-31T13:00:00Z",
+          "opponent": "Penang",
+          "homeAway": "home",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-01-13T13:00:00Z",
+          "opponent": "Sabah",
+          "homeAway": "home",
+          "score": "3 - 2",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-kelantan-united",
+    "name": "Kelantan United",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Kelantan",
+    "lat": 5.3541302,
+    "lng": 102.0755972,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-MY-t2",
+    "leagueName": "Malaysia Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1124836.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-kuala-lumpur-city",
+    "name": "Kuala Lumpur City",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "lat": 3.0869999999999997,
+    "lng": 101.69489999999999,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-MY-t1",
+    "leagueName": "Malaysia Super League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/191752.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-kuala-lumpur-rovers",
+    "name": "Kuala Lumpur Rovers",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "lat": 3.203,
+    "lng": 101.64689999999999,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-MY-t2",
+    "leagueName": "Malaysia Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/191752.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-kuching-city",
+    "name": "Kuching City",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Kuching",
+    "lat": 1.4877561,
+    "lng": 110.333397,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-MY-t1",
+    "leagueName": "Malaysia Super League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1114226.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-kuching-fa",
+    "name": "Kuching FA",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Kuching FA",
+    "lat": 1.4989531999999999,
+    "lng": 110.2658349,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-MY-t2",
+    "leagueName": "Malaysia Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1114226.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-melaka-fc",
+    "name": "Melaka FC",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Melaka",
+    "lat": 2.3773744,
+    "lng": 102.2320962,
+    "divisionTier": 1,
+    "leagueId": "8985",
+    "leagueName": "Liga Super",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1783730.png",
+    "source": "rapidapi",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 2,
+      "draws": 4,
+      "losses": 4,
+      "cancelled": 0,
+      "matches": [
+        {
+          "date": "2026-05-16T13:00:00Z",
+          "opponent": "Imigresen FC",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-09T12:30:00Z",
+          "opponent": "Kuching City",
+          "homeAway": "home",
+          "score": "1 - 3",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-05-03T13:00:00Z",
+          "opponent": "Negeri Sembilan",
+          "homeAway": "away",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-28T13:00:00Z",
+          "opponent": "Johor Darul Ta'zim",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-04-23T12:15:00Z",
+          "opponent": "Sabah",
+          "homeAway": "home",
+          "score": "1 - 0",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-15T14:00:00Z",
+          "opponent": "Kelantan The Real Warriors FC",
+          "homeAway": "home",
+          "score": "2 - 1",
+          "outcome": "W",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-03-07T14:00:00Z",
+          "opponent": "Kuala Lumpur City",
+          "homeAway": "away",
+          "score": "2 - 1",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-28T14:00:00Z",
+          "opponent": "Selangor",
+          "homeAway": "home",
+          "score": "0 - 0",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-02-21T14:00:00Z",
+          "opponent": "Terengganu",
+          "homeAway": "home",
+          "score": "1 - 2",
+          "outcome": "L",
+          "competition": "",
+          "status": "FT"
+        },
+        {
+          "date": "2026-01-31T12:15:00Z",
+          "opponent": "Brunei DPMM",
+          "homeAway": "away",
+          "score": "1 - 1",
+          "outcome": "D",
+          "competition": "",
+          "status": "FT"
+        }
+      ],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-melaka-united",
+    "name": "Melaka United",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Melaka",
+    "lat": 2.3653744,
+    "lng": 102.2200962,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-MY-t2",
+    "leagueName": "Malaysia Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1783730.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-negeri-sembilan",
+    "name": "Negeri Sembilan",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Negeri Sembilan",
+    "lat": 2.7071895,
+    "lng": 102.1765319,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-MY-t2",
+    "leagueName": "Malaysia Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165222.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-pahang",
+    "name": "Pahang",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Pahang",
+    "lat": 3.5848822,
+    "lng": 102.6274547,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-MY-t1",
+    "leagueName": "Malaysia Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-pdrm",
+    "name": "PDRM",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "PDRM",
+    "lat": 3.0953123,
+    "lng": 101.71917020000001,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-MY-t2",
+    "leagueName": "Malaysia Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165235.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-penang",
+    "name": "Penang",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Penang",
+    "lat": 5.378501300000001,
+    "lng": 100.28790769999999,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-MY-t2",
+    "leagueName": "Malaysia Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165232.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-perak",
+    "name": "Perak",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Perak",
+    "lat": 4.800181,
+    "lng": 101.0277908,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-MY-t2",
+    "leagueName": "Malaysia Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-sabah",
+    "name": "Sabah",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Sabah",
+    "lat": 5.3857359,
+    "lng": 117.0526392,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-MY-t2",
+    "leagueName": "Malaysia Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/242698.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-sarawak-united",
+    "name": "Sarawak United",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Sarawak",
+    "lat": 2.5303855,
+    "lng": 112.8787283,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-MY-t2",
+    "leagueName": "Malaysia Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-selangor",
+    "name": "Selangor",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Selangor",
+    "lat": 3.2363304,
+    "lng": 101.22814600000001,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-MY-t1",
+    "leagueName": "Malaysia Super League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165223.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-selangor-ii",
+    "name": "Selangor II",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Selangor II",
+    "lat": 3.0882428,
+    "lng": 101.4031752,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-MY-t2",
+    "leagueName": "Malaysia Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165223.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-sri-pahang",
+    "name": "Sri Pahang",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Sri Pahang",
+    "lat": 3.9080971,
+    "lng": 103.3160332,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-MY-t1",
+    "leagueName": "Malaysia Super League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-terengganu",
+    "name": "Terengganu",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Terengganu",
+    "lat": 4.9110743,
+    "lng": 102.9389297,
+    "divisionTier": 1,
+    "leagueId": "asia-curated-MY-t1",
+    "leagueName": "Malaysia Super League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165229.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "my-terengganu-ii",
+    "name": "Terengganu II",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "city": "Terengganu II",
+    "lat": 5.4016461,
+    "lng": 103.10632650000001,
+    "divisionTier": 2,
+    "leagueId": "asia-curated-MY-t2",
+    "leagueName": "Malaysia Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165229.png",
+    "source": "asia-curated",
+    "updatedAt": "2026-05-20",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]

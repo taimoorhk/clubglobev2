@@ -1,0 +1,258 @@
+[
+  {
+    "id": "td-as-psi",
+    "name": "AS PSI",
+    "countryCode": "TD",
+    "country": "Chad",
+    "city": "AS PSI",
+    "lat": 15.476,
+    "lng": 19.036,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TD-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "td-cotontchad",
+    "name": "CotonTchad",
+    "countryCode": "TD",
+    "country": "Chad",
+    "city": "CotonTchad",
+    "lat": 8.7143024,
+    "lng": 15.332759900000001,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TD-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "td-elect-sport",
+    "name": "Elect Sport",
+    "countryCode": "TD",
+    "country": "Chad",
+    "city": "Elect Sport",
+    "lat": 15.456,
+    "lng": 19.016,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TD-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "td-foullah-edifice",
+    "name": "Foullah Edifice",
+    "countryCode": "TD",
+    "country": "Chad",
+    "city": "Foullah Edifice",
+    "lat": 12.1502722,
+    "lng": 15.0574364,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TD-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "td-gazelle",
+    "name": "Gazelle",
+    "countryCode": "TD",
+    "country": "Chad",
+    "city": "Gazelle",
+    "lat": 12.1154569,
+    "lng": 15.1233313,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TD-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "td-renaissance",
+    "name": "Renaissance",
+    "countryCode": "TD",
+    "country": "Chad",
+    "city": "Renaissance",
+    "lat": 12.1078768,
+    "lng": 15.1477098,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TD-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/330px-Da_Vinci_Vitruve_Luc_Viatour.jpg",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "td-renaissance-du-tchad",
+    "name": "Renaissance du Tchad",
+    "countryCode": "TD",
+    "country": "Chad",
+    "city": "Renaissance",
+    "lat": 12.0998768,
+    "lng": 15.139709799999999,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TD-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  },
+  {
+    "id": "td-tourbillon",
+    "name": "Tourbillon",
+    "countryCode": "TD",
+    "country": "Chad",
+    "city": "Tourbillon",
+    "lat": 15.444,
+    "lng": 19.004,
+    "divisionTier": 1,
+    "leagueId": "africa-curated-TD-t1",
+    "leagueName": "Premier League",
+    "season": "2025-26",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Stuhrling_Tourbillon_Movement.ogv/330px--Stuhrling_Tourbillon_Movement.ogv.jpg",
+    "source": "africa-curated",
+    "updatedAt": "2026-05-19",
+    "recentForm": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "cancelled": 0,
+      "matches": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "no data to show"
+    },
+    "trophies": {
+      "items": [],
+      "source": "rapidapi",
+      "updatedAt": "2026-05-20",
+      "unavailableReason": "Trophies not available from current API."
+    }
+  }
+]
